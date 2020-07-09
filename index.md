@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Laurel Lord's HU Data Science Dissertation Works
+title: Laurel Lord's Dissertation Works
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
