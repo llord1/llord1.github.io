@@ -3,6 +3,7 @@ layout: page
 title: "Introduction"
 description: "Introduction to the "Data Science Biocultural Diversity Action (DSBD) Framework"
 ---
+
 In 2020, a new pandemic began, and the modern world became acutely aware of several of its failings. This pandemic highlighted various forms of societal inequities, that manifested in the overwhelming of healthcare systems, extreme governmental bureaucracy and corruption, and even extreme forms of systemic discrimination and racism. Most countries urged their citizens to remain indoors to slow the spread of the virus. 
 
 This time of isolation, however, did facilitate a much needed period of reflection in society. Some families that were confined together became closer, and technology bridged the gap with communicated with persons over long distances. This time of reflection also allowed persons to rethink current societal institutions, the industries that are prioritized and promoted over others, and it emboldened others actively seek increased equality for all. 
