@@ -1,46 +1,21 @@
 ---
 layout: page
-title: Hello World!
+title: Laurel Lord's HU Data Science Dissertation Works
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+##Topic : 
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+**Utilizing Data Science for Biocultural Diversity Efforts**
 
-## Update Author Attributes
-
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+*Novel diagnosis and prescriptive frameworks for assessing the current state of a country, and exploring the prescriptions of various modern data science tools towards amelioration.*
 
 
+## To-Do : The proposal should contain the following elements:
+Statement of Research Questions or Hypothesis
+Literature Review
+Theoretical or Conceptual Model
+Data and Analytic Method
+Implications for the Field of Study
+Publication Plan
