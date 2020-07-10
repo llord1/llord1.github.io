@@ -3,6 +3,8 @@ layout: page
 title: "Introduction"
 description: "Introduction to the "Data Science Biocultural Diversity Action (DSBD) Framework"
 ---
+{% include JB/setup %}
+
 ## The Setting:
 
 In 2020, a new pandemic began, and the modern world became acutely aware of several of its failings. This pandemic highlighted various forms of societal inequities, that manifested in the overwhelming of healthcare systems, extreme governmental bureaucracy and corruption, and even extreme forms of systemic discrimination and racism. Most countries urged their citizens to remain indoors to slow the spread of the virus. 
@@ -65,4 +67,4 @@ With this proposed framework, the order in which one can pursue the topics is no
 
 
 
-{% include JB/setup %}
+
