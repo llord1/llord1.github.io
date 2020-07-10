@@ -9,7 +9,7 @@ tagline: Supporting tagline
 
 **Reenvisioning Maslow's Hierarchy of Needs for Data Science and Biocultural Diversity Efforts**
 
-*Novel diagnosis and prescriptive frameworks for assessing the current state of a country, and exploring the prescriptions of various modern data science tools towards amelioration.*
+*Novel diagnosis and prescriptive frameworks for assessing oneself and surroundings and exploring the prescriptions of various modern data science tools towards amelioration.*
 
 
 ## To-Do:
@@ -26,7 +26,7 @@ tagline: Supporting tagline
 
 ## Committee: 
 
-**Currently in the pending approval phase)
+*Currently in the pending approval phase*
 
 **Current Committee Chair:**
 
