@@ -19,6 +19,8 @@ Exploring Maslow's existing works with the Linguistic Inquiry and Word Count (LI
 
 - Maslow's works are more negative than positive in tone.
 
+
+
 ### Topics to be discussed: 
 
 - What can an LIWC Sentiment analysis on Maslow's works reveal about the overall tone of his contributions? 
@@ -35,7 +37,7 @@ Exploring Maslow's existing works with the Linguistic Inquiry and Word Count (LI
 
      - Can a visual mapping be created to display this interaction?
 
-### Additional LIWC capabilities. 
+### Additional LIWC capabilities: 
 
 - Are all the psychological needs quantifiably equal when paired with their relative psychological processes?  For example, does the score of "belonging and love"  within the lens of the "biological process" match "social processes"'s?
 
