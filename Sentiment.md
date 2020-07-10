@@ -37,12 +37,13 @@ Exploring Maslow's existing works with the Linguistic Inquiry and Word Count (LI
 
 ### Additional LIWC capabilities. 
 
-    - Are all the psychological needs quantifiably equal when paired with their relative psychological processes?  For example, does the score of "belonging and love"  within the lens of the "biological process" match "social processes"'s?
+- Are all the psychological needs quantifiably equal when paired with their relative psychological processes?  For example, does the score of "belonging and love"  within the lens of the "biological process" match "social processes"'s?
 
-    - Are all levels of the hierarchy equally discussed, or are do they vary based on their position in the structure and their topic matter? For example, is the topic of "physiological needs" going share the same word count as "self-actualization"? Do they have the same "analytical thinking" score? 
+- Are all levels of the hierarchy equally discussed, or are do they vary based on their position in the structure and their topic matter? For example, is the topic of "physiological needs" going share the same word count as "self-actualization"? Do they have the same "analytical thinking" score? 
 
-   	 - Or do these "psychological needs" demonstrate a score reflective of their position in the structure.
+ - Or do these "psychological needs" demonstrate a score reflective of their position in the structure.
 
-*More reading is required on the LIWC. Since both the LIWC and Maslow's hierarchy utilize similar terminology associated with psychological needs/ processes, was its creation influenced by Maslow? If so, what was the extent? *
+
+*More reading is required on the LIWC. Since both the LIWC and Maslow's hierarchy utilize similar terminology associated with psychological needs/ processes, was its creation influenced by Maslow? If so, what was the extent?*
 
 
