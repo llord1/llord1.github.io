@@ -40,14 +40,13 @@ Dr. Rand Ford: Professor and Program Director of Data Analytics at HU
 
 - **External Members:** 
 
-    - Dr. Laurel Braden Symes: Avian expert and works with bioacoustic data collection and analysis
-    - Dr. Luisa Maffi: Biocultural Diversity Expert
-    - Dr. David Frank: Linguist at SIL and Creole expert 
-(contributing author of one of Saint Lucia's Creole Dictionaries).
-    - Dr. Gary F. Simons: Linguist at SIL and is familiar with Saint Lucian creole data
-    - Dr. Teresa Lynn: Linguist specializing in endangered languages and its presence in social media like twitter
-    - Dr. Bruno Gonçalves: Vice President at JPMorgan Chase & Co Data Science and Finance Division, Linguist specializing in multiple languages and their presence in social media like twitter (-currently recreating a few of his papers)
-    - Dr. James W. Pennebaker: Linguistic Inquiry and Word Count (LIWC) co-creator and  social psychologist (need to prepare formal meeting request after LIWC papers are reviewed by Dr. Ford)
+    - Dr. Laurel Braden Symes: Avian expert and works with bioacoustic data collection and analysis.
+    - Dr. Luisa Maffi: Biocultural diversity expert and co-founder and director of Terralingua.
+    - Dr. David Frank: Linguist at SIL, Creole expert and contributing author of one of Saint Lucia's Creole Dictionaries.
+    - Dr. Gary F. Simons: Linguist at SIL and is familiar with Saint Lucian Creole data.
+    - Dr. Teresa Lynn: Linguist specializing in endangered languages and its presence in social media like Twitter.
+    - Dr. Bruno Gonçalves: Vice President at JPMorgan Chase & Co Data Science and Finance Division. Linguist specializing in multiple languages and their presence in social media like Twitter (currently recreating a few of his papers).
+    - Dr. James W. Pennebaker: Linguistic Inquiry and Word Count (LIWC) co-creator and social psychologist (need to prepare formal meeting request after LIWC papers are reviewed by Dr. Ford).
 
 ## Conferences:
 - The 2020 Women in Statistics and Data Science (WSDS) conference, slated for September 30–October 2
