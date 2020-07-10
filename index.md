@@ -22,3 +22,28 @@ tagline: Supporting tagline
 - Data and Analytic Method
 - Implications for the Field of Study
 - Publication Plan
+
+
+**Current Committee Chair (pending approval): **
+Dr. Rand Ford: Professor and Program Director of Data Analytics at HU
+
+**Possible external committee members:**  
+
+- HU members:
+
+    - Dr. Sa Liu: App developer and Assistant Professor at HU
+
+- External members 
+
+    - Dr. Laurel Braden Symes: Avian expert and works with bioacoustic data collection and analysis
+    - Dr. Luisa Maffi: Biocultural Diversity Expert
+    - Dr. David Frank: Linguist at SIL and Creole expert 
+(contributing author of one of Saint Lucia's Creole Dictionaries).
+    - Dr. Gary F. Simons: Linguist at SIL and is familiar with Saint Lucian creole data
+    - Dr. Teresa Lynn: Linguist specializing in endangered languages and its presence in social media like twitter
+    - *Dr. Bruno Gonçalves: Vice President at JPMorgan Chase & Co Data Science and Finance Division, Linguist specializing in multiple languages and their presence in social media like twitter (* Currently recreating a few of his papers)
+    - *Dr. James W. Pennebaker: Linguistic Inquiry and Word Count (LIWC) co-creator and  social psychologist (* need to prepare formal meeting request after LIWC papers are reviewed by Dr. Ford)
+
+Conferences I plan on attending:
+- The 2020 Women in Statistics and Data Science (WSDS) conference, slated for September 30–October 2
+    - Role: Attendee (no presentation)
