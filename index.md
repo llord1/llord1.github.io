@@ -5,14 +5,14 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-## Topic : 
+## Topic: 
 
-**Utilizing Data Science for Biocultural Diversity Efforts**
+**Reenvisioning Maslow's Hierarchy of Needs for Data Science and Biocultural Diversity Efforts**
 
 *Novel diagnosis and prescriptive frameworks for assessing the current state of a country, and exploring the prescriptions of various modern data science tools towards amelioration.*
 
 
-## To-Do : 
+## To-Do:
 
 **The proposal should contain the following elements:**
 
@@ -24,7 +24,9 @@ tagline: Supporting tagline
 - Publication Plan
 
 
-## Committee : 
+## Committee: 
+
+**Currently in the pending approval phase)
 
 **Current Committee Chair:**
 
@@ -44,8 +46,8 @@ Dr. Rand Ford: Professor and Program Director of Data Analytics at HU
 (contributing author of one of Saint Lucia's Creole Dictionaries).
     - Dr. Gary F. Simons: Linguist at SIL and is familiar with Saint Lucian creole data
     - Dr. Teresa Lynn: Linguist specializing in endangered languages and its presence in social media like twitter
-    - *Dr. Bruno Gonçalves: Vice President at JPMorgan Chase & Co Data Science and Finance Division, Linguist specializing in multiple languages and their presence in social media like twitter (* Currently recreating a few of his papers)
-    - *Dr. James W. Pennebaker: Linguistic Inquiry and Word Count (LIWC) co-creator and  social psychologist (* need to prepare formal meeting request after LIWC papers are reviewed by Dr. Ford)
+    - Dr. Bruno Gonçalves: Vice President at JPMorgan Chase & Co Data Science and Finance Division, Linguist specializing in multiple languages and their presence in social media like twitter (-currently recreating a few of his papers)
+    - Dr. James W. Pennebaker: Linguistic Inquiry and Word Count (LIWC) co-creator and  social psychologist (need to prepare formal meeting request after LIWC papers are reviewed by Dr. Ford)
 
 ## Conferences:
 - The 2020 Women in Statistics and Data Science (WSDS) conference, slated for September 30–October 2
