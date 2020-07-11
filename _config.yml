@@ -13,7 +13,7 @@ tagline: Site Tagline
 author :
   name : Laurel Lord
   email : lalord@my.harrisburgu.edu
-  github : https://github.com/llord1
+  github : llord1
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 

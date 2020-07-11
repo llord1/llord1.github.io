@@ -31,7 +31,7 @@ Motivation is essential to change, however, to properly allocate resources, data
 
 This framework aims to provide strategic guidance through core data science concepts and skills and apply them to Digital Humanities and Biocultural Diversity matters. The interdisciplinary application of Maslow's hierarchy of needs will facilitate a user's exploration of these skills and topics. The employment of the framework is scalable for both micro and macro-scale projects. It would be capable of evaluating an individual 's career path, and also assess entire countries and regions; this would be an assessment of an entity's biocultural diversity rating (matters of environmental and cultural awareness). This framework also explores the practical, low-cost application of data science topics that may aid in improving conditions. Ultimately, the structure would be simplified enough to inspire users of varying skill levels to make valuable contributions to society.
 
-## The Foundational Framework
+## The Foundational Framework:
 
 In line with the pursuit of societal and environmental reform, a simple humanitarian framework was considered as a base structure to direct a researcher to relevant concepts and tools. In 1943 an article entitled "A Theory of Human Motivation" was published to the *Psychological Review*. The author, Abraham Maslow, put forth a psychological theory that would evolve into a recognizable visual business tool. The model was a five-tiered hierarchy of human needs as a motivational theory in psychology. Maslow recommended that the base tier be satisfied before individuals attend to those above. He later clarified that one's absolute satisfaction of a need would not limit movement between layers, as personal prioritization can vary). One should think of these as continuously overlapping levels as not everyone will move through the hierarchy in a uni-directional manner.
 
@@ -71,7 +71,7 @@ While the five-tier model is an established entity, the eight-tier version of th
 
 ## The Framework's Levels:
 
-- Biological and physiological needs will be explored in the context of Ambience
+- Biological and physiological needs will be explored in the context of Ambience:
 
 The pursuit of this level would allow for the exploration of one's basic biological and physiological needs. Here basic data collection and analysis of personal data can be explored. For example, one can explore personal Fitbit data to determine metrics on one's restful and actives states; Python can be used to create an interactive dashboard to view details. This can also be done with personal finances; one can attempt to make visual predictions on when a personal budget will allow for a set purchase, or how long it may take to fully pay off a purchase, and so on. 
 
@@ -79,7 +79,7 @@ Persons do, however, exist in an environment. Increasing environmental awareness
 
 Humans can also be tracked via geospatial mapping. In terms of biocultural diversity, language hotspots could be mapped. This could indicate areas of high fluency of languages. This would be particularly useful for tracking endangered languages.
 
-- Safety and security needs can be explored in the context of Assets
+- Safety and security needs can be explored in the context of Assets:
 
 The pursuit of this level would allow for the exploration of safety needs related to security (including emotional security and financial security) and safety (including law and order, freedom from fear, social stability, property, health, and wellbeing). Data analysis can be performed on economic or demographic data including census data or other public access government statistics. 
 
@@ -87,32 +87,32 @@ Exploration of these topics can even allow for the exploration of the economic i
 
 One can also explore index construction. This stands to provide a means of assessing standards of varied settings. Novel indexes can be created when factoring in sentiment analysis metrics (where one pulls Twitter or other social media data into the framework). Coincidentally, this lower level topic can allow for the application of simple exploratory data analysis with tools like Python and R  Studio;  however, more complex analysis is possible. 
 
-- Love and belonging needs can be explored in the context of Affiliation
+- Love and belonging needs can be explored in the context of Affiliation:
 
 The pursuit of this level would allow for the exploration of language affiliation and ethnolinguistic identity. This would focus on projects mean to boost cultural appreciation and language appreciation through the exploration of datasets on languages (including literature and music). This would suggest a delve into data linguistics. This may suggest the use of data science tools and techniques such as Tensorflow and Translation with a Sequence to Sequence Network and Attention). 
 
 This level can indeed be very creative as humans can bond over various topics like literature and music. For example, even neurolinguistics topics related to traumatic brain injury and aphasia can be sorted into this level; this is because it can be useful to investigate topics that hamper effective communication and create tools to address these issues. 
 
 
-- Self-esteem needs can be explored in the context of Attitudes.
+- Self-esteem needs can be explored in the context of Attitudes:
 
 The pursuit of this level would allow one to focus on sentiment analysis projects. This may be in the form of applying sentiment analysis tools, such as LIWC to better understand the perceptions of individuals in society. It might also provide insight into certain communities or regions. 
 
 For example, LIWC sentiment analysis can be performed on the works of established figures in certain industries. This may provide insight as to their underlying personalities based on the way they express themselves in their writing. Sentiment analysis can allow for the exploration of the perceptions of certain languages, cultures, economic statuses, and environments. For example, trip advisor and twitter data can be analyzed to determine what natives and non-natives perceptions are of a certain country.
 
-- Cognitive needs can be explored in the context of Analysis.
+- Cognitive needs can be explored in the context of Analysis:
 
  The pursuit of this level would allow for one to truly address the need for knowledge and understanding, curiosity, exploration, need for meaning, and predictability. This could be in the form of the collection and analysis of data collected from digital surveys on various humanitarian topics.
 
-- Aesthetic needs can be explored in the context of Artistry.
+- Aesthetic needs can be explored in the context of Artistry:
 
 The pursuit of this level would allow for the creation of digital art using Neural Style Transfer techniques and Tensorflow tools (such as DeepDream), or the creation of new literature from using Natural Language Processing (Long Short-Term Memory and Recurrent Neural Networks).
 
-- Self-actualization can be explored in the context of Awareness. 
+- Self-actualization can be explored in the context of Awareness:
 
 The pursuit of this level would allow for an exploration of an established concept in data science pedagogy with the hopes of producing new teaching tools or techniques. This may include gamification of a relevant concept or the creation and completion of an application. Tools such as Dart and Flutter can be utilized to create applications.
 
-- Transcendence can be explored in the context of Altruism. 
+- Transcendence can be explored in the context of Altruism: 
 
 The pursuit of this level would focus on developing citizen science projects that would contribute to future sustainability. This section may be the most challenging as it would require the creation of products for a department or organization dedicated to altruistic projects. This could also include the curation and publication of datasets; this is helpful as the sharing of datasets provides others with more opportunities for practice and research.
 
