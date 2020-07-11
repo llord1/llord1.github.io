@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Introduction"
+title: "Introduction to the Data Science Biocultural Diversity (DSBD) Framework"
 description: "Introduction to the Data Science Biocultural Diversity (DSBD) Framework"
 ---
 {% include JB/setup %}
