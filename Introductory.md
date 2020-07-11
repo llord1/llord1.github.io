@@ -30,7 +30,7 @@ Motivation is essential to change, however, to properly allocate resources, data
 
 This framework aims to provide strategic guidance through core data science concepts and skills and apply them to Digital Humanities and Biocultural Diversity matters. The interdisciplinary application of Maslow's hierarchy of needs will facilitate a user's exploration of data science and humanitarian works. This framework should be an introductory learning aid, and therefore can be utilized in formal and informal educational settings.
 
-The employment of the framework is scalable for both micro and macro-scale projects. It would be capable of evaluating an individual 's career path, and also assess entire countries and regions; this would be an assessment of an entity's biocultural diversity rating (matters of environmental and cultural awareness). This framework also explores the practical, low-cost application of data science topics that may aid in humanitarian efforts. Ultimately, the structure would be simplified enough to inspire users of varying skill levels to make valuable contributions to society. 
+The employment of the framework is scalable for both micro and macro-scale projects. It would be capable of evaluating an individual's career path, and also assess entire countries and regions; this would be an assessment of an entity's biocultural diversity rating (matters of environmental and cultural awareness). This framework also explores the practical, low-cost application of data science topics that may aid in humanitarian efforts. Ultimately, the structure would be simplified enough to inspire users of varying skill levels to make valuable contributions to society. 
 
 
 ## The Foundational Framework
