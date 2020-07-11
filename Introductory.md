@@ -1,29 +1,28 @@
 ---
 layout: page
-title: "Introduction to the Data Science Biocultural Diversity (DSBD) Framework"
+title: "Introduction"
 description: "Introduction to the Data Science Biocultural Diversity (DSBD) Framework"
 ---
 {% include JB/setup %}
 
 ## The Setting:
 
-In 2019 a novel coronavirus was recorded; upon its 2020 official designation as a pandemic, the modern world had to grapple with its many shortcomings. This situation sparked numerous reports of societal inequities that threatened to inundate healthcare systems.
+In 2019 a novel coronavirus was recorded; upon its 2020 official designation as a pandemic, the modern world had to grapple with its many shortcomings. This situation sparked numerous reports of societal inequities that threatened to inundate healthcare systems. Moreover, it highlighted extreme cases of bureaucracy, corruption, discrimination, and even racism. Most countries urged their citizens to remain indoors to slow the spread of the virus. 
 
- Moreover, it highlighted extreme cases of bureaucracy, corruption, discrimination, and even racism. Most countries urged their citizens to remain indoors to slow the spread of the virus. 
+However,  this time of isolation did facilitate a much needed period of reflection in society. Some families found that confinement with relatives improved their relationships; others found the opposite to be true (as cases domestic abuse increased). Modern technology bridged the physical gap of in-person communications. However, some struggled to competently utilize the gamut of modernized communication tools, while others struggled to gain access to these resources.
 
-This time of isolation, however, did facilitate a much needed period of reflection in society. Some families found that confinement with relatives improved their relationships; others found the opposite to be true (as cases domestic abuse increased). Modern technology bridged the physical gap of in-person communications. However, some struggled to competently utilize the gamut of modernized communication tools, while others struggled to gain access to these resources.
+Societal reflection also facilitated the rethinking of modern institutions. Consumers became aware of the resources and industries being prioritized and promoted over others, and therefore, became more purposeful with their patronage. It roused others to solicit improved equality in justice systems and expanded access to basic needs resources (especially healthcare).
 
-Societal reflection also facilitated the rethinking of modern institutions. Consumers became aware of the resources and industries being prioritized and promoted over others and became more purposeful with their patronage. It heartened others actively solicit improved equality in justice systems and expanded access to basic needs resources (especially healthcare).
+Notably, as modern commerce ground to a halt, the environment appeared to thrive. In some areas, the air quality improved, others noted less accidental animal killings along transportation routes. Moreover, wildlife began to flourish in some areas, and these animals were even spotted venturing out into once-bustling commercial sectors. However,  this period of lockdown has not benefited all animals. In extreme cases, the funding of poacher policing, and captive animals, reliant on public gathers of locals and tourists, experienced reductions.
 
-Notably, as modern commerce ground to a halt, the environment appeared to thrive. In some areas, the air quality improved, others noted less accidental animal killings along transportation routes. Moreover, wildlife began to flourish in some areas and even appeared to begin venture out into once-bustling commercial sectors. This period of lockdown has not benefited all animals. In extreme cases, the funding of poacher policing, and captive animals, reliant on public gathers of locals and tourists, experienced reductions.
+Years of study may be required to become fully aware of the actual societal and environmental toll of the most recent pandemic in modern history. The utter urgency of understanding this global event was not lost on the public. Academics, and citizen scientists alike, openly shared data, and contributed findings as quickly as possible. Even data scientists enthusiasts were able to make remarkable contributions to the effort. Avi Schiffmann, a US highschooler, was able to employ web-scraping skills when creating the first free and globally accessible, online visual case tracker dashboard. It eventually was monitored and followed by various institutions and individuals worldwide, while authorities were scrambling to allocate the necessary resources to accomplish this task.
 
-However, institutions were revisiting previously problematic proposals for policy changes guarding the government; academics renewed efforts to investigate biodiversity conservation. On a small-scale, some institutions sought and secured approvals for extending nature reserves. On a larger-scale, despite some regulatory rollbacks, as of July 7th, climate activists saw celebrated the abandonment of the Atlantic Coast Pipeline, and the shut-down and emptying of the Dakota Access Pipeline pending a long-awaited thorough environmental review.
-
-While communities are unaware of the actual societal and environmental costs of the pandemic, global citizens can strive to set policies in place and continuously assess ourselves in these areas, to ensure that our situation can only improve. Genuine value can be ascertained from studies in the areas of Digital Humanities and Biocultural Diversity (BCD), as they specifically focus on the intrinsic connection between societal structures and its possible harmony with their surroundings.
+Global citizens began assessing current problematic policies and strove to create and cement positive policies for the future. Institutions began revisiting past policy proposals that overlooked, as these may prove to provide positive impacts on the general public. Notably, academics renewed efforts to investigate biodiversity conservation. On a small-scale, some institutions sought and secured approvals for extending nature reserves. On a larger-scale, despite some regulatory rollbacks, as of July 7th, climate activists saw celebrated the abandonment of the Atlantic Coast Pipeline, and the shut-down and emptying of the Dakota Access Pipeline, pending a long-awaited thorough environmental review.
+Therefore, a genuine value can be generated from studies in the areas of Digital Humanities (DH) and Biocultural Diversity (BCD), as they specifically focus on the intrinsic connection between societal structures and its possible harmony with their surroundings.
 
 Digital Humanities can be interpreted as the intersection of computing (or digital technologies and humanities disciplines. It can be the strategic and systematic implementation and utilization of digital resources on the study of the humanities and further analysis of their application. For example, this can take the form of creating digital art using Neural Style Transfer techniques and Tensorflow tools, creating new literature from recurrent neural networks, as well as deciphering ancient text from images and scans of relics. 
 
-Luisa Maffi was the co-founder and director of Terralingua and a pioneer in this domain of research. She revealed the interrelated (and possibly coevolved) nature of the diversity of all forms of life within a complex socio-ecological adaptive system. According to Maffi, biological, cultural, and scientific complexity add to the various forms of diversity in life. Moreover, BCD proved to have gained momentum; literature was composed to support its inclusion in the "conceptual repertoire" of researchers and policy-makers.
+Luisa Maffi was the co-founder and director of Terralingua and a pioneer in the Biocultural Diversity domain of research. She revealed the interrelated (and possibly coevolved) nature of the diversity of all forms of life within a complex socio-ecological adaptive system. According to Maffi, biological, cultural, and scientific complexity add to the various forms of diversity in life. Moreover, BCD proved to have gained momentum; literature was composed to support its inclusion in the "conceptual repertoire" of researchers and policy-makers.
 
 Motivation is essential to change, however, to properly allocate resources, data collection and analysis should occur. Data science offers a plethora of tools in which to explore our world. However, it is often a difficult task to decipher what tools to use and when. Developing the skill and capacity to achieve this requires quite a bit of study. It also requires a significant degree of concern and compassion to dedicate resources into research that may not have a direct, immediate, or substantial financial reward. 
 
@@ -31,14 +30,14 @@ Motivation is essential to change, however, to properly allocate resources, data
 
 This framework aims to provide strategic guidance through core data science concepts and skills and apply them to Digital Humanities and Biocultural Diversity matters. The interdisciplinary application of Maslow's hierarchy of needs will facilitate a user's exploration of these skills and topics. The employment of the framework is scalable for both micro and macro-scale projects. It would be capable of evaluating an individual 's career path, and also assess entire countries and regions; this would be an assessment of an entity's biocultural diversity rating (matters of environmental and cultural awareness). This framework also explores the practical, low-cost application of data science topics that may aid in improving conditions. Ultimately, the structure would be simplified enough to inspire users of varying skill levels to make valuable contributions to society.
 
-## The Foundational Framework:
+
+## The Foundational Framework
 
 In line with the pursuit of societal and environmental reform, a simple humanitarian framework was considered as a base structure to direct a researcher to relevant concepts and tools. In 1943 an article entitled "A Theory of Human Motivation" was published to the *Psychological Review*. The author, Abraham Maslow, put forth a psychological theory that would evolve into a recognizable visual business tool. The model was a five-tiered hierarchy of human needs as a motivational theory in psychology. Maslow recommended that the base tier be satisfied before individuals attend to those above. He later clarified that one's absolute satisfaction of a need would not limit movement between layers, as personal prioritization can vary). One should think of these as continuously overlapping levels as not everyone will move through the hierarchy in a uni-directional manner.
 
 The five-tiered hierarchy of human needs are physiological, safety, love and belonging, esteem, and self-actualization. The bottom-tier deals with physiological needs related to biological requirements for human survival, like air, food, drink, shelter, clothing, warmth, sex, sleep. Safety needs are related to security (including emotional security and financial security) and safety (including law and order, freedom from fear, social stability, property, health, and wellbeing). Love and belongingness needs pertain to affiliating (being part of a group), friendship, intimacy, trust, acceptance,  and receiving and giving affection and love. Esteem needs encompass concepts of esteem for oneself (dignity, achievement, mastery, independence) and the desire for reputation or respect from others (notably status and prestige). The top-tier deals with self-actualization needs are related to the realization of a person's potential, self-fulfillment, seeking personal growth and peak experiences.
 
-There are versions of this framework bearing up to eight-tiers. In this version, esteem needs are expanded and segmented out to form a  cognitive needs level (ranked above it). Cognitive needs are related to
-knowledge and understanding, curiosity, exploration, need for meaning, and predictability. The Aesthetic needs reside above this. These needs are an appreciation and search for beauty, balance, and form, and among other matters. Finally, Transcendence needs, usurp Self-actualization needs' top-tier position. Transcendence needs relate to a person motivated by values that transcend beyond the personal self; these may relate to service to others, the pursuit of science, and religious faith, among other matters.
+There are versions of this framework bearing up to eight-tiers. In this version, esteem needs are expanded and segmented out to form a  cognitive needs level (ranked above it). Cognitive needs are related to knowledge and understanding, curiosity, exploration, need for meaning, and predictability. The Aesthetic needs reside above this. These needs are an appreciation and search for beauty, balance, and form, and among other matters. Finally, Transcendence needs, usurp Self-actualization needs' top-tier position. Transcendence needs relate to a person motivated by values that transcend beyond the personal self; these may relate to service to others, the pursuit of science, and religious faith, among other matters.
 
 During the pandemic, many work dynamics have changed, and some employers look to this framework to better understand and motivate their employees. Companies had to contend with higher than usual numbers of remote employees. Others had to facilitate remote-working for the first time. Functional facilities, capable of retaining employees, had to contend with increased safety and cleaning practices. The rigor of new operational standards would result in workflow issues, decreased productivity, and motivation.
 
@@ -62,16 +61,20 @@ Moreover, this novel structure can serve as a self-assessment tool. One may use 
 
 This framework may very well be useful in both formal and informal educational settings. The broad field of Data Science can benefit from its implementation, as well as the areas of Digital Humanities and Biocultural Diversity. It may be considered as part of one's introductory course material in all the aforementioned areas, as this may better direct them to areas of interest for further research. Additionally, it may be used as revision materials for graduating students, as a means of ensuring they achieved a well-rounded education. Such an introspective, yet comprehensive framework could then be viewed as a truly motivational, inspirational, and aspirational. 
 
-The positive structure of the framework would allow users to better grasp the practical application of data science concepts; they would, therefore, generate more quantifiably valid datasets, models, and concepts. The projects being attempted would not eradicate the necessity for professionally-trained data scientists; nor lessen the importance and sophistication of the field. It stands to foster a sense of interest in data science through accessibility while also promoting greater societal and environmental awareness. The collection of various forms of data is increasingly commonplace. Individuals and small groups utilizing this framework are poised to be reasonably capable of assessing situations that require change, based on their increased access to technology and a heightened awareness of societal and environmental issues.
+The positive structure of the framework would allow users to better grasp the practical application of data science concepts; they would, therefore, generate more quantifiably valid datasets, models, and concepts. The projects being attempted would not eradicate the necessity for professionally-trained data scientists; nor lessen the importance and sophistication of the field. It stands to foster a sense of interest in data science through accessibility while also promoting greater societal and environmental awareness. The collection of various forms of data is increasingly commonplace. Individuals and small groups utilizing this framework are poised to be reasonably capable of assessing situations that require rapid change, based on their increased access to technology and a heightened awareness of societal and environmental issues. 
 
 Moreover, it is crucial to note that the *Agile Manifesto* expressly presented guidance rather than a prescriptive methodology, and Scrum is a management framework with self-organizing teams working towards incremental product development. While project management frameworks (even those specifically catered to wildlife-conservation) do exist, the overlapping layers and versatility of Maslow's hierarchy may appeal to resource-strapped independent researchers or modestly financed teams. Bearing this in mind, project management frameworks can be employed when pursuing each personal project. This framework aims to aid in providing project inspiration and goal acquisition through a guided structure. 
+
+Avi Schiffmann stands a perfect example of how one person, though not a degree holder, was able to make a swift global impact using very little resources. One could observe that, according to Maslow's hierarchy, his basic needs were being met; thusly, he was able to devote time and effort into matters that interested him. However, it is also important to note that his passion for data science and its application allowed him to hone in on an emerging global issue. He was able to utilize the cobbled together skills and effectively applied them to inform a global audience. Out of concern for the overtly bleak outlook of his website, he added a quick facts feature to note recovery numbers; he wished to provide hope to users by making positive statistics more easily accessible. Moreover, in an entirely altruistic act, he turned down the opportunity to receive  $8 million for advertisements on his case-tracking website. He did not want to profit the deaths and illnesses of others and instead refocused to create a new website concerning advocacy for the Black-Lives-Matter-Protests. 
+
+In the end, one could also say that Schiffmann managed to fully work his way through Maslow's hierarchy to the levels of Self-actualization and Transcendence. Being so young, he may be afforded the time to reevaluate his needs and set new personal goals within Maslow's model. And, perhaps, he may be able to use this proposed framework as a structure of guidance towards his next impactful project.
 
 As an aspiring data scientist, I hope to contribute as much as possible to the field, and society at large, especially in the form of education. To address my relationship with Maslow's hierarchy of needs, I have proposed a framework that will be called the "Data Science Biocultural Diversity (DSBD) Framework. It will explore the topics of Maslow's hierarchy's tiers within the context of biocultural diversity and digital humanities, while also exploring various data science concepts and tools. 
 While the five-tier model is an established entity, the eight-tier version of this model may be more applicable.
 
 ## The Framework's Levels:
 
-- Biological and physiological needs will be explored in the context of Ambience:
+- Biological and physiological needs will be explored in the context of Ambience
 
 The pursuit of this level would allow for the exploration of one's basic biological and physiological needs. Here basic data collection and analysis of personal data can be explored. For example, one can explore personal Fitbit data to determine metrics on one's restful and actives states; Python can be used to create an interactive dashboard to view details. This can also be done with personal finances; one can attempt to make visual predictions on when a personal budget will allow for a set purchase, or how long it may take to fully pay off a purchase, and so on. 
 
@@ -79,7 +82,7 @@ Persons do, however, exist in an environment. Increasing environmental awareness
 
 Humans can also be tracked via geospatial mapping. In terms of biocultural diversity, language hotspots could be mapped. This could indicate areas of high fluency of languages. This would be particularly useful for tracking endangered languages.
 
-- Safety and security needs can be explored in the context of Assets:
+- Safety and security needs can be explored in the context of Assets
 
 The pursuit of this level would allow for the exploration of safety needs related to security (including emotional security and financial security) and safety (including law and order, freedom from fear, social stability, property, health, and wellbeing). Data analysis can be performed on economic or demographic data including census data or other public access government statistics. 
 
@@ -87,32 +90,32 @@ Exploration of these topics can even allow for the exploration of the economic i
 
 One can also explore index construction. This stands to provide a means of assessing standards of varied settings. Novel indexes can be created when factoring in sentiment analysis metrics (where one pulls Twitter or other social media data into the framework). Coincidentally, this lower level topic can allow for the application of simple exploratory data analysis with tools like Python and R  Studio;  however, more complex analysis is possible. 
 
-- Love and belonging needs can be explored in the context of Affiliation:
+- Love and belonging needs can be explored in the context of Affiliation
 
 The pursuit of this level would allow for the exploration of language affiliation and ethnolinguistic identity. This would focus on projects mean to boost cultural appreciation and language appreciation through the exploration of datasets on languages (including literature and music). This would suggest a delve into data linguistics. This may suggest the use of data science tools and techniques such as Tensorflow and Translation with a Sequence to Sequence Network and Attention). 
 
 This level can indeed be very creative as humans can bond over various topics like literature and music. For example, even neurolinguistics topics related to traumatic brain injury and aphasia can be sorted into this level; this is because it can be useful to investigate topics that hamper effective communication and create tools to address these issues. 
 
 
-- Self-esteem needs can be explored in the context of Attitudes:
+- Self-esteem needs can be explored in the context of Attitudes.
 
 The pursuit of this level would allow one to focus on sentiment analysis projects. This may be in the form of applying sentiment analysis tools, such as LIWC to better understand the perceptions of individuals in society. It might also provide insight into certain communities or regions. 
 
-For example, LIWC sentiment analysis can be performed on the works of established figures in certain industries. This may provide insight as to their underlying personalities based on the way they express themselves in their writing. Sentiment analysis can allow for the exploration of the perceptions of certain languages, cultures, economic statuses, and environments. For example, trip advisor and twitter data can be analyzed to determine what natives and non-natives perceptions are of a certain country.
+For example, LIWC sentiment analysis can be performed on the works of established figures in certain industries. This may provide insight as to their underlying personalities based on the way they express themselves in their writing. Sentiment analysis can allow for the exploration of the perceptions of certain languages, cultures, economic statuses, and environments. For example, Tripadvisor and Twitter data can be analyzed to determine what natives and non-natives perceptions are of a certain country.
 
-- Cognitive needs can be explored in the context of Analysis:
+- Cognitive needs can be explored in the context of Analysis.
 
  The pursuit of this level would allow for one to truly address the need for knowledge and understanding, curiosity, exploration, need for meaning, and predictability. This could be in the form of the collection and analysis of data collected from digital surveys on various humanitarian topics.
 
-- Aesthetic needs can be explored in the context of Artistry:
+- Aesthetic needs can be explored in the context of Artistry.
 
 The pursuit of this level would allow for the creation of digital art using Neural Style Transfer techniques and Tensorflow tools (such as DeepDream), or the creation of new literature from using Natural Language Processing (Long Short-Term Memory and Recurrent Neural Networks).
 
-- Self-actualization can be explored in the context of Awareness:
+- Self-actualization can be explored in the context of Awareness. 
 
 The pursuit of this level would allow for an exploration of an established concept in data science pedagogy with the hopes of producing new teaching tools or techniques. This may include gamification of a relevant concept or the creation and completion of an application. Tools such as Dart and Flutter can be utilized to create applications.
 
-- Transcendence can be explored in the context of Altruism: 
+- Transcendence can be explored in the context of Altruism. 
 
 The pursuit of this level would focus on developing citizen science projects that would contribute to future sustainability. This section may be the most challenging as it would require the creation of products for a department or organization dedicated to altruistic projects. This could also include the curation and publication of datasets; this is helpful as the sharing of datasets provides others with more opportunities for practice and research.
 
@@ -135,5 +138,3 @@ The tools may focus on open source and low-cost resources such as R Studio, Pyth
 - Google Colab can be described as a Python development environment that runs in the browser using Google Cloud; it is completely free of charge, and even offers access to their GPU is free of charge for some hours of usage every day. 
 
 - Raven Pro, as explained by told by Cornell Lab, is a software program for the acquisition, visualization, measurement, and analysis of sounds. Raven Pro presents a powerful, user-friendly research and teaching tool for scientists working with acoustic signals. Raven Pro’s highly configurable views provide exceptional flexibility in data display.
-
-
