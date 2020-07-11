@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "What can an LIWC Sentiment analysis on Maslow reveal?"
+title: "What can an LIWC Sentiment analysis on Maslow's works reveal?"
 description: "Sentiment analysis"
 ---
 {% include JB/setup %}
