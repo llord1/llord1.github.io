@@ -49,3 +49,5 @@ Exploring Maslow's existing works with the Linguistic Inquiry and Word Count (LI
 *More reading is required on the LIWC. Since both the LIWC and Maslow's hierarchy utilize similar terminology associated with psychological needs/ processes, was its creation influenced by Maslow? If so, what was the extent?*
 
 
+### Sources for Maslow's works:
+- This includes a comprehensive list of interviews, articles, audio and video material, and books in and out of print: http://www.maslow.com/
