@@ -3,11 +3,63 @@ layout: page
 title: "Literature Review"
 description: "Concise and critical review of the relevant literature. Weaknesses and important gaps in the literature"
 ---
-- Physiological needs: Akin to Flora (sustainability projects through image recognition like plant disease identification for endemic/vital crops), and Fauna (spectrographic analysis -the bioacoustic study of vulnerable species, and noise pollution).
-- Safety and security: Akin to Finance (economics and index construction; the impact of the tourism industry).
-- Love and belonging: Akin to Fluency (connectivity based on ease of communicating; language acquisition, literature and music, and neurolinguistics related to traumatic brain injury/aphasia).
-- Self-esteem: Akin to Feelings (sentiment analysis/surveys- exploration small island state perceptions of their language, culture, economics, and environment; what they believe non-natives' perceptions are, and actual non-native perceptions).
-- Self-actualization: Akin to Awareness (exploration of pedagogy in data science; citizen science projects; app development and gamification of concepts)
+  ---
+layout: page
+title: "Introduction to the Data Science Biocultural Diversity (DSBD) Framework"
+description: "Introduction to the Data Science Biocultural Diversity (DSBD) Framework"
+---
+{% include JB/setup %}
+
+## The Framework's Levels:
+
+- *Biological and physiological needs*  can be explored as topics related to *Ambience*.
+
+The pursuit of this level would allow for the exploration of one's basic biological and physiological needs. At the first level of the pyramid, primary data collection activities are encouraged. However, the process of sourcing proper data for experimentation can be complicated. At times, special permissions are needed before the data can even be collected. 
+
+However, quite a few modern technologies allow users to collect their data. Initial experiments on some personal data can assist in honing one's skills. Moreover, a critical look into one's data can also assist with calculated self-improvement, and thus better address the needs of the first level of Maslow's biological and physiological needs. For example, one can explore personal Fitbit data to determine metrics on one's restful and actives states; Python can be used to create an interactive dashboard to view details. Exploration of these topics can also be done with personal finances. One can attempt to make visual predictions on when a personal budget will allow for a set purchase, or how long it may take to fully pay off a purchase, and so on. 
+
+Persons do, however, exist in an environment. Increasing environmental awareness, and wildlife awareness are key components of the conservation efforts that the biocultural diversity lens would promote. Therefore, topics related to flora and fauna will be encouraged.  For example, topics related to computer vision can be implemented to digitally identify the varying stages of endemic or vital crop ripeness or disease.  Computer vision can also be utilized to track fauna. However, spectrographic analysis utilizing Raven Pro software from the Cornell Lab may assist in the bioacoustic study of vulnerable species, and note levels noise pollution.
+
+Humans can also be tracked via geospatial mapping. In terms of biocultural diversity, language hotspots could be mapped. This could indicate areas of high fluency of languages. This would be particularly useful for tracking endangered languages.
+
+- *Safety and security needs* can be explored as topics related to *Assets*.
+
+The pursuit of this level would allow for the exploration of safety needs related to security (including emotional security and financial security) and safety (including law and order, freedom from fear, social stability, property, health, and wellbeing). Data analysis can be performed on economic or demographic data including census data or other public access government statistics. 
+
+Exploration of these topics can even allow for the exploration of the economic impact of specific industries. For example, various forms of tourism can be quantifiably explored to determine the main tourist driver. One can attempt to determine if a certain area is being targeted for poverty tourism or eco-tourism by performing sentiment analysis of online commentary (reviews).
+
+One can also explore index construction. This stands to provide a means of assessing standards of varied settings. Novel indexes can be created when factoring in sentiment analysis metrics (where one pulls Twitter or other social media data into the framework). Coincidentally, this lower level topic can allow for the application of simple exploratory data analysis with tools like Python and R  Studio;  however, more complex analysis is possible. 
+
+- *Love and belonging needs* can be explored as topics related to *Affiliation*.
+
+The pursuit of this level would allow for the exploration of language affiliation and ethnolinguistic identity. This would focus on projects mean to boost cultural appreciation and language appreciation through the exploration of datasets on languages (including literature and music). This would suggest a delve into data linguistics. This may suggest the use of data science tools and techniques such as Tensorflow and Translation with a Sequence to Sequence Network and Attention). 
+
+This level can indeed be very creative as humans can bond over various topics like literature and music. For example, even neurolinguistics topics related to traumatic brain injury and aphasia can be sorted into this level; this is because it can be useful to investigate topics that hamper effective communication and create tools to address these issues. 
+
+
+- *Self-esteem needs* can be explored as topics related to *Attitudes*.
+
+The pursuit of this level would allow one to focus on sentiment analysis projects. This may be in the form of applying sentiment analysis tools, such as LIWC to better understand the perceptions of individuals in society. It might also provide insight into certain communities or regions. 
+
+For example, LIWC sentiment analysis can be performed on the works of established figures in certain industries. This may provide insight as to their underlying personalities based on the way they express themselves in their writing. Sentiment analysis can allow for the exploration of the perceptions of certain languages, cultures, economic statuses, and environments. For example, Tripadvisor and Twitter data can be analyzed to determine what natives and non-natives perceptions are of a certain country.
+
+- *Cognitive needs* can be explored as topics related to *Analysis*.
+
+ The pursuit of this level would allow for one to truly address the need for knowledge and understanding, curiosity, exploration, need for meaning, and predictability. This could be in the form of the collection and analysis of data collected from digital surveys on various humanitarian topics.
+
+- *Aesthetic needs* can be explored as topics related to *Artistry*.
+
+The pursuit of this level would allow for the creation of digital art using Neural Style Transfer techniques and Tensorflow tools (such as DeepDream), or the creation of new literature from using Natural Language Processing (Long Short-Term Memory and Recurrent Neural Networks).
+
+- *Self-actualization needs* can be explored as topics related to *Awareness*. 
+
+The pursuit of this level would allow for an exploration of an established concept in data science pedagogy with the hopes of producing new teaching tools or techniques. This may include gamification of a relevant concept or the creation and completion of an application. Tools such as Dart and Flutter can be utilized to create applications.
+
+- *Transcendence needs* can be explored as topics related to *Altruism*.   
+
+The pursuit of this level would focus on developing citizen science projects that would contribute to future sustainability. This section may be the most challenging as it would require the creation of products for a department or organization dedicated to altruistic projects. This could also include the curation and publication of datasets; this is helpful as the sharing of datasets provides others with more opportunities for practice and research.
+
+
 
 
 {% include JB/setup %}

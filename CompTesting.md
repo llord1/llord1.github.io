@@ -3,12 +3,13 @@ layout: default
 title: "Data Science Discussions"
 description: "Comprehensive Exam"
 ---
+{% include JB/setup %}
+
 
 {% bibliography -q @phdthesis %}
 
-## The Setting:
-
 ## P-values:  
+
 *Currently there is a monumental debate taking place in the academic fields of statistics, data science, and any field that conducts analysis -- that is looking at the future of statistical inference. The center of that debate is the concept of statistical significance and specifically the role of p-values. Summarize the salient points of that debate and how data sciences and its computational approaches have driven the debate to the forefront. Further, speak to how the outcome of this intellectual debate could influence the future of data analysis practice.*
 
 
@@ -36,6 +37,7 @@ Ultimately, I believe the main outcome of this such a debate will indeed lead to
 
 
 ## Bootstrap: 
+
 *In 2018, Bradley Efron won the International Prize for his work developing the concept of the Bootstrap. The bootstrap procedure is considered a threshold concept that aided in ushering in the computer age of statistical inference. What is the bootstrap, why is it so valuable in assessing uncertainty and why is it considered such a landmark development?*
 
 Bootstrapping is indeed a procedure/tool that can be employed to simplify the performance of statistical inferences. It believed to be quite useful in statistics as it allows for creating confidence intervals and standard errors in situations that would have been deemed problematic in its absence. In other words, it is believed to have simplified the mathematical aspects of performing inferences [@euclidbci; @SmartVision; @teachers; @secondthoughts; @gentlemethod; @recovering; @sciencedirectoverview; @sbiteacher].
@@ -68,6 +70,7 @@ Whether not this was Bradley Efron's main point with this procedure, the phrase'
 
 
 ## Noam Chomsky:
+
 *Many current machine learning techniques (e.g., deep learning) being used to analyze natural language seem to ignore Chomsky's idea of "deep structure". Do you think it will be possible to make major advances in the analysis of natural language in the next few years without considering the role of "deep structure"?*
 
 Noam Chomsky is known as an American philosopher, cognitive scientist, historian, social critic, and political activist, and most significantly a linguist; his works span decades and they are still impacting the decisions that professionals make in the many areas of study that he pursued. He is often affectionately referred to as "the father of modern linguistics" and has been a great contributor to the field of Chomsky field of cognitive science (and played a role in the development of analytic philosophy). 
@@ -83,6 +86,7 @@ Ultimately, I do believe that it will be possible to make major advances in the 
 
 
 ## Data Science Domains: 
+
 *Data Science has its origin in multiple domains: artificial intelligence (including machine learning), applied mathematics, experimental design and analysis, business intelligence, mathematical modeling, forecasting, and others. As the field of data science develops in the next five years, which domains do you think will increase in importance and use, and which domains will become less important. What do you think will bring about these changes?*
 
 While Data Science does bear multiple domains (artificial intelligence (including machine learning), applied mathematics, experimental design and analysis, business intelligence, mathematical modeling, forecasting, and others), they do not survive in as collaborative of a fashion as industry outsiders may think. Data science is a wide umbrella that pushes for the advancement of technology, yet not all of the parts move in unison or directly interact with each other intuitively. By its very nature, some domains progress faster than others, and so feed the others, nourish them with new concepts or tools, that will, in turn, boost their advancements. 
@@ -146,10 +150,8 @@ Language dominance is stated as being the relative proficiency of the two langua
 
 
 
-
-
-
 ## Futurists: 
+
 *There is a subset of futurists who believe that A.I. agents will soon be able to handle the bulk of the work done by data analysts and that this will, in effect, lead to the unemployment of the bulk of data scientists and analysts Do you think they are correct?*
 
 As of January 14, 2020, Sheelah Kolhatkar of the New Yorker published an article entitled *Could New Research on A.I. and White-Collar Jobs Finally Bring About a Strong Policy Response?"*; in this work, she highlighted the fact that new findings suggested the high-skill level "office jobs" were are now less secure from various forms of automation lead redundancies. While in the past the public may have been able to passively consider the implications of technology's impact on the workforce, positions of doctors and even computer programmers are being warned of possible significant shifts in their employment [@Kolhatkar; @brookings]. However, in 2017 IBM predicted that demand for Data Scientists would soar 28% by 2020, and according to current U.S. Bureau of labor statistics data employment of computer and information research scientists is "projected to grow 16 percent from 2018 to 2028" (much faster than the average for all occupations) [@ForbesIBM; @blsjobs]. Computer scientists, mathematicians, and statisticians are likely to enjoy excellent job prospects because many companies report difficulties finding these highly skilled and educated workers, and Businesses will need these workers to analyze the increasing volume of digital and electronic data. [@blsjobs; @mathjobs; @towardsjobs]. Regardless of the validity or accuracy of their claims, futurists simply serve as early warning systems to allow society to truly reflect on a given scenario, and therefore establish course correction mechanisms. Data science and analytics are precisely the professionals capable of assessing, reporting and recommending ways to address such a serious matter; they are professional problem-solvers. Simultaneously global unemployed seems highly improbable as countries vary in their rate of adoption of technological advancements. Moreover, it would be uncharacteristic professional malpractice by an entire industry to simply abide by such an occurrence. Moreover, the prospect of a *singularity* should not be met the public languishing about their future, but rallying to meet the challenge motivation and resources a different outcome can be achieved.
@@ -171,8 +173,3 @@ Ultimately, despite the positive industry outlook from the government, data scie
 At this point, the idea of bulk unemployment seems improbable. For now, AI is projected to continue providing industry jobs, and any unemployment shifts would be gradual [@promisingjob]. A StackOverflow report highlighted that careers requiring advanced degrees in scientific research and programming thrive in wealthier industrialized nations [@robinson_why_2017; @stacktrends]; such fields would consist of a larger share of the economy, therefore such a labor collapse in that industry would have global economic ramifications. The role of governments would be crucial in ensuring proper safety nets for re-training or discussion of options for financial assistance [@MIT; @UBI]. Moreover, data science skills are in high demand; regardless of the creation of an advanced tool, its application may not immediate globally adopted. If wealthier parts of the world are to afford to reduce this workforce, gradually opportunities would arise in countries unable to afford the new technology yet still requiring high-skill workers. However, that is not to say simply moving to an area of dire need is the only way to maintain employment in the data science field. As practitioners and appreciators science, we must also appreciate that nothing in the field is intended to be permanent. Everything is to be questioned to promote advancement- even if one's position is the thing that becomes redundant. 
 
 Redundancy can be seen as an opportunity for creativity, reimagining, reforming and recycling entities into something more profound and useful to society. Jaron Lanier and Paul Root Wolpe push back on any fatalistic perceptions related to the "singularity"; they somewhat demonstrate authentic pragmatic futuristic perspectives by encouraging thoughtful dialogue and planning [@bigthink; @faithproquest]. Data scientists and analysts with lingering concerns should be encouraged to embody the aforementioned pragmatic *futurist perceptions* to address this issue as they are arguably perfectly positioned to shape their futures, through collaborative planning and policymaking.  Perhaps we will relinquish the *tile* of data scientists and analysts, and realize that these roles can be renamed or recreated yet still utilizing the same skillset. The same way hackers have created occupations as security advisors, or it is hoped that these roles can perhaps gently transition into something more senior in the field, if only under a different title [@whitehathacker].
-
-
-
-## References:
- 
