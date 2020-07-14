@@ -3,8 +3,6 @@ layout: default
 title: "Data Science Discussions"
 description: "Comprehensive Exam"
 ---
-{% include JB/setup %}
-
 
 {% bibliography -q @phdthesis %}
 
