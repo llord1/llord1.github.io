@@ -3,7 +3,6 @@ layout: default
 title: "Data Science Discussions"
 description: "Comprehensive Exam"
 ---
-
 {% bibliography -q @phdthesis %}
 
 ## P-values:  
