@@ -1,10 +1,12 @@
 ---
-layout: default
+layout: post
 title: "Data Science Discussions"
 description: "Comprehensive Exam"
+category: 
+tags: []
 ---
-
 {% include JB/setup %}
+
 
 # Data Science Discussions
 
