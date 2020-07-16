@@ -3,7 +3,7 @@ layout: post
 title: "Data Science Discussions"
 description: "Comprehensive Exam"
 category: 
-tags : [tutorial]
+tags : [general]
 ---
 
 

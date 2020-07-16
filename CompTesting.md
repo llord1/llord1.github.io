@@ -2,6 +2,7 @@
 layout: default
 title: "Data Science Discussions"
 description: "Comprehensive Exam"
+tags : [general]
 ---
 
 {% include JB/setup %}
