@@ -4,7 +4,7 @@ title: "Data Science Discussions"
 description: "Comprehensive Exam"
 ---
 
-{% bibliography -q @phdthesis %}
+{% include JB/setup %}
 
 ## P-values:  
 
