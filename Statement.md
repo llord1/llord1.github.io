@@ -9,8 +9,7 @@ description: "A statement of research question(s) and/or the hypothesis(es) to b
 *Novel diagnosis and prescriptive frameworks for assessing oneself and surroundings and exploring the prescriptions of various modern data science tools towards amelioration.*
 
 ## Hypothesis: 
-"Maslow's hierarchy of needs can be applied to fields outside of the business domain. This will be an exploration of this structure's applicability to the field of data science. It is believed that the application of Maslow's hierarchy of needs to data science studies, will intrinsically support the digital humanities and biocultural diversity efforts. 
-The independent and dependent variables would include the various levels of Maslow's hierarchy of needs and the various skills associated with data science.
+Maslow's hierarchy of needs can be applied to fields outside of the business domain. This will be an exploration of this structure's applicability to the field of data science. It is believed that the application of Maslow's eight-level hierarchy of needs to data science studies, will intrinsically support the digital humanities and biocultural diversity efforts. The independent and dependent variables would include the various levels of Maslow's hierarchy of needs and the various skills associated with data science.
 
 Due to the increasing amounts of data being globally generated daily, there is an increasing demand for exploration and quantitative backing of matters that were previously unquantifiable. For example, while some recognize the importance of conservation and cultural activities in society, quantifiable support is often lacking; a vicious cycle is created when funding for exploration of these matters is reduced or denied due to lack of quantifiable evidence of its relevance.
 
@@ -20,7 +19,7 @@ Ecological and cultural fields of study are now inextricably linked to a modern 
 
 
 
-## The Framework's Levels:
+## The Framework's Eight Levels: 
 
 - __*Biological and physiological needs*__  can be explored as topics related to __*Ambience*__.
 
