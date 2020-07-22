@@ -13,7 +13,7 @@ description: "Theoretical or Conceptual Model"
 
 ### Questions related to the Framework's Eight Levels: 
 
-- Can Maslow’s "Biological and physiological needs" level be sufficiently explored in data science under a new lens of "Ambience"?
+- Can Maslow’s __*"Biological and physiological needs"*__ level be sufficiently explored in data science under a new lens of __*"Ambience"*__?
 
 - Can Maslow’s __*"Safety and security needs"*__  level be sufficiently explored in data science under a new lens of __*"Assets"*__?
 
