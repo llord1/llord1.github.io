@@ -21,7 +21,7 @@ What are the benefits of applying Maslow's hierarchy of needs to data science st
 
 ### Hypothesis: 
 
-Applying all eight levels of Maslow’s hierarchy of needs to data science studies will intrinsically support the digital humanities and biocultural diversity efforts
+Applying all eight levels of Maslow’s hierarchy of needs to data science studies will intrinsically support the digital humanities and biocultural diversity efforts.
 
 ### Null hypothesis: 
 
