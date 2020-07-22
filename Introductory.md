@@ -90,7 +90,7 @@ Humans can also be tracked via geospatial mapping. In terms of biocultural diver
 
 The pursuit of this level would allow for the exploration of safety needs related to security (including emotional security and financial security) and safety (including law and order, freedom from fear, social stability, property, health, and wellbeing). Data analysis can be performed on economic or demographic data including census data or other public access government statistics. 
 
-Exploration of these topics can even allow for the exploration of the economic impact of specific industries. For example, various forms of tourism can be quantifiably explored to determine the main tourist driver. One can attempt to determine if a certain area is being targeted for poverty tourism or eco-tourism by performing sentiment analysis of online commentary (reviews).
+Exploration of these topics can even allow for the exploration of the economic impact of specific industries. For example, various forms of tourism can be quantifiably explored to determine the main tourist driver. One can attempt to determine if a particular area is being targeted for poverty tourism or eco-tourism by performing sentiment analysis of online commentary (reviews).
 
 One can also explore index construction. This stands to provide a means of assessing standards of varied settings. Novel indexes can be created when factoring in sentiment analysis metrics (where one pulls Twitter or other social media data into the framework). Coincidentally, this lower level topic can allow for the application of simple exploratory data analysis with tools like Python and R  Studio;  however, more complex analysis is possible. 
 
@@ -103,9 +103,12 @@ This level can indeed be very creative as humans can bond over various topics li
 
 - __*Self-esteem needs*__ can be explored as topics related to __*Attitudes*__.
 
-The pursuit of this level would allow one to focus on sentiment analysis projects. This may be in the form of applying sentiment analysis tools, such as LIWC to better understand the perceptions of individuals in society. It might also provide insight into certain communities or regions. 
+Maslow's fourth level esteem needs were originally classified into two categories of esteem for oneself (dignity, achievement, mastery, independence), and the desire for reputation or respect from others (e.g., status, prestige). Maslow highlighted that these needs were crucial for children and adolescents and precedes real self-esteem or dignity.
 
-For example, LIWC sentiment analysis can be performed on the works of established figures in certain industries. This may provide insight as to their underlying personalities based on the way they express themselves in their writing. Sentiment analysis can allow for the exploration of the perceptions of certain languages, cultures, economic statuses, and environments. For example, Tripadvisor and Twitter data can be analyzed to determine what natives and non-natives perceptions are of a certain country.
+One could argue that the concepts of esteem and perceptions are often linked; it is how one perceives themselves, and how others perceive them may add or subtract from their status, prestige, or sense of dignity. Data science enables the exploration of perceptions through several tools and techniques; most notably, sentiment analysis. Therefore, the pursuit of sentiment analysis projects would occur at this level. To better understand the perceptions of individuals, tools such as LIWC may be applied. It might also provide insight into some communities or regions.
+
+For example, LIWC sentiment analysis can be performed on the works of established figures in specific industries. The works of individuals such as Maslow, himself,  and Noam Chomsky, can be studied due to their significance to academia. Based on the way they express themselves in their writing, one can glean insight into their underlying personalities. Sentiment analysis can support the exploration of the perceptions of individual languages, cultures, economic statuses, and environments. For instance, to assess the internal and external perceptions of a chosen country, Tripadvisor and Twitter data can be examined.
+
 
 - __*Cognitive needs*__ can be explored as topics related to __*Analysis*__.
 
