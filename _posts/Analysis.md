@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Cognitive needs: topics related to Analysis"
 description: "Cognitive needs: Analysis"
 ---

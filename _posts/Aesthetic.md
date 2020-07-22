@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Aesthetic needs: topics related to Artistry"
 description: "Aesthetic needs: Artistry"
 ---

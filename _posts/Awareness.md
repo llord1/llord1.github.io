@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Self-actualization needs: topics related to Awareness"
 description: "Self-actualization needs: Awareness"
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Transcendence needs: topics related to Altruism"
 description: "Transcendence needs: Awareness"
 ---

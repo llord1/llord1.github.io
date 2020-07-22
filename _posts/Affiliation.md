@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Love and belonging needs: topics related to Affiliation"
 description: "Love and belonging needs: Affiliation"
 ---

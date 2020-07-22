@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Self-esteem needs: topics related to Attitudes"
 description: "Self-esteem needs: Attitudes"
 ---

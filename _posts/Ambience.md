@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Biological and physiological needs: topics related to Ambience"
 description: "Biological and physiological needs: Ambience"
 ---
