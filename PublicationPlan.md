@@ -24,7 +24,6 @@ https://internationalconference.net/flyer/language-and-linguistics-conference/19
 https://internationalconference.net/language-and-linguistics-conference
 
 
-
 - **11th International Conference of Experimental Linguistics (ExLing 2020):**
 
 Call Deadline: 30-Jul-2020
@@ -64,7 +63,6 @@ Location: Cracow, Poland (not sure if this is online now; if not, then omit)
 Info:
 https://mlppkrakow.wordpress.com/
 https://linguistlist.org/issues/31/31-2182.html
-
 
 
 
@@ -127,7 +125,6 @@ https://jmic.online/
 - **Sustainability — Open Access Journal:**
 
 https://www.mdpi.com/journal/sustainability
-
 
 
 
