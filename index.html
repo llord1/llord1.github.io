@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8"/>
+	<head>
+		<script type="text/javascript" src="resources/js/words.js"></script>
+		<script type="text/javascript" src="resources/js/word_changing.js"></script>
+	</head>
+	<body>
+		<div id="left_hand">
+		
+		<div class="dropdown" style="float:left;">
+		<div class="dropdown-content" style="left:0;">
+		
+			<label for="left_word_chooser">Choose a verb for the left hand:</label>
+			<select id="left_word_chooser" onchange="swap_words('left')">
+				<option disabled selected>--- select a word to conjugate ---</option>
+				<option value="estar">Estar</option>
+				<option value="ser">Ser</option>
+			</select>
+			<p>Left hand thumb, first person singular: <p class="word first-ps"></p></p>
+			<p>Left hand index, second person singular: <p class="word second-ps"></p></p>
+			<p>Left hand middle, third person singular: <p class="word third-ps"></p></p>
+			<p>Left hand palm, first person plural: <p class="word first-pp"></p></p>
+			<p>Left hand ring, second person plural: <p class="word second-pp"></p></p>
+			<p>Left hand little, third person plural: <p class="word third-pp"></p></p>
+
+		</div>
+		</div>
+		</div>
+
+
+		<div id="right_hand">
+		
+		<div class="dropdown" style="float:right;">
+		<div class="dropdown-content">
+  
+			<label for="right_word_chooser">Choose a verb for the right hand:</label>
+			<select id="right_word_chooser" onchange="swap_words('right')">
+				<option disabled selected>--- select a word to conjugate ---</option>
+				<option value="estar">Estar</option>
+				<option value="ser">Ser</option>
+			</select>
+			<p>Right hand thumb, first person singular: <p class="word first-ps"></p></p>
+			<p>Right hand index, second person singular: <p class="word second-ps"></p></p>
+			<p>Right hand middle, third person singular: <p class="word third-ps"></p></p>
+			<p>Right hand palm, first person plural: <p class="word first-pp"></p></p>
+			<p>Right hand ring, second person plural: <p class="word second-pp"></p></p>
+			<p>Right hand little, third person plural: <p class="word third-pp"></p></p>
+		</div>
+		</div>
+		</div>
+	</body>
+</html>
