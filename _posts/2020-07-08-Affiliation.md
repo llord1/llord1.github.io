@@ -1,22 +1,20 @@
 ---
 layout: post
-title: "Love and belonging needs: topics related to Affiliation"
+title: "Love and belonging needs can be explored as topics related to Affiliation"
 description: "Love and belonging needs: Affiliation"
 ---
 
+## Affiliation through Language: 
 
-
-## __*Love and belonging needs*__ can be explored as topics related to __*Affiliation*__.
-
-
-## Product #1
 How effective has the vocabulary of Indian origin been in its contribution to St. Lucian Creole Vocabulary? Are the words strictly isolated to food, and a few racial descriptors?
 
 
 
-### Hypothesis: Vocabulary of Indian origin are present in low rates and strictly isolated to food and racial descriptors.
+### Hypothesis: 
+Vocabulary of Indian origin are present in low rates and strictly isolated to food and racial descriptors.
 
-### Null hypothesis: Vocabulary of Indian origin has no effect on beyond food and racial descriptors.
+### Null hypothesis: 
+Vocabulary of Indian origin has no effect on beyond food and racial descriptors.
 
 
 ### Commentary:
