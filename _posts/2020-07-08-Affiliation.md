@@ -20,12 +20,13 @@ How effective has the vocabulary of Indian origin been in its contribution to St
 
 
 ### Commentary:
-One may find data to support this experiment as Trinidad has a high Indian population of creole speakers, and Antillean creole shares some vocabulary (can check Wiwords for similarities).
-
-
 The only relevant literature on this topic thus far is a statement on one of SIL's reports :
 "Vocabulary of Indian Origin. Most of the few words in St. Lucian Creole of Indian origin have to do with cuisine: dal (Hindi), dalpouri, goulgoula, gwodja, kirou, kòri (Tamil), mango (Tamil), roti (Hindi), sohari and talkari. There are also two words, kouli [< Hindi qūlī ‘hired servant’] and dogla [< Hindi dogalaa ‘hybrid’], that have to do with ethnicity."
 
 http://www.saintluciancreole.dbfrank.net/workpapers/sources_of_vocabulary.pdf
+
+
+One may find data to support this experiment as Trinidad has a high Indian population of creole speakers, and Antillean creole shares some vocabulary (can check Wiwords for similarities).
+
 
 {% include JB/setup %}
