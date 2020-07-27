@@ -15,7 +15,7 @@ Societal reflection also facilitated the rethinking of modern institutions. Cons
 
 Notably, as modern commerce ground to a halt, the environment appeared to thrive. In some areas, the air quality improved, others noted less accidental animal killings along transportation routes. Moreover, wildlife began to flourish in some areas, and these animals were even spotted venturing out into once-bustling commercial sectors. However,  this period of lockdown has not benefited all animals. In extreme cases, the funding of poacher policing, and captive animals, reliant on public gathers of locals and tourists, experienced reductions.
 
-Years of study may be required to become fully aware of the actual societal and environmental toll of the most recent pandemic in modern history. Most of the public conceded the utter urgency to understand this global event. Academics, and citizen scientists alike, openly shared data, and contributed findings as quickly as possible. Even data science enthusiasts were able to make remarkable contributions to the effort. Avi Schiffmann, a US highschooler, was able to employ his web-scraping skills to create the first online visual case tracker dashboard; it was free and globally accessible. It eventually was monitored and followed by various institutions and individuals worldwide, while authorities were scrambling to allocate the necessary resources to accomplish this task.
+Years of study may be required to become fully aware of the actual societal and environmental toll of the most recent pandemic in modern history. Most of the public conceded the utter urgency to understand this global event. Academics, and citizen scientists alike, openly shared data and contributed findings as quickly as possible. Even data science enthusiasts were able to make remarkable contributions to the effort. Avi Schiffmann, a US highschooler, was able to employ his web-scraping skills to create the first online visual case tracker dashboard; it was free and globally accessible. It eventually was monitored and followed by various institutions and individuals worldwide, while authorities were scrambling to allocate the necessary resources to accomplish this task.
 
 Global citizens began assessing current problematic policies and strove to create and cement positive policies for the future. Institutions began revisiting past policy proposals that overlooked, as these may prove to provide positive impacts on the general public. Notably, academics renewed efforts to investigate biodiversity conservation. On a small-scale, some institutions sought and secured approvals for extending nature reserves. On a larger-scale, despite some regulatory rollbacks, as of July 7th, climate activists saw celebrated the abandonment of the Atlantic Coast Pipeline, and the shut-down and emptying of the Dakota Access Pipeline, pending a long-awaited thorough environmental review.
 Therefore, a genuine value can be generated from studies in the areas of Digital Humanities (DH) and Biocultural Diversity (BCD), as they specifically focus on the intrinsic connection between societal structures and its possible harmony with their surroundings.
@@ -53,7 +53,7 @@ Notably,  Maslow's hierarchy has also been informally applied to the field of da
 
 Despite its ubiquity of application, Maslow's framework is not without critique. While it has been repeatedly proven to evoke innate recognition of human nature in oneself and others, some contest the methodology for his studies. Some stated that some of his terms were too ambiguous; some argued that non-human needs should also be considered, and that "self-actualization" far too open to interpretation. Maslow was also said to have been very selective with the individuals chosen for his research; he selected pursued highly productive and accomplished individuals, his rankings were problematic when attempting to address gender and societal differences.
 
-Notably, Maslow's hierarchy of needs is often employed to illustrate why projects have failed (particularly the five-tiered version). Due to being sought as issues arise, this theory begets a negative connotation. A lesser-known, more introspective, and positive eight-tiered version, does exist.
+Notably, Maslow's hierarchy of needs is often employed to illustrate why projects have failed (particularly the five-tiered version). Due to being sought as issues arise, this theory begets a negative connotation. However, a lesser-known, more introspective eight-tiered version does exist.
 
 ## The Proposed Framework:
 
@@ -147,6 +147,16 @@ This structure serves as a foundation for forming ideas for positive change. Wit
  This framework will provide a review outline for countries' leaders seeking wholesome change and innovation. It will aid leaders in addressing the needs of their people, with the most effective tools and technology available. Governments can ensure that matters related to the environment, the arts, and public sentiment are not sidelined, with the combination of Maslow's hierarchy of needs and data science skills and technologies.  Such careful consideration of the public's needs will undoubtedly enhance efforts to improve a country's status (such as its happiness index).
 
 
+###Outputs:
+__*Ambience*__: Utilization of meteorological data. Utilization of weather data and air quality data. An investigation into the clothing industry. Flora and fauna recognition software. Utilization of personal monitoring data.
+__*Assets*__: Investigation into crime statistics, gun statistics, education statistics, and economic investigation into slum tourism.
+__*Affiliation*__: Language acquisition papers; Spanish framework and Creole framework. Neurolinguistics where possible.
+__*Attitudes*__: Attempt sentiment analysis paper on Maslow and Noam Chomsky. Complete sentiment analysis on Tripadvisor data of countries to assess public perception.
+__*Analysis*__:
+ __*Analysis*__:
+__*Artistry*__:
+__*Awareness*__:
+__*Altruism*__:
 
 ## The Obstacles:
 
