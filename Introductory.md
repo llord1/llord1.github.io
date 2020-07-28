@@ -147,16 +147,7 @@ This structure serves as a foundation for forming ideas for positive change. Wit
  This framework will provide a review outline for countries' leaders seeking wholesome change and innovation. It will aid leaders in addressing the needs of their people, with the most effective tools and technology available. Governments can ensure that matters related to the environment, the arts, and public sentiment are not sidelined, with the combination of Maslow's hierarchy of needs and data science skills and technologies.  Such careful consideration of the public's needs will undoubtedly enhance efforts to improve a country's status (such as its happiness index).
 
 
-###Outputs:
-__*Ambience*__: Utilization of meteorological data. Utilization of weather data and air quality data. An investigation into the clothing industry. Flora and fauna recognition software. Utilization of personal monitoring data.
-__*Assets*__: Investigation into crime statistics, gun statistics, education statistics, and economic investigation into slum tourism.
-__*Affiliation*__: Language acquisition papers; Spanish framework and Creole framework. Neurolinguistics where possible.
-__*Attitudes*__: Attempt sentiment analysis paper on Maslow and Noam Chomsky. Complete sentiment analysis on Tripadvisor data of countries to assess public perception.
-__*Analysis*__:
- __*Analysis*__:
-__*Artistry*__:
-__*Awareness*__:
-__*Altruism*__:
+
 
 ## The Obstacles:
 
