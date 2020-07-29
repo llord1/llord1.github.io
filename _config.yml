@@ -25,7 +25,7 @@ author :
 #
 production_url : http://llord1.github.io
 
-gems: ["jekyll-sitemap"]
+gems: ["jekyll-sitemap", "jekyll/scholar"]
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
