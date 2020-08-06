@@ -3,25 +3,15 @@ layout: page
 title: "Publication Plan"
 description: "Publication Plan."
 ---
-
 ### Upcoming conferences: 
-- **Arizona Linguistics Circle (ALC):**
 
-Call Deadline: July 27, 2020
-Dates: October 16-18, 2020.
-Info:
-https://linguistics.arizona.edu/alc_conference
-https://sites.google.com/view/alc14
+- **A Virtual Festival Celebrating Caribbean Languages:**
+Call Deadline: 1-Aug-2020
+Dates: 6-7 Aug-2020
+Location: Online, Caribbean
+Info:https://sclcaribbean2020.weebly.com/
+Status: **Accepted**
 
-
-- **International Language and Linguistics Conference:**
-
-Call Deadline: July 27, 2020
-Dates: August 10 - 11, 2020
-Location: Online, Japan
-Info:
-https://internationalconference.net/flyer/language-and-linguistics-conference/191
-https://internationalconference.net/language-and-linguistics-conference
 
 
 - **11th International Conference of Experimental Linguistics (ExLing 2020):**
