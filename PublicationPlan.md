@@ -6,10 +6,15 @@ description: "Publication Plan."
 ### Upcoming conferences: 
 
 - **A Virtual Festival Celebrating Caribbean Languages:**
+
 Call Deadline: 1-Aug-2020
+
 Dates: 6-7 Aug-2020
+
 Location: Online, Caribbean
+
 Info:https://sclcaribbean2020.weebly.com/
+
 Status: **Accepted**
 
 
