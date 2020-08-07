@@ -99,7 +99,7 @@ As the lowest level topic, the application of simple exploratory data analysis w
 
 The pursuit of this level would allow for the exploration of safety needs related to security (including emotional security and financial security) and safety (including law and order, freedom from fear, social stability, property, health, and well-being). One can perform data analysis on economic or demographic data, including census data, or other public access government statistics.  For example, one can provide an investigation into local education, crime, and gun ownership statistics as all these matters can impact one's sense of security.
 
-Exploration of topics related to safety needs can also encompass the analysis of the economic impact of specific industries such as tourism, and its numerous types. For example, one can quantifiably assess the different attractions of an area to determine its main tourism driver. Once again, this lower level topic can allow for the application of simple exploratory data analysis with tools like Python and R  Studio;  yet, more elaborate analysis is achievable. 
+Exploration of topics related to safety needs can also encompass the analysis of the economic impact of specific industries such as tourism, and its numerous types. For example, one can quantifiably assess the different attractions of an area to determine its main tourism driver. In terms of security, one could also explore the link between crimes and certain influencing factors. Once again, this lower level topic can allow for the application of simple exploratory data analysis with tools like Python and R  Studio;  yet, more elaborate analysis is achievable. 
 
 - __*Love and belonging needs*__ can be explored as topics related to __*Affiliation*__.
 
@@ -125,22 +125,22 @@ For example, LIWC sentiment analysis can be performed on the works of establishe
 
 - __*Cognitive needs*__ can be explored as topics related to __*Analysis*__.
 
- The pursuit of this level would allow for one to truly address the need for knowledge and understanding, curiosity, exploration, need for meaning, and predictability. This could be in the form of the collection and analysis of data collected from digital surveys on various humanitarian topics.
+ The pursuit of this level would allow for one to truly address the need for knowledge and understanding, curiosity, exploration, need for meaning, and predictability. This could be in the form of the collection and analysis of data collected from digital surveys on various humanitarian topics.This may involve questioning established policies around a topic of one's choosing; for example, one could launch an exploratory investigation into a country's national language policy and attempt to assess the effectiveness of language learning tools that support this system. This may also allow for the exploration of skill acquisition; how does one obtain a certain skill. 
 
 - __*Aesthetic needs*__ can be explored as topics related to __*Artistry*__.
 
-The pursuit of this level would allow for the creation of digital art using Neural Style Transfer techniques and Tensorflow tools (such as DeepDream), or the creation of new literature from using Natural Language Processing (Long Short-Term Memory and Recurrent Neural Networks).
+The pursuit of this level would allow for the creation of literature or digital art. Natural Language Processing as it relates to an unsupervised learning transformer model (GPT-2) can be employed for a text generation project. These technologies may become important to generate literature for languages in various states of vitality. Neural Style Transfer techniques and Tensorflow tools (such as DeepDream) can also be used to create new digital art based on traditional art styles or patterns.
 
 - __*Self-actualization needs*__ can be explored as topics related to __*Awareness*__. 
 
 Self- actualization needs tend to focus on an individual seeking personal growth and peak experiences; this would be an attempt to realize their potential and self-fulfillment. With self- actualization, one strives to be the ideal version of themselves. It would be the ambition "to become everything one is capable of becoming" (Maslow, 1987, p. 64). One may attempt achieving peak economic, or academic, or athletic prowess. For others, it may be expressed creatively, in paintings, pictures, or inventions.
 
-The pursuit of this level would allow for an exploration of an established concept in data science pedagogy with the hopes of producing new teaching tools or techniques. This may include gamification of a relevant concept or the creation and completion of an application. Tools such as Dart and Flutter can be utilized to create applications.
+The pursuit of this level would allow for an exploration of an established concept in data science pedagogy with the hopes of producing new teaching tools or techniques. This may include gamification of a relevant concept or the creation and completion of an application. Tools such as Dart and Flutter can be utilized to create applications.This could also involve employing deep computer vision and other machine learning techniques to document restoration and cataloging.
 
 - __*Transcendence needs*__ can be explored as topics related to __*Altruism*__.   
 A person is motivated by values which transcend beyond the personal self (e.g., mystical experiences and certain experiences with nature, aesthetic experiences, sexual experiences, service to others, the pursuit of science, religious faith, etc.)
 
-The pursuit of this level would focus on developing citizen science projects that would contribute to future sustainability. This section may be the most challenging as it would require the creation of products for a department or organization dedicated to altruistic projects. This could also include the curation and publication of datasets; this is helpful as the sharing of datasets provides others with more opportunities for practicing these skills, and for future research.
+The pursuit of this level would focus on developing citizen science projects that would contribute to future sustainability. This section may be the most challenging as it would require the creation of products for a department or organization dedicated to altruistic projects. This could also include the creation of frameworks, such as an online language revitalization system. The curation and publication of datasets is also possible; this is helpful as the sharing of datasets provides others with more opportunities for practicing these skills, and for future research.
 
 
 ## The Outcome:
