@@ -1,9 +1,11 @@
 ---
 layout: page
-title: "Literature Review : Introduction to the Data Science Biocultural Diversity (DSBD) Framework"
+title: "Literature Review : Draft" 
 description: "Concise and critical review of the relevant literature. Weaknesses and important gaps in the literature"
 ---
 {% include JB/setup %}
+
+## Introduction to the Data Science Biocultural Diversity (DSBD) Framework
 
 ## The Setting:
 
