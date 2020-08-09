@@ -7,6 +7,11 @@ description: "Introduction to the Data Science Biocultural Diversity (DSBD) Fram
 
 ## The Framework's Levels:
 
+
+<iframe width="600" height="600" src="https://prezi.com/i/anbnfuxd7fss/embed" webkitallowfullscreen="1" mozallowfullscreen="1" allowfullscreen="1"></iframe>
+
+
+
 - __*Biological and physiological needs*__  can be explored as topics related to __*Ambience*__.
 
 + Exploring housing access and opportunities for Saint Lucian Kwéyòl language speakers; are there differences present in rental rates, ownership rates, and overall availability in areas that have dense Saint Lucian Kwéyòl language speaker populations when compared to other areas on the island?
@@ -73,8 +78,6 @@ description: "Introduction to the Data Science Biocultural Diversity (DSBD) Fram
 + Publicly share survey data sets and new vocabulary documents.
 
 
-
-<iframe width="600" height="600" src="https://prezi.com/i/anbnfuxd7fss/embed" webkitallowfullscreen="1" mozallowfullscreen="1" allowfullscreen="1"></iframe>
 
 
 
