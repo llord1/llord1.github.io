@@ -8,6 +8,6 @@ description: "This is simply an inital attempt to create a word list, randomize 
 <div id="mysearchtask"></div>
 
 
-## This is simply an inital attempt to create a word list, randomize words, and create interactivity. This was achieved with Javascript, however, the hope is to utlize Python fuctions to improve randomization and interactivity.
+### This is simply an inital attempt to create a word list, randomize words, and create interactivity. This was achieved with Javascript, however, the hope is to utlize Python fuctions to improve randomization and interactivity.
 
-[Link](https://kopwann.weebly.com/)
+[Interactive Saint Lucian Kwéyòl Wordsearch](https://kopwann.weebly.com/)
