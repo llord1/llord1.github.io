@@ -25,7 +25,7 @@ author :
 #
 production_url : http://llord1.github.io
 
-gems: ["jekyll-sitemap", "jekyll/scholar"]
+plugins: ["jekyll-sitemap", "jekyll/scholar"]
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -133,7 +133,7 @@ JB :
   # where [HELPER] is the name of the helper you are overriding.
   
 
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
 
 # jekyll-scholar config
 scholar:
