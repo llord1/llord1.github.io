@@ -89,4 +89,3 @@ ws = new WordSearch({
 
 [Interactive Saint Lucian Kwéyòl Wordsearch](https://kopwann.weebly.com/)
 
-![A thumb](thumb.PNG)
