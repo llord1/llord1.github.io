@@ -24,7 +24,7 @@ sdsdfsfsffs
 
 
 P-values have indeed been a common feature of statistics, particularly in introductory classes, as it serves as a useful tool for steering students away from varying degrees of the randomness of variation (when analyzing data). However, it can also be argued that due to the complexity of the concept (to teach, to learn, and consequently interpret), it may be time for a change in the computational approaches in data sciences to stop the continual discussion of its use and misuse. Others simply argue that the main issue with the P-value truly dependents on the user; that the main issue is simply based on user knowledge and aptitude. One writer believes that the "practical alternative to the p-value is the correctly used p-value" 
-
+{% cite lakens2019practical %}.
 
 
 However, while alternatives statistics were proposed to the P-value statistics, such as confidence intervals, effect sizes, or Bayes factors, there was evidence to support that those methods were marginally indifferent and offered similar interpretations of uncertainty. The main issue for some was that the core of the difficulties being experienced was as a result of research design flaws; that these issues were perpetuated through educating non-statisticians on how to interpret and present the volumes of information that result from analyzing their research data [@Goodman]. It appears that Raymond Hubbard has taken it upon himself to truly question and explore the matters Statistical Significance Testing and P-values applied in various scenarios. These works include works such as "the historical growth of statistical significance testing in psychology—and its future prospects" [@hubbard2000historical], and "The Rise of Statistical Significance Testing in Public Administration Research and Why This Is a Mistake" [@hubbard2013rise]. 
@@ -188,10 +188,11 @@ Redundancy can be seen as an opportunity for creativity, reimagining, reforming,
 
 
 
-
-
 [^fn2]: The bugle is a small trumpet implicated in the military industrial complex.
 
 1. Douglass, Frederick et al. Narrative of the Life of Frederick Douglass: An American Slave. Charlottesville, Va.: University of Virginia Library, 1996. Open WorldCat. Web. 17 Apr. 2016.
 2. Hansberry, Lorraine, and Robert Nemiroff. A Raisin in the Sun. Rep Rei edition. New York: Vintage, 2004. Print.
 {.bibliography}
+
+
+{% bibliography %}
