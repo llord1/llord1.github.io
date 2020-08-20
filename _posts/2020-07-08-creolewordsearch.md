@@ -85,4 +85,8 @@ ws = new WordSearch({
 ### This is simply an inital attempt to create a word list, randomize words, and create interactivity. This was achieved with Javascript, however, the hope is to utlize Python fuctions to improve randomization and interactivity.
 
 
+
+
 [Interactive Saint Lucian Kwéyòl Wordsearch](https://kopwann.weebly.com/)
+
+![A thumb](thumb.PNG)
