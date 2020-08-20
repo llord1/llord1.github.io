@@ -189,5 +189,6 @@ Redundancy can be seen as an opportunity for creativity, reimagining, reforming,
 
 [^fn2]: The bugle is a small trumpet implicated in the military industrial complex.
 
+![image caption](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/slu_beach2.jpg)
 
 
