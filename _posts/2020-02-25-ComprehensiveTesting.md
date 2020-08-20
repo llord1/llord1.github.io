@@ -9,7 +9,7 @@ tags : [general]
 
 
 
-sdsdfsfsffs
+dfdfdfd
 
 # Data Science Discussions
 
@@ -189,10 +189,6 @@ Redundancy can be seen as an opportunity for creativity, reimagining, reforming,
 
 
 [^fn2]: The bugle is a small trumpet implicated in the military industrial complex.
-
-1. Douglass, Frederick et al. Narrative of the Life of Frederick Douglass: An American Slave. Charlottesville, Va.: University of Virginia Library, 1996. Open WorldCat. Web. 17 Apr. 2016.
-2. Hansberry, Lorraine, and Robert Nemiroff. A Raisin in the Sun. Rep Rei edition. New York: Vintage, 2004. Print.
-{.bibliography}
 
 
 {% bibliography %}
