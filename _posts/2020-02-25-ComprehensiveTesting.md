@@ -16,6 +16,13 @@ sdsdfsfsffs
 - O Captain! my Captain! rise up and hear the bells;
 - Rise up—for you the flag is flung—for you the bugle[^fn2] trills,
 
+[^fn3]:
+  Ugh pinterest fixie cronut pitchfork beard. Literally deep
+  cold-pressed distillery pabst austin.
+
+  Typewriter 90's roof party poutine, kickstarter raw
+  denim pabst readymade biodiesel umami chicharrones XOXO.
+
 ...
 ## P-values:  
 
