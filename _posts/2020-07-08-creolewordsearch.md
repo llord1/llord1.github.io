@@ -91,4 +91,4 @@ ws = new WordSearch({
 
 
 
-![A thumb](thumb.PNG)
+![A thumb](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/slu_beach2.jpg)
