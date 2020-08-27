@@ -8,7 +8,7 @@ description: "This is simply an inital attempt to create a word list, randomize 
 
 
 <div class="codepen" data-height="265" data-theme-id="light" data-default-tab="result" data-user="llord1" data-slug-hash="YzqKwaJ" data-prefill='{"title":"Sent Lisi Wordsearch - Zannimo Kwéyòl ","tags":[],"scripts":[],"stylesheets":[]}'>
-  <pre data-lang="html">https://cdn.jsdelivr.net/gh/QuentinAndre/WordSearchJS/lib/wordsearch.min.js&lt;script 
+ 
 
 &lt;h1>Kwéyòl Word Search Puzzle: Zannimo &lt;/h1>
 &lt;h4>How to play:&lt;/h4>
