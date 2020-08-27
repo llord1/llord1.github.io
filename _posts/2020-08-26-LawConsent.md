@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Institutional Review Board"
+title: "Survey Consent:Lawyers"
 description: "Assessing the link between crime and language"
 tags: [Assets]
 ---
 {% include JB/setup %}
 
- __Institutional Review Board
+ __Institutional Review Board__
 
-Harrisburg University of Science and Technology 
+ __Harrisburg University of Science and Technology__ 
 
-Participation Consent Agreement__
+ __Participation Consent Agreement__
  
 The research study, titled Linguistic Representation has been approved by the Institutional Review Board (IRB) of Harrisburg University of Science and Technology (HU). This research study is led by Laurel Lord, a Ph. D. candidate of Data Science Department at HU. The Faculty Advisor for this study is Dr. Ford, Professor of Analytics.
  
