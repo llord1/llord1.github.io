@@ -24,7 +24,7 @@ This study is being conducted in compliance with the standards and guidelines gi
 The purpose of this research is to identify patterns of linguistic legal representation on the multilingual island of Saint Lucia; there will be specific focus on the second most prevalent language, yet endangered, heritage language of “Saint Lucian Kwéyòl”. The responses of participants will run be through textual analytical tools to provide insight on the legal environment that Saint Lucians, particularly Kwéyòl speakers, face.
   
 
- __Participant tasks__
+ __Participant Tasks__
 
 Each participant is asked to fill out an online survey to provide their basic demographic details, opinions of their multilingual capacities, and the current linguistic legal environment. Due to the simplistic nature of the questions, each participant is expected to be able to complete the form in less than 30 minutes.
   
