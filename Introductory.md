@@ -50,7 +50,7 @@ description: "Introduction to the Data Science Biocultural Diversity (DSBD) Fram
 
 + What language learning tools are most effective with acquiring Saint Lucian Kwéyòl language? A comparison of specially curated Saint Lucian Kwéyòl language of Language learning tools: discussion of the value of puzzles for language acquisition and familiarity (word search puzzles), discussion of curated mnemonic tools, and language learning mobile applications.
 
-+ Exploring multilingualism in Saint Lucia; are there any patterns of language pairings in the help or hurt Saint Lucian Kwéyòl language acquisition? 
++ Exploring multilingualism in Saint Lucia; are there any patterns of language pairings, on the island, that help or hurt Saint Lucian Kwéyòl language acquisition? 
 
 
 - __*Aesthetic needs*__ can be explored as topics related to __*Artistry*__.
