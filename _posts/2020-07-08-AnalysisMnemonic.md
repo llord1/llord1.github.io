@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cognitive needs: topics related to Analysis"
+title: "Analysis: Spanish Mnemonic Tools "
 description: "Cognitive needs: Analysis"
 ---
 {% include JB/setup %}
