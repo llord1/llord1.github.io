@@ -21,10 +21,20 @@ For example, "Ser" can describe where an event takes place, ownership, relations
 In linguistics, when conjugating verbs, there can be a need to acknowledge various groupings of people. This can be referred to as the different forms of "personhood". This can be first, second, and third-person singular, and again in their plural forms; such is the case for the Spanish language.
 
 
-The teaching of Spanish verbs typically involves the teaching of verbs using simple tables. While not very visually interesting, this is the standard. Other teachers may attempt to make this information more visually appealing by displaying images of these personal groupings, and then adding their related labels. Some teachers have unofficially adopted the "shoe/boot verbs method" to visualize verb conjugation. Another less popular method in the US is the "hand method". This form assigns persons to fingers on one's hand. This method is reminiscent of the Guidonian hand mnemonic device, that had been used to aid singers in studying to sight-sing. This form, however, excludes the second-person-plural version of verbs. It has recently been suggested this hand mnemonic device, can be adapted to include all the verb conjugation details. The vosotros form can be acknowledged as special rather than being ignored; this uniqueness can be highlighted through its association with the ring finger.
+The teaching of Spanish verbs typically involves the teaching of verbs using simple tables. While not very visually interesting, this is the standard. Other teachers may attempt to make this information more visually appealing by displaying images of these personal groupings, and then adding their related labels. 
 
+![Hellloererererer](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/palm.PNG)
 
-Please see images for each below:
+Some teachers have unofficially adopted the "shoe/boot verbs method" to visualize verb conjugation. 
+
+![Hellloererererer](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/palm.PNG)
+
+Another less popular method in the US is the "hand method". ![Hellloererererer](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/palm.PNG)
+This form assigns persons to fingers on one's hand. This method is reminiscent of the Guidonian hand mnemonic device, that had been used to aid singers in studying to sight-sing.
+
+![Hellloererererer](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/palm.PNG)
+
+This form, however, excludes the second-person-plural version of verbs. It has recently been suggested this hand mnemonic device, can be adapted to include all the verb conjugation details. The vosotros form can be acknowledged as special rather than being ignored; this uniqueness can be highlighted through its association with the ring finger.
 
 ![Hellloererererer](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/palm.PNG)
 
