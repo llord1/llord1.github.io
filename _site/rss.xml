@@ -5,8 +5,8 @@
         <description>Laurel's Works in Progress - Laurel Lord</description>
         <link>http://llord1.github.io</link>
         <atom:link href="http://llord1.github.io/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 03 Sep 2020 17:58:59 -0400</lastBuildDate>
-        <pubDate>Thu, 03 Sep 2020 17:58:59 -0400</pubDate>
+        <lastBuildDate>Thu, 03 Sep 2020 18:09:51 -0400</lastBuildDate>
+        <pubDate>Thu, 03 Sep 2020 18:09:51 -0400</pubDate>
         <ttl>60</ttl>
 
 
@@ -136,9 +136,9 @@
 
         <item>
                 <title>Hands</title>
-                <description>&lt;script src=&quot;http://localhost:4000/resources/js/words.js&quot;&gt;&lt;/script&gt;
+                <description>&lt;script src=&quot;/resources/js/words.js&quot;&gt;&lt;/script&gt;
 
-&lt;script src=&quot;http://localhost:4000/resources/js/word_changing.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;/resources/js/word_changing.js&quot;&gt;&lt;/script&gt;
 
 &lt;div id=&quot;left_hand&quot;&gt;
 
