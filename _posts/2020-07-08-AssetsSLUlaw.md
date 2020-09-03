@@ -69,7 +69,7 @@ ____________________
 
 Choose not to respond
 
-Gender identification is another standard demographic question, however, it is needed here to highlight if there are any differences in linguistics interests among the lawyers. Females are often believed to be more capable of and interested in linguistic acquisition and practice.
+Gender identification is another standard demographic question, however, it is needed here to highlight if there are any differences in linguistics interests among the lawyers. Females are often believed to be more capable of and interested in linguistic acquisition and practice. Data gathered could confirm or dispute this assumption.
 
 
 + *How would you describe your ethnicity/race? (Tick one box only)*
@@ -122,20 +122,7 @@ ____________________
 
 Choose not to respond
 
-
-+ *How many languages do you speak/understand?*
-
-1
-
-2
-
-3
-
-4
-
-5+
-
-Choose not to respond
+Lawyers may choose to focus on different areas of the law. The cliental they encounter may be influenced by this specialization. Inquiring into one's area of specialization will highlight which areas of the law may be associated with a need to speak multiple languages; more specifically, which areas of the law in Saint Lucia, are more likely to require an understanding of  Saint Lucian Kwéyòl language.
 
 
 + *Which languages do you speak? Please select all that apply?*
@@ -164,8 +151,9 @@ ____________________
 
 Choose not to respond
 
+This question is one of the most crucial to this study. English is listed as it is indeed the main language spoken. Apart from modern English, lawyers, and doctors, can claim to be multilingual based on their foundational studies of Latin; placing this detail acknowledges this field facet.  Indeed, Saint Lucian Kwéyòl (Antillean Creole/Patios) is inquired about, as it is the heritage language of the island. French and Spanish are inquired about as they are common language offerings at all high schools on the island. Dutch, and Portuguese, and to a lesser extent Hindi, are other common languages to the rest of the Caribbean due to colonialization. Due to an increased presence of Chinese investors and tourists in the Caribbean, and general funding of local projects by China, one's ability to understand Mandarin is becoming increasingly valuable.
 
-+ *If you do speak more than one language, how did you come to learn them? Please select all that apply?*
++ *If you do speak more than one language, how did you come to learn each?
 
 As part of my school education (required)
 
@@ -176,6 +164,27 @@ As a personal interest (for career, personal enrichment, etc.)
 As part of communicating with my family and friends
 
 Choose not to respond
+
+Understanding where and how one engages in language learning might highlight environments that foster multilingualism in lawyers. The learning of certain languages may lend itself to formal and informal settings. In Saint Lucia, it is highly likely that most language education would be done in a formal school setting. Overall, the national heritage language of this island would typically be learned informally. Saint Lucian Kwéyòl only recently began being formally taught to young children (between the ages of 6-12) in less than a handful of schools, and adult learners; however, since the major fire at the National Folk Resource Center, most classes have reverted to more private sessions. 
+
+
++ *Overall, how many languages do you speak/understand?*
+
+1
+
+2
+
+3
+
+4
+
+5+
+
+Choose not to respond
+
+Once again, apart from modern English, lawyers can claim to be multilingual based on their foundational studies of Latin. Specifically requesting quantification the number of languages spoken improves question clarity. Since English and Latin are most likely part of a lawyer's education, and French and Spanish are commonly taught in schools, a Saint Lucian Lawyer may have a base of four languages. Therefore a lawyer speaking more than four languages may demonstrate high levels of multilingualism, and perhaps creole may be one of the additional languages being acknowledged.
+
+
 
 
 + *If you do speak more than one language, has this skill been crucial to representing/communicating with a client?*
