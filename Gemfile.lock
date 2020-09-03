@@ -51,6 +51,8 @@ GEM
       listen (~> 3.0)
     kramdown (2.3.0)
       rexml
+    kramdown-parser-gfm (1.1.0)
+      kramdown (~> 2.0)
     latex-decode (0.3.1)
     liquid (4.0.3)
     listen (3.2.1)
@@ -83,6 +85,7 @@ DEPENDENCIES
   jekyll (~> 3.1)
   jekyll-scholar
   jekyll-sitemap
+  kramdown-parser-gfm
   pygments.rb
 
 BUNDLED WITH
