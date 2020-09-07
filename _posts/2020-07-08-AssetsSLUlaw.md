@@ -106,33 +106,34 @@ Gender identification is another standard (multiple choice) demographic question
 
 American Indian/Alaska Native/Amerindian (Native Caribbean People)
 
-Black/African/Afro-Caribbean 
+Black/African/Afro-Caribbean
 
-White/North European 
+White/North European
 
-Mediterranean (Greek, Italian, Turkish, Syrian, etc.) 
+Mediterranean (Greek, Italian, Turkish, Syrian, etc.)
 
-Indian subcontinent 
+Hispanic/ Latino (Mexican, Central or South American, or other Spanish or Portuguese etc.)
+
+Indian subcontinent
 
 SE Asian/Chinese/Native Hawaiian/ Other Pacific Islander
 
-Mixed parentage 
+Mixed parentage
 
-Not known 	
+Not known
 
 Choose not to respond
 
-Other (please specify)
+Other:
 
-____________________
-
-
+4
 
 
-
-While the ABA noted that "most state bars and state licensing agencies do not track race and ethnicity in the profession", in 2020 there was an increase in this type of data collection [americanbar.org] [clio.com/resources] [attorneyatwork.com] As of 2010, only 11.4% of all American lawyers were men and women of color, and this only rose to 14.1% in 2020 [americanbar.org] [clio.com/resources][attorneyatwork.com]. Identifying participant ethnicity/race is another standard demographic inquiry, nevertheless, it is needed here to highlight if there are any differences in linguistics interests among the lawyers based on their backgrounds. In developed countries, like America, it is said that minorities remain underrepresented in the legal profession; however, there is limited information on the legal environment of the Caribbean-an environment where the majority of the population would be non-white.
+While the ABA noted that "most state bars and state licensing agencies do not track race and ethnicity in the profession", in 2020 there was an increase in this type of data collection [americanbar.org] [clio.com/resources] [attorneyatwork.com]. As of 2010, only 11.4% of all American lawyers were men and women of color, and this only rose to 14.1% in 2020 [americanbar.org] [clio.com/resources][attorneyatwork.com]. In developed countries, like America, it is said that minorities remain underrepresented in the legal profession; however, there is limited information on the legal environment of the Caribbean-an environment where the majority of the population would historically be non-white. As of the 2010 Saint Lucian census, the "ethnic group" of 
+"African Descents" represented about 85.28 percent of the population (the highest); this was distantly followed by the "Mixed" category with 10.85 percent, and the "East Indian" at 2.16 percent [census2010]. 
 
 Additionally, one's household and upbringing may shape or influence one's interests. Multiculturalism is quite prevalent in the Caribbean, however, one's multilingualism might be impacted by one's upbringing. While formal education may be a primary factor in one's language acquisition, various states of immigration over generations, or other forms of diversity in one's household, might influence their linguistic capacities.
+Identifying participant ethnicity/race is another standard demographic inquiry, nevertheless, it is needed here to highlight if there are any differences in linguistics interests among the lawyers based on their backgrounds. 
 
 + *How many years have you been in practice (number of years since your first call to the bar in the Common-Wealth)?*
 
@@ -180,6 +181,7 @@ Choose not to respond
 Other (please specify)
 
 ____________________
+
 Lawyers may choose to focus on different areas of the law. The cliental they encounter may be influenced by this specialization. Inquiring into one's area of specialization will highlight which areas of the law may be associated with a need to speak multiple languages; more specifically, which areas of the law in Saint Lucia, are more likely to require an understanding of  Saint Lucian Kwéyòl language.
 
 
@@ -384,3 +386,5 @@ This question seeks to explore the personal linguistic limitations of lawyers in
 
 
 [Back to: Safety and security needs: Assets](https://llord1.github.io/2020/07/08/Assets)
+
+
