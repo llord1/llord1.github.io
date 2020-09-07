@@ -134,3 +134,256 @@ While the ABA noted that "most state bars and state licensing agencies do not tr
 
 Additionally, one's household and upbringing may shape or influence one's interests. Multiculturalism is quite prevalent in the Caribbean, however, one's multilingualism might be impacted by one's upbringing. While formal education may be a primary factor in one's language acquisition, various states of immigration over generations, or other forms of diversity in one's household, might influence their linguistic capacities.
 Identifying participant ethnicity/race is another standard demographic inquiry, nevertheless, it is needed here to highlight if there are any differences in linguistics interests among the lawyers based on their backgrounds. 
+
++ *How many years have you been in practice (number of years since your first call to the bar in the Common-Wealth)?*
+
+Less than 1
+
+1-5
+
+6-10
+
+11-15
+
+16-20
+
+21-25
+
+26-30
+
+31 or more
+
+Choose not to respond
+
+This is not a typical demographic question, however, it is one that can reveal data on the vibrancy or stagnancy of the field in terms of linguistics. This is an attempt to pinpoint how long one can thrive in an industry without the need for multilingual skills. It will be interesting to explore if career longevity is strongly or weakly associated with one's linguistic acquisitions.
+
+
++ *In what law-related environment are you currently working?*
+
+In private practice, in a firm with less than 5 lawyers
+
+In private practice, in a firm with 5-15 lawyers
+
+In private practice, in a firm with 16-25 lawyers
+
+In private practice, in a firm with 26-50 lawyers
+
+In private practice, in a firm with 51 or more lawyers
+
+In government
+
+In a not for profit organization
+
+In an academic institution
+
+Choose not to respond
+
+Other (please specify)
+
+____________________
+
+Lawyers may choose to focus on different areas of the law. The cliental they encounter may be influenced by this specialization. Inquiring into one's area of specialization will highlight which areas of the law may be associated with a need to speak multiple languages; more specifically, which areas of the law in Saint Lucia, are more likely to require an understanding of  Saint Lucian Kwéyòl language.
+
+
++ *What is your average annual income?*
+
+Below 36,000 XCD
+
+36,001 XCD - 46,000 XCD
+
+46,001 XCD - 56,000 XCD
+
+56,001 XCD - 66,000 XCD
+
+66,001 XCD - 76,000 XCD 
+
+76,001 XCD - 86, 000 XCD 
+
+86,001 XCD - 96, 000 XCD 
+
+96,001 XCD - 106, 000 XCD 
+
+Above 106,001 XCD
+
+Choose not to respond
+
+
+Based on one's average salary per case, there could be an argument for the economic reinforcement of certain linguistic standards. It may be interesting to note if multilingual able to request and acquire more money due to their linguistic abilities. The Average Attorney Salary of a lawyer located in the sister island country of Dominica is around 2,950 XCD per month. It is said that salaries range from 1,360 XCD (lowest) to 4,680 XCD (highest). Yet, according to salaryexplorer.com, a Saint Lucian  Attorney typically earns around 5,500 XCD per month;  this is with salaries ranging from 2,530 XCD (lowest) to 8,750 XCD (highest). It should be noted that Saint Lucia's minimum wage rate was last changed at the beginning of 2013, yet it stands at XCD 300 a month for office clerks, XCD 200 for shop assistants, and XCD 160 for messengers according to minimum-wage.org.
+
++ *Do you speak, write, and/or read another language in addition to English?*
+
+Yes 
+
+No 
+
+
++ *Please mark your level of proficiency regarding your ability to speak, write, and/or read any of the languages listed below as Low (L), Medium (M), or High (H) in the appropriate column.*
+
+
+Column Titles: Speak, Write, Read, Understand
+
+Row Titles: English, Latin, Saint Lucian Kwéyòl (Antillean Creole/Patios), French, Spanish, Dutch, Portuguese, Hindi, Japanese, Mandarin, 
+
+Other (please specify)
+
+____________________
+
+
+This question is one of the most crucial to this study. English is listed as it is indeed the main language spoken (a prestige language) in Saint Lucia. Apart from modern English, legal (and medical) professionals can claim to be multilingual based on their foundational studies of Latin; placing this detail acknowledges this field facet. Saint Lucian Kwéyòl (Antillean Creole/Patios) is inquired about, as it is the heritage language of the island. French and Spanish are inquired about as they are common language offerings at all high schools on the island. Dutch, and Portuguese, and to a lesser extent Hindi and Gaelige/Irish, are other common languages to the rest of the Caribbean due to colonialization and indentured labor. Japanese is taught in Saint Lucia by humanitarian volunteers as part of their Japan International Cooperation Agency (JICA) work [jica.go.jp/stlucia/]. Due to an increased presence of Chinese investors and tourists in the Caribbean, and general funding of local projects by China, one's ability to understand Mandarin is becoming increasingly valuable.
+
+The column category "understand" was added to account for the possible occurrence of receptive bilingualism among lawyers in the Caribbean. This consideration is valid as multilingualism is prevalent in this region. Persons here may encounter various languages, yet have been unable to effectively respond. The presence of a prestige language, such as English, may draw speakers away from heritage languages;  these heritage languages can suffer from dropping numbers of speakers when receptive bilingualism is not followed up with focused efforts. 
+
+
+
++ *If you do speak more than one language, how did you come to learn each?
+
+Column Titles:
+
+Language
+
+As part of my school education (required)
+
+ As part of my school education (elective)
+
+As a personal interest (for career, personal enrichment, etc.)
+
+As part of communicating with my family and friends
+
+
+
+Row Titles:
+
+English
+
+Latin
+
+Saint Lucian Kwéyòl (Antillean Creole/Patios)
+
+French
+
+Spanish
+
+Dutch
+
+Portuguese
+
+Hindi
+
+Mandarin 
+
+Other (please specify)
+
+Choose not to respond
+
+Understanding where and how one engages in language learning might highlight environments that foster multilingualism in lawyers. The learning of certain languages may take place in formal and informal settings. In Saint Lucia, it is highly likely that most language education would be done in a formal school setting. Overall, the national heritage language of this island would typically be learned informally. Saint Lucian Kwéyòl only recently began being formally taught to young children (between the ages of 6-12) in less than a handful of schools, and adult learners; however, since the major fire at the National Folk Resource Center, most classes have reverted to more private sessions. 
+
+
++ *Please rank the following languages based on the frequency with which you encounter clients speaking the following languages.*
+
+Rank: 1= ver
+
+English
+
+Latin
+
+Saint Lucian Kwéyòl (Antillean Creole/Patios)
+
+French
+
+Spanish
+
+Dutch
+
+Portuguese
+
+Hindi
+
+Mandarin 
+
+Other (please specify)
+
+____________________
+
+Choose not to respond
+
+Since this survey is unable to acquire data from past clients, this question serves to address the languages that lawyers commonly encounter. The language one speaks is not guaranteed to be what is encountered. It will be interesting to note where the client and lawyer languages overlap and where they do not.
+
+
++ *Overall, how many languages do you speak, write, and/or read?*
+
+1
+
+2
+
+3
+
+4
+
+5+
+
+Choose not to respond
+
+Once again, apart from modern English, lawyers can claim to be multilingual based on their foundational studies of Latin. Specifically requesting quantification the number of languages spoken improves question clarity. Since English and Latin are most likely part of a lawyer's education, and French and Spanish are commonly taught in schools, a Saint Lucian Lawyer may have a base of four languages. Therefore a lawyer speaking more than four languages may demonstrate high levels of multilingualism, and perhaps creole may be one of the additional languages being acknowledged.
+
+
++ *If you do speak more than one language, has this skill been crucial to representing/communicating with a client?*
+
+Yes
+
+No
+
+Prefer not to respond
+
+This question seeks to understand the current and demand for multilingualism in lawyering, based on past demand. These details may reveal sufficiencies as well as insufficiencies concerning the adequate legal representation of  Saint Lucian clients. Saint Lucia is a multilingual country, and a lawyer with multiple languages may stand a better chance of not only attracting a diverse and numerous clientele base; reduced language barriers would allow lawyers to better relay facts, arguments, and sentiments of clients with diverse backgrounds.
+
++ *Do you agree that lawyers that practice in Saint Lucia, should understand more than one language?*
+
+1= "Strongly Agree" to	5= "Strongly Disagree"
+
+Prefer not to respond
+
+This question seeks to understand the current general attitudes towards multilingualism in lawyering. As stated before, these details may reveal sufficiencies as well as insufficiencies concerning the adequate legal representation of  Saint Lucian clients. Saint Lucia is a multilingual country, and a lawyer with multiple languages may stand a better chance of not only attracting a diverse and numerous clientele base; reduced language barriers would allow lawyers to better relay facts, arguments, and sentiments of clients with diverse backgrounds.
+
+
++ *Do you agree that lawyers that practice in Saint Lucia, should obtain a basic understanding of Kwéyòl (Antillean Creole/Patios)?*
+
+1= "Strongly Agree" to	5= "Strongly Disagree"
+
+Prefer not to respond
+
+
+This question seeks to understand the current specific attitudes towards multilingualism in Saint Lucia, and interacting local Kwéyòl (Antillean Creole/Patios) speaking clientele. This heritage language is the second most spoken language on the island. Reduced language barriers would allow lawyers to better relay facts, arguments, and sentiments of clients with the distinct Kwéyòl (Antillean Creole/Patios) speaking background.
+
+
++ *Have you ever encountered language barriers with Saint Lucian Kwéyòl speakers?*
+ 
+Yes
+
+No
+
+Prefer not to respond
+
+This question seeks to explore the boundaries of fluency required to interact with and represent a Saint Lucian Kwéyòl speaker. This may establish if there is or is not a need for lawyers to acquire the language. 
+
+
++ *Have you ever declined to represent a client or recommended a different lawyer to address a case due to perceived language barriers?*
+
+Yes
+
+No
+
+Prefer not to respond
+
+This question seeks to explore the personal linguistic limitations of lawyers in a multilingual environment. This may reinforce the perceived need for lawyers to acquire additional languages. 
+
+
+
+
+
+
+
+
+
+
+[Back to: Safety and security needs: Assets](https://llord1.github.io/2020/07/08/Assets)
+
