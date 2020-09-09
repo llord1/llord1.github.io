@@ -1,9 +1,9 @@
-
 ---
 layout: post
 title: "Assets: Assessing the link between crime and language"
 description: "Assessing the link between crime and language"
 tags: [Assets]
+
 ---
 {% include JB/setup %}
 
