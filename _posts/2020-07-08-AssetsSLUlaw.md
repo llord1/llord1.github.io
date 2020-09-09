@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title: "Assets: Assessing the link between crime and language"
@@ -12,12 +13,15 @@ tags: [Assets]
 
 ### Introduction:
 
-Several careers in society, aid providing a sense of safety and security to the public; these crucial services should therefore be carefully monitored to aid in their optimum performance. As recently as 2019, Sweden conducted a national study on health care professional's communication through an interpreter; this was done after noting that many parents in neonatal care are foreign-born and unable to effectively communicate with healthcare professionals (as they do not speak the local language) [pubmed.ncbi.nlm.nih.gov/31426785/]. The results indicated insufficient awareness of guidelines in all neonatal units and that additional training was required, particularly of nurse assistants. Indeed, careful consideration of language barriers can mean the difference between life and death in medicine as well as in law enforcement. Careful consideration of linguistics is increasing in the medical field. For example, a qualitative study was conducted on the perceptions of patient-provider communication in breast and cervical cancer-related care, when dealing with low-income English-and Spanish-speaking women; additionally, efforts made in another work to develop a culturally competent peer support intervention for Spanish-speaking Latinas with breast cancer.
+Several careers in society can contribute to providing the very general sense of safety and security that Maslow refers to in his famous hierarchy of needs. However, obvious, yet often overlooked issues in communication can mean the difference between life and death in fields such as medicine and law enforcement. Therefore, careful data collection and monitoring of these crucial services can enhance and optimize their performance. 
+
+In the medical field, thoughtful deliberation of linguistics, particularly consideration of language barriers, is increasing. As recently as 2019, Sweden conducted a national study on health care professional's communication through an interpreter; this was done after noting that many parents in neonatal care are foreign-born and unable to effectively communicate with healthcare professionals (as they do not speak the local language) {% cite patriksson2019health %}. Another qualitative study was conducted on the perceptions of patient-provider communication in breast and cervical cancer-related care when dealing with low-income English and Spanish-speaking women {% cite simon2013perceptions %}. Efforts were also made in a similar work that was conducted on competent peer support intervention for Spanish-speaking Latinas with breast cancer {% cite napoles2009developing %}. Additional work has been done to highlight communications issues between physicians and Spanish-speaking Latin American women with pelvic floor disorders {% cite sevilla2013communication %} ; this study highlighted that apart from patients’ lack of disease understanding was a lack of Spanish proficiency in physicians participating in our study.
+
 
 Spanish–English bilingual psychotherapists: Personal and professional language development and use.
 
 When nurses double as interpreters: a study of Spanish-speaking patients in a US primary care setting
-Communication between physicians and Spanish-speaking Latin American women with pelvic floor disorders: a cycle of misunderstanding?
+
 
 
 
@@ -380,10 +384,17 @@ This question seeks to explore the personal linguistic limitations of lawyers in
 
 
 
+## References:
 
+{% bibliography --cited %}
 
 
 
 
 [Back to: Safety and security needs: Assets](https://llord1.github.io/2020/07/08/Assets)
+
+
+
+
+
 
