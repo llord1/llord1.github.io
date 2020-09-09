@@ -5,8 +5,8 @@
         <description>Laurel's Works in Progress - Laurel Lord</description>
         <link>http://llord1.github.io</link>
         <atom:link href="http://llord1.github.io/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 07 Sep 2020 00:14:57 -0400</lastBuildDate>
-        <pubDate>Mon, 07 Sep 2020 00:14:57 -0400</pubDate>
+        <lastBuildDate>Tue, 08 Sep 2020 23:57:41 -0400</lastBuildDate>
+        <pubDate>Tue, 08 Sep 2020 23:57:41 -0400</pubDate>
         <ttl>60</ttl>
 
 
@@ -407,12 +407,13 @@ https://data.govt.lc/dataset/st-lucia-police-stations&lt;/p&gt;
 
 &lt;h3 id=&quot;introduction&quot;&gt;Introduction:&lt;/h3&gt;
 
-&lt;p&gt;Several careers in society, aid providing a sense of safety and security to the public; these crucial services should therefore be carefully monitored to aid in their optimum performance. As recently as 2019, Sweden conducted a national study on health care professional’s communication through an interpreter; this was done after noting that many parents in neonatal care are foreign-born and unable to effectively communicate with healthcare professionals (as they do not speak the local language) [pubmed.ncbi.nlm.nih.gov/31426785/]. The results indicated insufficient awareness of guidelines in all neonatal units and that additional training was required, particularly of nurse assistants. Indeed, careful consideration of language barriers can mean the difference between life and death in medicine as well as in law enforcement. Careful consideration of linguistics is increasing in the medical field. For example, a qualitative study was conducted on the perceptions of patient-provider communication in breast and cervical cancer-related care, when dealing with low-income English-and Spanish-speaking women; additionally, efforts made in another work to develop a culturally competent peer support intervention for Spanish-speaking Latinas with breast cancer.&lt;/p&gt;
+&lt;p&gt;Several careers in society can contribute to providing the very general sense of safety and security that Maslow refers to in his famous hierarchy of needs. However, obvious, yet often overlooked issues in communication can mean the difference between life and death in fields such as medicine and law enforcement. Therefore, careful data collection and monitoring of these crucial services can enhance and optimize their performance.&lt;/p&gt;
+
+&lt;p&gt;In the medical field, thoughtful deliberation of linguistics, particularly consideration of language barriers, is increasing. As recently as 2019, Sweden conducted a national study on health care professional’s communication through an interpreter; this was done after noting that many parents in neonatal care are foreign-born and unable to effectively communicate with healthcare professionals (as they do not speak the local language) &lt;a class=&quot;citation&quot; href=&quot;#patriksson2019health&quot;&gt;(Patriksson et al., 2019)&lt;/a&gt;. Another qualitative study was conducted on the perceptions of patient-provider communication in breast and cervical cancer-related care when dealing with low-income English and Spanish-speaking women &lt;a class=&quot;citation&quot; href=&quot;#simon2013perceptions&quot;&gt;(Simon et al., 2013)&lt;/a&gt;. Efforts were also made in a similar work that was conducted on competent peer support intervention for Spanish-speaking Latinas with breast cancer &lt;a class=&quot;citation&quot; href=&quot;#napoles2009developing&quot;&gt;(Nápoles-Springer et al., 2009)&lt;/a&gt;. Additional work has been done to highlight communications issues between physicians and Spanish-speaking Latin American women with pelvic floor disorders &lt;a class=&quot;citation&quot; href=&quot;#sevilla2013communication&quot;&gt;(Sevilla et al., 2013)&lt;/a&gt; ; this study highlighted that apart from patients’ lack of disease understanding was a lack of Spanish proficiency in physicians participating in our study.&lt;/p&gt;
 
 &lt;p&gt;Spanish–English bilingual psychotherapists: Personal and professional language development and use.&lt;/p&gt;
 
-&lt;p&gt;When nurses double as interpreters: a study of Spanish-speaking patients in a US primary care setting
-Communication between physicians and Spanish-speaking Latin American women with pelvic floor disorders: a cycle of misunderstanding?&lt;/p&gt;
+&lt;p&gt;When nurses double as interpreters: a study of Spanish-speaking patients in a US primary care setting&lt;/p&gt;
 
 &lt;p&gt;There are additional benefits to being a multilingual lawyer. As of 2015,  Brian Porro, the principal translator at the Directorate-General for Translation at the European Commission, eagerly sought to hire lawyer-linguists at the European Court of Justice; instead, he noted that there was “a dearth of suitably qualified prospective English candidates in law with an additional language” [theguardian.com/law/2015/jul/07/all]. Therefore, this scarcity of capable multilingual lawyers may allow for international law firms to extend higher salaries to bilingual employees. Moreover, Porro suggested that speaking additional languages facilitated better communication. He added that the very presence of a sub-discipline could highlight one’s ability to concentrate and deploy your language skills in legal practice. He also notes that one’s language skills could also provide opportunities to work abroad.&lt;/p&gt;
 
@@ -775,6 +776,13 @@ Identifying participant ethnicity/race is another standard demographic inquiry, 
 &lt;p&gt;Prefer not to respond&lt;/p&gt;
 
 &lt;p&gt;This question seeks to explore the personal linguistic limitations of lawyers in a multilingual environment. This may reinforce the perceived need for lawyers to acquire additional languages.&lt;/p&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References:&lt;/h2&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;patriksson2019health&quot;&gt;Patriksson, K., Wigert, H., Berg, M., &amp;amp; Nilsson, S. (2019). Health care professional’s communication through an interpreter where language barriers exist in neonatal care: a national study. &lt;i&gt;BMC Health Services Research&lt;/i&gt;, &lt;i&gt;19&lt;/i&gt;(1), 586. https://doi.org/10.1186/s12913-019-4428-z&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;simon2013perceptions&quot;&gt;Simon, M. A., Ragas, D. M., Nonzee, N. J., Phisuthikul, A. M., Luu, T. H., &amp;amp; Dong, X. Q. (2013). Perceptions of patient-provider communication in breast and cervical cancer-related care: a qualitative study of low-income English-and Spanish-speaking women. &lt;i&gt;Journal of Community Health&lt;/i&gt;, &lt;i&gt;38&lt;/i&gt;(4), 707–715. https://doi.org/https://doi.org/10.1007/s10900-013-9668-y&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;napoles2009developing&quot;&gt;Nápoles-Springer, A. M., Ortı́z Carmen, O’Brien, H., &amp;amp; Dı́az-Méndez Marynieves. (2009). Developing a culturally competent peer support intervention for Spanish-speaking Latinas with breast cancer. &lt;i&gt;Journal of Immigrant and Minority Health&lt;/i&gt;, &lt;i&gt;11&lt;/i&gt;(4), 268. https://doi.org/https://doi.org/10.1007/s10903-008-9128-4&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;sevilla2013communication&quot;&gt;Sevilla, C., Wieslander, C. K., Alas, A. N., Dunivan, G. C., Khan, A. A., Maliski, S. L., Rogers, R. G., &amp;amp; Anger, J. T. (2013). Communication between physicians and Spanish-speaking Latin American women with pelvic floor disorders: a cycle of misunderstanding? &lt;i&gt;Female Pelvic Medicine &amp;amp; Reconstructive Surgery&lt;/i&gt;, &lt;i&gt;19&lt;/i&gt;(2), 90.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://llord1.github.io/2020/07/08/Assets&quot;&gt;Back to: Safety and security needs: Assets&lt;/a&gt;&lt;/p&gt;
 
