@@ -3,7 +3,6 @@ layout: post
 title: "Assets: Assessing the link between crime and language"
 description: "Assessing the link between crime and language"
 tags: [Assets]
-
 ---
 {% include JB/setup %}
 
@@ -15,17 +14,45 @@ tags: [Assets]
 
 Several careers in society can contribute to providing the very general sense of safety and security that Maslow refers to in his famous hierarchy of needs. However, obvious, yet often overlooked issues in communication can mean the difference between life and death in fields such as medicine and law enforcement. Therefore, careful data collection and monitoring of these crucial services can enhance and optimize their performance. 
 
-In the medical field, thoughtful deliberation of linguistics, particularly consideration of language barriers, is increasing. As recently as 2019, Sweden conducted a national study on health care professional's communication through an interpreter; this was done after noting that many parents in neonatal care are foreign-born and unable to effectively communicate with healthcare professionals (as they do not speak the local language) {% cite patriksson2019health %}. Another qualitative study was conducted on the perceptions of patient-provider communication in breast and cervical cancer-related care when dealing with low-income English and Spanish-speaking women {% cite simon2013perceptions %}. Efforts were also made in a similar work that was conducted on competent peer support intervention for Spanish-speaking Latinas with breast cancer {% cite napoles2009developing %}. Additional work has been done to highlight communications issues between physicians and Spanish-speaking Latin American women with pelvic floor disorders {% cite sevilla2013communication %} ; this study highlighted that apart from patients’ lack of disease understanding was a lack of Spanish proficiency in physicians participating in our study.
-
-
-Spanish–English bilingual psychotherapists: Personal and professional language development and use.
-
-When nurses double as interpreters: a study of Spanish-speaking patients in a US primary care setting
+In the medical field, thoughtful deliberation of linguistics, particularly consideration of language barriers, is increasing. As recently as 2019, Sweden conducted a national study on health care professional's communication through an interpreter; this was done after noting that many parents in neonatal care are foreign-born and unable to effectively communicate with healthcare professionals (as they do not speak the local language) {% cite patriksson2019health %}. Another qualitative study was conducted on the perceptions of patient-provider communication in breast and cervical cancer-related care when dealing with low-income English and Spanish-speaking women {% cite simon2013perceptions %}. Efforts were also made in a similar work that was conducted on competent peer support intervention for Spanish-speaking Latinas with breast cancer {% cite napoles2009developing %}. Additional work has been done to highlight communications issues between physicians and Spanish-speaking Latin American women with pelvic floor disorders {% cite sevilla2013communication %}; this study highlighted that apart from patients’ lack of disease understanding was a lack of Spanish proficiency in physicians participating in our study. 
 
 
 
 
-There are additional benefits to being a multilingual lawyer. As of 2015,  Brian Porro, the principal translator at the Directorate-General for Translation at the European Commission, eagerly sought to hire lawyer-linguists at the European Court of Justice; instead, he noted that there was "a dearth of suitably qualified prospective English candidates in law with an additional language" [theguardian.com/law/2015/jul/07/all]. Therefore, this scarcity of capable multilingual lawyers may allow for international law firms to extend higher salaries to bilingual employees. Moreover, Porro suggested that speaking additional languages facilitated better communication. He added that the very presence of a sub-discipline could highlight one's ability to concentrate and deploy your language skills in legal practice. He also notes that one's language skills could also provide opportunities to work abroad.
+More interesting in the pivot of looking at persons who are already multilingual in a field, and noting if they have sufficient training and resources when their primary language is not the dominant language of the country in which they practice. One study did investigate Spanish–English bilingual psychotherapists and their Personal and professional language development and use. Another study was conducted on instances where  nurses double as interpreters (a study of Spanish-speaking patients in a US primary care setting).
+
+
+The consideration for a legal system's ties to linguistics is not new, however, the topic has not been thoroughly explored (particularly in extensively multilingual and multicultural settings such as the Caribbean). 
+
+
+What is legal aid in Saint Lucia like? Legal Aid In St. Lucia?
+
+ Charter on Language Policy and Language Rights in the Creole-Speaking Caribbean January 2011
+Considering that the International Covenant on Civil and Political Rights (Article 14) and the American Convention on Human Rights (Article 8) guarantee the right of an accused person to be assisted, without charge, by an interpreter if he does not understand or speak the language of the court; 
+
+Proper legal representation can mean the difference between life and death in Caribbean, as some countries, despite the efforts of Amnesty International, retain the mandatory death penalty. While the Cornell Centre (on the death penalty worldwide) indicated that Saint Lucia has not executed a prisoner since 1995, the action is still observed in its legislation. As of early 2019, the National Security Minister of Saint Lucia, Hermangild Francis highlighted plans for constitutional reform, and tha the issue of the death penalty had the possiblity of being reviewed by the public (despite his support for retaining current standards).
+
+
+
+
+Broadly, crime control and prevention strategies may be designed to (a) systematically treat the root causes of crime (b) make populations more resilient to criminality (c) strengthen the ability of the responsible institutions to respond to crime in all of its various expressions. In the language of the public health officials, the first would represent a kind of primary prevention.
+So this is a problem because they are not looking at language ; most of the commentary on suggestions was mostly about working on "modernizing police-citizen relations", they focused on the latest techniques and technologies, rather than improving direct communication skills with civilians 
+
+
+
+
+Lawyering in a fairly multilingual setting is can be a bit more challenging than lawyering in environments with very little linguistic diversity. One Caribbean academic did express the lack of study on crime and language in Saint Lucia, when.... ocurred, however, these details did not appear to be followed up on further {% cite mendes-franco_2020 %}. .
+
+
+In a 2020 interview, Trinidadian linguist Jo-Anne Ferreira stated that "Bilingualism and multilingualism are normal around the world. The problem is we like to think of bilingualism as good only if it includes a language with status" {% cite mendes-franco_2020 %}. 
+
+
+During the summer 2020 conference for the Society for Caribbean Linguistics
+
+Very little has been done to understand the link between lingusitics and legal affairs in a country 
+
+
+There are indeed benefits to being a multilingual lawyer. As of 2015,  Brian Porro, the principal translator at the Directorate-General for Translation at the European Commission, eagerly sought to hire lawyer-linguists at the European Court of Justice; instead, he noted that there was "a dearth of suitably qualified prospective English candidates in law with an additional language" [theguardian.com/law/2015/jul/07/all]. Therefore, this scarcity of capable multilingual lawyers may allow for international law firms to extend higher salaries to bilingual employees. Moreover, Porro suggested that speaking additional languages facilitated better communication. He added that the very presence of a sub-discipline could highlight one's ability to concentrate and deploy your language skills in legal practice. He also notes that one's language skills could also provide opportunities to work abroad.
 
 
 Lawyer as translator representation as text: Towards an ethnography of legal discourse
@@ -47,6 +74,7 @@ Currently, lawyer demographics in Saint Lucia (SLU) do not appear to be centrall
 Saint Lucia's National Environmental Information System (NEIS)  has been one of the latest governmental attempts at collecting and organizing national data [data.govt.lc/dataset]. This "Project Reporting System for Multilateral Environmental Agreement (MEA) Implementation and Environmental Information Management" is regarded as a "legal instrument with binding effects on countries that have agreed to become parties".  Saint Lucia's participation in this international agreement, enhances global agreements and sustainable development projects moving forward. However, one current category that highlights the "employed labor force by industry", is classified as having a low priority level.
 
 A need for additional data regarding lawyer demographics in Saint Lucia has been identified. To address this need, while following social distancing protocols, an online survey has been selected as the tool of data collection. Ultimately, such a survey can be applied to lawyers, nurses, or police officers - any profession that requires direct extended interaction with a citizen to provide a sense of safety and security.
+
 
 
 
@@ -389,12 +417,4 @@ This question seeks to explore the personal linguistic limitations of lawyers in
 {% bibliography --cited %}
 
 
-
-
 [Back to: Safety and security needs: Assets](https://llord1.github.io/2020/07/08/Assets)
-
-
-
-
-
-
