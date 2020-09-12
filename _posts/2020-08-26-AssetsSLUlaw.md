@@ -14,12 +14,14 @@ tags: [Assets]
 
 Several careers in society can contribute to providing the very general sense of safety and security that Maslow refers to in his famous hierarchy of needs. However, obvious, yet often overlooked issues in communication can mean the difference between life and death in fields such as medicine and law enforcement. Therefore, careful data collection and monitoring of these crucial services can enhance and optimize their performance. 
 
-In the medical field, thoughtful deliberation of linguistics, particularly consideration of language barriers, is increasing. As recently as 2019, Sweden conducted a national study on health care professional's communication through an interpreter; this was done after noting that many parents in neonatal care are foreign-born and unable to effectively communicate with healthcare professionals (as they do not speak the local language) {% cite patriksson2019health %}. Another qualitative study was conducted on the perceptions of patient-provider communication in breast and cervical cancer-related care when dealing with low-income English and Spanish-speaking women {% cite simon2013perceptions %}. Efforts were also made in a similar work that was conducted on competent peer support intervention for Spanish-speaking Latinas with breast cancer {% cite napoles2009developing %}. Additional work has been done to highlight communications issues between physicians and Spanish-speaking Latin American women with pelvic floor disorders {% cite sevilla2013communication %}; this study highlighted that apart from patients’ lack of disease understanding was a lack of Spanish proficiency in physicians participating in our study. 
+In the medical field, thoughtful deliberation of linguistics, particularly consideration of language barriers, is increasing. As recently as 2019, Sweden conducted a national study on health care professionals' communications through interpreters; this was done after noting that many parents utilizing neonatal care were foreign-born and unable to effectively communicate with healthcare professionals (as they do not speak the local language) {% cite patriksson2019health %}. Before that, in 2013, linguistic work had been done to highlight communications issues between physicians and Spanish-speaking Latin American women with pelvic floor disorders {% cite sevilla2013communication %}; this study highlighted that apart from patients’ lack of disease understanding, there was a lack of Spanish proficiency among the participating physicians. Another 2013 qualitative study conducted on linguistics, centered around the perceptions of patient-provider communication in breast and cervical cancer-related care when dealing with low-income English and Spanish-speaking women {% cite simon2013perceptions %}. In 2009, efforts were been made in a similar work that was conducted on competent peer support intervention for Spanish-speaking Latinas with breast cancer {% cite napoles2009developing %}. 
+
+Questioning the possible ties of linguistics to various professions is not necessarily new, yet few resources have been dedicated to reducing communication issues in multilingual countries.
 
 
 
 
-More interesting in the pivot of looking at persons who are already multilingual in a field, and noting if they have sufficient training and resources when their primary language is not the dominant language of the country in which they practice. One study did investigate Spanish–English bilingual psychotherapists and their Personal and professional language development and use. Another study was conducted on instances where  nurses double as interpreters (a study of Spanish-speaking patients in a US primary care setting).
+More interesting in the pivot of looking at persons who are already multilingual in a field, and noting if they have sufficient training and resources when their primary language is not the dominant language of the country in which they practice. One study did investigate Spanish–English bilingual psychotherapists and their Personal and professional language development and use. Another study was conducted on instances where nurses double as interpreters (a study of Spanish-speaking patients in a US primary care setting).
 
 
 The consideration for a legal system's ties to linguistics is not new, however, the topic has not been thoroughly explored (particularly in extensively multilingual and multicultural settings such as the Caribbean). 
@@ -30,7 +32,11 @@ What is legal aid in Saint Lucia like? Legal Aid In St. Lucia?
  Charter on Language Policy and Language Rights in the Creole-Speaking Caribbean January 2011
 Considering that the International Covenant on Civil and Political Rights (Article 14) and the American Convention on Human Rights (Article 8) guarantee the right of an accused person to be assisted, without charge, by an interpreter if he does not understand or speak the language of the court; 
 
-Proper legal representation can mean the difference between life and death in Caribbean, as some countries, despite the efforts of Amnesty International, retain the mandatory death penalty. While the Cornell Centre (on the death penalty worldwide) indicated that Saint Lucia has not executed a prisoner since 1995, the action is still observed in its legislation. As of early 2019, the National Security Minister of Saint Lucia, Hermangild Francis highlighted plans for constitutional reform, and tha the issue of the death penalty had the possiblity of being reviewed by the public (despite his support for retaining current standards).
+You also believe that our attitude toward language has ripple effects.
+JAF: Crime is linked to lack of jobs, [which] is linked to lack of education, [which] is linked to lack of language access. Is nobody seeing the link twixt crime and language?
+
+
+Proper legal representation can mean the difference between life and death in the Caribbean, as some countries, despite the efforts of Amnesty International, retain the mandatory death penalty. While the Cornell Centre (on the death penalty worldwide) indicated that Saint Lucia has not executed a prisoner since 1995, the action is still observed in its legislation. As of early 2019, the National Security Minister of Saint Lucia, Hermangild Francis highlighted plans for constitutional reform, and tha the issue of the death penalty had the possiblity of being reviewed by the public (despite his support for retaining current standards).
 
 
 
@@ -81,6 +87,8 @@ A need for additional data regarding lawyer demographics in Saint Lucia has been
 ### Questions:
 
 + Assessing the link between crime and language. Could miscommunication between prestige and heritage language speakers hinder legal defenses? Are there any metrics on lawyers' multilingual lawyers on the island? Are there any laws related to representation requirements (do lawyers assess the language needs of clients to decide how best to assist them)? What are the rates of incarceration of predominantly Saint Lucian Kwéyòl language speakers? What are the inmate metrics per district of origin (there is a popular belief that most Saint Lucian Kwéyòl language speakers are located in the Southern part of the country)?
+
+[See draft survey with consent form here](https://forms.gle/8yUuGYaCidMgbN5E8)
 
 
 ### Methodology: 
