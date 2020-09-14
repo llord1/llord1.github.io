@@ -1,0 +1,1628 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+        <title>Laurel's Works in Progress</title>
+        <description>Laurel's Works in Progress - Laurel Lord</description>
+        <link>http://llord1.github.io</link>
+        <atom:link href="http://llord1.github.io/rss.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Sun, 13 Sep 2020 23:35:45 -0400</lastBuildDate>
+        <pubDate>Sun, 13 Sep 2020 23:35:45 -0400</pubDate>
+        <ttl>60</ttl>
+
+
+        <item>
+                <title>Survey Consent:Lawyers</title>
+                <description>
+&lt;p&gt;&lt;strong&gt;Institutional Review Board&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Harrisburg University of Science and Technology&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Participation Consent Agreement&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The research study, titled Linguistic Representation has been approved by the Institutional Review Board (IRB) of Harrisburg University of Science and Technology (HU). This research study is led by Laurel Lord, a Ph. D. candidate of Data Science Department at HU. The Faculty Advisor for this study is Dr. Ford, Professor of Analytics.&lt;/p&gt;
+
+&lt;p&gt;This study is being conducted in compliance with the standards and guidelines given by the HU IRB. The Collaborative Institution Training Initiative (CITI) Program has certified the researcher, Laurel Lord, for human-subject research.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Purpose of the Study&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The purpose of this research is to identify patterns of linguistic legal representation on the multilingual island of Saint Lucia; there will be specific focus on the second most prevalent language, yet endangered, heritage language of “Saint Lucian Kwéyòl”. The responses of participants will run be through textual analytical tools to provide insight on the legal environment that Saint Lucians, particularly Kwéyòl speakers, face.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Participant Tasks&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Each participant is asked to fill out an online survey to provide their basic demographic details, opinions of their multilingual capacities, and the current linguistic legal environment. Due to the simplistic nature of the questions, each participant is expected to be able to complete the form in less than 30 minutes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Participant Risks and Discomforts&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;There is no anticipated risk for the participant in this research. All information will be protected, and the confidentiality of the data will be maintained throughout the course of this research.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Survey Benefits&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Collection of profession specific labor statistic data is uncommon in Saint Lucia, and there appears to be low societal consideration of the increasing multilingual environment; therefore, data collection and  analysis of this specific occupation could provide a template for profession specific data collection, and improve legal representation.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Participant Compensation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;There is no compensation for participation.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Privacy/Confidentiality/Data Security&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The data collected will be saved in a standard hard drive for three years; non-identifiable data will be submitted to the Bar Association of Saint Lucia, and The Central Statistical Office of Saint Lucia.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Participation is Voluntary&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Survey participation is voluntary, and individuals may choose not to participate if uncomfortable with answering any of the questions after signing the consent form by withdrawing from the survey.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Inquires/Questions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Any questions may be directed to Laurel Lord at LAlord@my.harrisburgu.edu. Questions or concerns regarding your rights as a subject in this study, may be directed to HU IRB via 717-901-5100 or via their website at harrisburgu.edu.&lt;/p&gt;
+</description>
+                <link>http://llord1.github.io/2020/08/26/LawConsent</link>
+                <guid>http://llord1.github.io/2020/08/26/LawConsent</guid>
+                <pubDate>Wed, 26 Aug 2020 00:00:00 -0400</pubDate>
+        </item>
+
+        <item>
+                <title>Assets: Assessing the link between crime and language</title>
+                <description>
+&lt;h3 id=&quot;safety-and-security-needs-can-be-explored-as-topics-related-to-assets&quot;&gt;&lt;strong&gt;&lt;em&gt;Safety and security needs&lt;/em&gt;&lt;/strong&gt; can be explored as topics related to &lt;strong&gt;&lt;em&gt;Assets&lt;/em&gt;&lt;/strong&gt;.&lt;/h3&gt;
+
+&lt;h3 id=&quot;introduction&quot;&gt;Introduction:&lt;/h3&gt;
+
+&lt;p&gt;Several careers in society can contribute to providing the very general sense of safety and security that Maslow refers to in his famous hierarchy of needs. However, obvious, yet often overlooked issues in communication can mean the difference between life and death in fields such as medicine and law enforcement. Therefore, careful data collection and monitoring of these crucial services can enhance and optimize their performance.&lt;/p&gt;
+
+&lt;p&gt;In the medical field, thoughtful deliberation of linguistics, particularly consideration of language barriers, is increasing. As recently as 2019, Sweden conducted a national study on health care professionals’ communications through interpreters; this was done after noting that many parents utilizing neonatal care were foreign-born and unable to effectively communicate with healthcare professionals (as they do not speak the local language) &lt;a class=&quot;citation&quot; href=&quot;#patriksson2019health&quot;&gt;(Patriksson et al., 2019)&lt;/a&gt;. Before that, in 2013, linguistic work had been done to highlight communications issues between physicians and Spanish-speaking Latin American women with pelvic floor disorders &lt;a class=&quot;citation&quot; href=&quot;#sevilla2013communication&quot;&gt;(Sevilla et al., 2013)&lt;/a&gt;; this study highlighted that apart from patients’ lack of disease understanding, there was a lack of Spanish proficiency among the participating physicians. Another 2013 qualitative study conducted on linguistics, centered around the perceptions of patient-provider communication in breast and cervical cancer-related care when dealing with low-income English and Spanish-speaking women &lt;a class=&quot;citation&quot; href=&quot;#simon2013perceptions&quot;&gt;(Simon et al., 2013)&lt;/a&gt;. In 2009, efforts were been made in a similar work that was conducted on competent peer support intervention for Spanish-speaking Latinas with breast cancer &lt;a class=&quot;citation&quot; href=&quot;#napoles2009developing&quot;&gt;(Nápoles-Springer et al., 2009)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Questioning the possible ties of linguistics to various professions is not necessarily new, yet few resources have been dedicated to detecting communication issues and improving communication within multilingual countries.&lt;/p&gt;
+
+&lt;p&gt;More interesting in the pivot of looking at persons who are already multilingual in a field, and noting if they have sufficient training and resources when their primary language is not the dominant language of the country in which they practice. One study did investigate Spanish–English bilingual psychotherapists and their Personal and professional language development and use. Another study was conducted on instances where nurses double as interpreters (a study of Spanish-speaking patients in a US primary care setting).&lt;/p&gt;
+
+&lt;p&gt;The consideration for a legal system’s ties to linguistics is not new, however, the topic has not been thoroughly explored (particularly in extensively multilingual and multicultural settings such as the Caribbean).&lt;/p&gt;
+
+&lt;p&gt;What is legal aid in Saint Lucia like? Legal Aid In St. Lucia?&lt;/p&gt;
+
+&lt;p&gt;Charter on Language Policy and Language Rights in the Creole-Speaking Caribbean January 2011
+Considering that the International Covenant on Civil and Political Rights (Article 14) and the American Convention on Human Rights (Article 8) guarantee the right of an accused person to be assisted, without charge, by an interpreter if he does not understand or speak the language of the court;&lt;/p&gt;
+
+&lt;p&gt;You also believe that our attitude toward language has ripple effects.
+JAF: Crime is linked to lack of jobs, [which] is linked to lack of education, [which] is linked to lack of language access. Is nobody seeing the link twixt crime and language?&lt;/p&gt;
+
+&lt;p&gt;Proper legal representation can mean the difference between life and death in the Caribbean, as some countries, despite the efforts of Amnesty International, retain the mandatory death penalty. While the Cornell Centre (on the death penalty worldwide) indicated that Saint Lucia has not executed a prisoner since 1995, the action is still observed in its legislation. As of early 2019, the National Security Minister of Saint Lucia, Hermangild Francis highlighted plans for constitutional reform, and tha the issue of the death penalty had the possiblity of being reviewed by the public (despite his support for retaining current standards).&lt;/p&gt;
+
+&lt;p&gt;Broadly, crime control and prevention strategies may be designed to (a) systematically treat the root causes of crime (b) make populations more resilient to criminality (c) strengthen the ability of the responsible institutions to respond to crime in all of its various expressions. In the language of the public health officials, the first would represent a kind of primary prevention.
+So this is a problem because they are not looking at language ; most of the commentary on suggestions was mostly about working on “modernizing police-citizen relations”, they focused on the latest techniques and technologies, rather than improving direct communication skills with civilians&lt;/p&gt;
+
+&lt;p&gt;Lawyering in a fairly multilingual setting is can be a bit more challenging than lawyering in environments with very little linguistic diversity. One Caribbean academic did express the lack of study on crime and language in Saint Lucia, when…. ocurred, however, these details did not appear to be followed up on further &lt;a class=&quot;citation&quot; href=&quot;#mendes-franco_2020&quot;&gt;(Mendes-Franco, 2020)&lt;/a&gt;. .&lt;/p&gt;
+
+&lt;p&gt;In a 2020 interview, Trinidadian linguist Jo-Anne Ferreira stated that “Bilingualism and multilingualism are normal around the world. The problem is we like to think of bilingualism as good only if it includes a language with status” &lt;a class=&quot;citation&quot; href=&quot;#mendes-franco_2020&quot;&gt;(Mendes-Franco, 2020)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;During the summer 2020 conference for the Society for Caribbean Linguistics&lt;/p&gt;
+
+&lt;p&gt;Very little has been done to understand the link between lingusitics and legal affairs in a country&lt;/p&gt;
+
+&lt;p&gt;There are indeed benefits to being a multilingual lawyer. As of 2015,  Brian Porro, the principal translator at the Directorate-General for Translation at the European Commission, eagerly sought to hire lawyer-linguists at the European Court of Justice; instead, he noted that there was “a dearth of suitably qualified prospective English candidates in law with an additional language” [theguardian.com/law/2015/jul/07/all]. Therefore, this scarcity of capable multilingual lawyers may allow for international law firms to extend higher salaries to bilingual employees. Moreover, Porro suggested that speaking additional languages facilitated better communication. He added that the very presence of a sub-discipline could highlight one’s ability to concentrate and deploy your language skills in legal practice. He also notes that one’s language skills could also provide opportunities to work abroad.&lt;/p&gt;
+
+&lt;p&gt;Lawyer as translator representation as text: Towards an ethnography of legal discourse
+The Lawyer-Client Relationship in Immigration Law
+The impact of politeness in witness testimony: The influence of the court interpreter
+[PDF] Corpus study carried out on three “legal” verbs to demonstrate their similar and different usage for the purposes of legal translators and lawyer-linguists. 20
+Latin América: A Challenge to the Common Lawyer&lt;/p&gt;
+
+&lt;p&gt;While data collection on the various professions can be conducted by private companies, it is typically undertaken by government-backed labor agencies, to ensure that the data is freely available to the public. In America, the U.S. Bureau of Labor Statistics collects such data and hosts it on a public website [bls.gov]. While not all developing nations have been able to dedicate resources to the close monitoring of this data, its value is increasingly recognized.&lt;/p&gt;
+
+&lt;p&gt;While the U.S. Bureau of Labor Statistics provides general information on the demographics of the lawyers in the country, the American Bar Association (ABA) gathers more detailed information on Legal Profession Statistics [americanbar.org] [bls.gov]. Their current statistical data is used to assist with research on lawyers and the legal profession. Their website notes data on the topics of lawyer demographics (including matters of disability, women, and minority/people of color). It also encompasses justice system statistics (including topics on public perception of justice system/lawyers and the justice system), court statistics (including cases filed, and criminal justice statistics). this association also notes the topics of law students and education and legal salaries (and related attrition/retention data).&lt;/p&gt;
+
+&lt;p&gt;Currently, lawyer demographics in Saint Lucia (SLU) do not appear to be centrally gathered. The 2016 Labour Force Survey, made publicly available by The Central Statistical Office of SLU, did inquire into participants’ industry - “What is the name of the business where you/……. work? What type of activity is carried on there?” &lt;a class=&quot;citation&quot; href=&quot;#govtSLU_Labour_2019&quot;&gt;(of Saint Lucia, 2019)&lt;/a&gt;. However, the dataset ultimately appears to have been simplified to the point where details on individual professions were rendered indiscernible. The closest response, related to lawyers, would be one that highlighted “professional, scientific and technical activities”; this made up 1.0%  (51 participants) of the survey. A representative of The Central Statistical Office of SLU stated that the data in the country’s 2016 Labour Force Survey was “not disaggregated in such a way to get a count of all lawyers” &lt;a class=&quot;citation&quot; href=&quot;#govtSLU_Labour_2019&quot;&gt;(of Saint Lucia, 2019)&lt;/a&gt;. It was also stated that since the 2016 Labour Force Survey “utilizes a sample if it were to give a figure it would not be representative” &lt;a class=&quot;citation&quot; href=&quot;#govtSLU_Labour_2019&quot;&gt;(of Saint Lucia, 2019)&lt;/a&gt;. Ultimately, even the president of the Bar Association of SLU, also confirmed that she was unaware of the departments of government bearing statistical data specific to lawyers&lt;/p&gt;
+
+&lt;p&gt;Saint Lucia’s National Environmental Information System (NEIS)  has been one of the latest governmental attempts at collecting and organizing national data &lt;a class=&quot;citation&quot; href=&quot;#govtSLU_NEIS_2019&quot;&gt;(of Saint Lucia, 2019)&lt;/a&gt;, &lt;a class=&quot;citation&quot; href=&quot;#govtSLU_NEIS&quot;&gt;(of Saint Lucia, n.d.)&lt;/a&gt;, &lt;a class=&quot;citation&quot; href=&quot;#govtSLUdata&quot;&gt;(of Saint Lucia, n.d.)&lt;/a&gt;. This “Project Reporting System for Multilateral Environmental Agreement (MEA) Implementation and Environmental Information Management” is regarded as a “legal instrument with binding effects on countries that have agreed to become parties” &lt;a class=&quot;citation&quot; href=&quot;#govtSLU_NEIS&quot;&gt;(of Saint Lucia, n.d.)&lt;/a&gt;.  Saint Lucia’s participation in this international agreement, enhances global agreements and sustainable development projects moving forward. However, one current category that highlights the “employed labor force by industry”, is classified as having a low priority level.&lt;/p&gt;
+
+&lt;p&gt;A need for additional data regarding lawyer demographics in Saint Lucia has been identified. To address this need, while following social distancing protocols, an online survey has been selected as the tool of data collection. Ultimately, such a survey can be applied to lawyers, nurses, or police officers - any profession that requires direct extended interaction with a citizen to provide a sense of safety and security.&lt;/p&gt;
+
+&lt;h3 id=&quot;questions&quot;&gt;Questions:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Assessing the link between crime and language. Could miscommunication between prestige and heritage language speakers hinder legal defenses? Are there any metrics on lawyers’ multilingual lawyers on the island? Are there any laws related to representation requirements (do lawyers assess the language needs of clients to decide how best to assist them)? What are the rates of incarceration of predominantly Saint Lucian Kwéyòl language speakers? What are the inmate metrics per district of origin (there is a popular belief that most Saint Lucian Kwéyòl language speakers are located in the Southern part of the country)?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://forms.gle/8yUuGYaCidMgbN5E8&quot;&gt;See draft survey with consent form here&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;methodology&quot;&gt;Methodology:&lt;/h3&gt;
+
+&lt;p&gt;Chi-square test of independence&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Survey design (questions)&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;1. Please select your age:&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Less than 18&lt;/p&gt;
+
+&lt;p&gt;18-24&lt;/p&gt;
+
+&lt;p&gt;25-29&lt;/p&gt;
+
+&lt;p&gt;30-34&lt;/p&gt;
+
+&lt;p&gt;35-39&lt;/p&gt;
+
+&lt;p&gt;40-44&lt;/p&gt;
+
+&lt;p&gt;45-49&lt;/p&gt;
+
+&lt;p&gt;50-54&lt;/p&gt;
+
+&lt;p&gt;55-59&lt;/p&gt;
+
+&lt;p&gt;60-64&lt;/p&gt;
+
+&lt;p&gt;65-69&lt;/p&gt;
+
+&lt;p&gt;70 or older&lt;/p&gt;
+
+&lt;p&gt;Choose not to respond&lt;/p&gt;
+
+&lt;p&gt;The age range (multiple choice) was based on the ABA data that indicates lawyers typically obtain higher education levels beyond high-school and remain in practice past the age of 65 [source]; the median age of all U.S. workers was 42.3 years old, yet very few lawyers are younger than 25 and the median age for U.S. lawyers in 2019 was 47.5 years old. This question is posed as a standard demographic question, yet it is also important as speaks to the current and future state of the legal linguistic environment. Noting age may highlight multilingualism trends among age groups. For example, if multilingualism is more prominent in the younger lawyers, then the projection of multilingual representation would be positive. However, if multilingual tendencies are clustered among older lawyers, then this study may serve to highlight needed points of improvement in the legal system in an increasingly multilingual society.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;2. Which of the following best describe (s) you?&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Man&lt;/p&gt;
+
+&lt;p&gt;Woman&lt;/p&gt;
+
+&lt;p&gt;Choose not to respond&lt;/p&gt;
+
+&lt;p&gt;Other (please specify)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Gender identification is another standard (multiple choice) demographic question, however, it is useful to gather this data check whether the August 2020 American trend of men outnumbering women (especially in leadership), is replicated in and persistent in the Caribbean country of Saint Lucia [americanbar.org] [clio.com/resources][attorneyatwork.com]. There may also be a need to highlight if there are any differences in linguistics interests among the lawyers. Females are often believed to be more capable of and interested in linguistic acquisition and practice. Data gathered could confirm or dispute this assumption.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;3. Which of the following best describe (s) your ethnicity/race?&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;American Indian/Alaska Native/Amerindian (Native Caribbean People)&lt;/p&gt;
+
+&lt;p&gt;Black/African/Afro-Caribbean&lt;/p&gt;
+
+&lt;p&gt;White/North European&lt;/p&gt;
+
+&lt;p&gt;Mediterranean (Greek, Italian, Turkish, Syrian, etc.)&lt;/p&gt;
+
+&lt;p&gt;Hispanic/ Latino (Mexican, Central or South American, or other Spanish or Portuguese etc.)&lt;/p&gt;
+
+&lt;p&gt;Indian subcontinent&lt;/p&gt;
+
+&lt;p&gt;SE Asian/Chinese/Native Hawaiian/ Other Pacific Islander&lt;/p&gt;
+
+&lt;p&gt;Mixed parentage&lt;/p&gt;
+
+&lt;p&gt;Not known&lt;/p&gt;
+
+&lt;p&gt;Choose not to respond&lt;/p&gt;
+
+&lt;p&gt;Other:&lt;/p&gt;
+
+&lt;p&gt;While the ABA noted that “most state bars and state licensing agencies do not track race and ethnicity in the profession”, in 2020 there was an increase in this type of data collection &lt;a class=&quot;citation&quot; href=&quot;#ABA2020Profile&quot;&gt;(Association, n.d.)&lt;/a&gt;, &lt;a class=&quot;citation&quot; href=&quot;#clio_2020&quot;&gt;(Clio, 2020)&lt;/a&gt;, &lt;a class=&quot;citation&quot; href=&quot;#AttorneyAtWork_2019&quot;&gt;(“Five Ways the Legal Profession Is Changing, But Slowly,” 2019)&lt;/a&gt;. As of 2010, only 11.4% of all American lawyers were men and women of color, and this only rose to 14.1% in 2020 &lt;a class=&quot;citation&quot; href=&quot;#ABA2020Profile&quot;&gt;(Association, n.d.)&lt;/a&gt;, &lt;a class=&quot;citation&quot; href=&quot;#clio_2020&quot;&gt;(Clio, 2020)&lt;/a&gt;, &lt;a class=&quot;citation&quot; href=&quot;#AttorneyAtWork_2019&quot;&gt;(“Five Ways the Legal Profession Is Changing, But Slowly,” 2019)&lt;/a&gt;. In developed countries, like America, it is said that minorities remain underrepresented in the legal profession; however, there is limited information on the legal environment of the Caribbean-an environment where the majority of the population would historically be non-white. As of the 2010 Saint Lucian census, the “ethnic group” of 
+“African Descents” represented about 85.28 percent of the population (the highest); this was distantly followed by the “Mixed” category with 10.85 percent, and the “East Indian” at 2.16 percent &lt;a class=&quot;citation&quot; href=&quot;#CSO_SLU2010&quot;&gt;(CSO, n.d.)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Additionally, one’s household and upbringing may shape or influence one’s interests. Multiculturalism is quite prevalent in the Caribbean, however, one’s multilingualism might be impacted by one’s upbringing. While formal education may be a primary factor in one’s language acquisition, various states of immigration over generations, or other forms of diversity in one’s household, might influence their linguistic capacities.
+Identifying participant ethnicity/race is another standard demographic inquiry, nevertheless, it is needed here to highlight if there are any differences in linguistics interests among the lawyers based on their backgrounds.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;4. How many years have you been in practice (number of years since your first call to the bar in the Common-Wealth)?&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Less than 1&lt;/p&gt;
+
+&lt;p&gt;1-5&lt;/p&gt;
+
+&lt;p&gt;6-10&lt;/p&gt;
+
+&lt;p&gt;11-15&lt;/p&gt;
+
+&lt;p&gt;16-20&lt;/p&gt;
+
+&lt;p&gt;21-25&lt;/p&gt;
+
+&lt;p&gt;26-30&lt;/p&gt;
+
+&lt;p&gt;31 or more&lt;/p&gt;
+
+&lt;p&gt;Choose not to respond&lt;/p&gt;
+
+&lt;p&gt;This is not a typical demographic question, however, it is one that can reveal data on the vibrancy or stagnancy of the field in terms of linguistics. This is an attempt to pinpoint how long one can thrive in an industry without the need for multilingual skills. It will be interesting to explore if career longevity is strongly or weakly associated with one’s linguistic acquisitions.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;5. In what law-related environment are you currently working?&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In private practice, in a firm with less than 5 lawyers&lt;/p&gt;
+
+&lt;p&gt;In private practice, in a firm with 5-15 lawyers&lt;/p&gt;
+
+&lt;p&gt;In private practice, in a firm with 16-25 lawyers&lt;/p&gt;
+
+&lt;p&gt;In private practice, in a firm with 26-50 lawyers&lt;/p&gt;
+
+&lt;p&gt;In private practice, in a firm with 51 or more lawyers&lt;/p&gt;
+
+&lt;p&gt;In government&lt;/p&gt;
+
+&lt;p&gt;In a not for profit organization&lt;/p&gt;
+
+&lt;p&gt;In an academic institution&lt;/p&gt;
+
+&lt;p&gt;Choose not to respond&lt;/p&gt;
+
+&lt;p&gt;Other (please specify)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Lawyers may choose to focus on different areas of the law. The cliental they encounter may be influenced by this specialization. Inquiring into one’s area of specialization will highlight which areas of the law may be associated with a need to speak multiple languages; more specifically, which areas of the law in Saint Lucia, are more likely to require an understanding of  Saint Lucian Kwéyòl language.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;6. What is your average annual income?&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Below 36,000 XCD&lt;/p&gt;
+
+&lt;p&gt;36,001 XCD - 46,000 XCD&lt;/p&gt;
+
+&lt;p&gt;46,001 XCD - 56,000 XCD&lt;/p&gt;
+
+&lt;p&gt;56,001 XCD - 66,000 XCD&lt;/p&gt;
+
+&lt;p&gt;66,001 XCD - 76,000 XCD&lt;/p&gt;
+
+&lt;p&gt;76,001 XCD - 86, 000 XCD&lt;/p&gt;
+
+&lt;p&gt;86,001 XCD - 96, 000 XCD&lt;/p&gt;
+
+&lt;p&gt;96,001 XCD - 106, 000 XCD&lt;/p&gt;
+
+&lt;p&gt;Above 106,001 XCD&lt;/p&gt;
+
+&lt;p&gt;Choose not to respond&lt;/p&gt;
+
+&lt;p&gt;Based on one’s average salary per case, there could be an argument for the economic reinforcement of certain linguistic standards. It may be interesting to note if multilingual able to request and acquire more money due to their linguistic abilities. The Average Attorney Salary of a lawyer located in the sister island country of Dominica is around 2,950 XCD per month &lt;a class=&quot;citation&quot; href=&quot;#DOMsalary&quot;&gt;(salaryexplorer.com, n.d.)&lt;/a&gt;. It is said that salaries range from 1,360 XCD (lowest) to 4,680 XCD (highest). Yet, according to salaryexplorer.com, a Saint Lucian  Attorney typically earns around 5,500 XCD per month;  this is with salaries ranging from 2,530 XCD (lowest) to 8,750 XCD (highest). It should be noted that Saint Lucia’s minimum wage rate was last changed at the beginning of 2013, yet it stands at XCD 300 a month for office clerks, XCD 200 for shop assistants, and XCD 160 for messengers according to minimum-wage.org &lt;a class=&quot;citation&quot; href=&quot;#SLU2020wages&quot;&gt;(“Saint Lucia Minimum Wage Rate 2020,” n.d.)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;7. Do you speak, write, and/or read another language in addition to English?&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Yes&lt;/p&gt;
+
+&lt;p&gt;No&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;8. Please mark your level of proficiency regarding your ability to speak, write, and/or read any of the languages listed below.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Column Titles: Speak, Write, Read, Understand&lt;/p&gt;
+
+&lt;p&gt;Row Titles: English, Latin, Saint Lucian Kwéyòl (Antillean Creole/Patios), French, Spanish, Dutch, Portuguese, Hindi, Japanese, Mandarin,&lt;/p&gt;
+
+&lt;p&gt;Other (please specify)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;This question is one of the most crucial to this study. English is listed as it is indeed the main language spoken (a prestige language) in Saint Lucia. Apart from modern English, legal (and medical) professionals can claim to be multilingual based on their foundational studies of Latin; placing this detail acknowledges this field facet. Saint Lucian Kwéyòl (Antillean Creole/Patios) is inquired about, as it is the heritage language of the island. French and Spanish are inquired about as they are common language offerings at all high schools on the island. Dutch, and Portuguese, and to a lesser extent Hindi and Gaelige/Irish, are other common languages to the rest of the Caribbean due to colonialization and indentured labor. Japanese is taught in Saint Lucia by humanitarian volunteers as part of their Japan International Cooperation Agency (JICA) work [jica.go.jp/stlucia/]. Due to an increased presence of Chinese investors and tourists in the Caribbean, and general funding of local projects by China, one’s ability to understand Mandarin is becoming increasingly valuable.&lt;/p&gt;
+
+&lt;p&gt;The column category “understand” was added to account for the possible occurrence of receptive bilingualism among lawyers in the Caribbean. This consideration is valid as multilingualism is prevalent in this region; persons here may encounter various languages, yet have been unable to effectively respond. The presence of a prestige language, such as English, may draw speakers away from heritage languages;  these heritage languages can suffer from dropping numbers of speakers when receptive bilingualism is not followed up with focused efforts.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;9. If you do speak more than one language, how did you come to learn each?&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Column Titles:&lt;/p&gt;
+
+&lt;p&gt;Language&lt;/p&gt;
+
+&lt;p&gt;As part of my school education (required)&lt;/p&gt;
+
+&lt;p&gt;As part of my school education (elective)&lt;/p&gt;
+
+&lt;p&gt;As a personal interest (for career, personal enrichment, etc.)&lt;/p&gt;
+
+&lt;p&gt;As part of communicating with my family and friends&lt;/p&gt;
+
+&lt;p&gt;Row Titles:&lt;/p&gt;
+
+&lt;p&gt;English&lt;/p&gt;
+
+&lt;p&gt;Latin&lt;/p&gt;
+
+&lt;p&gt;Saint Lucian Kwéyòl (Antillean Creole/Patios)&lt;/p&gt;
+
+&lt;p&gt;French&lt;/p&gt;
+
+&lt;p&gt;Spanish&lt;/p&gt;
+
+&lt;p&gt;Dutch&lt;/p&gt;
+
+&lt;p&gt;Portuguese&lt;/p&gt;
+
+&lt;p&gt;Hindi&lt;/p&gt;
+
+&lt;p&gt;Mandarin&lt;/p&gt;
+
+&lt;p&gt;Other (please specify)&lt;/p&gt;
+
+&lt;p&gt;Choose not to respond&lt;/p&gt;
+
+&lt;p&gt;Understanding where and how one engages in language learning might highlight environments that foster multilingualism in lawyers. The learning of certain languages may take place in formal and informal settings. In Saint Lucia, it is highly likely that most language education would be done in a formal school setting. Overall, the national heritage language of this island would typically be learned informally. Saint Lucian Kwéyòl only recently began being formally taught to young children (between the ages of 6-12) in less than a handful of schools, and adult learners; however, since the major fire at the National Folk Resource Center, most classes have reverted to more private sessions.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;10. Please rate the following languages based on client encounter frequency.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Rank: 1= ver&lt;/p&gt;
+
+&lt;p&gt;English&lt;/p&gt;
+
+&lt;p&gt;Latin&lt;/p&gt;
+
+&lt;p&gt;Saint Lucian Kwéyòl (Antillean Creole/Patios)&lt;/p&gt;
+
+&lt;p&gt;French&lt;/p&gt;
+
+&lt;p&gt;Spanish&lt;/p&gt;
+
+&lt;p&gt;Dutch&lt;/p&gt;
+
+&lt;p&gt;Portuguese&lt;/p&gt;
+
+&lt;p&gt;Hindi&lt;/p&gt;
+
+&lt;p&gt;Mandarin&lt;/p&gt;
+
+&lt;p&gt;Other (please specify)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Choose not to respond&lt;/p&gt;
+
+&lt;p&gt;Since this survey is unable to acquire data from past clients, this question serves to address the languages that lawyers commonly encounter. The language one speaks is not guaranteed to be what is encountered. It will be interesting to note where the client and lawyer languages overlap and where they do not.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;11. Overall, how many languages do you speak, write, and/or read?&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;1&lt;/p&gt;
+
+&lt;p&gt;2&lt;/p&gt;
+
+&lt;p&gt;3&lt;/p&gt;
+
+&lt;p&gt;4&lt;/p&gt;
+
+&lt;p&gt;5+&lt;/p&gt;
+
+&lt;p&gt;Choose not to respond&lt;/p&gt;
+
+&lt;p&gt;Once again, apart from modern English, lawyers can claim to be multilingual based on their foundational studies of Latin. Specifically requesting quantification the number of languages spoken improves question clarity. Since English and Latin are most likely part of a lawyer’s education, and French and Spanish are commonly taught in schools, a Saint Lucian Lawyer may have a base of four languages. Therefore a lawyer speaking more than four languages may demonstrate high levels of multilingualism, and perhaps creole may be one of the additional languages being acknowledged.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;12. If you do speak more than one language, has this skill been crucial to representing/communicating with a client?&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Yes&lt;/p&gt;
+
+&lt;p&gt;No&lt;/p&gt;
+
+&lt;p&gt;Prefer not to respond&lt;/p&gt;
+
+&lt;p&gt;This question seeks to understand the current and demand for multilingualism in lawyering, based on past demand. These details may reveal sufficiencies as well as insufficiencies concerning the adequate legal representation of  Saint Lucian clients. Saint Lucia is a multilingual country, and a lawyer with multiple languages may stand a better chance of not only attracting a diverse and numerous clientele base; reduced language barriers would allow lawyers to better relay facts, arguments, and sentiments of clients with diverse backgrounds.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;13. Do you agree that lawyers that practice in Saint Lucia, should understand more than one language?&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;1= “Strongly Agree” to	5= “Strongly Disagree”&lt;/p&gt;
+
+&lt;p&gt;Prefer not to respond&lt;/p&gt;
+
+&lt;p&gt;This question seeks to understand the current general attitudes towards multilingualism in lawyering. As stated before, these details may reveal sufficiencies as well as insufficiencies concerning the adequate legal representation of  Saint Lucian clients. Saint Lucia is a multilingual country, and a lawyer with multiple languages may stand a better chance of not only attracting a diverse and numerous clientele base; reduced language barriers would allow lawyers to better relay facts, arguments, and sentiments of clients with diverse backgrounds.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;14. Do you agree that lawyers that practice in Saint Lucia, should obtain a basic understanding of Kwéyòl (Antillean Creole/Patios)?&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;1= “Strongly Agree” to	5= “Strongly Disagree”&lt;/p&gt;
+
+&lt;p&gt;Prefer not to respond&lt;/p&gt;
+
+&lt;p&gt;This question seeks to understand the current specific attitudes towards multilingualism in Saint Lucia, and interacting local Kwéyòl (Antillean Creole/Patios) speaking clientele. This heritage language is the second most spoken language on the island. Reduced language barriers would allow lawyers to better relay facts, arguments, and sentiments of clients with the distinct Kwéyòl (Antillean Creole/Patios) speaking background.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;15. Have you ever encountered language barriers with Saint Lucian Kwéyòl speakers?&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Yes&lt;/p&gt;
+
+&lt;p&gt;No&lt;/p&gt;
+
+&lt;p&gt;Prefer not to respond&lt;/p&gt;
+
+&lt;p&gt;This question seeks to explore the boundaries of fluency required to interact with and represent a Saint Lucian Kwéyòl speaker. This may establish if there is or is not a need for lawyers to acquire the language.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;16. Have you ever declined to represent a client or recommended a different lawyer to address a case due to perceived language barriers?&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Yes&lt;/p&gt;
+
+&lt;p&gt;No&lt;/p&gt;
+
+&lt;p&gt;Prefer not to respond&lt;/p&gt;
+
+&lt;p&gt;This question seeks to explore the personal linguistic limitations of lawyers in a multilingual environment. This may reinforce the perceived need for lawyers to acquire additional languages.&lt;/p&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References:&lt;/h2&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;patriksson2019health&quot;&gt;Patriksson, K., Wigert, H., Berg, M., &amp;amp; Nilsson, S. (2019). Health care professional’s communication through an interpreter where language barriers exist in neonatal care: a national study. &lt;i&gt;BMC Health Services Research&lt;/i&gt;, &lt;i&gt;19&lt;/i&gt;(1), 586. https://doi.org/10.1186/s12913-019-4428-z&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;sevilla2013communication&quot;&gt;Sevilla, C., Wieslander, C. K., Alas, A. N., Dunivan, G. C., Khan, A. A., Maliski, S. L., Rogers, R. G., &amp;amp; Anger, J. T. (2013). Communication between physicians and Spanish-speaking Latin American women with pelvic floor disorders: a cycle of misunderstanding? &lt;i&gt;Female Pelvic Medicine &amp;amp; Reconstructive Surgery&lt;/i&gt;, &lt;i&gt;19&lt;/i&gt;(2), 90.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;simon2013perceptions&quot;&gt;Simon, M. A., Ragas, D. M., Nonzee, N. J., Phisuthikul, A. M., Luu, T. H., &amp;amp; Dong, X. Q. (2013). Perceptions of patient-provider communication in breast and cervical cancer-related care: a qualitative study of low-income English-and Spanish-speaking women. &lt;i&gt;Journal of Community Health&lt;/i&gt;, &lt;i&gt;38&lt;/i&gt;(4), 707–715. https://doi.org/https://doi.org/10.1007/s10900-013-9668-y&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;napoles2009developing&quot;&gt;Nápoles-Springer, A. M., Ortı́z Carmen, O’Brien, H., &amp;amp; Dı́az-Méndez Marynieves. (2009). Developing a culturally competent peer support intervention for Spanish-speaking Latinas with breast cancer. &lt;i&gt;Journal of Immigrant and Minority Health&lt;/i&gt;, &lt;i&gt;11&lt;/i&gt;(4), 268. https://doi.org/https://doi.org/10.1007/s10903-008-9128-4&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;mendes-franco_2020&quot;&gt;Mendes-Franco, J. (2020). ’Linguistics is in everything’ from astronomy to everyday life, says this linguist from Trinidad &amp;amp; Tobago · Global Voices. In &lt;i&gt;Global Voices&lt;/i&gt;. https://globalvoices.org/2020/03/13/linguistics-is-in-everything-from-astronomy-to-everyday-life-says-this-linguist-from-trinidad-tobago/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;govtSLU_Labour_2019&quot;&gt;of Saint Lucia, G. (2019). Labour Force Statistics: Saint Lucia Open Data. In &lt;i&gt;Labour Force Statistics | Saint Lucia Open Data&lt;/i&gt;. https://data.govt.lc/dataset/labour-force-statistics&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;govtSLU_NEIS_2019&quot;&gt;of Saint Lucia, G. (2019). National Environmental Information System (NEIS): Saint Lucia Open Data. In &lt;i&gt;National Environmental Information System (NEIS) | Saint Lucia Open Data&lt;/i&gt;. https://data.govt.lc/dataset/national-environmental-information-system-neis&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;govtSLU_NEIS&quot;&gt;of Saint Lucia, G. In &lt;i&gt;Saint Lucia NEIS&lt;/i&gt;. https://www.neis.govt.lc/#/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;govtSLUdata&quot;&gt;of Saint Lucia, G. Search: Saint Lucia Open Data. In &lt;i&gt;Search | Saint Lucia Open Data&lt;/i&gt;. https://data.govt.lc/search/type/dataset&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;ABA2020Profile&quot;&gt;Association, A. B. ABA Profile of the Legal Profession. In &lt;i&gt;American Bar Association&lt;/i&gt;. https://www.americanbar.org/news/reporter_resources/profile-of-profession/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;clio_2020&quot;&gt;Clio. (2020). The 2018 Legal Trends Report. In &lt;i&gt;Clio&lt;/i&gt;. https://www.clio.com/resources/legal-trends/2018-report/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;AttorneyAtWork_2019&quot;&gt;Five Ways the Legal Profession Is Changing, But Slowly. (2019). In &lt;i&gt;Attorney at Work&lt;/i&gt;. https://www.attorneyatwork.com/five-ways-the-legal-profession-is-changing-but-slowly/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;CSO_SLU2010&quot;&gt;CSO. UNECLAC-CELADE::Redatam Webserver: Statistical Process and Dissemination Tool. In &lt;i&gt;UNECLAC-CELADE::Redatam Webserver | Statistical Process and Dissemination Tool&lt;/i&gt;. CSO St.Lucia - The Central Statistics Office, Government of St.Lucia. https://redatam.org/binlca/RpWebEngine.exe/Portal?BASE=PHC2010C&amp;amp;lang=ENG&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;DOMsalary&quot;&gt;salaryexplorer.com. Attorney Average Salary in Dominica 2020. In &lt;i&gt;The Complete Guide&lt;/i&gt;. http://www.salaryexplorer.com/salary-survey.php?loc=60&amp;amp;loctype=1&amp;amp;job=513&amp;amp;jobtype=3&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;SLU2020wages&quot;&gt;Saint Lucia Minimum Wage Rate 2020. In &lt;i&gt;Federal and State Minimum Wage Rates for 2020&lt;/i&gt;. https://www.minimum-wage.org/international/saint-lucia&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://llord1.github.io/2020/07/08/Assets&quot;&gt;Back to: Safety and security needs: Assets&lt;/a&gt;&lt;/p&gt;
+</description>
+                <link>http://llord1.github.io/2020/08/26/AssetsSLUlaw</link>
+                <guid>http://llord1.github.io/2020/08/26/AssetsSLUlaw</guid>
+                <pubDate>Wed, 26 Aug 2020 00:00:00 -0400</pubDate>
+        </item>
+
+        <item>
+                <title>testing</title>
+                <description>
+&lt;h2 id=&quot;the-frameworks-levels&quot;&gt;The Framework’s Levels:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Biological and physiological needs&lt;/em&gt;  can be explored as topics related to &lt;em&gt;Ambience&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The pursuit of this level would allow for the exploration of one’s basic biological and physiological needs. At the first level of the pyramid, data collection activities are encouraged. However, the process of sourcing proper data for experimentation can be complicated. Both primary and secondary data sources can be used, however, one should note that some works require special permissions the data can even be collected; such rigor is expected if the researcher seeks academic publication of the works.&lt;/p&gt;
+
+&lt;p&gt;However, quite a few modern technologies allow users to collect their data. Initial experiments on some personal data can assist in honing one’s skills. Moreover, a critical look into one’s data can also assist with calculated self-improvement, and thus better address the needs of the first level of Maslow’s biological and physiological needs. For example, one can explore personal Fitbit data to determine metrics on one’s restful and actives states; Python can be used to create an interactive dashboard to view details. Exploration of these topics can also be done with personal finances. One can attempt to make visual predictions on when a personal budget will allow for a set purchase, or how long it may take to fully pay off a purchase, and so on.&lt;/p&gt;
+
+&lt;p&gt;Persons do, however, exist in an environment. Increasing environmental awareness, and wildlife awareness are key components of the conservation efforts that the biocultural diversity lens would promote. Therefore, topics related to flora and fauna will be encouraged.  For example, topics related to computer vision can be implemented to digitally identify the varying stages of endemic or vital crop ripeness or disease.  Computer vision can also be utilized to track fauna. However, spectrographic analysis utilizing Raven Pro software from the Cornell Lab may assist in the bioacoustic study of vulnerable species, and note levels noise pollution.&lt;/p&gt;
+
+&lt;p&gt;Humans can also be tracked via geospatial mapping. In terms of biocultural diversity, language hotspots could be mapped. This could indicate areas of high fluency of languages. This would be particularly useful for tracking endangered languages.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Safety and security needs&lt;/em&gt; can be explored as topics related to &lt;em&gt;Assets&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The pursuit of this level would allow for the exploration of safety needs related to security (including emotional security and financial security) and safety (including law and order, freedom from fear, social stability, property, health, and wellbeing). Data analysis can be performed on economic or demographic data including census data or other public access government statistics.&lt;/p&gt;
+
+&lt;p&gt;Exploration of these topics can even allow for the exploration of the economic impact of specific industries. For example, various forms of tourism can be quantifiably explored to determine the main tourist driver. One can attempt to determine if a certain area is being targeted for poverty tourism or eco-tourism by performing sentiment analysis of online commentary (reviews).&lt;/p&gt;
+
+&lt;p&gt;One can also explore index construction. This stands to provide a means of assessing standards of varied settings. Novel indexes can be created when factoring in sentiment analysis metrics (where one pulls Twitter or other social media data into the framework). Coincidentally, this lower level topic can allow for the application of simple exploratory data analysis with tools like Python and R  Studio;  however, more complex analysis is possible.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Love and belonging needs&lt;/em&gt; can be explored as topics related to &lt;em&gt;Affiliation&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The pursuit of this level would allow for the exploration of language affiliation and ethnolinguistic identity. This would focus on projects mean to boost cultural appreciation and language appreciation through the exploration of datasets on languages (including literature and music). This would suggest a delve into data linguistics. This may suggest the use of data science tools and techniques such as Tensorflow and Translation with a Sequence to Sequence Network and Attention).&lt;/p&gt;
+
+&lt;p&gt;This level can indeed be very creative as humans can bond over various topics like literature and music. For example, even neurolinguistics topics related to traumatic brain injury and aphasia can be sorted into this level; this is because it can be useful to investigate topics that hamper effective communication and create tools to address these issues.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Self-esteem needs&lt;/em&gt; can be explored as topics related to &lt;em&gt;Attitudes&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The pursuit of this level would allow one to focus on sentiment analysis projects. This may be in the form of applying sentiment analysis tools, such as LIWC to better understand the perceptions of individuals in society. It might also provide insight into certain communities or regions.&lt;/p&gt;
+
+&lt;p&gt;For example, LIWC sentiment analysis can be performed on the works of established figures in certain industries. This may provide insight as to their underlying personalities based on the way they express themselves in their writing. Sentiment analysis can allow for the exploration of the perceptions of certain languages, cultures, economic statuses, and environments. For example, Tripadvisor and Twitter data can be analyzed to determine what natives and non-natives perceptions are of a certain country.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Cognitive needs&lt;/em&gt; can be explored as topics related to &lt;em&gt;Analysis&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The pursuit of this level would allow for one to truly address the need for knowledge and understanding, curiosity, exploration, need for meaning, and predictability. This could be in the form of the collection and analysis of data collected from digital surveys on various humanitarian topics.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Aesthetic needs&lt;/em&gt; can be explored as topics related to &lt;em&gt;Artistry&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The pursuit of this level would allow for the creation of digital art using Neural Style Transfer techniques and Tensorflow tools (such as DeepDream), or the creation of new literature from using Natural Language Processing (Long Short-Term Memory and Recurrent Neural Networks).&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Self-actualization needs&lt;/em&gt; can be explored as topics related to &lt;em&gt;Awareness&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The pursuit of this level would allow for an exploration of an established concept in data science pedagogy with the hopes of producing new teaching tools or techniques. This may include gamification of a relevant concept or the creation and completion of an application. Tools such as Dart and Flutter can be utilized to create applications.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Transcendence needs&lt;/em&gt; can be explored as topics related to &lt;em&gt;Altruism&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The pursuit of this level would focus on developing citizen science projects that would contribute to future sustainability. This section may be the most challenging as it would require the creation of products for a department or organization dedicated to altruistic projects. This could also include the curation and publication of datasets; this is helpful as the sharing of datasets provides others with more opportunities for practice and research.&lt;/p&gt;
+
+&lt;iframe width=&quot;600&quot; height=&quot;600&quot; src=&quot;https://prezi.com/i/anbnfuxd7fss/embed&quot; webkitallowfullscreen=&quot;1&quot; mozallowfullscreen=&quot;1&quot; allowfullscreen=&quot;1&quot;&gt;&lt;/iframe&gt;
+</description>
+                <link>http://llord1.github.io/ambience/2020/07/08/testing</link>
+                <guid>http://llord1.github.io/ambience/2020/07/08/testing</guid>
+                <pubDate>Wed, 08 Jul 2020 00:00:00 -0400</pubDate>
+        </item>
+
+        <item>
+                <title>Hands</title>
+                <description>&lt;script src=&quot;/resources/js/words.js&quot;&gt;&lt;/script&gt;
+
+&lt;script src=&quot;/resources/js/word_changing.js&quot;&gt;&lt;/script&gt;
+
+&lt;div id=&quot;left_hand&quot;&gt;
+
+&lt;div class=&quot;dropdown&quot; style=&quot;float:left;&quot;&gt;
+&lt;div class=&quot;dropdown-content&quot; style=&quot;left:0;&quot;&gt;
+
+	&lt;label for=&quot;left_word_chooser&quot;&gt;Choose a verb for the left hand:&lt;/label&gt;
+	&lt;select id=&quot;left_word_chooser&quot; onchange=&quot;swap_words('left')&quot;&gt;
+		&lt;option disabled=&quot;&quot; selected=&quot;&quot;&gt;--- select a word to conjugate ---&lt;/option&gt;
+		&lt;option value=&quot;estar&quot;&gt;Estar&lt;/option&gt;
+		&lt;option value=&quot;ser&quot;&gt;Ser&lt;/option&gt;
+	&lt;/select&gt;
+	&lt;p&gt;Left hand thumb, first person singular: &lt;p class=&quot;word first-ps&quot;&gt;&lt;/p&gt;&lt;/p&gt;
+	&lt;p&gt;Left hand index, second person singular: &lt;p class=&quot;word second-ps&quot;&gt;&lt;/p&gt;&lt;/p&gt;
+	&lt;p&gt;Left hand middle, third person singular: &lt;p class=&quot;word third-ps&quot;&gt;&lt;/p&gt;&lt;/p&gt;
+	&lt;p&gt;Left hand palm, first person plural: &lt;p class=&quot;word first-pp&quot;&gt;&lt;/p&gt;&lt;/p&gt;
+	&lt;p&gt;Left hand ring, second person plural: &lt;p class=&quot;word second-pp&quot;&gt;&lt;/p&gt;&lt;/p&gt;
+	&lt;p&gt;Left hand little, third person plural: &lt;p class=&quot;word third-pp&quot;&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;right_hand&quot;&gt;
+
+&lt;div class=&quot;dropdown&quot; style=&quot;float:right;&quot;&gt;
+&lt;div class=&quot;dropdown-content&quot;&gt;
+
+	&lt;label for=&quot;right_word_chooser&quot;&gt;Choose a verb for the right hand:&lt;/label&gt;
+	&lt;select id=&quot;right_word_chooser&quot; onchange=&quot;swap_words('right')&quot;&gt;
+		&lt;option disabled=&quot;&quot; selected=&quot;&quot;&gt;--- select a word to conjugate ---&lt;/option&gt;
+		&lt;option value=&quot;estar&quot;&gt;Estar&lt;/option&gt;
+		&lt;option value=&quot;ser&quot;&gt;Ser&lt;/option&gt;
+	&lt;/select&gt;
+	&lt;p&gt;Right hand thumb, first person singular: &lt;p class=&quot;word first-ps&quot;&gt;&lt;/p&gt;&lt;/p&gt;
+	&lt;p&gt;Right hand index, second person singular: &lt;p class=&quot;word second-ps&quot;&gt;&lt;/p&gt;&lt;/p&gt;
+	&lt;p&gt;Right hand middle, third person singular: &lt;p class=&quot;word third-ps&quot;&gt;&lt;/p&gt;&lt;/p&gt;
+	&lt;p&gt;Right hand palm, first person plural: &lt;p class=&quot;word first-pp&quot;&gt;&lt;/p&gt;&lt;/p&gt;
+	&lt;p&gt;Right hand ring, second person plural: &lt;p class=&quot;word second-pp&quot;&gt;&lt;/p&gt;&lt;/p&gt;
+	&lt;p&gt;Right hand little, third person plural: &lt;p class=&quot;word third-pp&quot;&gt;&lt;/p&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+                <link>http://llord1.github.io/2020/07/08/test</link>
+                <guid>http://llord1.github.io/2020/07/08/test</guid>
+                <pubDate>Wed, 08 Jul 2020 00:00:00 -0400</pubDate>
+        </item>
+
+        <item>
+                <title>Creole Wordsearch Puzzle</title>
+                <description>&lt;div class=&quot;codepen&quot; data-height=&quot;265&quot; data-theme-id=&quot;light&quot; data-default-tab=&quot;result&quot; data-user=&quot;llord1&quot; data-slug-hash=&quot;YzqKwaJ&quot; data-prefill=&quot;{&amp;quot;title&amp;quot;:&amp;quot;Sent Lisi Wordsearch - Zannimo Kwéyòl &amp;quot;,&amp;quot;tags&amp;quot;:[],&amp;quot;scripts&amp;quot;:[],&amp;quot;stylesheets&amp;quot;:[]}&quot;&gt;
+ 
+
+&amp;lt;h1&amp;gt;Kwéyòl Word Search Puzzle: Zannimo &amp;lt;/h1&amp;gt;
+&amp;lt;h4&amp;gt;How to play:&amp;lt;/h4&amp;gt;
+&amp;lt;p&amp;gt;Find five (out of a possible sixty-two) randomly selected Saint Lucian Kwéyòl animal vocabulary words. &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Words do not overlap but can appear in different positions: &amp;#8594; &amp;#8599; &amp;#8600; &amp;#8593; &amp;#8592; &amp;#8598; &amp;#8601; &amp;#8595; . Refresh the page to start a new puzzle. &amp;lt;/p&amp;gt;
+
+&amp;lt;div id=&quot;mysearchtask&quot;&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;/pre&amp;gt;
+  &lt;pre data-lang=&quot;css&quot;&gt;html {
+  text-align: center;
+  font-family: optima, candara, garamond;
+  background: url(&quot;https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/slu_beach2.jpg&quot;)
+    no-repeat center fixed;
+  background-size: cover;
+}
+&lt;/pre&gt;
+  &lt;pre data-lang=&quot;js&quot;&gt;var creolegrid = [
+	['N',	'N',	'E',	'D',	'O',	'K',	'C',	'H',	'A',	'T',	'L',	'U',	'O',	'P',	'A',	'Z',	'É',	'L',	'P'],
+	['G',	'S',	'Ò',	'L',	'S',	'O',	'U',	'W',	'I',	'B',	'È',	'F',	'É',	'P',	'K',	'P',	'É',	'A',	'K'],
+	['I',	'M',	'O',	'U',	'T',	'O',	'N',	'K',	'O',	'W',	'M',	'B',	'W',	'Y',	'A',	'Ò',	'N',	'V',	'Ò'],
+	['T',	'M',	'K',	'W',	'A',	'P',	'O',	'Ò',	'K',	'W',	'A',	'É',	'O',	'N',	'B',	'U',	'K',	'T',	'B'],
+	['Y',	'B',	'T',	'A',	'Z',	'A',	'A',	'F',	'E',	'O',	'S',	'D',	'T',	'U',	'O',	'I',	'I',	'D',	'O'],
+	['Ò',	'É',	'L',	'P',	'L',	'I',	'M',	'N',	'B',	'O',	'K',	'O',	'E',	'T',	'W',	'W',	'J',	'O',	'W'],
+	['K',	'L',	'S',	'A',	'K',	'N',	'N',	'K',	'N',	'A',	'U',	'I',	'A',	'N',	'B',	'I',	'X',	'W',	'A'],
+	['Ò',	'Y',	'È',	'Z',	'P',	'S',	'E',	'V',	'Z',	'F',	'L',	'H',	'Y',	'A',	'N',	'M',	'K',	'A',	'N'],
+	['L',	'É',	'P',	'É',	'O',	'E',	'O',	'Y',	'O',	'A',	'C',	'E',	'K',	'A',	'A',	'K',	'M',	'D',	'M'],
+	['Ò',	'M',	'A',	'N',	'S',	'L',	'N',	'U',	'H',	'N',	'N',	'N',	'N',	'N',	'J',	'A',	'È',	'L',	'Y'],
+	['M',	'K',	'N',	'K',	'A',	'I',	'Y',	'A',	'E',	'C',	'O',	'N',	'N',	'N',	'I',	'Y',	'L',	'L',	'É'],
+	['H',	'M',	'A',	'N',	'W',	'É',	'K',	'W',	'N',	'H',	'N',	'I',	'D',	'W',	'N',	'W',	'N',	'È',	'K'],
+	['O',	'A',	'L',	'B',	'N',	'I',	'H',	'W',	'C',	'N',	'K',	'E',	'B',	'O',	'P',	'A',	'A',	'W',	'A'],
+	['U',	'K',	'Y',	'I',	'W',	'C',	'B',	'O',	'I',	'O',	'A',	'I',	'J',	'I',	'L',	'T',	'K',	'È',	'L'],
+	['M',	'A',	'O',	'V',	'A',	'I',	'K',	'I',	'U',	'Y',	'L',	'K',	'J',	'T',	'V',	'I',	'É',	'T',	'M'],
+	['A',	'K',	'N',	'M',	'V',	'J',	'T',	'G',	'C',	'I',	'É',	'O',	'Z',	'B',	'É',	'T',	'L',	'U',	'A'],
+	['I',	'N',	'I',	'F',	'L',	'A',	'M',	'O',	'K',	'H',	'N',	'T',	'Ò',	'T',	'I',	'W',	'É',	'O',	'S'],
+	['K',	'W',	'A',	'B',	'S',	'O',	'U',	'W',	'I',	'J',	'A',	'K',	'O',	'T',	'O',	'N',	'P',	'T',	'O'],
+	['A',	'Y',	'I',	'W',	'B',	'A',	'M',	'C',	'H',	'O',	'U',	'V',	'A',	'L',	'H',	'C',	'I',	'B',	'N']];
+
+var creolewords = ['KWAB', 'TÒTI', 'MANNIKOU', 'TOUTWÈL', 'VÈ', 'BALENN', 'LAPEN', 'TAZA', 'KOKIYAJ','KANNA', 'KÒF', 'KÒK', 'PÉLÉKAN', 'MÈL', 'WÉTJEN', 'KÒBO',
+    'MABWIYA', 'CHOUVAL', 'WAT', 'MAKAK', 'LYON', 'VOLAN', 'SIKWIYÉ', 'KWAPO', 'KODENN', 'CHAT','POUL', 'LÉZA', 'SÈPAN', 'CHATOU', 'PAN',
+    'WADENN', 'MÒLÒKÒY', 'SOUWI', 'HOUMA', 'KILIBWI', 'CHYEN', 'SÒLSOUWI', 'WANMYÉ', 'PWÉSON', 'MOUTON', 'DOWAD', 'PANTOUFOUYÉ', 'PIJON', 'BICH', 'BÉLYÉ',
+    'MWENNSON', 'ZANNDOLI', 'JIBYÉ', 'BOUWIK', 'KABWIT', 'MACHWEN', 'MALFINI', 'JAKO', 'BÈF','TIG','KOCHON', 'ZÉ', 'KAY', 'KWIBICH','KALMASON','PLIM' ];
+
+function getRandom(arr, n) {
+    var result = new Array(n),
+        len = arr.length,
+        taken = new Array(len);
+    if (n &amp;gt; len)
+        throw new RangeError(&quot;getRandom: more elements taken than available&quot;);
+    while (n--) {
+        var x = Math.floor(Math.random() * len);
+        result[n] = arr[x in taken ? taken[x] : x];
+        taken[x] = --len in taken ? taken[len] : len;
+    }
+    return result;
+}
+
+var wordnames = getRandom(creolewords, 5)
+
+ws = new WordSearch({
+        &quot;grid&quot;: creolegrid, // Your grid to search
+        &quot;words&quot;: wordnames, // The list of words to find
+        &quot;parentId&quot;: &quot;mysearchtask&quot;,
+        &quot;onFindWord&quot;: function() { // When a word is found...
+          console.log(this.getScore()); // Log score
+          console.log(this.getTiming()); // Log time to find each word
+        } 
+    });&lt;/pre&gt;&lt;/div&gt;
+&lt;script async=&quot;&quot; src=&quot;https://static.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;
+
+&lt;h3 id=&quot;this-is-simply-an-inital-attempt-to-create-a-word-list-randomize-words-and-create-interactivity-this-was-achieved-with-javascript-however-the-hope-is-to-utlize-python-fuctions-to-improve-randomization-and-interactivity&quot;&gt;This is simply an inital attempt to create a word list, randomize words, and create interactivity. This was achieved with Javascript, however, the hope is to utlize Python fuctions to improve randomization and interactivity.&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://kopwann.weebly.com/&quot;&gt;Interactive Saint Lucian Kwéyòl Wordsearch&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/palm.PNG&quot; alt=&quot;Hellloererererer&quot; /&gt;&lt;/p&gt;
+</description>
+                <link>http://llord1.github.io/2020/07/08/creolewordsearch</link>
+                <guid>http://llord1.github.io/2020/07/08/creolewordsearch</guid>
+                <pubDate>Wed, 08 Jul 2020 00:00:00 -0400</pubDate>
+        </item>
+
+        <item>
+                <title>What can an LIWC Sentiment analysis on Maslow's works reveal?</title>
+                <description>
+&lt;h2 id=&quot;brief-introduction&quot;&gt;Brief introduction:&lt;/h2&gt;
+
+&lt;p&gt;In his 1943 paper for Psychological Review, &lt;em&gt;A Theory of Human Motivation&lt;/em&gt;, Abraham Maslow promoted a visual representation of his psychological theory. The model, dubbed as Maslow’s Hierarchy of Needs, was a tiered hierarchy of human needs; it was a motivational theory in psychology. The five-tiered version of this hierarchy has been widely used in various fields.&lt;/p&gt;
+
+&lt;p&gt;This framework, however, is mostly utilized in business settings. Some leaders might consider this theory when planning project productivity goals, while most leaders turn to this theory to investigate and explain why productivity goals were not met. Here, negative connections can be drawn to the framework.&lt;/p&gt;
+
+&lt;p&gt;Exploring Maslow’s existing works with the Linguistic Inquiry and Word Count (LIWC) tool, might provide more insight into how his framework is applied. If his works are more negative than positive, this may assist in surmising why leaders employ his structure as a tool that categorizes employee problems, rather than individuals utilizing it as an inspirational and aspirational structure. Despite Maslow’s hierarchy being well-known in business environments, leaders may seldom employ this model to assess themselves and their personal goals. Moreover, businesses are more likely to create employee surveys based on this framework than directly educate employees on the framework’s possible application to their individual lives, and how their productivity in the workplace is impacted by it.&lt;/p&gt;
+
+&lt;h2 id=&quot;hypothesis&quot;&gt;Hypothesis:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Maslow’s works are more negative than positive in tone.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;topics-to-be-discussed&quot;&gt;Topics to be discussed:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;What can an LIWC Sentiment analysis on Maslow’s works reveal about the overall tone of his contributions?&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Is the tone of his work being misinterpreted as innately negative?&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Which psychological processes best illustrate his works?&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;Should it be assumed that the “affective processes” of negative and positive be the only areas for exploration, or should other areas be explored?&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Can his work be best assessed as focusing on “personal concerns” like work, leisure, home, money, and religion; or by “drives” of affliction achievement, power, reward, and risk? Perhaps the sexual and ingestion “biological processes” are his true focus, or the “social processes” topics of family, friends, female references, and male references.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Can the LIWC’s psychological processes be categorized into the structure of Maslow’s psychological needs, or would there be areas of overlap?&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Can a visual mapping be created to display this interaction?&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;additional-liwc-capabilities&quot;&gt;Additional LIWC capabilities:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Are all the psychological needs quantifiably equal when paired with their relative psychological processes?  For example, does the score of “belonging and love”  within the lens of the “biological process” match “social processes”’s?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Are all levels of the hierarchy equally discussed, or are do they vary based on their position in the structure and their topic matter? For example, is the topic of “physiological needs” going share the same word count as “self-actualization”? Do they have the same “analytical thinking” score?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Or do these “psychological needs” demonstrate a score reflective of their position in the structure.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;More reading is required on the LIWC. Since both the LIWC and Maslow’s hierarchy utilize similar terminology associated with psychological needs/ processes, was its creation influenced by Maslow? If so, what was the extent?&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;sources-for-maslows-works&quot;&gt;Sources for Maslow’s works:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;This includes a comprehensive list of interviews, articles, audio and video material, and books in and out of print: http://www.maslow.com/&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                <link>http://llord1.github.io/2020/07/08/Sentiment</link>
+                <guid>http://llord1.github.io/2020/07/08/Sentiment</guid>
+                <pubDate>Wed, 08 Jul 2020 00:00:00 -0400</pubDate>
+        </item>
+
+        <item>
+                <title>Self-actualization needs: topics related to Awareness</title>
+                <description>
+&lt;h2 id=&quot;self-actualization-needs-can-be-explored-as-topics-related-to-awareness&quot;&gt;&lt;strong&gt;&lt;em&gt;Self-actualization needs&lt;/em&gt;&lt;/strong&gt; can be explored as topics related to &lt;strong&gt;&lt;em&gt;Awareness&lt;/em&gt;&lt;/strong&gt;.&lt;/h2&gt;
+</description>
+                <link>http://llord1.github.io/2020/07/08/Awareness</link>
+                <guid>http://llord1.github.io/2020/07/08/Awareness</guid>
+                <pubDate>Wed, 08 Jul 2020 00:00:00 -0400</pubDate>
+        </item>
+
+        <item>
+                <title>Self-esteem needs: topics related to Attitudes</title>
+                <description>
+&lt;h2 id=&quot;self-esteem-needs-can-be-explored-as-topics-related-to-attitudes&quot;&gt;&lt;strong&gt;&lt;em&gt;Self-esteem needs&lt;/em&gt;&lt;/strong&gt; can be explored as topics related to &lt;strong&gt;&lt;em&gt;Attitudes&lt;/em&gt;&lt;/strong&gt;.&lt;/h2&gt;
+</description>
+                <link>http://llord1.github.io/2020/07/08/Attitudes</link>
+                <guid>http://llord1.github.io/2020/07/08/Attitudes</guid>
+                <pubDate>Wed, 08 Jul 2020 00:00:00 -0400</pubDate>
+        </item>
+
+        <item>
+                <title>Assets: Impact of tourism on Saint Lucian Kwéyòl language vitality</title>
+                <description>
+&lt;h3 id=&quot;safety-and-security-needs-can-be-explored-as-topics-related-to-assets&quot;&gt;&lt;strong&gt;&lt;em&gt;Safety and security needs&lt;/em&gt;&lt;/strong&gt; can be explored as topics related to &lt;strong&gt;&lt;em&gt;Assets&lt;/em&gt;&lt;/strong&gt;.&lt;/h3&gt;
+
+&lt;h3 id=&quot;introduction&quot;&gt;Introduction:&lt;/h3&gt;
+
+&lt;p&gt;What impact, if any, does tourism have on the vitality of the Saint Lucian Kwéyòl language? What factors elevated the prestige language on over the heritage language? For example, are tourists likely to move freely throughout all communities, or just certain ones based on the number of tourist attractions or ease of transportation (based on infrastructure)? Consequently, vendors of those communities may frequently defer to the prestige language when engaging in tourists due to the positive reinforcement associated with a successful sale. Also, are educational facilities of impressionable youths located near tourist hubs?&lt;/p&gt;
+
+&lt;p&gt;This study would entail observing data on various areas of interest related to tourism in Saint Lucia. For example, examining data on the number of tourist attractions per district, number of hotels per district,  the ports of entry per district, number of jobs related to tourism per district, number of educational facilities per district, and the number of main government offices per district. The final details may lead to a discussion of language hotspots; and a possible explanation of their existence.&lt;/p&gt;
+
+&lt;p&gt;Current data sources:&lt;/p&gt;
+
+&lt;p&gt;https://data.govt.lc/dataset/hotel-listings
+https://data.govt.lc/dataset/st-lucia-hotel-locations (coordinates)
+https://data.govt.lc/dataset/tourism-indicators&lt;/p&gt;
+
+&lt;p&gt;https://data.govt.lc/dataset/st-lucia-communities
+https://data.govt.lc/dataset/st-lucia-districts (includes coordinates and basic population demographics)&lt;/p&gt;
+
+&lt;p&gt;https://data.govt.lc/dataset/labour-force-statistics
+(List of tabulations and indicators 2014 - 2017)&lt;/p&gt;
+
+&lt;p&gt;https://data.govt.lc/dataset/location-data-st-lucia-schools&lt;/p&gt;
+
+&lt;p&gt;https://data.govt.lc/dataset/locations-highways
+https://data.govt.lc/dataset/st-lucia-police-stations&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://llord1.github.io/2020/07/08/Assets&quot;&gt;Back to: Safety and security needs: Assets&lt;/a&gt;&lt;/p&gt;
+
+</description>
+                <link>http://llord1.github.io/2020/07/08/AssetsTourism</link>
+                <guid>http://llord1.github.io/2020/07/08/AssetsTourism</guid>
+                <pubDate>Wed, 08 Jul 2020 00:00:00 -0400</pubDate>
+        </item>
+
+        <item>
+                <title>Safety and security needs: topics related to Assets</title>
+                <description>
+&lt;h2 id=&quot;safety-and-security-needs-can-be-explored-as-topics-related-to-assets&quot;&gt;&lt;strong&gt;&lt;em&gt;Safety and security needs&lt;/em&gt;&lt;/strong&gt; can be explored as topics related to &lt;strong&gt;&lt;em&gt;Assets&lt;/em&gt;&lt;/strong&gt;.&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Assessing the link between crime and language. Could miscommunication between prestige and heritage language speakers hinder legal defenses? Are there any metrics on lawyers’ multilingual lawyers on the island? Are there any laws related to representation requirements (do lawyers assess the language needs of clients to decide how best to assist them)? What are the rates of incarceration of predominantly Saint Lucian Kwéyòl language speakers? What are the inmate metrics per district of origin (there is a popular belief that most Saint Lucian Kwéyòl language speakers are located in the Southern part of the country)?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://llord1.github.io/2020/07/08/AssetsSLUlaw&quot;&gt;Lawyer demographics&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What impact, if any, does tourism have on the vitality of the Saint Lucian Kwéyòl language? What factors elevated the prestige language on over the heritage language? This entails observing the number of ports of entry per district, number of tourist attractions per district, number of hotels per district, number of jobs related to tourism per district, number of educational facilities per district, number of main government offices per district. The final details may lead to a discussion of language hotspots; and a possible explanation of their existence.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://llord1.github.io/2020/07/08/AssetsTourism&quot;&gt;Tourism’s impact on Saint Lucian languages&lt;/a&gt;&lt;/p&gt;
+</description>
+                <link>http://llord1.github.io/2020/07/08/Assets</link>
+                <guid>http://llord1.github.io/2020/07/08/Assets</guid>
+                <pubDate>Wed, 08 Jul 2020 00:00:00 -0400</pubDate>
+        </item>
+
+        <item>
+                <title>Analysis: Spanish Mnemonic Tools </title>
+                <description>
+&lt;h2 id=&quot;cognitive-needs-can-be-explored-as-topics-related-to-analysis&quot;&gt;&lt;strong&gt;&lt;em&gt;Cognitive needs&lt;/em&gt;&lt;/strong&gt; can be explored as topics related to &lt;strong&gt;&lt;em&gt;Analysis&lt;/em&gt;&lt;/strong&gt;.&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What language learning tools are most effective with acquiring Saint Lucian Kwéyòl language? A comparison of specially curated Saint Lucian Kwéyòl language of Language learning tools: discussion of the value of puzzles for language acquisition and familiarity (word search puzzles), discussion of curated mnemonic tools, and language learning mobile applications.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;introduction&quot;&gt;Introduction:&lt;/h3&gt;
+
+&lt;p&gt;The pursuit of language learning is one done with the hopes of improving communication; to understand and to be understood. It should be acknowledged that languages consist of text data, albeit well-established corpora. Often language teachers are challenged with the task exploring such corpora and finding creating ways simplifying inherently complex language concepts. This undertaking is often done with the aid of some visual aids; however, the standards of visualizations vary as teachers are often expected to create unique learning tools to explain standard course material to each new class.&lt;/p&gt;
+
+&lt;p&gt;Language teachers are encouraged to keep their visualization of the age-old corpora fresh. Moreover, they are increasingly expected to incorporate technology into their works where possible. However, the application of the latest forms of technology is not always suitable; at times, simplicity is indeed the best option. Therefore, the goal here is to investigate the established forms of data visualization when teaching languages and attempt to rank them. Ranking can assist with forming future recommendations for the teaching of specific topics.&lt;/p&gt;
+
+&lt;p&gt;Spanish is one of the most popular languages spoken in the world and taught in schools; it is also one listed as one of the more simple languages to acquire as a second language. In fact, while the Kwéyòl, the heritage language of Saint Lucia, is taught in only a handful of schools on the island, Spanish is one of the main languages commonly taught in most high schools. Since the learning of Spanish is so common, investigations seeking the simplification of complex linguistic concepts could ease language acquisition, and indirectly enhance communications in society. Data visualization could improve how individuals can absorb this language information.&lt;/p&gt;
+
+&lt;p&gt;However, the teaching and learning of Spanish verbs can be difficult. In Spanish, most verbs can be classified based on their endings of AR, ER, and AR. Conjugating the verbs requires an understanding of concepts such as regular and irregular endings. Verbs may also be classified based on the “stem change” involved in conjugation.&lt;/p&gt;
+
+&lt;p&gt;Overall, verbs are typically taught using simple tables. Even if one were to focus on stem-changing verbs, tables are indeed the most common form of displaying the information. While not very visually interesting, this is the standard.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/palm.PNG&quot; alt=&quot;Hellloererererer&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Other teachers may attempt to make this information more visually appealing by displaying images of these personal groupings, and then adding their related labels.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/palm.PNG&quot; alt=&quot;Hellloererererer&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Some teachers have unofficially adopted the “shoe/boot verbs method” to visualize verb conjugation. Another less popular method in the US is the “hand method”.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/palm.PNG&quot; alt=&quot;Hellloererererer&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This form assigns persons to fingers on one’s hand. This method is reminiscent of the Guidonian hand mnemonic device, that had been used to aid singers in studying to sight-sing. This form, however, excludes the second-person-plural version of verbs - the vosotros form. This form is not necessarily difficult to learn, only novel to many persons that learned Spanish in the Americas; when looking at spanish being acquired in Latin America versus Spain, the use of vosotros can mean the difference between being formally correct or informally fluent, respectively.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/palm.PNG&quot; alt=&quot;Hellloererererer&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It has recently been suggested this hand mnemonic device, can be adapted to include all the verb conjugation details. The vosotros form can be acknowledged as special rather than being ignored; this uniqueness can be highlighted through its association with the ring finger.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/palm.PNG&quot; alt=&quot;Hellloererererer&quot; /&gt;&lt;/p&gt;
+</description>
+                <link>http://llord1.github.io/2020/07/08/AnalysisMnemonic</link>
+                <guid>http://llord1.github.io/2020/07/08/AnalysisMnemonic</guid>
+                <pubDate>Wed, 08 Jul 2020 00:00:00 -0400</pubDate>
+        </item>
+
+        <item>
+                <title>Cognitive needs: topics related to Analysis</title>
+                <description>
+&lt;h2 id=&quot;cognitive-needs-can-be-explored-as-topics-related-to-analysis&quot;&gt;&lt;strong&gt;&lt;em&gt;Cognitive needs&lt;/em&gt;&lt;/strong&gt; can be explored as topics related to &lt;strong&gt;&lt;em&gt;Analysis&lt;/em&gt;&lt;/strong&gt;.&lt;/h2&gt;
+</description>
+                <link>http://llord1.github.io/2020/07/08/Analysis</link>
+                <guid>http://llord1.github.io/2020/07/08/Analysis</guid>
+                <pubDate>Wed, 08 Jul 2020 00:00:00 -0400</pubDate>
+        </item>
+
+        <item>
+                <title>Biological and physiological needs: topics related to Ambience</title>
+                <description>
+&lt;h2 id=&quot;biological-and-physiological-needs--can-be-explored-as-topics-related-to-ambience&quot;&gt;&lt;strong&gt;&lt;em&gt;Biological and physiological needs&lt;/em&gt;&lt;/strong&gt;  can be explored as topics related to &lt;strong&gt;&lt;em&gt;Ambience&lt;/em&gt;&lt;/strong&gt;.&lt;/h2&gt;
+
+</description>
+                <link>http://llord1.github.io/2020/07/08/Ambience</link>
+                <guid>http://llord1.github.io/2020/07/08/Ambience</guid>
+                <pubDate>Wed, 08 Jul 2020 00:00:00 -0400</pubDate>
+        </item>
+
+        <item>
+                <title>Transcendence needs: topics related to Altruism</title>
+                <description>
+&lt;h2 id=&quot;transcendence-needs-can-be-explored-as-topics-related-to-altruism&quot;&gt;&lt;strong&gt;&lt;em&gt;Transcendence needs&lt;/em&gt;&lt;/strong&gt; can be explored as topics related to &lt;strong&gt;&lt;em&gt;Altruism&lt;/em&gt;&lt;/strong&gt;.&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Issue:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;An online creole dictionary resource has been provided by SIL(Summer Institute of Linguistics) International Publications, however, it is incomplete. Many words are missing altogether, and some present words bearing multiple meanings (many of which are not stated).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Questions:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Is there an existing model for implementing community discussion of dictionaries?  Is it possible to create an infrastructure for community collaboration of an endangered language?
+Is it possible to explore the implementation of an online dictionary resource through a systems dynamic model? And would other models be more applicable (for example, the application of the predator-prey Lotka-Volterra model,  or the WORLD3 Model)?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Discussion:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Online dictionaries allow users and compilers opportunities far beyond those of traditional publishing constructions. For an endangered language, the use of such a resource becoming increasingly essential. However, the use of static online dictionaries may not be sufficient to meet the demands of language that is slowly dying. Static dictionaries with dynamic qualities may better serve the needs of cataloging an endangered language.&lt;/p&gt;
+
+&lt;p&gt;Online dictionaries can benefit from using technology to update their records regularly. This not only pertains to new sections of the alphabet but “also with words of particular interest to its users at the time”. Words such as LOL and YOLO were online slangs that were added to the Oxford English Dictionary (OED) in 2011, and 2016 respectively. The third edition of the OED appears to no longer suppress widely‑used slang terms, however, it certainly is incapable of documenting the meaning and use of every fleeting term used among small assortments of speakers within the entirety of English‑speaking world.&lt;/p&gt;
+
+&lt;p&gt;The Urban Dictionary is the free service of an online dictionary of contemporary English slang usage; it is a “collaborative project of over 1 million definitions for over 400,000 unique headwords”. It serves as an online lexicography where public contributors explain the meanings of words and phrases not readily covered by traditional dictionaries; contributors collaborate, cooperate, and compete for meaning-making. Eventually, depending on the proliferation of use in society, official dictionaries, such as OED, may elect to officially adopt a word from such a collection.&lt;/p&gt;
+
+&lt;p&gt;The collaborative compilation of online lexicography is, therefore, known to linguistics. In fact, there is a webpage, similar to Urban Dictionary, that strategically caters to Caribbean consumers. While the region bears various peoples with differing histories, they do share similarities. Most of these similarities, however, are the unfortunate result of colonialization from similar superpowers, certain words are ubiquitous due to the ease of traversing and settling in neighboring countries. Persons of these areas experience similar flora and fauna, and environmental and social phenomena that are endemic to their setting and way of life. The website, Wiwords, is a dynamic online dictionary that highlights instances of shared vocabulary, as well as allowing for contributions that are unique to certain countries in the Caribbean.&lt;/p&gt;
+
+&lt;p&gt;It should, however, be noted that Saint Lucians do not appear to be highly active in this online linguistic community. For example, there are no contributions to the section outlined for local “quotes” or sayings, when these are quite abundant in the local language. Most participation from Saint Lucia pertains to discussions of food, and animal and plant life.&lt;/p&gt;
+
+&lt;p&gt;Overall, the Antillean creole spoken in Saint Lucia can benefit from utilizing online language resources. A pidgin is language variety developed by speakers in contact who share no common language; it would have limited functions of use, is linguistically simplified, and has developed its own rules and norms of usage. Creole languages are developed from pidgins, and severe as the first language of some members of a speech community, where it is used for a wide range of functions. Since creole languages seldomly achieve official status, the speakers of a fully formed creole may eventually feel compelled to conform their speech to one of the parent languages. This decreolization process typically brings about a post-creole speech continuum characterized by large scale variation and hypercorrection in the language.&lt;/p&gt;
+
+&lt;p&gt;Therefore, to better preserve the creole language within Saint Lucia,  a dynamic online community dictionary would be very useful in keeping certain words active. However, there are flaws in this structure that can be improved upon. Public contributors may understand the language in terms of speaking it, however, they may not be the best teachers; that is to say that contributors may not always be clear in their explanations or contributions. Overall, straying from official spellings of words can contribute to data entry issues. For example, one can observe the accents used with “chofé” - “to heat up”,  and “chofè” - a “driver”. These words without context and accents would be very difficult to decipher. Persons being inaccurately applying accents, or unable to access the necessary unique characters were required (diacritics) for formal grammar can present problems in documenting the language.&lt;/p&gt;
+
+&lt;p&gt;Another issue with dictionary compilation in this region may deal with the overlap of meanings attributed to certain words. Many-to one-relations between words and their meanings (e.g. homonymy and polysemy) are often not included in lists when studying this grammatical phenomenon for a unique language like creole. In addition to synonyms, frequent polysemy, the presence of homonyms and homophones and the phenomena sometimes referred to as the “false friends” of the translator.
+Dictionaries recognize the distinction between polysemy and
+homonymy by making a polysemous item a single dictionary entry
+and making homophonous lexemes two or more separate entries; polysemous terms can though different can be derived from one basic idea, and the related terms reflect that image.&lt;/p&gt;
+
+&lt;p&gt;Polysemy is a common occurrence in the endangered language of Saint Lucian Antillean creole. An indication of a polysemous verb in English is one that corresponds to different verbs when translated into other languages. For example, one can review the English word for “ask” (for information) and “ask” (for action); this can be interpreted as one word “vragen” in Dutch, however, the majority of other languages use different words for each interpretation in English, like “fragen” and “bitten” in German, and “preguntar” and “pedir” in Spanish. In Saint Lucian creole,  this can be seen where the term “mwen” can mean “me” or “my”, or the term “asou” can mean “on” or “lean against”.&lt;/p&gt;
+
+&lt;p&gt;Even the word, “Creole” can be viewed as a contested, polysemous term in the English language. The term has been used at different times and in various geographical regions to describe distinct identities, languages, peoples, ethnicities, racial heritages, and cultural artefacts. As an adjective, Creole was applied as an indicator of higher status bestowed upon Louisiana-born slaves to distinguish them from those born in African. It was also used as a noun to designate local birth in Louisiana, regardless of racial heritage; later Creole was used by Americans when referring to people of Spanish or French descent, yet it has often been conflated with the term “Cajan” (which described French colonists that settled in Canada’s Acadia region, then migrated to Louisiana). In fact, for some time, there was also a misconception that the term only referred to whites born in Louisiana.&lt;/p&gt;
+
+&lt;p&gt;Currently, Creole primarily refers to one’s linguistic heritage (French culture and a unique Franco-linguistic dialect) as the main source of their ethnic identity (particularly those of mixed or foreign ancestry). Creole, ‘Kreyol’ or ‘Kweyol’ also refers to the creole languages in the Caribbean, including Antillean Creole, Haitian Creole, and Jamaican Creole, among others.&lt;/p&gt;
+
+&lt;p&gt;Polysemy may indeed present an issue for when attempting to study a language or dialects, however, it is in fact, the premise of much of the active literature in this language. Calypso, and most other endemic forms of music, may celebrate this ability to utilize words or phrases bearing double meanings to indirectly discuss topics that are often crude. Philips suggested that Calypsos can engage this method via ‘lamina lyrics’. &lt;em&gt;Much like an onion, these Calypsos have a number of different levels of meaning, concealed one underneath the other. Achieving this phenomenon, Calypsonians use frames and masks that manifest in Calypsos as a metaphor, metonym, polysemy, irony, and satire&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;In 1863, August Schleicher, the German linguist, discussed languages as &lt;em&gt;natural organisms that come into being, develop, age, and die according to laws that are quite independent of man’s will&lt;/em&gt; (cited by Arens 1969:259). This perception of language is contrary to recent the modern view that it is one’s set of communication habits that have principally been defined by their social experience, led by an innate sense to decipher and learn the language practices of others. However, despite having a few members of “native speaking generation” left, often communities lack the implementation of structures dedicated to the retention of language. Therefore, successive generations may require resources that express the necessity of the language as well as its desirability to ensure its continuance.&lt;/p&gt;
+
+&lt;p&gt;Mohan is of the view that living languages can die before “the last trace of memory has vanished”; that these languages may be experiencing a feigned guise of life through its observation of “sympathetic post-users from outside its system” (1979:42). To further quote Mohan, there are two senses in which an obsolescent language becomes dead before its forms have completely disappeared:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;A small part of the non-native speaking generation has preserved dead tokens of the language. Also, the time gap between the age of the youngest native speaker and the latest possible age of language acquisition, in infancy, shows the language dead at its source, but with a now finite community of native speakers continuing, like the earlier light of a dead star, to travel its original course and give an illusion picture of vitality. (313)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Moreover,  Sasse (2001) lists ten changes occurring during language obsolescence;  several of which bear similarities to those described by Campbell &amp;amp; Muntzel (1989) and Palosaari &amp;amp; Campbell (2011), namely: &lt;em&gt;loss of phonological distinctions, regularization of morphophonemics, loss of function words, analyticity, loss of morphology, loss of syntactic complexity, agrammatism, phonological and grammatical variability, reduction of vocabulary, and an increase in polysemy&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Evaluating and creating structures is crucial for the preservation and promotion of endangered languages.
+&lt;strong&gt;Need to expand on the definition of systems dynamic model and other models here…&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Perceptions of the locals’ attitudes towards the creole language are often complicated. Language change in Saint Lucia has been a pressing concern for academics for many years. As recent as 1970,  Douglas Midgett highlighted that the formal teaching of Patois would be viewed as “unjustifiable and in any case, would never be tolerated by even its most ardent user”. At the time, he noted that most people agreed that increased proficiency in spoken and written English (or French) would be an educational must, however, writers and other academics and actual educators had differing views; the former group believed that use of creole in schools could aid with recognizing English as a second language, whereas educators adamantly argued against any use of Creoles in the schools. He believed that the use of Patois in the schools interchangeably with less formal, more colloquial English would aid in establishing English in the minds of students as a functional Patois equivalent. He suggested that as long as educational institutions reinforce the conventional traditional opinion of separating the two languages, the campaign for English literacy and spoken usage will not have widespread effectiveness. Midgett, however, underestimated how pervasive the English language would be; in fact, it is the creole language that currently lacks proper literacy among the public.&lt;/p&gt;
+
+&lt;p&gt;In 1998, Frank explored and even expanded the written form of the creole language in Saint Lucia while attempting to effectively translate an English bible into the local language. Upon concluding his tasks he remarked that the bible would indirectly boost creole literacy through the motivational passages of the bible:
+ &lt;em&gt;“… for all practical purposes Creole remains an unwritten language for the majority of the population, which remains unaware of the books published in Creole. Attempts to teach Creole literacy have not met with much success because of lack of interest. Motivation is the most important factor in the success of any literacy program, and having something people want to read is the most important motivating factor”&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;This ultimately leaves one to wonder if it is logical and possible to merge an official online static dictionary with a dynamic slang dictionary to increase fluency of an endangered language? Such as system would require access to an existing dictionary, as well as opportunities for dictionary contributions. The creation of an interactive dictionary may assist with reinvigorating the usage of the language through active use and contributions to this resource, but also offer opportunities to actively discuss and clarify words and concepts associated with creole.&lt;/p&gt;
+</description>
+                <link>http://llord1.github.io/2020/07/08/Altruism</link>
+                <guid>http://llord1.github.io/2020/07/08/Altruism</guid>
+                <pubDate>Wed, 08 Jul 2020 00:00:00 -0400</pubDate>
+        </item>
+
+        <item>
+                <title>Love and belonging needs can be explored as topics related to Affiliation</title>
+                <description>&lt;h2 id=&quot;affiliation-through-language&quot;&gt;Affiliation through Language:&lt;/h2&gt;
+
+&lt;p&gt;How effective has the vocabulary of Indian origin been in its contribution to St. Lucian Creole Vocabulary? Are the words strictly isolated to food, and a few racial descriptors?&lt;/p&gt;
+
+&lt;h3 id=&quot;hypothesis&quot;&gt;Hypothesis:&lt;/h3&gt;
+&lt;p&gt;Vocabulary of Indian origin are present in low rates and strictly isolated to food and racial descriptors.&lt;/p&gt;
+
+&lt;h3 id=&quot;null-hypothesis&quot;&gt;Null hypothesis:&lt;/h3&gt;
+&lt;p&gt;Vocabulary of Indian origin has no effect on beyond food and racial descriptors.&lt;/p&gt;
+
+&lt;h3 id=&quot;commentary&quot;&gt;Commentary:&lt;/h3&gt;
+&lt;p&gt;The only relevant literature on this topic thus far is a statement on one of SIL’s reports :
+“Vocabulary of Indian Origin. Most of the few words in St. Lucian Creole of Indian origin have to do with cuisine: dal (Hindi), dalpouri, goulgoula, gwodja, kirou, kòri (Tamil), mango (Tamil), roti (Hindi), sohari and talkari. There are also two words, kouli [&amp;lt; Hindi qūlī ‘hired servant’] and dogla [&amp;lt; Hindi dogalaa ‘hybrid’], that have to do with ethnicity.”&lt;/p&gt;
+
+&lt;p&gt;http://www.saintluciancreole.dbfrank.net/workpapers/sources_of_vocabulary.pdf&lt;/p&gt;
+
+&lt;p&gt;One may find data to support this experiment as Trinidad has a high Indian population of creole speakers, and Antillean creole shares some vocabulary (can check Wiwords for similarities).&lt;/p&gt;
+
+</description>
+                <link>http://llord1.github.io/2020/07/08/Affiliation</link>
+                <guid>http://llord1.github.io/2020/07/08/Affiliation</guid>
+                <pubDate>Wed, 08 Jul 2020 00:00:00 -0400</pubDate>
+        </item>
+
+        <item>
+                <title>Aesthetic needs: topics related to Artistry</title>
+                <description>
+&lt;h2 id=&quot;aesthetic-needs-can-be-explored-as-topics-related-to-artistry&quot;&gt;&lt;strong&gt;&lt;em&gt;Aesthetic needs&lt;/em&gt;&lt;/strong&gt; can be explored as topics related to &lt;strong&gt;&lt;em&gt;Artistry&lt;/em&gt;&lt;/strong&gt;.&lt;/h2&gt;
+</description>
+                <link>http://llord1.github.io/2020/07/08/Aesthetic</link>
+                <guid>http://llord1.github.io/2020/07/08/Aesthetic</guid>
+                <pubDate>Wed, 08 Jul 2020 00:00:00 -0400</pubDate>
+        </item>
+
+        <item>
+                <title>Data Science Discussions</title>
+                <description>&lt;p&gt;&lt;a class=&quot;citation&quot; href=&quot;#wege2005&quot;&gt;(Wege &amp;amp; Anadón-Irizarry, 2005)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;33333&lt;/p&gt;
+
+&lt;h1 id=&quot;data-science-discussions&quot;&gt;Data Science Discussions&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;O Captain! my Captain! rise up and hear the bells;&lt;/li&gt;
+  &lt;li&gt;Rise up—for you the flag is flung—for you the bugle&lt;sup id=&quot;fnref:fn2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:fn2&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; trills,&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+&lt;h2 id=&quot;p-values&quot;&gt;P-values:&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Currently there is a monumental debate taking place in the academic fields of statistics, data science, and any field that conducts analysis – that is looking at the future of statistical inference. The center of that debate is the concept of statistical significance and specifically the role of p-values. Summarize the salient points of that debate and how data sciences and its computational approaches have driven the debate to the forefront. Further, speak to how the outcome of this intellectual debate could influence the future of data analysis practice.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;P-values have indeed been a common feature of statistics, particularly in introductory classes, as it serves as a useful tool for steering students away from varying degrees of the randomness of variation (when analyzing data). However, it can also be argued that due to the complexity of the concept (to teach, to learn, and consequently interpret), it may be time for a change in the computational approaches in data sciences to stop the continual discussion of its use and misuse. Others simply argue that the main issue with the P-value truly dependents on the user; that the main issue is simply based on user knowledge and aptitude. One writer believes that the “practical alternative to the p-value is the correctly used p-value”&lt;/p&gt;
+
+&lt;p&gt;However, while alternatives statistics were proposed to the P-value statistics, such as confidence intervals, effect sizes, or Bayes factors, there was evidence to support that those methods were marginally indifferent and offered similar interpretations of uncertainty. The main issue for some was that the core of the difficulties being experienced was as a result of research design flaws; that these issues were perpetuated through educating non-statisticians on how to interpret and present the volumes of information that result from analyzing their research data [@Goodman]. It appears that Raymond Hubbard has taken it upon himself to truly question and explore the matters Statistical Significance Testing and P-values applied in various scenarios. These works include works such as “the historical growth of statistical significance testing in psychology—and its future prospects” [@hubbard2000historical], and “The Rise of Statistical Significance Testing in Public Administration Research and Why This Is a Mistake” [@hubbard2013rise].&lt;/p&gt;
+
+&lt;p&gt;The undercurrent of disagreement resulted in a confusing set of events that impacted the industry; the events that took place, and the decisions that were made, transpired in 2015 to 2016, between the editors of Basic and Applied Social Psychology and the American Statistical Association were abrupt and jarring to the industry. This did, however, question established ideas in the industry and for that, the industry is better for it [@Goodman].&lt;/p&gt;
+
+&lt;p&gt;The matter can be said to have begun with, R.A Fisher and the introduction of the P-value concept in Statistical Methods for Research Worker in 1925 [@Goodman]. This was touted to provide users with many benefits. It is said that p-values indicate how surprising the data is assuming that there is no effect. P-values serve as helpful guides against being fooled by randomness separating the signal from the noise in data; instead, they allow to do you to hone in on specific details to make inferences with varying degrees of certainty.&lt;/p&gt;
+
+&lt;p&gt;However, as of 2015, the editors of Basic and Applied Social Psychology (BASP) were said to have “effectively banned the use of null hypothesis significance testing (NHST) in manuscripts submitted for publication” [@Goodman]. At the time, there were concerns that if such a ban were to be permanent then it would not only have costly ramifications for academic works that were already in progress (or just concluded) but also create issues for older works. This decision was met with bit positivity and negativity, as some academics praised these efforts, while other staunchly opposed this change by attempting to maintain the use of null hypothesis significance testing. Many editorials were written for both sides of the argument [@Goodman].&lt;/p&gt;
+
+&lt;p&gt;The American Statistical Association then released a policy statement on p-values outlining their context, the process by which they should be used, and their purpose in scientific literature and research as of March 2016. A key statement highlighted that “the statistical community has been deeply concerned about issues of reproducibility and replicability of scientific conclusions” and that “misunderstanding or misuse of statistical inference is only one cause of the reproducibility crisis” [@Goodman].&lt;/p&gt;
+
+&lt;p&gt;Overall evolution in statistics continues to occur outside of industry squabbles. For example, P-values are still evolving [@blume2018second; @blume2019introduction; @lakens2018equivalence]. Jeffery Blume has recently been making great strides in the statistical world. He believes that there may be a need for a second iteration of the P-value [@Blume]. To uphold the tenet of statistics that seeks to provide proper verification that a statistically significant result is scientifically meaningful and ensure that Type I error rates are controlled, the second-generation p-value stands to account for scientific relevance and leverages that this “natural Type I Error controls” [@Blume]. This idea is predicated on the preset values; there is to be a  “pre-specified interval null hypothesis that represents the collection of effect sizes that are scientifically uninteresting or are practically null” [@Blume].&lt;/p&gt;
+
+&lt;p&gt;The second-generation p-value is also said to be “the proportion of data-supported hypotheses that are also null hypotheses”; therefore this approach is said to be compatible with null hypotheses, or with alternative hypotheses, or when the data are inconclusive” [@Blume]. Additionally, it is said to bear “proper scientific adjustment for multiple comparisons and reduce false discovery rates”; this change facilitates better handling of the ever-increasing amounts of large datasets, where traditional p-value adjustments viewed as being are “needlessly punitive” [@Blume]. This newer version is suggested as being more transparent, yet rigorous and capable of providing reproducible scientific results (by a priori specifying which candidate hypotheses are practically meaningful and by providing a more reliable statistical summary of when the data are compatible with alternative or null hypotheses) [@Blume].&lt;/p&gt;
+
+&lt;p&gt;Blume’s work suggests that the P-value does indeed have the potential to change and that it does not need to be completely disregarded. There are many others just like Blume that are currently reviewing existing standards and tools and attempting to find ways to improve the industry. As statisticians, we should always be willing to expect and accept change when there has been sufficient presentation of facts and a streamlined plan of implementation.&lt;/p&gt;
+
+&lt;p&gt;However,  such actions were not what would have been expected from data professionals that usually attempt to be careful with the information that compiles and present to society. The initiating action seemed to be an afront to common decency and respect to boards of authority in the industry, as well as to the members of the larger data community. While this matter did not gain much traction on in new beyond the industry, the discussion points presented from those events should continue in order the field to progress, and so too society.&lt;/p&gt;
+
+&lt;p&gt;Ultimately, I believe the main outcome of this such a debate will indeed lead to industry change, however, this change may be very gradual. I do however see merit in at the very least find ways of improving the way that statistics is being taught, as it is argued that finding alternative will still not be successful in the necessary teaching resources and mentality is not in place.&lt;/p&gt;
+
+&lt;h2 id=&quot;bootstrap&quot;&gt;Bootstrap:&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;In 2018, Bradley Efron won the International Prize for his work developing the concept of the Bootstrap. The bootstrap procedure is considered a threshold concept that aided in ushering in the computer age of statistical inference. What is the bootstrap, why is it so valuable in assessing uncertainty and why is it considered such a landmark development?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Bootstrapping is indeed a procedure/tool that can be employed to simplify the performance of statistical inferences. It believed to be quite useful in statistics as it allows for creating confidence intervals and standard errors in situations that would have been deemed problematic in its absence. In other words, it is believed to have simplified the mathematical aspects of performing inferences [@euclidbci; @SmartVision; @teachers; @secondthoughts; @gentlemethod; @recovering; @sciencedirectoverview; @sbiteacher].&lt;/p&gt;
+
+&lt;p&gt;The bootstrap method is said to be a statistical technique for estimating quantities about a population by averaging estimates from multiple small data samples. A bootstrap sample can be viewed as a “smaller sample that is “bootstrapped” from a larger sample” and is predicated on the concept of resampling [@define]. With bootstrapping one can take a small sample, and generalize to that data to a larger population. If one were to use an item in their sample as a surrogate for an item in the general population, one would be able to randomly sample them with replacement to not only generate different data sets but also calculate the difference between the experimental and control conditions.&lt;/p&gt;
+
+&lt;p&gt;Thousands of iterations can be run on this data as long as the base conditions are met. The rationale behind this assumption is that if one randomly samples subjects from the general population, each one of those individuals can be used as a surrogate for any other random selection from the population; that item can indeed be re-drawn multiple times with replacement without issue. Resampled means be then be used to make additional inferences. Many persons like to draw on the example of calculating the confidence interval for the median when discussing Bootstrapping. Without its application, one would need to go through the rather complicated and often time-consuming mathematical calculation to arrive at a sufficient answer. With Bootstrapping, the process is simplified.&lt;/p&gt;
+
+&lt;p&gt;The Central Limit Theorem has been established as the distribution of the mean of a random sample from a population with finite variance is approximately normally distributed when the sample size is large, regardless of the shape of the population’s distribution. It is important to note that the bootstrap distribution of a statistic, based on the resamples, represents the sampling distribution of the statistic; therefore, Bootstrapping can be used to easily understand Central Limit Theorem as it can perform multiple iterations of select items from the data [@minitab].&lt;/p&gt;
+
+&lt;p&gt;Statistics is said to be the branch of mathematical engineering which studies ways of making inferences from limited and imperfect data; there is indeed an air of uncertainty to this field, and Bootstrapping is the perfect tool to address. Bootstrap is said to be a general tool for confidence intervals and an assessment of uncertainty. However, it should be noted that bootstrapping may not be infallible; some have stated that it may encounter possible issues with uncertainty where the “bootstrapping confidence interval wrongly indicates that there is a decent chance that p=0” [@recovering].&lt;/p&gt;
+
+&lt;p&gt;To better clarify, I sought out explanations from the creator. Bradley Efron once attempted to summarize Bootstrapping, by acknowledging that one can deal with statistics on two levels; one level allows for the creation of algorithms to estimate an entity, and the second level attempts to figure out how accurate those algorithms. Stated another way, the first level is attended to by the algorithm which is answering the question the researcher is interested in; Bootstrap is usually attended to the second-level analysis (that being the determination of how accurate the answer).&lt;/p&gt;
+
+&lt;p&gt;It is indeed important to note that the Bootstrap is always in a supporting role in the process, rather than the leader. It is meant to be a tool of assistance to bridge the gap between levels one and two; of estimation and accuracy. He explained that while the traditional way of handling these details would be mathematics, the problems being posed now are increasing in their complexity, and the datasets have drastically increased in size. Efron stated that Bootstrapping is viewed as a way of utilizing the computer’s power to answer the questions of accuracy; without technology, these processes would have been highly time-consuming.&lt;/p&gt;
+
+&lt;p&gt;He spoke of the main benefit being Bootstrap allowance for mathematical tractability. This may be part of the reason why it is considered a threshold concept, as it has indeed served to revolutionize the way that data was being approached. More than most careers, Statistics are always working with iterations of data to find ideal models or solutions, therefore, the act of repeating repetitive processes would indeed be time-consuming, and thus slow down the process of scientific experimentations and breakthroughs.&lt;/p&gt;
+
+&lt;p&gt;Not only did does this process improve the productivity and accuracy of routine experimental processes, but t also frees up time for new experimentation. Therefore Bootstrapping allows users the benefit of the freedom to pursue the creation of a highly useful but complicated algorithm, and utilize massive datasets, all while being comforted by the fact that their computer can produce an effective measure of accuracy. This time-savings in calculations is indeed invaluable to the data science community where calculations and number crunching is key. Statisticians would then be free to challenge themselves and approach new problems confidently based on the reassurances provided by Bootstrapping.&lt;/p&gt;
+
+&lt;p&gt;Interestingly, the teaching of such a concept is increasingly being encouraged at earlier stages in the education of statistics. Bootstrapping’s mathematical tractability is most likely what cemented its significance as a threshold concept when applied to an educational setting. Bootstrapping would serve to tackle topics and concepts that are often overlooked in the teaching of statistics, due to their inherent complexity and time-consumption.&lt;/p&gt;
+
+&lt;p&gt;Not only does Bootstrapping serve to tackle complex calculation issues, but it also serves as a teaching aid to allow for the exploration of complex calculations, but also for the consistent teaching of concepts (rather than dropping them off simple explanation does not fit into the time constraints of a classroom). For instance, topics dealing with medians at advanced levels are almost always glazed over. Some have attempted to create works that encourage teachers to present this concept to introductory-level statistical courses at colleges; Tim Hesterberg’s work “What Teachers Should Know about the Bootstrap: Resampling in the Undergraduate Statistics Curriculum” is a perfect example of this [@teachers]. Bootstrapping also has great applications in the modern era where companies with access to “big data” are attempting to find value in these possessions. The utility can range from medical areas when dealing with cases of rare diseases (thus small sample sizes).&lt;/p&gt;
+
+&lt;p&gt;It should be noted that with the teaching of bootstrapping, Tim Hesterberg suggested a few cautions [@forget]. It is said that the percentile bootstrap is to be viewed as a stepping stone (as it is often too unreliable); instead, it can be used as a base for others. Notably, there are better bootstrap methods than like &lt;em&gt;bootstrap t-interval&lt;/em&gt;. Additionally, bootstrap opens the door to more statistics (like the standard deviation and IQR). Moreover, teachers would need to establish appropriate conditions for the bootstrap (this is to ensure proper appreciation of this threshold concept). Finally, teachers were advised that “shifts in pedagogy are costly, so proper preparation of motivating materials for a change needs to be created, as well as, proper teaching materials.&lt;/p&gt;
+
+&lt;p&gt;Many believe that Bootstrapping gets its name from the fact that it is a very helpful tool that aids the user in pulling themselves out of a mathematically difficult situation; the &lt;em&gt;Bootstraps&lt;/em&gt; serve as a means of getting the user out of state lacking statistical inferences. Interestingly, in the U.S the concept of pulling yourself up by your bootstraps implies that one is attempt succeeding or elevating yourself without any external assistance; the act of pull yourself up by your bootstraps is highly physically impossible [@phrase]. The phrase has been around a while going through several iterations in meaning until landing on the current understanding - the impossible can become possible if you try hard enough.&lt;/p&gt;
+
+&lt;p&gt;Whether not this was Bradley Efron’s main point with this procedure, the phrase’s application the realm of statistics does appear to be apt as one can approach a once challenging, with relative ease. It is said to have been created back in 1979, but Bradley Efron’s first official publications using the term Bootstrapping was his 1988 “ Discussion: theoretical comparison of bootstrap confidence intervals” within &lt;em&gt;The Annals of Statistics&lt;/em&gt;. It was very short, barely four pages long but was indeed the start of a dynamic shift in how many viewed statistical possibilities.&lt;/p&gt;
+
+&lt;h2 id=&quot;noam-chomsky&quot;&gt;Noam Chomsky:&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Many current machine learning techniques (e.g., deep learning) being used to analyze natural language seem to ignore Chomsky’s idea of “deep structure”. Do you think it will be possible to make major advances in the analysis of natural language in the next few years without considering the role of “deep structure”?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Noam Chomsky is known as an American philosopher, cognitive scientist, historian, social critic, and political activist, and most significantly a linguist; his works span decades and they are still impacting the decisions that professionals make in the many areas of study that he pursued. He is often affectionately referred to as “the father of modern linguistics” and has been a great contributor to the field of Chomsky field of cognitive science (and played a role in the development of analytic philosophy).&lt;/p&gt;
+
+&lt;p&gt;As technology seemingly drastically changes every day, the significance of older contributions is often questioned for relevance. Many of Noam Chomsky’s ideas focus on the natural aspect flow and order of things; it is based on instinct and nature. These are what his ideas thrive on. However, in the field of machine learning, it may not be as easy to apply these natural, intuitive deals over to such technology. This, therefore, can evoke the age-old image of the “chicken and the egg”; meaning would it not be wiser to wait until the technology has developed or evolved enough to fully appreciate the application of his techniques or is only possible to develop the technology that allows for it to do so.&lt;/p&gt;
+
+&lt;p&gt;Noam Chomsky’s deep structure refers to the deep/submerged aspect of a linguistic expression; it is a theoretical construct that seeks to connect several related structures - the underlying relationship intended to beyond the cursory details. The meaning that we attribute to them. When discussing “deep structure” Noam Chomsky is noted as referring to the inherent “underlying structure of grammatical relations and categories, and certain aspects of human thought and mentality are essentially invariant across languages”. He explored and questioned human thought and mentality at its core. He not only sought to have to study this in English but across various languages and cultures to see if they were the same at their core.&lt;/p&gt;
+
+&lt;p&gt;Machine learning techniques (e.g., deep learning) are increasingly being utilized to explore the most difficult aspects of human existence. It can identify patterns and note details that the human mind or body is incapable of producing to the same degree of speed or accuracy. Linguistics appears to be an area of increasing interest, however, it is indeed one of the more difficult subjects to work with because a lot of it is inherently based on unique human experiences and cognition. Therefore, when analyzing natural language, many seem to ignore Chomsky’s idea of “deep structure”; I would argue that they may have indeed attempted to include his considerations, however, many may find it too difficult to proceed forward.&lt;/p&gt;
+
+&lt;p&gt;Ultimately, I do believe that it will be possible to make major advances in the analysis of natural language in the next few years without considering the role of “deep structure”, however, it may not be recommended. Rather I would always recommend its consideration in the hopes of sparking development. Noam Chomsky’s thoughts on the deep structure may just be the unique key in unlocking major turning point in the field of machine learning and natural language analysis.&lt;/p&gt;
+
+&lt;h2 id=&quot;data-science-domains&quot;&gt;Data Science Domains:&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Data Science has its origin in multiple domains: artificial intelligence (including machine learning), applied mathematics, experimental design and analysis, business intelligence, mathematical modeling, forecasting, and others. As the field of data science develops in the next five years, which domains do you think will increase in importance and use, and which domains will become less important. What do you think will bring about these changes?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;While Data Science does bear multiple domains (artificial intelligence (including machine learning), applied mathematics, experimental design and analysis, business intelligence, mathematical modeling, forecasting, and others), they do not survive in as collaborative of a fashion as industry outsiders may think. Data science is a wide umbrella that pushes for the advancement of technology, yet not all of the parts move in unison or directly interact with each other intuitively. By its very nature, some domains progress faster than others, and so feed the others, nourish them with new concepts or tools, that will, in turn, boost their advancements.&lt;/p&gt;
+
+&lt;p&gt;For example, breakthroughs in applied mathematics might have an impact on artificial intelligence (including machine learning); mathematical modeling, might have an impact on forecasting. Additionally, industry groupings are not as clear cut, since one’s skills can be universally applied to various industries; for example, careers in mathematical modeling, and forecasting may be found on Wall Street or in an investment bank.&lt;/p&gt;
+
+&lt;p&gt;Most industry chatter would encourage one to believe that the domain with the highest demand would be artificial intelligence, however, the longevity of this attention is not guaranteed. Since data science is still evolving, it may be difficult to encounter straight forward metric that investigate every facet of the industry. Therefore there are various tools and cues one could use to make assumptions about the future of the different domains.&lt;/p&gt;
+
+&lt;p&gt;For example, it may be useful to review governmental salary information (income) to obtain some idea of the market need for the domain. Another method might include reviewing industry reports generated by industry experts such as Stackoverflow, or others. Regardless of the assumed dominance of certain domains, as people of science, and appreciators of technology, we must keep in mind that projections, even as soon as five years, can prove to be inaccurate due to the element of breakthroughs.&lt;/p&gt;
+
+&lt;p&gt;As of 2019, it was said that there are more vacant positions than the number of Data Scientists in this world [@Flair]. Data Science jobs were said to have been the highest paid in the IT industry [@towardsjobs]. In the same year, Data Science was hailed as the “sexiest job of 21st Century” by Harvard Business Review [@Flair].&lt;/p&gt;
+
+&lt;p&gt;It is believed that the new driving force behind industries is Data, and continued success hinges on the lack of ‘data-literacy’ in the market; therefore as long as there is data, there is potential for a domain to grow. However, it should be noted that some domains focus specifically on calculations of data, or tool building, and therefore may not be able to have tangible metrics to be measured with the expectation of growth.&lt;/p&gt;
+
+&lt;p&gt;It does appear that careers in the industry that require high-levels of education, creativity, or decision making do appear to retain the highest salaries. According to bls.gov, as of 2018, the median pay for the highest paying job in “Computer and Information Technology Occupations” would be for Computer and Information Research Scientists with $118,370 (with a Master’s degree) [@blsoccupations]. Unfortunately, such a grouping is not sufficiently clear as this could include multiple domains, like artificial intelligence (including machine learning), experimental design and analysis, and forecasting.&lt;/p&gt;
+
+&lt;p&gt;However, it was stated that “employment of computer and information research scientists is projected to grow 16 percent from 2018 to 2028, much faster than the average for all occupations. Computer scientists are likely to enjoy excellent job prospects because many companies report difficulties in finding these highly skilled workers” [@blsoccupations]. Interestingly, according to bls.gov, of the “Fastest-growing occupations” (20 occupations with the highest percent change of employment between 2018-28), it is currently that of “Solar photovoltaic installers” with a growth rate of 63%  [@blsfast].&lt;/p&gt;
+
+&lt;p&gt;Market research analysts and marketing specialists ranked 14th out of 20 on the “Most new jobs: 20 occupations with the highest projected numeric change in employment”. They were projected to grow “20 percent from 2018 to 2028, much faster than the average for all occupations. Employment growth will be driven by increased use of data and market research across many industries” [@blsmarket]. Of the “Highest Paying Occupations” no occupations related to the data science domain made it into the top 20 ranks (Psychiatrists topped the list).&lt;/p&gt;
+
+&lt;p&gt;AI appears to have the strongest case for an increase in over the next five years due to image recognition technology. Many governments will attempt to utilize these as part of internal security measures, as well as global monitoring (defense). Attempting to utilize these the technology for medical advancements (image recognition of medical data) will lead to earlier and more accurate disease detection.&lt;/p&gt;
+
+&lt;p&gt;Additionally, the world appears to be enthralled with the idea of deep-fakes and counteracting them; businesses may also attempt to utilize this technology in the hopes of creating new interesting products. Self-driving cars and autonomous robots are still topics that generate quite a deal of interest, and so has room to develop.&lt;/p&gt;
+
+&lt;p&gt;If I were to speculate I would assume that applied mathematics might end up slowing down or maintaining a slow pace in the next few years. While there is interest building for STEM careers, pure and applied mathematics does not appear to be as appealing as the other domains. Career prospects are also quite limited and most degree holders end up underemployed, the are unable to find many directly related jobs. I do not see the need completely vanishing, but I would expect continued slow growth.&lt;/p&gt;
+
+&lt;p&gt;While many employees have become accustomed to discussions of that rapid pace of AI development, and the negative impact it might have on the job market, one study found that 49% of respondents felt that artificial intelligence (AI) and automation, would have no impact on their job. While there may even be concerns that industry insiders may lose their high-skill level jobs to technology, many sources suggest that this is not the case; that jobs requiring a high degree of creativity and skill will endure beyond five years into the future. Since technology does serve to reduce the number of menial and repetitive tasks that one may have to endure, it would only benefit employees. However, not all areas of Data science may be impacted by the improvements in AI &lt;em&gt;equally&lt;/em&gt;, nor the employees associated with these industries&lt;/p&gt;
+
+&lt;p&gt;Ultimately, I foresee growth in all industry domains. As we continue to use more and more technology, it will require more employees to create and maintain them. Data science will supply the market with its various eclectic domains.&lt;/p&gt;
+
+&lt;h2 id=&quot;computer-programming-language-trends&quot;&gt;Computer Programming Language Trends:&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;It is hard to displace an existing human language when one is already in place. In as much as, two thousand years ago, the Romans wanted the countries they conquered to communicate in Latin, many in those countries were already using Greek to communicate between cultures simply because the same territories had been conquered three hundred years earlier by Greece. In the same light, replacing a common computer programming language is also difficult. It doesn’t take hundreds of years, but it still takes time. One exception to this process seems to be occurring in Data Science. In the few years that you have been studying analytics and data science, the dominant language has just shifted from R to Python in the last year. How do you think this happened? What do you think will happen in the future?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;As one that appreciates data, I concede the obvious merit in the proposed claim that Python has indeed surpassed R in being the industry dominant computer language. It may even be useful to address the underlying appeal of Python over R to comprehend the drastic growth. However, I do disagree with comparisons drawn between the domination shift of these languages to that of traditional natural languages. While I do believe that the near future does seem positive for Python’s upward projection, paired with R’s slide in dominance, like any language in the long term, it may wane in popularity when a newer more capable technology appears. It is said that &lt;em&gt;“integration into a single “linguistic community”, which is a product of the political domination that is endlessly reproduced by institutions capable of imposing universal recognition of the dominant language is the condition for the establishment of relations of linguistic domination”&lt;/em&gt; [@speakinggreek]. Therefore, a language’s vitality, be it a traditional natural language or computer language, is intrinsically linked to the strength of its supporting community.&lt;/p&gt;
+
+&lt;p&gt;A spoken language can be defined as the “accrual of shared meaning constructed within neurobiological systems that develop under the influence of a genetic program and social experience” [@ramacciotti2019language]. A programming language can be noted to possess syntax and semantics (where the syntax is related to the “spelling of the language’s programs”, and the semantics is related to the “meanings of the programs”); here a language’s syntax is noted to formalized by a grammar or syntax chart in its manual [@schmidt1996programming]. The term “languages” is applied to the technology industry as it allows programmers to closely model their communication of task requests to their tools most intuitively and naturally [@hromkovivc2016combining].&lt;/p&gt;
+
+&lt;p&gt;However, the true differences between traditional natural languages and programming languages may lie within the ease with which evolution can take place. With natural languages, these changes tend to evolve as persons communicate, while, ever so often, pushing against the established “rules” of how the language has historically existed [@greenhill2010shape]. Programing languages may not suffer the same issues of “language attrition” or drastic shifts when a new language is learned by an individual due to the rigidity of the coding structure; in scenarios where a new natural language has introduced the knowledge of their native language (L1) may begin to diverge from that of monolingual speakers, however, a coder may experience a form of forced “balanced bilingualism”, as coding divergence would simply lead to inexecutable code [@schmid2018predictors; @hemandez-chavez_language_1978]. However, with programming languages, while some may independently tinker with established open-source code, there tends to be gatekeepers and regulators associated with the distribution implementation of code. This rigorous structure is necessary to ensure standardization, proper version control, and reproducibility of results [@schmidt1996programming].&lt;/p&gt;
+
+&lt;p&gt;The learning of programming languages, like languages, can be impacted by environmental, experiential, attitudinal, and individual factors [@schmid2018predictors]. Languages thrive in environments where they are heavily expressed and speakers can find helpful resources to support fluency.  The most utilized factor for evaluating the vitality of a language is its transmission from one generation to the next. A language is regarded to be in danger when its “speakers cease to use it, use it in an increasingly reduced number of communicative domains, and cease to pass it to the next generation” [@drude2003language]. It is endangered when it is on a path toward extinction - without adequate documentation, it can never be revived [@drude2003language]. Both R and Python are established entities, are still highly used, and are well-documented; therefore, neither would be considered to be in danger nor endangered (despite Python’s dominance) [@incrediblegrowth; @robinson_why_2017; @python_2019; @Octoversereport; @InteractiveIEEESpectrum; @TIOBEIndex]. While it is a bit difficult to quantify these trends for a spoken language it is inherently non-digital, although now steps are being made to observe its vitality and evolution from the degree of activity on social media platforms, and also investigating sentiments related to them; Twitter data of the Irish dialect and other endangered languages is being closely monitored. In a way, the vitality of programming languages can also be gauged based on their online presence [@indigenous_tweet; @TLynn ].&lt;/p&gt;
+
+&lt;p&gt;Stack Overflow (SO) boasts that it has become the largest, most trusted Q&amp;amp;A online community for coders to develop or reinforce their skills, share their knowledge, and build their careers [@stackoverflowabout]; moreover, this company has expressed their interest in utilizing their in-house data to provide crucial insight into the worldwide software development community, and so reports on data are often made. Many other similar entities exist in the space that reports such industry progress, like Github’s Octoverse report, the Interactive IEEE Spectrum’s report (an authority in applied science and engineering), and the TIOBE Index (a programming Community index that serves as an indicator of the popularity of programming languages) [@python_2019; @Octoversereport; @InteractiveIEEESpectrum; @TIOBEIndex].  Quantifiable industry chatter could be used to confirm and explain Python’s dominance.&lt;/p&gt;
+
+&lt;p&gt;As of 2017, an internal SO report highlighted the appeal of Python’s versatility of application; similar reports by various external parties all produce the similar indications of Python’s incredible growth [@incrediblegrowth; @robinson_why_2017; @python_2019; @InteractiveIEEESpectrum]. In the same year, Python was part of Forbes’ top ten “Technical Skills With Explosive Growth In Job Demand” due to a 456% increase in demand from the prior year [@Forbestop].  In 2018, the TIOBE Index noted that Python had the highest rise in ratings in a year; Python also received a third-place award for notable growth in 2019 [@TIOBEIndex]. The 2019 Octoverse report also reflected its significant industry growth [@python_2019; @Octoversereport].  While R also noted growth during these times, the pacing was drastically different.&lt;/p&gt;
+
+&lt;p&gt;SO data visualization clusters revealed that most issues (particularly those related to data science and machine learning) were notably capable of being resolved through the application of Python tools [@robinson_why_2017]. Moreover, Python’s rate of growth occurred evenly across most industries [@incrediblegrowth; @robinson_why_2017; @python_2019]. Python is increasingly sought in areas such as electronics, manufacturing, software, government, and even finance; this language is particularly important to academic applications, such as university research programs [@robinson_why_2017]. While languages like Rust, R, and Go noted faster growth than Python in 2018, monthly traffic growth in the years since 2012 was lesser than Python [@incrediblegrowth]. Another 2017 SO report noted the Python tag was visited, about twice as often in high-income countries as in the rest of the world; however, R was stated to be visited three times as much under the same conditions.  R and Python were more common in “wealthier industrialized nations” that allow for scientific research to account for a larger portion of the economy and that programmers would likely hold advanced degrees (thus the focus on R) [@robinson_tale_2017; @stacktrends].&lt;/p&gt;
+
+&lt;p&gt;Python serves as a general-purpose language, capable of being utilized beyond simple websites; Google’s YouTube was also written in Python [@incrediblegrowth]. It also allows for writing backends for websites [@samepython; @robinson_why_2017; @incrediblegrowth]. It is viewed as being “an easy and elegant language to learn to program” for beginners [@gries2017practical; @hromkovivc2016combining; @grandell2006complicate; @stajano2000python; @robinson_why_2017]. In fact, Python’s future growth is bolstered by Google’s recent launch of a Python, not R, educational series [@google_python; @gclass].&lt;/p&gt;
+
+&lt;p&gt;Moreover, it is Python’s pace in developing its data science uses that has drastically driven its popularity (although, closely followed by the areas of system administration and DevOps engineering) [@samepython; @robinson_why_2017; @incrediblegrowth].  The academic industry often has the highest volume of Python traffic; data science, machine learning, and general academic research became a great portion of the programming community, and thus boosted Python’s appeal and dominance  [@gries2017practical; @hromkovivc2016combining; @grandell2006complicate; @stajano2000python; @robinson_why_2017].  While both R and Python have research packages and services, Python’s rate of product improvements in areas of research outpaces R; Python’s Pandas package appears to be essential to this surge in research communities [@pandastack; @robinson_why_2017]. In my 2018 co-publication, &lt;em&gt;“Survival Analysis within Stack Overflow: Python and R”&lt;/em&gt;, Python had roughly four times the total number of posts, yet followed a similar scale adjusted growth curve as R  [@lord_survival_2018].&lt;/p&gt;
+
+&lt;p&gt;Python is described as having a high readability rating, thus allowing for novice users to readily intuit interesting executables [@learneroo; @robinson_why_2017]. Many appreciate its uncommon indentation feature that ensures ease of code navigation [@learneroo]. Moreover, Python can be said to be a solid choice of persons that are inquisitive about programming yet lack a specific goal.&lt;/p&gt;
+
+&lt;p&gt;R is best known for its application to academia and research, however, it is this very quality of specialization that may be problematic to non-industry experts [@samepython; @robinson_why_2017; @incrediblegrowth]. One does not have to be a researcher to see the value in Python, but R requires that appreciation. Some do however believe that while Python aims to be an ideal scripting language, it sacrificed speed and verifiability for productivity and portability [@samepython].
+Python and R, therefore, appear to be at differing stages in their evolutionary capabilities, where Python is being recognized as an official language, and R is more like a creole or pidgin - functional yet limited [@learneroo]. One scholar suggested that the difficult part of learning to program lies with the fundamentals - adapting to a new language is only a matter of syntax; the key is having a good support network in the early learning stages. It may be helpful to select a programming language based on what your immediate community utilizes; increasingly, that language is Python.&lt;/p&gt;
+
+&lt;p&gt;Language dominance is stated as being the relative proficiency of the two languages within the same individual [@shen_interactive_2014; @bedore_measure_2012]; with the programming languages R and Python, dominance may be influenced by the market demands and resource availability but does not guarantee a complete language shift. R’s survival relies on its ability to prove its utility; it should ensure high quality and quantity support to users, and growth should occur with the addition of supplemental packages. Languages are indeed dependent on the numbers of users/speakers, their fluency, and their expression needs (how relevant or essential this language is for the user’s daily life). To draw upon the initial imagery, it should be noted that the “ideal was when the Roman was fluent in both Latin and Greek” [@speakinggreek]; therefore, the coder should be encouraged to attempt both R and Python as there are many inherent benefits to being multilingual.&lt;/p&gt;
+
+&lt;h2 id=&quot;futurists&quot;&gt;Futurists:&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;There is a subset of futurists who believe that A.I. agents will soon be able to handle the bulk of the work done by data analysts and that this will, in effect, lead to the unemployment of the bulk of data scientists and analysts Do you think they are correct?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;As of January 14, 2020, Sheelah Kolhatkar of the New Yorker published an article entitled &lt;em&gt;Could New Research on A.I. and White-Collar Jobs Finally Bring About a Strong Policy Response?”&lt;/em&gt;; in this work, she highlighted the fact that new findings suggested the high-skill level “office jobs” were are now less secure from various forms of automation lead redundancies. While in the past the public may have been able to passively consider the implications of technology’s impact on the workforce, positions of doctors and even computer programmers are being warned of possible significant shifts in their employment [@Kolhatkar; @brookings]. However, in 2017 IBM predicted that demand for Data Scientists would soar 28% by 2020, and according to current U.S. Bureau of labor statistics data employment of computer and information research scientists is “projected to grow 16 percent from 2018 to 2028” (much faster than the average for all occupations) [@ForbesIBM; @blsjobs]. Computer scientists, mathematicians, and statisticians are likely to enjoy excellent job prospects because many companies report difficulties finding these highly skilled and educated workers, and Businesses will need these workers to analyze the increasing volume of digital and electronic data. [@blsjobs; @mathjobs; @towardsjobs]. Regardless of the validity or accuracy of their claims, futurists simply serve as early warning systems to allow society to truly reflect on a given scenario, and therefore establish course correction mechanisms. Data science and analytics are precisely the professionals capable of assessing, reporting, and recommending ways to address such a serious matter; they are professional problem-solvers. Simultaneously global unemployed seems highly improbable as countries vary in their rate of adoption of technological advancements. Moreover, it would be uncharacteristic professional malpractice by an entire industry to simply abide by such an occurrence. Moreover, the prospect of a &lt;em&gt;singularity&lt;/em&gt; should not be met the public languishing about their future, but rallying to meet the challenge motivation and resources a different outcome can be achieved.&lt;/p&gt;
+
+&lt;p&gt;The topic of “futurists” can be a bit tricky to tackle as the earliest proponents of this concept were seen as radical, problematic, and even crazed, and the movement itself if a bit eclectic; this can make consensus on theories and principles a bit difficult to identify.  Thomas Frey suggested twelve “Common Ground perspectives” that fellow futurists share [@FeyFutureHall]. One is to seek to improve contemplation of the future, to be better prepared for what lies ahead; individuals should understand that they are living in unusual times and the concept of “normal” is shifting [@FeyFutureHall]. Fey states that one’s understanding of the future should direct impact today’s decision making [@FeyFutureHall]. He believes that those who study the future are conditioned to think in terms of multiple alternatives, possibilities, and probabilities [@FeyFutureHall]. Futurists are to be motivated by change, and actively participate in creating the future; they are generally practical and pragmatic as they construct long-term perspectives (policy-oriented works where possible) [@FeyFutureHall].  They are not content idly to describe, predict, or forecast, but want to actively participate in the world as it transforms [@FeyFutureHall].&lt;/p&gt;
+
+&lt;p&gt;Fey suggested that even businesses can greatly benefit from accepting the futurist perspectives in their long-term planning; that &lt;em&gt;future studies&lt;/em&gt; is essentially &lt;em&gt;systems thinking&lt;/em&gt; [@FeyFutureHall]. Finally, Fey cautioned that persons are all seeking an improved outlook for the future, yet the essential components for doing so are not always glaring, however, it is their responsibility to attempt its discovery. He stresses that at the center of an improved future is one that is “sustainable, preserving the essence of humanity and the environment we live in, inclusive of culture and technology” [@FeyFutureHall].&lt;/p&gt;
+
+&lt;p&gt;A few notable futurists that were exemplars of the aforementioned perspectives date as far back as 87 BC; Archimedes was an ancient Greek mathematician, physicist, engineer, inventor, and astronomer [@FeyFutureHall]. In the 1400’s Leonardo da Vinci was an Italian visionary well regarded for his futuristic designs, inventions, paintings, sculptures, architecture, science, music, mathematics, and engineering among other things [@FeyFutureHall]. Steve Jobs was a modern futurist from American; he was an entrepreneur, co-founder, chairman, and chief executive officer of the highly successful company - Apple Inc. [@FeyFutureHall]. Isaac Newton, Ada Lovelace, Marie Curie, Albert Einstein, Nikola Tesla, Carl Sagan, and John von Neumann are also well-recognized futurist that have made substantial contributes towards human progression (albeit at times with unintended negative impacts) [@FeyFutureHall].&lt;/p&gt;
+
+&lt;p&gt;It should be considered, however, that at times the works of these futurists may enhance social unease concerning technological advancements; unintentionally or not, these works have caused such stark changes to society’s perceptions of their reality and possible futures, that it manifests as “automation anxiety” and possibly even existentialism [@fromknowledgeDonovan; @ExistentialGoldbach]. For example, the futurist, Alan Turing was regarded as a “Pioneering British computer scientist, mathematician, logician, cryptanalyst, and theoretical biologist, and notably invented the &lt;em&gt;Turing Test&lt;/em&gt;. His 1950 paper, &lt;em&gt;Computing Machinery, and Intelligence&lt;/em&gt; proposed a game where a human judge was given a text conversation with unseen players and had to evaluate their responses; and to succeed a computer would need to be capable of replacing one of the players, without substantially altering the results [@OGtTuring; @videoturning]. This game exploring considering a computer intelligent if the conversation could not be easily distinguished from a human’s [@OGtTuring; @videoturning]. While the attempt was not without issue, the very act of pursuing this, and presenting such a concept was a bit disturbing and questionable to some (including the aforementioned Ada Lovelace) [@yearslaterSaygin; @hayes1995turing; @OGtTuring; @videoturning; @turingHarmless; @standfordturing]. While Turning also unsuccessfully predicted that by the year 2000, machines with 100 megabytes of memory would be able to easily pass his test, his concept is increasingly nearing realization [@yearslaterSaygin; @hayes1995turing; @OGtTuring; @videoturning; @turingHarmless; @standfordturing].&lt;/p&gt;
+
+&lt;p&gt;The term “singularity” was shortly introduced; it theorized that based on the pace of technological advancements, society would eventually arrive at a point where the status of human affairs as we are accustomed would cease to exist [@videosingularity; @Kurzweilsingnear; @ZimmermannActualization; @AIsingularity]. This idea as been attributed to the futurist John von Neumann before his death in 1957, but several persons have taken up his mantle [@videosingularity; @Kurzweilsingnear; @ZimmermannActualization; @AIsingularity]. For example, Ray Kurzweil and Cory Doctorow continue these discussions in terms of a technological event horizon [@videosingularity; @Kurzweilsingnear; @ZimmermannActualization; @AIsingularity].&lt;/p&gt;
+
+&lt;p&gt;As persons continue to consider the gravity of such a technological milestone, the works of futurists in the field of literature are continuously reviewed; this review can breed feelings of negativity and disenchantment towards technological advancement. Jules Verne, H. G. Wells, and George Orwell created works that had a great impact on the literary genre of science fiction [@FeyFutureHall]. Their works have inspired more modern interactions of science fiction that tackle the topics of singularity and the varying degrees of associated technophobia and technophilia; the &lt;em&gt;Terminator&lt;/em&gt; franchise of movies, and the &lt;em&gt;Blackmirror&lt;/em&gt; and &lt;em&gt;Westworld&lt;/em&gt; TV shows present scenarios where humans, in their zealous pursuit of advanced artificial intelligence solutions to tasks, have relinquished a great degree of control and privacy; the outcomes usually overwhelmingly grim [@janetAtlantic; @nearIndependent; @ExistentialGoldbach; @godwalkBurz; @Terminator].&lt;/p&gt;
+
+&lt;p&gt;Ultimately, despite the positive industry outlook from the government, data scientists and analysts are not immune to concerns of employment stability when faced with the rapid pace of artificial intelligence implementation and evolution. Such employees are acutely aware of these advancements due to their direct roles in its creation. However, economists like  Heidi Shierholz, who has focused on the labor market, and scholars like Erik Brynjolfsson, and Tom Mitchell, have been able to reassuringly suggest, that despite the rapid speed of advancement, there is no industry consensus on tasks where machine learning systems profitably excel [@robotsShierholz; @brookings]. Therefore, there is little agreement on the expected impacts on the workforce and the economy at large. They posit that AI is a very different technology than earlier types of automation, and is mostly going to impact different parts of the workforce in different ways; that because so little is known about AI, compared to other types of automation, it seems ambiguous, and its impact is therefore currently confined [@robotsShierholz; @brookings].&lt;/p&gt;
+
+&lt;p&gt;At this point, the idea of bulk unemployment seems improbable. For now, AI is projected to continue providing industry jobs, and any unemployment shifts would be gradual [@promisingjob]. A StackOverflow report highlighted that careers requiring advanced degrees in scientific research and programming thrive in wealthier industrialized nations [@robinson_why_2017; @stacktrends]; such fields would consist of a larger share of the economy, therefore such a labor collapse in that industry would have global economic ramifications. The role of governments would be crucial in ensuring proper safety nets for re-training or discussion of options for financial assistance [@MIT; @UBI]. Moreover, data science skills are in high demand; regardless of the creation of an advanced tool, its application may not immediate globally adopted. If wealthier parts of the world are to afford to reduce this workforce, gradually opportunities would arise in countries unable to afford the new technology yet still requiring high-skill workers. However, that is not to say simply moving to an area of dire need is the only way to maintain employment in the data science field. As practitioners and appreciators science, we must also appreciate that nothing in the field is intended to be permanent. Everything is to be questioned to promote advancement- even if one’s position is the thing that becomes redundant.&lt;/p&gt;
+
+&lt;p&gt;Redundancy can be seen as an opportunity for creativity, reimagining, reforming, and recycling entities into something more profound and useful to society. Jaron Lanier and Paul Root Wolpe push back on any fatalistic perceptions related to the “singularity”; they somewhat demonstrate authentic pragmatic futuristic perspectives by encouraging thoughtful dialogue and planning [@bigthink; @faithproquest]. Data scientists and analysts with lingering concerns should be encouraged to embody the aforementioned pragmatic &lt;em&gt;futurist perceptions&lt;/em&gt; to address this issue as they are arguably perfectly positioned to shape their futures, through collaborative planning and policymaking.  Perhaps we will relinquish the &lt;em&gt;tile&lt;/em&gt; of data scientists and analysts, and realize that these roles can be renamed or recreated yet still utilizing the same skillset. The same way hackers have created occupations as security advisors, or it is hoped that these roles can perhaps gently transition into something more senior in the field, if only under a different title [@whitehathacker].&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/slu_beach2.jpg&quot; alt=&quot;stuff&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:fn2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;The bugle is a small trumpet implicated in the military industrial complex. &lt;a href=&quot;#fnref:fn2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+                <link>http://llord1.github.io/2020/02/25/ComprehensiveTesting</link>
+                <guid>http://llord1.github.io/2020/02/25/ComprehensiveTesting</guid>
+                <pubDate>Tue, 25 Feb 2020 00:00:00 -0500</pubDate>
+        </item>
+
+        <item>
+                <title>Jekyll Introduction</title>
+                <description>
+&lt;p&gt;This Jekyll introduction will outline specifically  what Jekyll is and why you would want to use it.
+Directly following the intro we’ll learn exactly &lt;em&gt;how&lt;/em&gt; Jekyll does what it does.&lt;/p&gt;
+
+&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+
+&lt;h3 id=&quot;what-is-jekyll&quot;&gt;What is Jekyll?&lt;/h3&gt;
+
+&lt;p&gt;Jekyll is a parsing engine bundled as a ruby gem used to build static websites from
+dynamic components such as templates, partials, liquid code, markdown, etc. Jekyll is known as “a simple, blog aware, static site generator”.&lt;/p&gt;
+
+&lt;h3 id=&quot;examples&quot;&gt;Examples&lt;/h3&gt;
+
+&lt;p&gt;This website is created with Jekyll. &lt;a href=&quot;https://github.com/mojombo/jekyll/wiki/Sites&quot;&gt;Other Jekyll websites&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-does-jekyll-do&quot;&gt;What does Jekyll Do?&lt;/h3&gt;
+
+&lt;p&gt;Jekyll is a ruby gem you install on your local system.
+Once there you can call &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll --server&lt;/code&gt; on a directory and provided that directory
+is setup in a way jekyll expects, it will do magic stuff like parse markdown/textile files,
+compute categories, tags, permalinks, and construct your pages from layout templates and partials.&lt;/p&gt;
+
+&lt;p&gt;Once parsed, Jekyll stores the result in a self-contained static &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_site&lt;/code&gt; folder.
+The intention here is that you can serve all contents in this folder statically from a plain static web-server.&lt;/p&gt;
+
+&lt;p&gt;You can think of Jekyll as a normalish dynamic blog but rather than parsing content, templates, and tags
+on each request, Jekyll does this once &lt;em&gt;beforehand&lt;/em&gt; and caches the &lt;em&gt;entire website&lt;/em&gt; in a folder for serving statically.&lt;/p&gt;
+
+&lt;h3 id=&quot;jekyll-is-not-blogging-software&quot;&gt;Jekyll is Not Blogging Software&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Jekyll is a parsing engine.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Jekyll does not come with any content nor does it have any templates or design elements.
+This is a common source of confusion when getting started.
+Jekyll does not come with anything you actually use or see on your website - you have to make it.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-should-i-care&quot;&gt;Why Should I Care?&lt;/h3&gt;
+
+&lt;p&gt;Jekyll is very minimalistic and very efficient.
+The most important thing to realize about Jekyll is that it creates a static representation of your website requiring only a static web-server.
+Traditional dynamic blogs like Wordpress require a database and server-side code.
+Heavily trafficked dynamic blogs must employ a caching layer that ultimately performs the same job Jekyll sets out to do; serve static content.&lt;/p&gt;
+
+&lt;p&gt;Therefore if you like to keep things simple and you prefer the command-line over an admin panel UI then give Jekyll a try.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Developers like Jekyll because we can write content like we write code:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ability to write content in markdown or textile in your favorite text-editor.&lt;/li&gt;
+  &lt;li&gt;Ability to write and preview your content via localhost.&lt;/li&gt;
+  &lt;li&gt;No internet connection required.&lt;/li&gt;
+  &lt;li&gt;Ability to publish via git.&lt;/li&gt;
+  &lt;li&gt;Ability to host your blog on a static web-server.&lt;/li&gt;
+  &lt;li&gt;Ability to host freely on GitHub Pages.&lt;/li&gt;
+  &lt;li&gt;No database required.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;how-jekyll-works&quot;&gt;How Jekyll Works&lt;/h1&gt;
+
+&lt;p&gt;The following is a complete but concise outline of exactly how Jekyll works.&lt;/p&gt;
+
+&lt;p&gt;Be aware that core concepts are introduced in rapid succession without code examples.
+This information is not intended to specifically teach you how to do anything, rather it
+is intended to give you the &lt;em&gt;full picture&lt;/em&gt; relative to what is going on in Jekyll-world.&lt;/p&gt;
+
+&lt;p&gt;Learning these core concepts should help you avoid common frustrations and ultimately
+help you better understand the code examples contained throughout Jekyll-Bootstrap.&lt;/p&gt;
+
+&lt;h2 id=&quot;initial-setup&quot;&gt;Initial Setup&lt;/h2&gt;
+
+&lt;p&gt;After &lt;a href=&quot;/index.html#start-now&quot;&gt;installing jekyll&lt;/a&gt; you’ll need to format your website directory in a way jekyll expects.
+Jekyll-bootstrap conveniently provides the base directory format.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-jekyll-application-base-format&quot;&gt;The Jekyll Application Base Format&lt;/h3&gt;
+
+&lt;p&gt;Jekyll expects your website directory to be laid out like so:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;.
+|-- _config.yml
+|-- _includes
+|-- _layouts
+|   |-- default.html
+|   |-- post.html
+|-- _posts
+|   |-- 2011-10-25-open-source-is-good.markdown
+|   |-- 2011-04-26-hello-world.markdown
+|-- _site
+|-- index.html
+|-- assets
+    |-- css
+        |-- style.css
+    |-- javascripts
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;_config.yml&lt;/strong&gt;
+  Stores configuration data.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;_includes&lt;/strong&gt;
+  This folder is for partial views.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;_layouts&lt;/strong&gt;
+  This folder is for the main templates your content will be inserted into.
+  You can have different layouts for different pages or page sections.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;_posts&lt;/strong&gt;
+  This folder contains your dynamic content/posts.
+  the naming format is required to be &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;@YEAR-MONTH-DATE-title.MARKUP@&lt;/code&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;_site&lt;/strong&gt;
+  This is where the generated site will be placed once Jekyll is done transforming it.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;assets&lt;/strong&gt;
+  This folder is not part of the standard jekyll structure.
+  The assets folder represents &lt;em&gt;any generic&lt;/em&gt; folder you happen to create in your root directory.
+  Directories and files not properly formatted for jekyll will be left untouched for you to serve normally.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;(read more: &lt;a href=&quot;https://github.com/mojombo/jekyll/wiki/Usage&quot;&gt;https://github.com/mojombo/jekyll/wiki/Usage&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h3 id=&quot;jekyll-configuration&quot;&gt;Jekyll Configuration&lt;/h3&gt;
+
+&lt;p&gt;Jekyll supports various configuration options that are fully outlined here:
+(&lt;a href=&quot;https://github.com/mojombo/jekyll/wiki/Configuration&quot;&gt;https://github.com/mojombo/jekyll/wiki/Configuration&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h2 id=&quot;content-in-jekyll&quot;&gt;Content in Jekyll&lt;/h2&gt;
+
+&lt;p&gt;Content in Jekyll is either a post or a page.
+These content “objects” get inserted into one or more templates to build the final output for its respective static-page.&lt;/p&gt;
+
+&lt;h3 id=&quot;posts-and-pages&quot;&gt;Posts and Pages&lt;/h3&gt;
+
+&lt;p&gt;Both posts and pages should be written in markdown, textile, or HTML and may also contain Liquid templating syntax.
+Both posts and pages can have meta-data assigned on a per-page basis such as title, url path, as well as arbitrary custom meta-data.&lt;/p&gt;
+
+&lt;h3 id=&quot;working-with-posts&quot;&gt;Working With Posts&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Creating a Post&lt;/strong&gt;
+Posts are created by properly formatting a file and placing it the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; folder.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Formatting&lt;/strong&gt;
+A post must have a valid filename in the form &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DATE-title.MARKUP&lt;/code&gt; and be placed in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory.
+If the data format is invalid Jekyll will not recognize the file as a post. The date and title are automatically parsed from the filename of the post file.
+Additionally, each file must have &lt;a href=&quot;https://github.com/mojombo/jekyll/wiki/YAML-Front-Matter&quot;&gt;YAML Front-Matter&lt;/a&gt; prepended to its content.
+YAML Front-Matter is a valid YAML syntax specifying meta-data for the given file.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Order&lt;/strong&gt;
+Ordering is an important part of Jekyll but it is hard to specify a custom ordering strategy.
+Only reverse chronological and chronological ordering is supported in Jekyll.&lt;/p&gt;
+
+&lt;p&gt;Since the date is hard-coded into the filename format, to change the order, you must change the dates in the filenames.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tags&lt;/strong&gt;
+Posts can have tags associated with them as part of their meta-data.
+Tags may be placed on posts by providing them in the post’s YAML front matter.
+You have access to the post-specific tags in the templates. These tags also get added to the sitewide collection.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Categories&lt;/strong&gt;
+Posts may be categorized by providing one or more categories in the YAML front matter.
+Categories offer more significance over tags in that they can be reflected in the URL path to the given post.
+Note categories in Jekyll work in a specific way.
+If you define more than one category you are defining a category hierarchy “set”.
+Example:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;---
+title :  Hello World
+categories : [lessons, beginner]
+---
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;This defines the category hierarchy “lessons/beginner”. Note this is &lt;em&gt;one category&lt;/em&gt; node in Jekyll.
+You won’t find “lessons” and “beginner” as two separate categories unless you define them elsewhere as singular categories.&lt;/p&gt;
+
+&lt;h3 id=&quot;working-with-pages&quot;&gt;Working With Pages&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Creating a Page&lt;/strong&gt;
+Pages are created by properly formatting a file and placing it anywhere in the root directory or subdirectories that do &lt;em&gt;not&lt;/em&gt; start with an underscore.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Formatting&lt;/strong&gt;
+In order to register as a Jekyll page the file must contain &lt;a href=&quot;https://github.com/mojombo/jekyll/wiki/YAML-Front-Matter&quot;&gt;YAML Front-Matter&lt;/a&gt;.
+Registering a page means 1) that Jekyll will process the page and 2) that the page object will be available in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;site.pages&lt;/code&gt; array for inclusion into your templates.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Categories and Tags&lt;/strong&gt;
+Pages do not compute categories nor tags so defining them will have no effect.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sub-Directories&lt;/strong&gt;
+If pages are defined in sub-directories, the path to the page will be reflected in the url.
+Example:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;.
+|-- people
+    |-- bob
+        |-- essay.html
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;This page will be available at &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;http://yourdomain.com/people/bob/essay.html&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Recommended Pages&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;index.html&lt;/strong&gt;
+You will always want to define the root index.html page as this will display on your root URL.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;404.html&lt;/strong&gt;
+Create a root 404.html page and GitHub Pages will serve it as your 404 response.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;sitemap.html&lt;/strong&gt;
+Generating a sitemap is good practice for SEO.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;about.html&lt;/strong&gt;
+A nice about page is easy to do and gives the human perspective to your website.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;templates-in-jekyll&quot;&gt;Templates in Jekyll&lt;/h2&gt;
+
+&lt;p&gt;Templates are used to contain a page’s or post’s content.
+All templates have access to a global site object variable: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;site&lt;/code&gt; as well as a page object variable: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;page&lt;/code&gt;.
+The site variable holds all accessible content and metadata relative to the site.
+The page variable holds accessible data for the given page or post being rendered at that point.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Create a Template&lt;/strong&gt;
+Templates are created by properly formatting a file and placing it in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_layouts&lt;/code&gt; directory.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Formatting&lt;/strong&gt;
+Templates should be coded in HTML and contain YAML Front Matter.
+All templates can contain Liquid code to work with your site’s data.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Rending Page/Post Content in a Template&lt;/strong&gt;
+There is a special variable in all templates named : &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;content&lt;/code&gt;.
+The &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;content&lt;/code&gt; variable holds the page/post content including any sub-template content previously defined.
+Render the content variable wherever you want your main content to be injected into your template:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;...
+&amp;lt;body&amp;gt;
+  &amp;lt;div id=&quot;sidebar&quot;&amp;gt; ... &amp;lt;/div&amp;gt;
+  &amp;lt;div id=&quot;main&quot;&amp;gt;
+    &amp;#123;{content}&amp;#125;
+  &amp;lt;/div&amp;gt;
+&amp;lt;/body&amp;gt;
+...&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&quot;sub-templates&quot;&gt;Sub-Templates&lt;/h3&gt;
+
+&lt;p&gt;Sub-templates are exactly templates with the only difference being they
+define another “root” layout/template within their YAML Front Matter.
+This essentially means a template will render inside of another template.&lt;/p&gt;
+
+&lt;h3 id=&quot;includes&quot;&gt;Includes&lt;/h3&gt;
+&lt;p&gt;In Jekyll you can define include files by placing them in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_includes&lt;/code&gt; folder.
+Includes are NOT templates, rather they are just code snippets that get included into templates.
+In this way, you can treat the code inside includes as if it was native to the parent template.&lt;/p&gt;
+
+&lt;p&gt;Any valid template code may be used in includes.&lt;/p&gt;
+
+&lt;h2 id=&quot;using-liquid-for-templating&quot;&gt;Using Liquid for Templating&lt;/h2&gt;
+
+&lt;p&gt;Templating is perhaps the most confusing and frustrating part of Jekyll.
+This is mainly due to the fact that Jekyll templates must use the Liquid Templating Language.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-is-liquid&quot;&gt;What is Liquid?&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/Shopify/liquid&quot;&gt;Liquid&lt;/a&gt; is a secure templating language developed by &lt;a href=&quot;http://shopify.com&quot;&gt;Shopify&lt;/a&gt;.
+Liquid is designed for end-users to be able to execute logic within template files
+without imposing any security risk on the hosting server.&lt;/p&gt;
+
+&lt;p&gt;Jekyll uses Liquid to generate the post content within the final page layout structure and as the primary interface for working with
+your site and post/page data.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-do-we-have-to-use-liquid&quot;&gt;Why Do We Have to Use Liquid?&lt;/h3&gt;
+
+&lt;p&gt;GitHub uses Jekyll to power &lt;a href=&quot;http://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt;.
+GitHub cannot afford to run arbitrary code on their servers so they lock developers down via Liquid.&lt;/p&gt;
+
+&lt;h3 id=&quot;liquid-is-not-programmer-friendly&quot;&gt;Liquid is Not Programmer-Friendly.&lt;/h3&gt;
+
+&lt;p&gt;The short story is liquid is not real code and its not intended to execute real code.
+The point being you can’t do jackshit in liquid that hasn’t been allowed explicitly by the implementation.
+What’s more you can only access data-structures that have been explicitly passed to the template.&lt;/p&gt;
+
+&lt;p&gt;In Jekyll’s case it is not possible to alter what is passed to Liquid without hacking the gem or running custom plugins.
+Both of which cannot be supported by GitHub Pages.&lt;/p&gt;
+
+&lt;p&gt;As a programmer - this is very frustrating.&lt;/p&gt;
+
+&lt;p&gt;But rather than look a gift horse in the mouth we are going to
+suck it up and view it as an opportunity to work around limitations and adopt client-side solutions when possible.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Aside&lt;/strong&gt;
+My personal stance is to not invest time trying to hack liquid. It’s really unnecessary
+&lt;em&gt;from a programmer’s&lt;/em&gt; perspective. That is to say if you have the ability to run custom plugins (i.e. run arbitrary ruby code)
+you are better off sticking with ruby. Toward that end I’ve built &lt;a href=&quot;http://github.com/plusjade/mustache-with-jekyll&quot;&gt;Mustache-with-Jekyll&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;static-assets&quot;&gt;Static Assets&lt;/h2&gt;
+
+&lt;p&gt;Static assets are any file in the root or non-underscored subfolders that are not pages.
+That is they have no valid YAML Front Matter and are thus not treated as Jekyll Pages.&lt;/p&gt;
+
+&lt;p&gt;Static assets should be used for images, css, and javascript files.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-jekyll-parses-files&quot;&gt;How Jekyll Parses Files&lt;/h2&gt;
+
+&lt;p&gt;Remember Jekyll is a processing engine. There are two main types of parsing in Jekyll.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Content parsing.&lt;/strong&gt;
+  This is done with textile or markdown.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Template parsing.&lt;/strong&gt;
+This is done with the liquid templating language.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And thus there are two main types of file formats needed for this parsing.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Post and Page files.&lt;/strong&gt;
+All content in Jekyll is either a post or a page so valid posts and pages are parsed with markdown or textile.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Template files.&lt;/strong&gt;
+  These files go in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_layouts&lt;/code&gt; folder and contain your blogs &lt;strong&gt;templates&lt;/strong&gt;. They should be made in HTML with the help of Liquid syntax.
+  Since include files are simply injected into templates they are essentially parsed as if they were native to the template.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Arbitrary files and folders.&lt;/strong&gt;
+Files that &lt;em&gt;are not&lt;/em&gt; valid pages are treated as static content and pass through
+Jekyll untouched and reside on your blog in the exact structure and format they originally existed in.&lt;/p&gt;
+
+&lt;h3 id=&quot;formatting-files-for-parsing&quot;&gt;Formatting Files for Parsing.&lt;/h3&gt;
+
+&lt;p&gt;We’ve outlined the need for valid formatting using &lt;strong&gt;YAML Front Matter&lt;/strong&gt;.
+Templates, posts, and pages all need to provide valid YAML Front Matter even if the Matter is empty.
+This is the only way Jekyll knows you want the file processed.&lt;/p&gt;
+
+&lt;p&gt;YAML Front Matter must be prepended to the top of template/post/page files:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;---
+layout: post
+category : pages
+tags : [how-to, jekyll]
+---
+
+... contents ...
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Three hyphens on a new line start the Front-Matter block and three hyphens on a new line end the block.
+The data inside the block must be valid YAML.&lt;/p&gt;
+
+&lt;p&gt;Configuration parameters for YAML Front-Matter is outlined here:
+&lt;a href=&quot;https://github.com/mojombo/jekyll/wiki/YAML-Front-Matter&quot;&gt;A comprehensive explanation of YAML Front Matter&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;defining-layouts-for-posts-and-templates-parsing&quot;&gt;Defining Layouts for Posts and Templates Parsing.&lt;/h4&gt;
+
+&lt;p&gt;The &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;layout&lt;/code&gt; parameter in the YAML Front Matter defines the template file for which the given post or template should be injected into.
+If a template file specifies its own layout, it is effectively being used as a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sub-template.&lt;/code&gt;
+That is to say loading a post file into a template file that refers to another template file with work in the way you’d expect; as a nested sub-template.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-jekyll-generates-the-final-static-files&quot;&gt;How Jekyll Generates the Final Static Files.&lt;/h2&gt;
+
+&lt;p&gt;Ultimately, Jekyll’s job is to generate a static representation of your website.
+The following is an outline of how that’s done:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Jekyll collects data.&lt;/strong&gt;
+  Jekyll scans the posts directory and collects all posts files as post objects. It then scans the layout assets and collects those and finally scans other directories in search of pages.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Jekyll computes data.&lt;/strong&gt;
+  Jekyll takes these objects, computes metadata (permalinks, tags, categories, titles, dates) from them and constructs one
+  big &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;site&lt;/code&gt; object that holds all the posts, pages, layouts, and respective metadata.
+  At this stage your site is one big computed ruby object.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Jekyll liquifies posts and templates.&lt;/strong&gt;
+  Next jekyll loops through each post file and converts (through markdown or textile) and &lt;strong&gt;liquifies&lt;/strong&gt; the post inside of its respective layout(s).
+  Once the post is parsed and liquified inside the the proper layout structure, the layout itself is “liquified”.
+ &lt;strong&gt;Liquification&lt;/strong&gt; is defined as follows: Jekyll initiates a Liquid template, and passes a simpler hash representation of the ruby site object as well as a simpler
+  hash representation of the ruby post object. These simplified data structures are what you have access to in the templates.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Jekyll generates output.&lt;/strong&gt;
+ Finally the liquid templates are “rendered”, thereby processing any liquid syntax provided in the templates
+ and saving the final, static representation of the file.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Notes.&lt;/strong&gt;
+Because Jekyll computes the entire site in one fell swoop, each template is given access to
+a global &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;site&lt;/code&gt; hash that contains useful data. It is this data that you’ll iterate through and format
+using the Liquid tags and filters in order to render it onto a given page.&lt;/p&gt;
+
+&lt;p&gt;Remember, in Jekyll you are an end-user. Your API has only two components:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;The manner in which you setup your directory.&lt;/li&gt;
+  &lt;li&gt;The liquid syntax and variables passed into the liquid templates.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;All the data objects available to you in the templates via Liquid are outlined in the &lt;strong&gt;API Section&lt;/strong&gt; of Jekyll-Bootstrap.
+You can also read the original documentation here: &lt;a href=&quot;https://github.com/mojombo/jekyll/wiki/Template-Data&quot;&gt;https://github.com/mojombo/jekyll/wiki/Template-Data&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I hope this paints a clearer picture of what Jekyll is doing and why it works the way it does.
+As noted, our main programming constraint is the fact that our API is limited to what is accessible via Liquid and Liquid only.&lt;/p&gt;
+
+&lt;p&gt;Jekyll-bootstrap is intended to provide helper methods and strategies aimed at making it more intuitive and easier to work with Jekyll =)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Thank you&lt;/strong&gt; for reading this far.&lt;/p&gt;
+
+&lt;h2 id=&quot;next-steps&quot;&gt;Next Steps&lt;/h2&gt;
+
+&lt;p&gt;Please take a look at &lt;a href=&quot;&quot;&gt;&lt;/a&gt;
+or jump right into &lt;a href=&quot;&quot;&gt;Usage&lt;/a&gt; if you’d like.&lt;/p&gt;
+</description>
+                <link>http://llord1.github.io/lessons/2011/12/29/jekyll-introduction</link>
+                <guid>http://llord1.github.io/lessons/2011/12/29/jekyll-introduction</guid>
+                <pubDate>Thu, 29 Dec 2011 00:00:00 -0500</pubDate>
+        </item>
+
+
+</channel>
+</rss>
