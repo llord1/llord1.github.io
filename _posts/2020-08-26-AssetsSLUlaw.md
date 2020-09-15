@@ -136,7 +136,7 @@ Other (please specify)
 
 ____________________
 
-Gender identification is another standard (multiple choice) demographic question, however, it is useful to gather this data check whether the August 2020 American trend of men outnumbering women (especially in leadership), is replicated in and persistent in the Caribbean country of Saint Lucia [americanbar.org] [clio.com/resources][attorneyatwork.com]. There may also be a need to highlight if there are any differences in linguistics interests among the lawyers. Females are often believed to be more capable of and interested in linguistic acquisition and practice. Data gathered could confirm or dispute this assumption.
+Gender identification is another standard (multiple choice) demographic question, however, it is useful to gather this data check whether the August 2020 American trend of men outnumbering women (especially in leadership), is replicated in and persistent in the Caribbean country of Saint Lucia {%cite ABA2020Profile clio_2020 AttorneyAtWork_2019 %}. There may also be a need to highlight if there are any differences in linguistics interests among the lawyers. Females are often believed to be more capable of and interested in linguistic acquisition and practice. Data gathered could confirm or dispute this assumption.
 
 
 + *3. Which of the following best describe (s) your ethnicity/race?*
