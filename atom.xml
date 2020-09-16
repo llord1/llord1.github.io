@@ -4,7 +4,7 @@
  <title>Laurel's Works in Progress</title>
  <link href="http://llord1.github.io/atom.xml" rel="self"/>
  <link href="http://llord1.github.io"/>
- <updated>2020-09-13T23:35:45-04:00</updated>
+ <updated>2020-09-15T23:48:42-04:00</updated>
  <id>http://llord1.github.io</id>
  <author>
    <name>Laurel Lord</name>
@@ -113,7 +113,7 @@ Latin América: A Challenge to the Common Lawyer&lt;/p&gt;
 
 &lt;p&gt;While data collection on the various professions can be conducted by private companies, it is typically undertaken by government-backed labor agencies, to ensure that the data is freely available to the public. In America, the U.S. Bureau of Labor Statistics collects such data and hosts it on a public website [bls.gov]. While not all developing nations have been able to dedicate resources to the close monitoring of this data, its value is increasingly recognized.&lt;/p&gt;
 
-&lt;p&gt;While the U.S. Bureau of Labor Statistics provides general information on the demographics of the lawyers in the country, the American Bar Association (ABA) gathers more detailed information on Legal Profession Statistics [americanbar.org] [bls.gov]. Their current statistical data is used to assist with research on lawyers and the legal profession. Their website notes data on the topics of lawyer demographics (including matters of disability, women, and minority/people of color). It also encompasses justice system statistics (including topics on public perception of justice system/lawyers and the justice system), court statistics (including cases filed, and criminal justice statistics). this association also notes the topics of law students and education and legal salaries (and related attrition/retention data).&lt;/p&gt;
+&lt;p&gt;While the U.S. Bureau of Labor Statistics provides general information on the demographics of the lawyers in the country, the American Bar Association (ABA) gathers more detailed information on Legal Profession Statistics [americanbar.org] &lt;a class=&quot;citation&quot; href=&quot;#BLS2020&quot;&gt;(“Lawyers : Occupational Outlook Handbook,” 2020)&lt;/a&gt;. Their current statistical data is used to assist with research on lawyers and the legal profession. Their website notes data on the topics of lawyer demographics (including matters of disability, women, and minority/people of color). It also encompasses justice system statistics (including topics on public perception of justice system/lawyers and the justice system), court statistics (including cases filed, and criminal justice statistics). this association also notes the topics of law students and education and legal salaries (and related attrition/retention data).&lt;/p&gt;
 
 &lt;p&gt;Currently, lawyer demographics in Saint Lucia (SLU) do not appear to be centrally gathered. The 2016 Labour Force Survey, made publicly available by The Central Statistical Office of SLU, did inquire into participants’ industry - “What is the name of the business where you/……. work? What type of activity is carried on there?” &lt;a class=&quot;citation&quot; href=&quot;#govtSLU_Labour_2019&quot;&gt;(of Saint Lucia, 2019)&lt;/a&gt;. However, the dataset ultimately appears to have been simplified to the point where details on individual professions were rendered indiscernible. The closest response, related to lawyers, would be one that highlighted “professional, scientific and technical activities”; this made up 1.0%  (51 participants) of the survey. A representative of The Central Statistical Office of SLU stated that the data in the country’s 2016 Labour Force Survey was “not disaggregated in such a way to get a count of all lawyers” &lt;a class=&quot;citation&quot; href=&quot;#govtSLU_Labour_2019&quot;&gt;(of Saint Lucia, 2019)&lt;/a&gt;. It was also stated that since the 2016 Labour Force Survey “utilizes a sample if it were to give a figure it would not be representative” &lt;a class=&quot;citation&quot; href=&quot;#govtSLU_Labour_2019&quot;&gt;(of Saint Lucia, 2019)&lt;/a&gt;. Ultimately, even the president of the Bar Association of SLU, also confirmed that she was unaware of the departments of government bearing statistical data specific to lawyers&lt;/p&gt;
 
@@ -181,7 +181,7 @@ Latin América: A Challenge to the Common Lawyer&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;Gender identification is another standard (multiple choice) demographic question, however, it is useful to gather this data check whether the August 2020 American trend of men outnumbering women (especially in leadership), is replicated in and persistent in the Caribbean country of Saint Lucia [americanbar.org] [clio.com/resources][attorneyatwork.com]. There may also be a need to highlight if there are any differences in linguistics interests among the lawyers. Females are often believed to be more capable of and interested in linguistic acquisition and practice. Data gathered could confirm or dispute this assumption.&lt;/p&gt;
+&lt;p&gt;Gender identification is another standard (multiple choice) demographic question, however, it is useful to gather this data check whether the August 2020 American trend of men outnumbering women (especially in leadership), is replicated in and persistent in the Caribbean country of Saint Lucia &lt;a class=&quot;citation&quot; href=&quot;#ABA2020Profile&quot;&gt;(Association, n.d.; Clio, 2020; “Five Ways the Legal Profession Is Changing, But Slowly,” 2019)&lt;/a&gt;. There may also be a need to highlight if there are any differences in linguistics interests among the lawyers. Females are often believed to be more capable of and interested in linguistic acquisition and practice. Data gathered could confirm or dispute this assumption.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;em&gt;3. Which of the following best describe (s) your ethnicity/race?&lt;/em&gt;&lt;/li&gt;
@@ -472,6 +472,7 @@ Identifying participant ethnicity/race is another standard demographic inquiry, 
 &lt;li&gt;&lt;span id=&quot;simon2013perceptions&quot;&gt;Simon, M. A., Ragas, D. M., Nonzee, N. J., Phisuthikul, A. M., Luu, T. H., &amp;amp; Dong, X. Q. (2013). Perceptions of patient-provider communication in breast and cervical cancer-related care: a qualitative study of low-income English-and Spanish-speaking women. &lt;i&gt;Journal of Community Health&lt;/i&gt;, &lt;i&gt;38&lt;/i&gt;(4), 707–715. https://doi.org/https://doi.org/10.1007/s10900-013-9668-y&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span id=&quot;napoles2009developing&quot;&gt;Nápoles-Springer, A. M., Ortı́z Carmen, O’Brien, H., &amp;amp; Dı́az-Méndez Marynieves. (2009). Developing a culturally competent peer support intervention for Spanish-speaking Latinas with breast cancer. &lt;i&gt;Journal of Immigrant and Minority Health&lt;/i&gt;, &lt;i&gt;11&lt;/i&gt;(4), 268. https://doi.org/https://doi.org/10.1007/s10903-008-9128-4&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span id=&quot;mendes-franco_2020&quot;&gt;Mendes-Franco, J. (2020). ’Linguistics is in everything’ from astronomy to everyday life, says this linguist from Trinidad &amp;amp; Tobago · Global Voices. In &lt;i&gt;Global Voices&lt;/i&gt;. https://globalvoices.org/2020/03/13/linguistics-is-in-everything-from-astronomy-to-everyday-life-says-this-linguist-from-trinidad-tobago/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;BLS2020&quot;&gt;Lawyers : Occupational Outlook Handbook. (2020). In &lt;i&gt;U.S. Bureau of Labor Statistics&lt;/i&gt;. U.S. Bureau of Labor Statistics. https://www.bls.gov/ooh/legal/lawyers.htm&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span id=&quot;govtSLU_Labour_2019&quot;&gt;of Saint Lucia, G. (2019). Labour Force Statistics: Saint Lucia Open Data. In &lt;i&gt;Labour Force Statistics | Saint Lucia Open Data&lt;/i&gt;. https://data.govt.lc/dataset/labour-force-statistics&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span id=&quot;govtSLU_NEIS_2019&quot;&gt;of Saint Lucia, G. (2019). National Environmental Information System (NEIS): Saint Lucia Open Data. In &lt;i&gt;National Environmental Information System (NEIS) | Saint Lucia Open Data&lt;/i&gt;. https://data.govt.lc/dataset/national-environmental-information-system-neis&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span id=&quot;govtSLU_NEIS&quot;&gt;of Saint Lucia, G. In &lt;i&gt;Saint Lucia NEIS&lt;/i&gt;. https://www.neis.govt.lc/#/&lt;/span&gt;&lt;/li&gt;
@@ -566,9 +567,9 @@ Identifying participant ethnicity/race is another standard demographic inquiry, 
    <link href="http://llord1.github.io/2020/07/08/test"/>
    <updated>2020-07-08T00:00:00-04:00</updated>
    <id>http://llord1.github.io/2020/07/08/test</id>
-   <content type="html">&lt;script src=&quot;/resources/js/words.js&quot;&gt;&lt;/script&gt;
+   <content type="html">&lt;script src=&quot;http://localhost:4000/resources/js/words.js&quot;&gt;&lt;/script&gt;
 
-&lt;script src=&quot;/resources/js/word_changing.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;http://localhost:4000/resources/js/word_changing.js&quot;&gt;&lt;/script&gt;
 
 &lt;div id=&quot;left_hand&quot;&gt;
 
