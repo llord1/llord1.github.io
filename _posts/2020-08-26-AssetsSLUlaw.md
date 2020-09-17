@@ -21,6 +21,9 @@ Questioning the possible ties of linguistics to various professions is not neces
 More interesting in the pivot of looking at persons who are already multilingual in a field, and noting if they have sufficient training and resources when their primary language is not the dominant language of the country in which they practice. One study did investigate Spanish–English bilingual psychotherapists and their Personal and professional language development and use. Another study was conducted on instances where nurses double as interpreters (a study of Spanish-speaking patients in a US primary care setting).
 
 
+olivares_washington_ICE2020  treisman_ICE2020 bbc_ICE2020 cassady_ICE2020 lambe_ICE2020
+
+
 The consideration for a legal system's ties to linguistics is not new, however, the topic has not been thoroughly explored (particularly in extensively multilingual and multicultural settings such as the Caribbean). 
 
 
