@@ -77,16 +77,20 @@ While the U.S. Bureau of Labor Statistics provides general information on the de
 
 Currently, lawyer demographics in Saint Lucia (SLU) do not appear to be centrally gathered. The 2016 Labour Force Survey, made publicly available by The Central Statistical Office of SLU, did inquire into participants' industry - "What is the name of the business where you/....... work? What type of activity is carried on there?" {% cite govtSLU_Labour_2019 %}. However, the dataset ultimately appears to have been simplified to the point where details on individual professions were rendered indiscernible. The closest response, related to lawyers, would be one that highlighted "professional, scientific and technical activities"; this made up 1.0%  (51 participants) of the survey. A representative of The Central Statistical Office of SLU stated that the data in the country's 2016 Labour Force Survey was "not disaggregated in such a way to get a count of all lawyers" {% cite govtSLU_Labour_2019 %}. It was also stated that since the 2016 Labour Force Survey "utilizes a sample if it were to give a figure it would not be representative" {% cite govtSLU_Labour_2019 %}. Ultimately, even the president of the Bar Association of SLU, also confirmed that she was unaware of the departments of government bearing statistical data specific to lawyers
 
-Saint Lucia's National Environmental Information System (NEIS)  has been one of the latest governmental attempts at collecting and organizing national data {% cite govtSLU_NEIS_2019 %}, {% cite govtSLU_NEIS %}, {% cite govtSLUdata %}. This "Project Reporting System for Multilateral Environmental Agreement (MEA) Implementation and Environmental Information Management" is regarded as a "legal instrument with binding effects on countries that have agreed to become parties" {% cite govtSLU_NEIS %}.  Saint Lucia's participation in this international agreement, enhances global agreements and sustainable development projects moving forward. However, one current category that highlights the "employed labor force by industry", is classified as having a low priority level.
+Saint Lucia's National Environmental Information System (NEIS)  has been one of the latest governmental attempts at collecting and organizing national data {% cite govtSLU_NEIS_2019 %}, {% cite govtSLU_NEIS %}, {% cite govtSLUdata %}. This "Project Reporting System for Multilateral Environmental Agreement (MEA) Implementation and Environmental Information Management" is regarded as a "legal instrument with binding effects on countries that have agreed to become parties" {% cite govtSLU_NEIS %}. Saint Lucia's participation in this international agreement, enhances global agreements and sustainable development projects moving forward. However, one current category that highlights the "employed labor force by industry", is classified as having a low priority level.
 
 A need for additional data regarding lawyer demographics in Saint Lucia has been identified. To address this need, while following social distancing protocols, an online survey has been selected as the tool of data collection. Ultimately, such a survey can be applied to lawyers, nurses, or police officers - any profession that requires direct extended interaction with a citizen to provide a sense of safety and security.
 
 
+St. Lucia is a sovereign island nation in the Comonwealth of Nations located in the Windward Islands in the Lesser Antilles. Like most Commonwealth nations, the appointed Governor-General represents the Queen, while executive power rests with the Prime Minister and cabinet. The legislative branch is run by the 17-member two-chambered House of Assembly. Because it was both a French and English colony before it gained independence on February 11, 1979, the legal system is a mix of civil and English common law. The judiciary is part of the Eastern Caribbean Supreme Court system; the headquarters of the Eastern Caribbean Surpeme Court is in Castries, St. Lucia's capital. 
 
 
 ### Questions:
 
-+ Assessing the link between crime and language. Could miscommunication between prestige and heritage language speakers hinder legal defenses? Are there any metrics on lawyers' multilingual lawyers on the island? Are there any laws related to representation requirements (do lawyers assess the language needs of clients to decide how best to assist them)? What are the rates of incarceration of predominantly Saint Lucian Kwéyòl language speakers? What are the inmate metrics per district of origin (there is a popular belief that most Saint Lucian Kwéyòl language speakers are located in the Southern part of the country)?
++ *Assessing the link between crime and language.*
+With so many languages being spoken in Saint Lucia, it begs the question could miscommunication between prestige and heritage language speakers hinder legal defenses? In order to truly investigate whether locals have sufficient legal representation, one could also investigate if there are any metrics on multilingual lawyers on the island? As part of investigating the systems that help or hinder communication in this field, there many need to be an investigation into whether there are any laws related to legal linguistic representation requirements (do lawyers assess the language needs of clients to decide how best to assist them)?
+
+Additional (possibly future) studies may collect data linguistic data on the current prison populations concerning the rates of incarceration of predominantly Saint Lucian Kwéyòl language speakers. This questions the existence of inmate metrics; particularly linguistic data. It would be helpful if location data could also be collected; forming information from the resulting analysis, per district, could dispel or reinforce one popular belief that most Saint Lucian Kwéyòl language speakers are located in the Southern part of the country.
 
 [See draft survey with consent form here](https://forms.gle/8yUuGYaCidMgbN5E8)
 
@@ -224,7 +228,44 @@ ____________________
 Lawyers may choose to focus on different areas of the law. The cliental they encounter may be influenced by this specialization. Inquiring into one's area of specialization will highlight which areas of the law may be associated with a need to speak multiple languages; more specifically, which areas of the law in Saint Lucia, are more likely to require an understanding of  Saint Lucian Kwéyòl language.
 
 
-+ *6. What is your average annual income?*
++ *6. What are your areas of practice? Check all that apply.* 
+Alternative dispute resolution (ADR)
+Banking law
+Commercial law
+Constitutional law
+Construction law
+Contract law
+Corporate law
+Criminal law
+Employment law
+Environmental law
+Equity and trusts
+EU law*
+Family law
+Human rights law
+Insurance law
+Intellectual property (IP) law
+Land law
+Litigation
+Media law
+Private client law
+Property law
+Public law
+Shipping law
+Sports law
+Tax law
+Tort law
+
+Inquiring one's areas of practice is an additional means of narrowing down which areas of practice may have underlying multilinguistic tendencies or requirements. St. Lucia is a sovereign island nation in the Comonwealth of Nations, with an appointed Governor-General (representing the Queen), and the Prime Minister and cabinet (bearing executive power) {% cite specialitysmith_2020 %}. The legislative branch is run by the 17-member two-chambered House of Assembly. Because Saint Lucia was both a French and English colony before it gained independence on February 22nd, 1979, the legal system is a mix of civil and English common law. The judiciary is part of the Eastern Caribbean Supreme Court system; the headquarters of the Eastern Caribbean Supreme Court is in Castries, St. Lucia's capital. 
+
+
+
+Florida State University College of Law Research Guides
+
+
+
+
++ *7. What is your average annual income?*
 
 Below 36,000 XCD
 
