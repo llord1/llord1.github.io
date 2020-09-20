@@ -230,7 +230,8 @@ Lawyers may choose to focus on different areas of the law. The cliental they enc
 
 + *6. What are your areas of practice? Check all that apply.* 
 Alternative dispute resolution (ADR)
-Banking law
+Banking and Finance law
+Citizenship by investment
 Commercial law
 Constitutional law
 Construction law
@@ -256,11 +257,9 @@ Sports law
 Tax law
 Tort law
 
-Inquiring one's areas of practice is an additional means of narrowing down which areas of practice may have underlying multilinguistic tendencies or requirements. St. Lucia is a sovereign island nation in the Comonwealth of Nations, with an appointed Governor-General (representing the Queen), and the Prime Minister and cabinet (bearing executive power) {% cite specialitysmith_2020 %}. The legislative branch is run by the 17-member two-chambered House of Assembly. Because Saint Lucia was both a French and English colony before it gained independence on February 22nd, 1979, the legal system is a mix of civil and English common law. The judiciary is part of the Eastern Caribbean Supreme Court system; the headquarters of the Eastern Caribbean Supreme Court is in Castries, St. Lucia's capital. 
+An additional means of narrowing down underlying multilinguistic tendencies in this field is to inquire into one's areas of practice. St. Lucia is a sovereign island nation in the Commonwealth of Nations, but because Saint Lucia was both a French and English colony before it gained independence on February 22nd, 1979, the legal system has been a mix of civil and English common law. There is an appointed Governor-General (representing the Queen), and the Prime Minister and cabinet (bearing executive power). The legislative branch is operated by a 17-member two-chambered House of Assembly; the judiciary is part of the Eastern Caribbean Supreme Court system (headquartered in Castries, St. Lucia's capital) {% cite specialitysmith_2020 %}. 
 
 
-
-Florida State University College of Law Research Guides
 
 
 
