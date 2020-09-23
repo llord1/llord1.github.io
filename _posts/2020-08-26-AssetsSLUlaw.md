@@ -18,7 +18,7 @@ In the medical field, thoughtful deliberation of linguistics, particularly consi
 
 Questioning the possible ties of linguistics to various professions is not necessarily new, yet few resources have been dedicated to detecting communication issues and improving communication within multilingual countries.
 
-More interesting in the pivot of looking at persons who are already multilingual in a field, and noting if they have sufficient training and resources when their primary language is not the dominant language of the country in which they practice. One study did investigate Spanish–English bilingual psychotherapists and their Personal and professional language development and use. Another study was conducted on instances where nurses double as interpreters (a study of Spanish-speaking patients in a US primary care setting).
+More interesting in the pivot of looking at persons who are already multilingual in a field, and noting if they have sufficient training and resources when their primary language is not the dominant language of the country in which they practice. One study did investigate Spanish–English bilingual psychotherapists and their Personal and professional language development and use. {% cite verdinelli2009spanish %}. Another study was conducted on instances where nurses double as interpreters (a study of Spanish-speaking patients in a US primary care setting) {% cite elderkin2001nurses %}.
 
 
 olivares_washington_ICE2020  treisman_ICE2020 bbc_ICE2020 cassady_ICE2020 lambe_ICE2020
@@ -29,25 +29,25 @@ The consideration for a legal system's ties to linguistics is not new, however, 
 
 What is legal aid in Saint Lucia like? Legal Aid In St. Lucia?
 
- Charter on Language Policy and Language Rights in the Creole-Speaking Caribbean January 2011
+ Charter on Language Policy and Language Rights in the Creole-speaking Caribbean January 2011
 Considering that the International Covenant on Civil and Political Rights (Article 14) and the American Convention on Human Rights (Article 8) guarantee the right of an accused person to be assisted, without charge, by an interpreter if he does not understand or speak the language of the court; 
 
 You also believe that our attitude toward language has ripple effects.
 JAF: Crime is linked to lack of jobs, [which] is linked to lack of education, [which] is linked to lack of language access. Is nobody seeing the link twixt crime and language?
 
 
-Proper legal representation can mean the difference between life and death in the Caribbean, as some countries, despite the efforts of Amnesty International, retain the mandatory death penalty. While the Cornell Centre (on the death penalty worldwide) indicated that Saint Lucia has not executed a prisoner since 1995, the action is still observed in its legislation. As of early 2019, the National Security Minister of Saint Lucia, Hermangild Francis highlighted plans for constitutional reform, and tha the issue of the death penalty had the possiblity of being reviewed by the public (despite his support for retaining current standards).
+Proper legal representation can mean the difference between life and death in the Caribbean, as some countries, despite the efforts of Amnesty International, retain the mandatory death penalty. While the Cornell Centre (on the death penalty worldwide) indicated that Saint Lucia has not executed a prisoner since 1995, the action is still observed in its legislation. As of early 2019, the National Security Minister of Saint Lucia, Hermangild Francis highlighted plans for constitutional reform, and that the issue of the death penalty had the possibility of being reviewed by the public (despite his support for retaining current standards).
 
 
 
 
 Broadly, crime control and prevention strategies may be designed to (a) systematically treat the root causes of crime (b) make populations more resilient to criminality (c) strengthen the ability of the responsible institutions to respond to crime in all of its various expressions. In the language of the public health officials, the first would represent a kind of primary prevention.
-So this is a problem because they are not looking at language ; most of the commentary on suggestions was mostly about working on "modernizing police-citizen relations", they focused on the latest techniques and technologies, rather than improving direct communication skills with civilians 
+So this is a problem because they are not looking at language; most of the commentary on suggestions was mostly about working on "modernizing police-citizen relations", they focused on the latest techniques and technologies, rather than improving direct communication skills with civilians 
 
 
 
 
-Lawyering in a fairly multilingual setting is can be a bit more challenging than lawyering in environments with very little linguistic diversity. One Caribbean academic did express the lack of study on crime and language in Saint Lucia, when.... ocurred, however, these details did not appear to be followed up on further {% cite mendes-franco_2020 %}. .
+Lawyering in a fairly multilingual setting is can be a bit more challenging than lawyering in environments with very little linguistic diversity. One Caribbean academic did express the lack of study on crime and language in Saint Lucia, when.... occurred, however, these details did not appear to be followed up on further {% cite mendes-franco_2020 %}. 
 
 
 In a 2020 interview, Trinidadian linguist Jo-Anne Ferreira stated that "Bilingualism and multilingualism are normal around the world. The problem is we like to think of bilingualism as good only if it includes a language with status" {% cite mendes-franco_2020 %}. 
@@ -55,7 +55,7 @@ In a 2020 interview, Trinidadian linguist Jo-Anne Ferreira stated that "Bilingua
 
 During the summer 2020 conference for the Society for Caribbean Linguistics
 
-Very little has been done to understand the link between lingusitics and legal affairs in a country 
+Very little has been done to understand the link between linguistics and legal affairs in a country 
 
 
 There are indeed benefits to being a multilingual lawyer. As of 2015,  Brian Porro, the principal translator at the Directorate-General for Translation at the European Commission, eagerly sought to hire lawyer-linguists at the European Court of Justice; instead, he noted that there was "a dearth of suitably qualified prospective English candidates in law with an additional language" [theguardian.com/law/2015/jul/07/all]. Therefore, this scarcity of capable multilingual lawyers may allow for international law firms to extend higher salaries to bilingual employees. Moreover, Porro suggested that speaking additional languages facilitated better communication. He added that the very presence of a sub-discipline could highlight one's ability to concentrate and deploy your language skills in legal practice. He also notes that one's language skills could also provide opportunities to work abroad.
@@ -82,8 +82,7 @@ Saint Lucia's National Environmental Information System (NEIS)  has been one of 
 A need for additional data regarding lawyer demographics in Saint Lucia has been identified. To address this need, while following social distancing protocols, an online survey has been selected as the tool of data collection. Ultimately, such a survey can be applied to lawyers, nurses, or police officers - any profession that requires direct extended interaction with a citizen to provide a sense of safety and security.
 
 
-St. Lucia is a sovereign island nation in the Comonwealth of Nations located in the Windward Islands in the Lesser Antilles. Like most Commonwealth nations, the appointed Governor-General represents the Queen, while executive power rests with the Prime Minister and cabinet. The legislative branch is run by the 17-member two-chambered House of Assembly. Because it was both a French and English colony before it gained independence on February 11, 1979, the legal system is a mix of civil and English common law. The judiciary is part of the Eastern Caribbean Supreme Court system; the headquarters of the Eastern Caribbean Surpeme Court is in Castries, St. Lucia's capital. 
-
+St. Lucia is a sovereign island nation in the Commonwealth of Nations, but because Saint Lucia was both a French and English colony before it gained independence on February 22nd, 1979, the legal system has been a mix of civil and English common law. There is an appointed Governor-General (representing the Queen), and the Prime Minister and cabinet (bearing executive power). The legislative branch is operated by a 17-member two-chambered House of Assembly; the judiciary is part of the Eastern Caribbean Supreme Court system (headquartered in Castries, St. Lucia's capital) {% cite specialitysmith_2020 %}. 
 
 ### Questions:
 
@@ -257,11 +256,7 @@ Sports law
 Tax law
 Tort law
 
-An additional means of narrowing down underlying multilinguistic tendencies in this field is to inquire into one's areas of practice. St. Lucia is a sovereign island nation in the Commonwealth of Nations, but because Saint Lucia was both a French and English colony before it gained independence on February 22nd, 1979, the legal system has been a mix of civil and English common law. There is an appointed Governor-General (representing the Queen), and the Prime Minister and cabinet (bearing executive power). The legislative branch is operated by a 17-member two-chambered House of Assembly; the judiciary is part of the Eastern Caribbean Supreme Court system (headquartered in Castries, St. Lucia's capital) {% cite specialitysmith_2020 %}. 
-
-
-
-
+An additional means of narrowing down underlying multilinguistic tendencies in this field is to inquire into one's areas of practice. St. Lucia is a sovereign island nation in the Commonwealth of Nations, but because Saint Lucia was both a French and English colony before it gained independence on February 22nd, 1979, the legal system has been a mix of civil and English common law {% cite specialitysmith_2020 %}. 
 
 
 + *7. What is your average annual income?*
@@ -308,7 +303,7 @@ Other (please specify)
 ____________________
 
 
-This question is one of the most crucial to this study. English is listed as it is indeed the main language spoken (a prestige language) in Saint Lucia. Apart from modern English, legal (and medical) professionals can claim to be multilingual based on their foundational studies of Latin; placing this detail acknowledges this field facet. Saint Lucian Kwéyòl (Antillean Creole/Patios) is inquired about, as it is the heritage language of the island. French and Spanish are inquired about as they are common language offerings at all high schools on the island. Dutch, and Portuguese, and to a lesser extent Hindi and Gaelige/Irish, are other common languages to the rest of the Caribbean due to colonialization and indentured labor. Japanese is taught in Saint Lucia by humanitarian volunteers as part of their Japan International Cooperation Agency (JICA) work [jica.go.jp/stlucia/]. Due to an increased presence of Chinese investors and tourists in the Caribbean, and general funding of local projects by China, one's ability to understand Mandarin is becoming increasingly valuable.
+This question is one of the most crucial to this study. English is listed as it is indeed the main language spoken (a prestige language) in Saint Lucia. Apart from modern English, legal (and medical) professionals can claim to be multilingual based on their foundational studies of Latin; placing this detail acknowledges this field facet. Saint Lucian Kwéyòl (Antillean Creole/Patios) is inquired about, as it is the heritage language of the island. French and Spanish are inquired about as they are common language offerings at all high schools on the island. Dutch, and Portuguese, and to a lesser extent Hindi and Gaelige/Irish, are other common languages to the rest of the Caribbean due to colonialization and indentured labor. Japanese is taught in Saint Lucia by humanitarian volunteers as part of their Japan International Cooperation Agency (JICA) work {% cite kobayashi_2020 %}. Due to an increased presence of Chinese investors and tourists in the Caribbean, and general funding of local projects by China, one's ability to understand Mandarin is becoming increasingly valuable.
 
 The column category "understand" was added to account for the possible occurrence of receptive bilingualism among lawyers in the Caribbean. This consideration is valid as multilingualism is prevalent in this region; persons here may encounter various languages, yet have been unable to effectively respond. The presence of a prestige language, such as English, may draw speakers away from heritage languages;  these heritage languages can suffer from dropping numbers of speakers when receptive bilingualism is not followed up with focused efforts. 
 
