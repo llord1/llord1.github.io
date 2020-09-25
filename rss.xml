@@ -5,8 +5,8 @@
         <description>Laurel's Works in Progress - Laurel Lord</description>
         <link>http://llord1.github.io</link>
         <atom:link href="http://llord1.github.io/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 24 Sep 2020 23:51:54 -0400</lastBuildDate>
-        <pubDate>Thu, 24 Sep 2020 23:51:54 -0400</pubDate>
+        <lastBuildDate>Fri, 25 Sep 2020 10:17:16 -0400</lastBuildDate>
+        <pubDate>Fri, 25 Sep 2020 10:17:16 -0400</pubDate>
         <ttl>60</ttl>
 
 
@@ -57,6 +57,16 @@
 </description>
                 <link>http://llord1.github.io/2020/08/26/LawConsent</link>
                 <guid>http://llord1.github.io/2020/08/26/LawConsent</guid>
+                <pubDate>Wed, 26 Aug 2020 00:00:00 -0400</pubDate>
+        </item>
+
+        <item>
+                <title>Just a quick link to the draft form</title>
+                <description>
+&lt;p&gt;&lt;a href=&quot;https://forms.gle/8yUuGYaCidMgbN5E8&quot;&gt;See draft survey with consent form here&lt;/a&gt;&lt;/p&gt;
+</description>
+                <link>http://llord1.github.io/2020/08/26/DraftForm</link>
+                <guid>http://llord1.github.io/2020/08/26/DraftForm</guid>
                 <pubDate>Wed, 26 Aug 2020 00:00:00 -0400</pubDate>
         </item>
 
