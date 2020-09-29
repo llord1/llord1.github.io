@@ -16,13 +16,17 @@ Several careers in society can contribute to providing the general sense of safe
 
 Thoughtful deliberation of linguistics, particularly consideration of language barriers, is increasing in the medical field. As recently as 2019, Sweden conducted a national study on health care professionals' communications through interpreters; this study was conducted after noting that many parents utilizing neonatal care were foreign-born and unable to effectively communicate with the healthcare professionals in the local language {% cite patriksson2019health %}. In 2013, linguistic work had been done to highlight communications issues between physicians and Spanish-speaking Latin American women with pelvic floor disorders {% cite sevilla2013communication %}; this study highlighted that apart from patients’ lack of disease understanding, there was a lack of Spanish proficiency among the participating physicians. Another 2013 qualitative study conducted on linguistics, centered around the perceptions of patient-provider communication in breast and cervical cancer-related care when dealing with low-income English and Spanish-speaking women {% cite simon2013perceptions %}. In 2009, efforts were made in a similar work that was conducted on competent peer support intervention for Spanish-speaking Latinas with breast cancer {% cite napoles2009developing %}. 
 
+
 Need to fix this section:
-*Questioning the possible ties of linguistics to various professions is not necessarily new, yet few resources are being dedicated to detecting communication issues and improving communication within multilingual countries.
-
-More interesting in the pivot of looking at persons who are already multilingual in a field, and noting if they have sufficient training and resources when their primary language is not the dominant language of the country in which they practice. One study did investigate Spanish–English bilingual psychotherapists and their Personal and professional language development and use {% cite verdinelli2009spanish %}. Another study was conducted on instances where nurses double as interpreters (a study of Spanish-speaking patients in a US primary care setting) {% cite elderkin2001nurses %}.
 
 
-The consideration for a legal system's ties to linguistics is not new, however, the topic has not been thoroughly explored (particularly in extensively multilingual and multicultural settings such as the Caribbean).*
+
+*Questioning the possible ties of linguistics to various professions is not necessarily new, yet few resources are being dedicated to detecting communication issues and improving communication within multilingual countries.*
+
+*More interesting in the pivot of looking at persons who are already multilingual in a field, and noting if they have sufficient training and resources when their primary language is not the dominant language of the country in which they practice. One study did investigate Spanish–English bilingual psychotherapists and their Personal and professional language development and use {% cite verdinelli2009spanish %}. Another study was conducted on instances where nurses double as interpreters (a study of Spanish-speaking patients in a US primary care setting) {% cite elderkin2001nurses %}.*
+
+
+*The consideration for a legal system's ties to linguistics is not new, however, the topic has not been thoroughly explored (particularly in extensively multilingual and multicultural settings such as the Caribbean).*
 
 
 
@@ -32,7 +36,9 @@ While data collection on the various professions can be conducted by private com
 
 While the U.S. Bureau of Labor Statistics provides general information on the demographics of the lawyers in the country, the American Bar Association (ABA) gathers more detailed information on Legal Profession Statistics [americanbar.org] {% cite BLS2020 %}. Their current statistical data is used to assist with research on lawyers and the legal profession. Their website notes data on the topics of lawyer demographics (including matters of disability, women, and minority/people of color). It also encompasses justice system statistics (including topics on public perception of justice system/lawyers and the justice system), court statistics (including cases filed, and criminal justice statistics). this association also notes the topics of law students and education and legal salaries (and related attrition/retention data).
 
-Currently, lawyer demographics in Saint Lucia (SLU) do not appear to be centrally gathered. The 2016 Labour Force Survey, made publicly available by The Central Statistical Office of SLU, did inquire into participants' industry - "What is the name of the business where you/....... work? What type of activity is carried on there?" {% cite govtSLU_Labour_2019 %}. However, the dataset ultimately appears to have been simplified to the point where details on individual professions were rendered indiscernible. The closest response, related to lawyers, would be one that highlighted "professional, scientific and technical activities"; this made up 1.0%  (51 participants) of the survey. A representative of The Central Statistical Office of SLU stated that the data in the country's 2016 Labour Force Survey was "not disaggregated in such a way to get a count of all lawyers" {% cite govtSLU_Labour_2019 %}. It was also stated that since the 2016 Labour Force Survey "utilizes a sample if it were to give a figure it would not be representative" {% cite govtSLU_Labour_2019 %}. Ultimately, even the president of the Bar Association of SLU, also confirmed that she was unaware of the departments of government bearing statistical data specific to lawyers
+*Currently, lawyer demographics in Saint Lucia (SLU) do not appear to be centrally gathered. The 2016 Labour Force Survey, made publicly available by The Central Statistical Office of SLU, did inquire into participants' industry - "What is the name of the business where you/....... work? What type of activity is carried on there?" {% cite govtSLU_Labour_2019 %}.*
+
+However, the dataset ultimately appears to have been simplified to the point where details on individual professions were rendered indiscernible. The closest response, related to lawyers, would be one that highlighted "professional, scientific and technical activities"; this made up 1.0%  (51 participants) of the survey. A representative of The Central Statistical Office of SLU stated that the data in the country's 2016 Labour Force Survey was "not disaggregated in such a way to get a count of all lawyers" {% cite govtSLU_Labour_2019 %}. It was also stated that since the 2016 Labour Force Survey "utilizes a sample if it were to give a figure it would not be representative" {% cite govtSLU_Labour_2019 %}. Ultimately, even the president of the Bar Association of SLU, also confirmed that she was unaware of the departments of government bearing statistical data specific to lawyers.
 
 Saint Lucia's National Environmental Information System (NEIS)  has been one of the latest governmental attempts at collecting and organizing national data {% cite govtSLU_NEIS_2019 %}, {% cite govtSLU_NEIS %}, {% cite govtSLUdata %}. This "Project Reporting System for Multilateral Environmental Agreement (MEA) Implementation and Environmental Information Management" is regarded as a "legal instrument with binding effects on countries that have agreed to become parties" {% cite govtSLU_NEIS %}. Saint Lucia's participation in this international agreement, enhances global agreements and sustainable development projects moving forward. However, one current category that highlights the "employed labor force by industry", is classified as having a low priority level.
 
@@ -59,35 +65,11 @@ Chi-square test of independence
 
 + *1. Please indicate your age from the following ranges.* 
 
-Less than 18
-
-18-24
-
-25-29
-
-30-34
-
-35-39
-
-40-44
-
-45-49
-
-50-54
-
-55-59
- 
-60-64
-
-65-69 
-
-70 or older
-
-Choose not to respond
+Less than 18, 18-24, 25-29, 30-34, 35-39, 40-44, 45-49, 50-54, 55-59, 60-64, 65-69, 70 or older, Choose not to respond.
 
 The age range (multiple choice) was based on the ABA data that indicates lawyers typically obtain higher education levels beyond high-school and remain in practice past the age of 65 [source]; the median age of all U.S. workers was 42.3 years old, yet very few lawyers are younger than 25 and the median age for U.S. lawyers in 2019 was 47.5 years old. This question is posed as a standard demographic question, yet it is also important as speaks to the current and future state of the legal linguistic environment. Noting age may highlight multilingualism trends among age groups. For example, if multilingualism is more prominent in the younger lawyers, then the projection of multilingual representation would be positive. However, if multilingual tendencies are clustered among older lawyers, then this study may serve to highlight needed points of improvement in the legal system in an increasingly multilingual society. 
 
-+ *2. Please indicate which of the following classifications best describe (s) you*
++ *2. Please indicate which of the following classifications best describe (s) you.*
 
 Man
 
@@ -132,30 +114,14 @@ While the ABA noted that "most state bars and state licensing agencies do not tr
 Additionally, one's household and upbringing may shape or influence one's interests. Multiculturalism is quite prevalent in the Caribbean, however, one's multilingualism might be impacted by one's upbringing. While formal education may be a primary factor in one's language acquisition, various states of immigration over generations, or other forms of diversity in one's household, might influence their linguistic capacities.
 Identifying participant ethnicity/race is another standard demographic inquiry, nevertheless, it is needed here to highlight if there are any differences in linguistics interests among the lawyers based on their backgrounds. 
 
-+ *4. Please indicate the number of years you have been in practice (number of years since your first call to the bar in the Common-Wealth)*
++ *4. Please indicate the number of years you have been in practice (number of years since your first call to the bar in the Common-Wealth).*
 
-Less than 1
-
-1-5
-
-6-10
-
-11-15
-
-16-20
-
-21-25
-
-26-30
-
-31 or more
-
-Choose not to respond
+Less than 1, 1-5, 6-10, 11-15, 16-20, 21-25, 26-30, 31 or more, Choose not to respond.
 
 This is not a typical demographic question, however, it is one that can reveal data on the vibrancy or stagnancy of the field in terms of linguistics. This is an attempt to pinpoint how long one can thrive in an industry without the need for multilingual skills. It will be interesting to explore if career longevity is strongly or weakly associated with one's linguistic acquisitions.
 
 
-+ *5. Please indicate your current law-related working environment. *
++ *5. Please indicate your current law-related working environment.*
 
 In private practice, in a firm with less than 5 lawyers
 
@@ -214,7 +180,7 @@ Tort law
 An additional means of narrowing down underlying multilinguistic tendencies in this field is to inquire into one's areas of practice. St. Lucia is a sovereign island nation in the Commonwealth of Nations, but because Saint Lucia was both a French and English colony before it gained independence on February 22nd, 1979, the legal system has been a mix of civil and English common law {% cite specialitysmith_2020 %}. 
 
 
-+ *7. Please indicate your average annual income. *
++ *7. Please indicate your average annual income.*
 
 Below 36,000 XCD
 
@@ -257,7 +223,7 @@ French and Spanish are included as these are common language offerings at all hi
 
 Arabic immigrants (and others from the Mediterranean region) do have a strong presence in the Saint Lucian business environment, and therefore, may have had a need for legal representation on the island. Japanese is taught in Saint Lucia by humanitarian volunteers as part of their Japan International Cooperation Agency (JICA) work {% cite kobayashi_2020 %}. Due to an increased presence of Chinese investors and tourists in the Caribbean, and general funding of local projects by China, one's ability to understand Mandarin is becoming increasingly valuable. Once again these immigrants may have had a need for legal representation on the island.
 
-It should be noted that Saint Lucia has established a system for Citizenship by Investment (CIP) {% cite bayat_el hachem_2020 gis_CIP_2017 slu_cip_2020 capital_CIP_2020 harvey_2020 investvisa_2016 %}. Local lawyers that practice in this area have a greater probability of interacting with persons from various parts of the world; particularly interacting with persons from areas that had no prior historic (colonial) immigration or language ties to the country. Persons from Russia, Asia and the Middle East have been noted as having increasingly high rates of interest in the CIP programs of the Caribbean {% cite nesheim_CIP_2020 CBF_2020 %}. The creation of the categories was developed to best encapsulate as many interaction scenarios as possible.
+It should be noted that Saint Lucia has established a system for Citizenship by Investment (CIP) {% cite bayat_el hachem_2020 gis_CIP_2017 slu_cip_2020 capital_CIP_2020 harvey_2020 investvisa_2016 %}. Local lawyers that practice in this area have a greater probability of interacting with persons from various parts of the world; particularly interacting with persons from areas that had no prior historic (colonial) immigration or language ties to the country. Persons from Russia, Asia, and the Middle East have been noted as having increasingly high rates of interest in the CIP programs of the Caribbean {% cite nesheim_CIP_2020 CBF_2020 %}. The creation of the categories was developed to best encapsulate as many interaction scenarios as possible.
 
 The column category "understand" was added to account for the possible occurrence of receptive bilingualism among lawyers in the Caribbean. This consideration is valid as multilingualism is prevalent in this region; persons here may encounter various languages, yet have been unable to effectively respond. The presence of a prestige language, such as English, may draw speakers away from heritage languages;  these heritage languages can suffer from dropping numbers of speakers when receptive bilingualism is not followed up with focused efforts. 
 
@@ -270,9 +236,8 @@ Row Titles: English, Saint Lucian Kwéyòl (Antillean Creole/Patios), Haitian Cr
 
 + *10. Please indicate which technique best describes how you came to learn each of the following languages.*
 
-Column Titles: Formal educational requirement, Career requirement, Formal education (elective/personal interest), Informal education (hobby), Informal education (as part of communicating with my family and friends), N/A (I do not communicate in this language), Choose not to respond
+Column Titles: Formal educational requirement, Career requirement, Formal education (elective/personal interest), Informal education (hobby), Informal education (as part of communicating with my family and friends), N/A (I do not communicate in this language), Choose not to respond.
 
-Row Titles:
 Row Titles: English, Saint Lucian Kwéyòl (Antillean Creole/Patios), Haitian Creole, French, Spanish, Papiamento, Portuguese, Dutch, Hindi (or any Indian subcontinental language not listed), Arabic (or any Mediterranean language not listed), Russian (or any Eurasian language not listed), Japanese, Mandarin, Any form of sign language.
 
 Understanding where and how one engages in language learning might highlight environments that foster multilingualism in lawyers. The learning of certain languages may take place in formal and informal settings. In Saint Lucia, it is highly likely that most language education would be done in a formal school setting. Overall, the national heritage language of this island would typically be learned informally. Saint Lucian Kwéyòl only recently began being formally taught to young children (between the ages of 6-12) in less than a handful of schools, and adult learners; however, since the major fire at the National Folk Resource Center, most classes have reverted to more private sessions. 
