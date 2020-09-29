@@ -15,60 +15,18 @@ tags: [Assets]
 Several careers in society can contribute to providing the general sense of safety and security that Maslow has referred to in his famous hierarchy of needs. However, obvious, yet often overlooked issues in communication can mean the difference between life and death in fields of practice such as medicine and law enforcement. Therefore, thoughtful data collection and monitoring of these crucial services can enhance and optimize their performance. 
 
 Thoughtful deliberation of linguistics, particularly consideration of language barriers, is increasing in the medical field. As recently as 2019, Sweden conducted a national study on health care professionals' communications through interpreters; this study was conducted after noting that many parents utilizing neonatal care were foreign-born and unable to effectively communicate with the healthcare professionals in the local language {% cite patriksson2019health %}. In 2013, linguistic work had been done to highlight communications issues between physicians and Spanish-speaking Latin American women with pelvic floor disorders {% cite sevilla2013communication %}; this study highlighted that apart from patients’ lack of disease understanding, there was a lack of Spanish proficiency among the participating physicians. Another 2013 qualitative study conducted on linguistics, centered around the perceptions of patient-provider communication in breast and cervical cancer-related care when dealing with low-income English and Spanish-speaking women {% cite simon2013perceptions %}. In 2009, efforts were made in a similar work that was conducted on competent peer support intervention for Spanish-speaking Latinas with breast cancer {% cite napoles2009developing %}. 
-Questioning the possible ties of linguistics to various professions is not necessarily new, yet few resources are being dedicated to detecting communication issues and improving communication within multilingual countries.
+
+Need to fix this section:
+*Questioning the possible ties of linguistics to various professions is not necessarily new, yet few resources are being dedicated to detecting communication issues and improving communication within multilingual countries.
 
 More interesting in the pivot of looking at persons who are already multilingual in a field, and noting if they have sufficient training and resources when their primary language is not the dominant language of the country in which they practice. One study did investigate Spanish–English bilingual psychotherapists and their Personal and professional language development and use {% cite verdinelli2009spanish %}. Another study was conducted on instances where nurses double as interpreters (a study of Spanish-speaking patients in a US primary care setting) {% cite elderkin2001nurses %}.
 
 
-olivares_washington_ICE2020  treisman_ICE2020 bbc_ICE2020 cassady_ICE2020 lambe_ICE2020
-
-
-The consideration for a legal system's ties to linguistics is not new, however, the topic has not been thoroughly explored (particularly in extensively multilingual and multicultural settings such as the Caribbean). 
-
-
-What is legal aid in Saint Lucia like? Legal Aid In St. Lucia?
-
- Charter on Language Policy and Language Rights in the Creole-speaking Caribbean in January 2011
-Considering that the International Covenant on Civil and Political Rights (Article 14) and the American Convention on Human Rights (Article 8) guarantee the right of an accused person to be assisted, without charge, by an interpreter if he does not understand or speak the language of the court; 
-
-You also believe that our attitude toward language has ripple effects.
-JAF: Crime is linked to lack of jobs, [which] is linked to lack of education, [which] is linked to a lack of language access. Is nobody seeing the link twixt crime and language?
-
-
-Proper legal representation can mean the difference between life and death in the Caribbean, as some countries, despite the efforts of Amnesty International, retain the mandatory death penalty. While the Cornell Centre (on the death penalty worldwide) indicated that Saint Lucia has not executed a prisoner since 1995, the action is still observed in its legislation. As of early 2019, the National Security Minister of Saint Lucia, Hermangild Francis highlighted plans for constitutional reform, and that the issue of the death penalty had the possibility of being reviewed by the public (despite his support for retaining current standards).
+The consideration for a legal system's ties to linguistics is not new, however, the topic has not been thoroughly explored (particularly in extensively multilingual and multicultural settings such as the Caribbean).*
 
 
 
-
-Broadly, crime control and prevention strategies may be designed to (a) systematically treat the root causes of crime (b) make populations more resilient to criminality (c) strengthen the ability of the responsible institutions to respond to crime in all of its various expressions. In the language of the public health officials, the first would represent a kind of primary prevention.
-So this is a problem because they are not looking at language; most of the commentary on suggestions was mostly about working on "modernizing police-citizen relations", they focused on the latest techniques and technologies, rather than improving direct communication skills with civilians 
-
-
-
-
-Lawyering in a fairly multilingual setting is can be a bit more challenging than lawyering in environments with very little linguistic diversity. One Caribbean academic did express the lack of study on crime and language in Saint Lucia, when.... occurred, however, these details did not appear to be followed up on further {% cite mendes-franco_2020 %}. 
-
-
-In a 2020 interview, Trinidadian linguist Jo-Anne Ferreira stated that "Bilingualism and multilingualism are normal around the world. The problem is we like to think of bilingualism as good only if it includes a language with status" {% cite mendes-franco_2020 %}. 
-
-
-During the summer 2020 conference for the Society for Caribbean Linguistics
-
-Very little has been done to understand the link between linguistics and legal affairs in a country 
-
-
-There are indeed benefits to being a multilingual lawyer. As of 2015,  Brian Porro, the principal translator at the Directorate-General for Translation at the European Commission, eagerly sought to hire lawyer-linguists at the European Court of Justice; instead, he noted that there was "a dearth of suitably qualified prospective English candidates in law with an additional language" [theguardian.com/law/2015/jul/07/all]. Therefore, this scarcity of capable multilingual lawyers may allow for international law firms to extend higher salaries to bilingual employees. Moreover, Porro suggested that speaking additional languages facilitated better communication. He added that the very presence of a sub-discipline could highlight one's ability to concentrate and deploy your language skills in legal practice. He also notes that one's language skills could also provide opportunities to work abroad.
-
-
-Lawyer as translator representation as text: Towards an ethnography of legal discourse
-The Lawyer-Client Relationship in Immigration Law
-The impact of politeness in witness testimony: The influence of the court interpreter
-[PDF] Corpus study carried out on three “legal” verbs to demonstrate their similar and different usage for the purposes of legal translators and lawyer-linguists. 20
-Latin América: A Challenge to the Common Lawyer
-
-
-
-
+*There are indeed benefits to being a multilingual lawyer. As of 2015,  Brian Porro, the principal translator at the Directorate-General for Translation at the European Commission, eagerly sought to hire lawyer-linguists at the European Court of Justice; instead, he noted that there was "a dearth of suitably qualified prospective English candidates in law with an additional language" [theguardian.com/law/2015/jul/07/all]. Therefore, this scarcity of capable multilingual lawyers may allow for international law firms to extend higher salaries to bilingual employees. Moreover, Porro suggested that speaking additional languages facilitated better communication. He added that the very presence of a sub-discipline could highlight one's ability to concentrate and deploy your language skills in legal practice. He also notes that one's language skills could also provide opportunities to work abroad.*
 
 While data collection on the various professions can be conducted by private companies, it is typically undertaken by government-backed labor agencies, to ensure that the data is freely available to the public. In America, the U.S. Bureau of Labor Statistics collects such data and hosts it on a public website [bls.gov]. While not all developing nations have been able to dedicate resources to the close monitoring of this data, its value is increasingly recognized.
 
@@ -167,7 +125,6 @@ Not known
 Choose not to respond
 
 Other:
-
 
 While the ABA noted that "most state bars and state licensing agencies do not track race and ethnicity in the profession", in 2020 there was an increase in this type of data collection {%cite ABA2020Profile %}, {% cite clio_2020 %}, {% cite AttorneyAtWork_2019 %}. As of 2010, only 11.4% of all American lawyers were men and women of color, and this only rose to 14.1% in 2020 {%cite ABA2020Profile %}, {% cite clio_2020 %}, {% cite AttorneyAtWork_2019 %}. In developed countries, like America, it is said that minorities remain underrepresented in the legal profession; however, there is limited information on the legal environment of the Caribbean-an environment where the majority of the population would historically be non-white. As of the 2010 Saint Lucian census, the "ethnic group" of 
 "African Descents" represented about 85.28 percent of the population (the highest); this was distantly followed by the "Mixed" category with 10.85 percent, and the "East Indian" at 2.16 percent {% cite CSO_SLU2010 %}.
@@ -286,7 +243,7 @@ Based on one's average salary per case, there could be an argument for the econo
 
 Column Titles: Speak, Write, Read, Understand
 
-Row Titles: English, Saint Lucian Kwéyòl (Antillean Creole/Patios), Haitian Creole, French, Spanish, Papiamento, Portuguese, Dutch, Hindi (or any other Indian subcontinental language not listed), Arabic (or any other Mediterranean language not listed), Russian, Japanese, Mandarin, Any form of sign language, Choose not to respond
+Row Titles: English, Saint Lucian Kwéyòl (Antillean Creole/Patios), Haitian Creole, French, Spanish, Papiamento, Portuguese, Dutch, Hindi (or any Indian subcontinental language not listed), Arabic (or any Mediterranean language not listed), Russian (or any Eurasian language not listed), Japanese, Mandarin, Any form of sign language.
 
 This question is one of the most crucial to this study. English is listed as it is indeed the main language spoken (a prestige language) in Saint Lucia. However, Saint Lucia is indeed a multilingual country, and therefore assumptions cannot be made as to one's full competencies of English; indeed one may have been hired based on being a native speaker of another language, or a variety of other scenarios. Yet, the form will only be presented in English, as a certain degree of English competency is required of professionals that practice in Saint Lucia (most legal documents are indeed written in English).
 
@@ -300,7 +257,7 @@ French and Spanish are included as these are common language offerings at all hi
 
 Arabic immigrants (and others from the Mediterranean region) do have a strong presence in the Saint Lucian business environment, and therefore, may have had a need for legal representation on the island. Japanese is taught in Saint Lucia by humanitarian volunteers as part of their Japan International Cooperation Agency (JICA) work {% cite kobayashi_2020 %}. Due to an increased presence of Chinese investors and tourists in the Caribbean, and general funding of local projects by China, one's ability to understand Mandarin is becoming increasingly valuable. Once again these immigrants may have had a need for legal representation on the island.
 
-It should be noted that Saint Lucia has established a system for Citizenship by Investment (CIP) {% cite gis_CIP_2017 slu_cip_2020 capital_CIP_2020 harvey_2020 investvisa_2016 %}. Local lawyers that practice in this area have a greater probability of interacting with persons from various parts of the world; particularly interacting with persons from areas that had no prior historic (colonial) immigration or language ties to the country. Advertizing for the CIP program appears to be gaining momentum in Russian and general Eurasian markets {% cite nesheim_CIP_2020 CBF_2020 %}, therefore a category was created to accommodate this scenario.
+It should be noted that Saint Lucia has established a system for Citizenship by Investment (CIP) {% cite bayat_el hachem_2020 gis_CIP_2017 slu_cip_2020 capital_CIP_2020 harvey_2020 investvisa_2016 %}. Local lawyers that practice in this area have a greater probability of interacting with persons from various parts of the world; particularly interacting with persons from areas that had no prior historic (colonial) immigration or language ties to the country. Persons from Russia, Asia and the Middle East have been noted as having increasingly high rates of interest in the CIP programs of the Caribbean {% cite nesheim_CIP_2020 CBF_2020 %}. The creation of the categories was developed to best encapsulate as many interaction scenarios as possible.
 
 The column category "understand" was added to account for the possible occurrence of receptive bilingualism among lawyers in the Caribbean. This consideration is valid as multilingualism is prevalent in this region; persons here may encounter various languages, yet have been unable to effectively respond. The presence of a prestige language, such as English, may draw speakers away from heritage languages;  these heritage languages can suffer from dropping numbers of speakers when receptive bilingualism is not followed up with focused efforts. 
 
@@ -309,46 +266,46 @@ The column category "understand" was added to account for the possible occurrenc
 
 Column Titles: Highly fluent, Fluent, Some mastery, A little mastery, Not at all, Choose not to respond
 
-Row Titles: Saint Lucian Kwéyòl (Antillean Creole/Patios), Haitian Creole, French, Spanish, Papiamento, Portuguese, Dutch, Hindi (or any other Indian subcontinental language), Arabic (or any other Mediterranean language), Japanese, Mandarin, Any form of sign language, Choose not to respond
+Row Titles: English, Saint Lucian Kwéyòl (Antillean Creole/Patios), Haitian Creole, French, Spanish, Papiamento, Portuguese, Dutch, Hindi (or any Indian subcontinental language not listed), Arabic (or any Mediterranean language not listed), Russian (or any Eurasian language not listed), Japanese, Mandarin, Any form of sign language, Choose not to respond
 
 + *10. Please indicate which technique best describes how you came to learn each of the following languages.*
 
 Column Titles: Formal educational requirement, Career requirement, Formal education (elective/personal interest), Informal education (hobby), Informal education (as part of communicating with my family and friends), N/A (I do not communicate in this language), Choose not to respond
 
 Row Titles:
-Saint Lucian Kwéyòl (Antillean Creole/Patios), Haitian Creole, French, Spanish, Papiamento, Portuguese, Dutch, Hindi (or any other Indian subcontinental language), Arabic (or any other Mediterranean language), Japanese, Mandarin, Any form of sign language, Choose not to respond
+Row Titles: English, Saint Lucian Kwéyòl (Antillean Creole/Patios), Haitian Creole, French, Spanish, Papiamento, Portuguese, Dutch, Hindi (or any Indian subcontinental language not listed), Arabic (or any Mediterranean language not listed), Russian (or any Eurasian language not listed), Japanese, Mandarin, Any form of sign language.
 
 Understanding where and how one engages in language learning might highlight environments that foster multilingualism in lawyers. The learning of certain languages may take place in formal and informal settings. In Saint Lucia, it is highly likely that most language education would be done in a formal school setting. Overall, the national heritage language of this island would typically be learned informally. Saint Lucian Kwéyòl only recently began being formally taught to young children (between the ages of 6-12) in less than a handful of schools, and adult learners; however, since the major fire at the National Folk Resource Center, most classes have reverted to more private sessions. 
-
 
 + *11. Please indicate which language frequency category best reflects your typical client interactions.*
 
 Column Titles: Very Frequently, Frequently, Occasionally, Rarely, Very Rarely, Never
 
-Row Titles:
-English, Saint Lucian Kwéyòl (Antillean Creole/Patios), Haitian Creole, French, Spanish, Papiamento, Portuguese, Dutch, Hindi (or any other Indian subcontinental language), Arabic (or any other Mediterranean language), Japanese, Mandarin, Any form of sign language, Choose not to respond
+Row Titles: English, Saint Lucian Kwéyòl (Antillean Creole/Patios), Haitian Creole, French, Spanish, Papiamento, Portuguese, Dutch, Hindi (or any Indian subcontinental language not listed), Arabic (or any Mediterranean language not listed), Russian (or any Eurasian language not listed), Japanese, Mandarin, Any form of sign language.
 
 Since this survey is unable to acquire data from past clients, this question serves to address the languages that lawyers commonly encounter. The language one speaks is not guaranteed to be what is encountered. It will be interesting to note where the client and lawyer languages overlap and where they do not.
 
++ *12.Please indicate if a perceived language barrier has ever limited any of your attorney-client interactions.*
 
-+ *11. Overall, how many languages do you speak, write, and/or read?*
+Yes
 
-1
+No
 
-2
+Prefer not to respond
 
-3
+This question seeks to explore the personal linguistic limitations of lawyers in a multilingual environment. This may reinforce the perceived need for lawyers to acquire additional languages. 
 
-4
++ *13. Please indicate if a perceived language barrier has ever limited any of your attorney-client interactions with Saint Lucian Kwéyòl speakers.*
 
-5+
+Yes
 
-Choose not to respond
+No
 
-Once again, apart from modern English, lawyers can claim to be multilingual based on their foundational studies of Latin. Specifically requesting quantification the number of languages spoken improves question clarity. Since English and Latin are most likely part of a lawyer's education, and French and Spanish are commonly taught in schools, a Saint Lucian Lawyer may have a base of four languages. Therefore a lawyer speaking more than four languages may demonstrate high levels of multilingualism, and perhaps creole may be one of the additional languages being acknowledged.
+Prefer not to respond
 
+This question seeks to explore the boundaries of fluency that a lawyer may encounter when attempting to represent local Saint Lucian Kwéyòl (Antillean Creole/Patios) speaking clientele. This heritage language is the second most spoken language on the island. Reduced language barriers would allow lawyers to better relay facts, arguments, and sentiments of clients with the distinct Kwéyòl (Antillean Creole/Patios) speaking background. This may establish if there is or is not a need for lawyers to acquire the language. 
 
-+ *12. If you do speak more than one language, has this skill been crucial to representing/communicating with a client?*
++ *14. If you do speak more than one language, please indicate if your multilingual skill was ever crucial to representing a client.*
 
 Yes
 
@@ -358,26 +315,8 @@ Prefer not to respond
 
 This question seeks to understand the current and demand for multilingualism in lawyering, based on past demand. These details may reveal sufficiencies as well as insufficiencies concerning the adequate legal representation of  Saint Lucian clients. Saint Lucia is a multilingual country, and a lawyer with multiple languages may stand a better chance of not only attracting a diverse and numerous clientele base; reduced language barriers would allow lawyers to better relay facts, arguments, and sentiments of clients with diverse backgrounds.
 
-+ *13. Do you agree that lawyers that practice in Saint Lucia, should understand more than one language?*
 
-1= "Strongly Agree" to	5= "Strongly Disagree"
-
-Prefer not to respond
-
-This question seeks to understand the current general attitudes towards multilingualism in lawyering. As stated before, these details may reveal sufficiencies as well as insufficiencies concerning the adequate legal representation of  Saint Lucian clients. Saint Lucia is a multilingual country, and a lawyer with multiple languages may stand a better chance of not only attracting a diverse and numerous clientele base; reduced language barriers would allow lawyers to better relay facts, arguments, and sentiments of clients with diverse backgrounds.
-
-
-+ *14. Do you agree that lawyers that practice in Saint Lucia, should obtain a basic understanding of Kwéyòl (Antillean Creole/Patios)?*
-
-1= "Strongly Agree" to	5= "Strongly Disagree"
-
-Prefer not to respond
-
-
-This question seeks to understand the current specific attitudes towards multilingualism in Saint Lucia, and interacting local Kwéyòl (Antillean Creole/Patios) speaking clientele. This heritage language is the second most spoken language on the island. Reduced language barriers would allow lawyers to better relay facts, arguments, and sentiments of clients with the distinct Kwéyòl (Antillean Creole/Patios) speaking background.
-
-
-+ *15. Have you ever encountered language barriers with Saint Lucian Kwéyòl speakers?*
++ *15. Please indicate if your workplace offers any formal support to handle linguistic diversity in clients.*
  
 Yes
 
@@ -385,18 +324,11 @@ No
 
 Prefer not to respond
 
-This question seeks to explore the boundaries of fluency required to interact with and represent a Saint Lucian Kwéyòl speaker. This may establish if there is or is not a need for lawyers to acquire the language. 
+This question is simply to assess the resources available within this multilingual environment. If there is a substantial support system already in existence, this could also suggest that the industry has considered the connection of linguistics to the legal field. This question may be flawed since it could be one large firm, but not the entire industry, that has such an interest in linguistics. However, it could be argued that based on a favorable overall total percentage of participation, could still have a positive reflection on the industry.
 
 
-+ *16. Have you ever declined to represent a client or recommended a different lawyer to address a case due to perceived language barriers?*
 
-Yes
 
-No
-
-Prefer not to respond
-
-This question seeks to explore the personal linguistic limitations of lawyers in a multilingual environment. This may reinforce the perceived need for lawyers to acquire additional languages. 
 
 
 
