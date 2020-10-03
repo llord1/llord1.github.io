@@ -81,13 +81,14 @@ The five-tiered hierarchy of human needs are physiological, safety, love and bel
 
 Overtime various versions of this framework, bearing more than five tiers, were created. In an eight-tiered version, esteem needs are expanded and segmented out to form a  cognitive needs level (ranked above it) {% cite  maslow1969transcendence mcleod_2020 %}. Cognitive needs are related to knowledge and understanding, curiosity, exploration, need for meaning, and predictability. The *aesthetic* needs reside above this. These needs are an appreciation and search for beauty, balance, simplicity, and form, and among other matters. 
 
+
+![Maslow's hierarchy](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/mcleod3.PNG)
+
+
 Finally, *transcendence* needs, usurp self-actualization needs' top-tier position. Maslow was passionate about the topic of transcendence to the point that he created a work that explored the various meanings of the word, and how one may achieve each definition {% cite maslow1969transcendence %}. Transcendence needs can relate to a person motivated by values that transcend beyond the personal self; these may relate to service to others, the pursuit of science, and religious faith, among other matters {% cite maslow1969transcendence mcleod_2020 %}. 
 
 It encompasses transcending the ego, self, selfishness, ego-centering, and even mentions a "metahuman" or "B'human" classification. The latter is related to one becoming divine or godlike (to go beyond the merely human); this is where one can *"rise above dichotomized nationalism, patriotism, or ethnocentrism, in the sense of "them" against "us"* {% cite maslow1969transcendence %}. He explained that *"to be a full member of the human species does not mean repudiating the lower levels; it means rather including them in the hierarchical integration, e.g., cultural pluralism, enjoying the differences, enjoying different kinds of restaurants with different kinds of food, enjoying travel to other
 countries, enjoying the ethnological study of other cultures, etc."*
-
-
-![Maslow's hierarchy](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/mcleod3.PNG)
 
 Maslow's framework is not new, yet it continues to be employed to explain human motivation across different fields at micro and macro-levels. Notably, this structure has had educational applications; Maslow is said to have adopted a holistic approach to education and learning; that students' basic physiological needs, of food and rest, should be addressed before their cognitive needs {% cite maslow1981motivation maslow1964religions mcleod_2020 %}. In the medical field, researchers recently used this framework to understand adolescent depressive symptoms over time and to identify the factors contributing to student nurse success {% cite crandall2020maslow freitas2011maslow %}. 
 
@@ -97,12 +98,12 @@ Notably, Maslow's hierarchy has also been informally applied to the field of dat
 
 ![Rogati hierarchy](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/rogati.png)
 
- In 2018, Hugh Williams revisited this framework and began to consider the unique data science needs of individual companies; he incorporated the need to consider the needs of specialist companies and well as generalist companies{% cite williams_2018 %}.
+ In 2018, Hugh Williams revisited this framework and began to consider the unique data science needs of individual companies; he incorporated the need to consider the needs of specialist companies and well as generalist companies {% cite williams_2018 %}.
 
 ![Williams hierarchy](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/williams.png)
 
 
-#### Resurgence of Maslow's Hierarchy During the Pandemic
+#### Resurgence of Maslow's Hierarchy During the 2020 SARS-CoV-2 Pandemic
 
 Academics have been particularly keen to revisiting Maslow's hierarchy, during the pandemic. One academic strove to explore the needs of various persons while they remain in various states and stages of isolation through the lens of Maslow's hierarchy {% cite matias2020human %}. Here they paid particular attention to how homeostasis operates at all seven levels of Maslow's hierarchy and discussed the homeostasis system linking low self-esteem with negative affect, comfort eating, and overweightedness {% cite matias2020human %}. 
 
@@ -238,15 +239,15 @@ A person is motivated by values that transcend beyond the personal self (e.g., m
 
 ### The Goal
 
-This framework aims to provide strategic guidance through core data science concepts and skills and apply them to Digital Humanities and Biocultural Diversity matters. The interdisciplinary application of Maslow's hierarchy of needs will facilitate a user's exploration of data science and humanitarian works. This framework could be a proactive introductory learning aid (and therefore can be utilized in formal and informal educational settings) or a reactive learning aid in the form of an ethical review tool.
+This framework aims to provide strategic guidance with the interdisciplinary application of Maslow's hierarchy of needs to facilitate the exploration of data science and humanitarian works. It serves as a proactive introductory learning aid (and therefore can be utilized in formal and informal educational settings), or a reactive learning aid in the form of an ethical review tool. Moreover, the employment of the framework is scalable for both micro and macro-scale projects. 
 
-The employment of the framework is scalable for both micro and macro-scale projects. It would be capable of evaluating career paths, and also assess entire countries and regions; this would be an assessment of an entity's biocultural diversity rating (matters of environmental and cultural awareness). This framework also explores the practical, low-cost application of data science topics that may aid in humanitarian efforts. Ultimately, the structure would be simplified enough to inspire users of varying skill levels to make valuable contributions to society. 
+On a micro-scale, the framework would be capable of evaluating career paths, and also assess entire countries and regions; this would be an assessment of an entity's biocultural diversity rating (matters of environmental and cultural awareness). This framework also explores the practical, low-cost application of data science topics that may aid in humanitarian efforts. Ultimately, the structure would be simplified enough to inspire users of varying skill levels to make valuable contributions to society. 
+
+On a macro-scale, this framework could provide a review outline for country leaders seeking wholesome change and innovation. It can aid leaders in addressing the needs of their people, with the most effective tools and technology available. Governments can ensure that matters related to the environment, the arts, and public sentiment are not sidelined, when Maslow's hierarchy of needs is combined with data science's skills and technologies. Such careful consideration of the needs of the public will undoubtedly enhance efforts to improve a country's status (such as its happiness index).
 
 This structure serves as a foundation for forming ideas for positive change. With this proposed framework, the order in which one can pursue the topics is not as significant as the increased satisfaction the user will receive with the incremental completion of each area of knowledge. However, users that do complete tasks, for every level of the structure, are poised to provide meaningful data science contributions to the field and society at large. Ultimately, the user stands to attain an authentic sense of self-actualization. 
 
-This framework will provide a review outline for country leaders seeking wholesome change and innovation. It will aid leaders in addressing the needs of their people, with the most effective tools and technology available. Governments can ensure that matters related to the environment, the arts, and public sentiment are not sidelined, with the combination of Maslow's hierarchy of needs and data science skills and technologies. Such careful consideration of the needs of the public will undoubtedly enhance efforts to improve a country's status (such as its happiness index).
 
-*May need to condense this section a bit; seems a little repetitive*
 
 #### Project Specific Outputs:
 
