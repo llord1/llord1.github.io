@@ -79,7 +79,7 @@ The five-tiered hierarchy of human needs are physiological, safety, love and bel
 
 ![Maslow's hierarchy](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/mcleod2.PNG)
 
-Overtime various versions of this framework, bearing more than five tiers, were created. In an eight-tiered version, esteem needs are expanded and segmented out to form a  cognitive needs level (ranked above it) {% cite  maslow1969transcendence mcleod_2020 %}. Cognitive needs are related to knowledge and understanding, curiosity, exploration, need for meaning, and predictability. The *aesthetic* needs reside above this. These needs are an appreciation and search for beauty, balance, simplicity, and form, and among other matters. 
+Overtime versions of this framework, bearing more than five tiers, were created. In an eight-tiered version, esteem needs are expanded and segmented out to form a  cognitive needs level (ranked above it) {% cite  maslow1969transcendence mcleod_2020 %}. Cognitive needs are related to knowledge and understanding, curiosity, exploration, need for meaning, and predictability. The *aesthetic* needs reside above this. These needs are an appreciation and search for beauty, balance, simplicity, and form, and among other matters. 
 
 
 ![Maslow's hierarchy](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/mcleod3.PNG)
