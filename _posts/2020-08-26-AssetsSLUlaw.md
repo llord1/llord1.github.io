@@ -11,8 +11,7 @@ tags: [Assets]
 ### __*Safety and security needs*__ can be explored as topics related to __*Assets*__.
 
 
-[Quick visual presentation of this topic of Law and Linguistics]
-https://prezi.com/p/xvydxfo_48dd/?present=1
+[Quick visual presentation of this topic of Law and Linguistics](https://prezi.com/p/xvydxfo_48dd/?present=1)
 
 ### Introduction:
 
@@ -44,32 +43,6 @@ In recent history, one particularly notable work by Celia Brown-Blake, highlight
 Creole-speaking Caribbean stating that it may be a positive step, in a language-planning process that strived to "use the law as a tool to effect change in the language order of Caribbean Creole-speaking countries", but also warned that it may only provide limited success without the proper recognition and enforcement of proposed changes {% cite brown_legal_change2014expanding %}. Brown-Blake's work can serve as inspiration for creative problem-solving associated with linguistic barriers. 
 
 The Caribbean can serve as a rich multilingual setting in which one can explore the relationship between law and linguistics. The 2006 case for Gerald Joseph's criminal appeal, served to highlight the importance of proper linguistic consideration for clients that speak heritage languages {% cite ecsc_2015}. Joseph (Appellant), was a Saint Lucian Kwéyòl speaker that requested a criminal appeal on six substantial grounds (and also appealed against the sentence). 
-
-*Need to clean up*
-
-It was stated that Mr. Innocent (learned counsel for Joseph), suggested that his client was ill-eqh
- 
-
-Mr. Innocent submitted that although section 8(2)(d) of the Constitution permitted
-Joseph to defend himself, Joseph was obviously ill-equipped to conduct his own
-defence to the charge which is very serious and which carries a very severe
-sentence on conviction. He said that it would have been totally unrealistic to have
-expected Joseph, who was illiterate and conversant only in kwéyòl, to have
-appreciated the nuances of a criminal trial that involved issues such as
-identification, credibility, good character and recent complaint. He submitted,
-further, that it was too much to expect a defendant in such circumstances to be
-aware of his right to have his good character put in evidence; his right to challenge
-the evidence of identification on a voir dire or even to challenge evidence of an
-alleged confession or admission made by him. These circumstances, Mr.
-Innocent said, rendered Joseph incapable of putting forward an adequate defence.
-
- Mr. Innocent also noted that the learned trial judge attempted to assist Joseph
-during the course of the trial, but thought that the assistance which he afforded
-was insufficient. He insisted that, in these circumstances, the lack of legal
-representation infringed Joseph’s right to a fair trial guaranteed under section 8 of
-the Constitution. He referred to Hinds v Attorney General of Barbados and
-another3 and Frank Robinson v The Queen.4
-
 
 
 *Need to clarify this case, and then add examples of other cases related to language issues; Notably, keyword searches of words like "creole",  "kwéyòl", and "patios" within the Eastern Caribbean Supreme Court database revealed that cases concerning this language, often revolved around criminal law, family law, and land and property disputes and the confusion associated with its distribution. There even appear to be very interesting cases concerning litigation and discussion of libel shrowded with the veil of colloquial discussions in Saint Lucian Kwéyòl.*
@@ -139,7 +112,7 @@ An online survey was selected as the tool/instrument of data collection, to best
 Finally, the analysis will encompass initial exploratory factor analysis (EFA) and then evaluated with confirmatory factor analysis (CFA), with visualizations, and will include Chi-square tests of independence {% cite luk2013bilingualism suhr2006exploratory %}. Results will be run through both Python and R Studio; the best representations of the data will be selected. Additional analysis and tools may be applied where necessary.
 
 
- #### Survey Design: Questions
+#### Survey Design: Questions
 
 
 [See draft survey (with consent form) here](https://forms.gle/8yUuGYaCidMgbN5E8)
