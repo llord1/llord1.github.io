@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Assets: Assessing the link between law and linguistics"
-description: "Assessing the link between law and linguistics"
+title: "Assets: Assessing the link between law and linguistics - Analysis"
+description: "Assessing the link between law and linguistics - Analysis"
 tags: [Assets]
 ---
 {% include JB/setup %}
