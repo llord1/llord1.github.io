@@ -11,13 +11,22 @@ tags: [Assets]
 ### __*Safety and security needs*__ can be explored as topics related to __*Assets*__.
 
 
-[Quick visual presentation of this topic of Law and Linguistics](https://prezi.com/p/xvydxfo_48dd/?present=1)
 
 ### Introduction:
 
 #### Linguistics and Maslow's safety and security needs
 
-Due to the extended period of social disruption caused by the 2020 SARS-CoV-2 pandemic, many gained a newfound appreciation for Maslow's theory on a hierarchy of needs {% cite maslow_1943_2000 matias2020human wong2020healing casale2020interpersonally %}. Global citizens reflected on the loss of lives, the loss of a sense of justice, the loss of financial stability, the subsequent loss of housing stability, and an overall sense of the loss of social normalcy. Many are also concerned about the severity and frequency of natural disasters that were increasingly impacting all forms of life within our complex global socio-ecological environment. In a time of crisis, Maslow's theory aids in visualizing and prioritizing scarce resources according to one's needs.
+What is data science's role in actively improving society?
+Define data science, and it's role in social good.
+
+Data science is the tool with society employs to shed light on various points of mystery and confusion i
+it allows persons to change their perspectives based on uncertainty.
+
+In Mattmann's "vision for data science" he suggested that "for the specialism to emerge and grow, data scientists will have to overcome barriers that are common to multidisciplinary research" {% cite mattmann2013vision %}.
+
+
+
+Due to the extended period of social disruption caused by the 2020 SARS-CoV-2 pandemic, many gained a newfound appreciation for Maslow's theory on a hierarchy of needs {% cite maslow_1943_2000 matias2020human wong2020healing casale2020interpersonally %}. Global citizens reflected on the loss of lives, the loss of a sense of justice, the loss of financial stability, the subsequent loss of housing stability, and an overall sense of the loss of social normalcy. Many are also concerned about the severity and frequency of natural disasters that were increasingly impacting all forms of life within our complex global socio-ecological environment. In a time of crisis, Maslow's theory can aid in visualizing and prioritizing scarce resources according to one's needs, and data science can be used to explore, assess, and address those needs; data science can serve as a tool of establishing a degree of certainty, in uncertain times.
 
 Several careers in society can contribute to providing the general sense of safety and security that Maslow often discussed {% cite diener2011happiness %}. Notably, obvious, yet often overlooked are issues concerning human communication; miscommunication can mean the difference between life and death in some fields, particularly those of medical practitioners and members of the justice system. Therefore, thoughtful data collection and monitoring of these crucial services can improve the services provided to the public. 
 
@@ -109,8 +118,14 @@ This project aims to have as many lawyers participate as possible; therefore, de
 
 An online survey was selected as the tool/instrument of data collection, to best adhere to social distancing protocols of the pandemic. A draft survey has been completed utilizing Google forms since there is no financial backing required for its launch; SurveyMonkey is a well-known online survey system, however, with a Basic (free) plan one can *"collect unlimited responses for free, but view either 40 or 100 responses per survey (depending on when you created an account and your billing location). Any responses over your account’s response limit are hidden, and will be deleted 60 days after they’re received"* {% cite surveymonkey_2020 %}. Since responses are estimated to be between 64 and 500, SurveyMonkey may not be the most financially efficient tool.
 
-This survey does not currently offer any financial compensation to participants. The need for compensation of participants for surveys and questionnaires is still a highly disputed matter in research fields. It can be argued that despite increasing the rate of participation, compensating participants does not guarantee their attention to detail and honesty. On the other hand, some may argue that non-compensation decreases participation numbers, and may not guarantee attention to detail; however, there is a higher likelihood of honest answers as there is no material gain, but sheer interest. One's culture may also impact participation and the need for compensation. In Saint Lucia, compensation for participation in a project that benefits society does not appear to necessitate compensation. Moreover, since the survey stands to benefit their field, lawyers may be more inclined to answer honestly and paid attention to detail. The distribution timeline for the survey is expected to occur beginning in October, as it coincides with a national celebration of culture.
+This survey does not currently offer any financial compensation to participants. The need for compensation of participants for surveys and questionnaires is still a highly disputed matter in research fields. It can be argued that despite increasing the rate of participation, compensating participants does not guarantee their attention to detail and honesty. On the other hand, some may argue that non-compensation decreases participation numbers, and may not guarantee attention to detail; however, there is a higher likelihood of honest answers as motivation is fueled by sheer interest, and not clouded by monetary gain, but sheer interest. 
 
+One's culture may also impact survey participation and the need for compensation. Despite being a small island with a commensurate population, and newly independent (as of 1979), the inhabitants of Saint Lucia appear to have a heightened sense of community and social progress. Participation rates in cultural and patriotic events are high (and a main source of tourism) {% cite govt.lc_2013 %}, natives appear to be highly aware of global affairs and capable of discussing these in multiple languages { % cite SLUstreetvibes2020 %}, and are highly aware of social issues and details of local politics {% cite SLUstreetvi2020 SLUstreetvib2020 SLUstreetvibe2020 %}; overall, inhabitants appear to be highly participative in sharing their opinions once it has been solicited. 
+
+
+A representative of  stated that the data in the country's 2016 Labour Force Survey was "not disaggregated in such a way to get a count of all lawyers" {% cite govtSLU_Labour_2019 %}. 
+
+Furthermore, as noted before,The Central Statistical Office of SLU, acknowledges that their collection is limited and rarely done, despite the friendliness and openness of the island's inhabitants; the department is still developing resources and acquiring personnel and therefore, limitations to research are likely to be linked to the limited resources of the data gatherers, rather with the data givers. Moreover, since the survey stands to benefit their field, lawyers may be more inclined to answer honestly and paid attention to detail. Therefore, while compensation may become a necessary consideration for future surveys, voluntary participation in this socially beneficial project does not appear to necessitate compensation.
 
 Finally, the analysis will encompass initial exploratory factor analysis (EFA) and then evaluated with confirmatory factor analysis (CFA), with visualizations, and will include Chi-square tests of independence {% cite luk2013bilingualism suhr2006exploratory %}. Results will be run through both Python and R Studio; the best representations of the data will be selected. Additional analysis and tools may be applied where necessary.
 
