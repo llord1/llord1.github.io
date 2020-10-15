@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: "Literature Review: Draft" 
@@ -115,7 +114,7 @@ Additionally, this structure has also been recently used to better explore the n
 
 #### Flaws associated with Maslow's framework
 
-Maslow's framework, however, is not without critique. Despite its ubiquity of application, and being repeatedly proven to evoke an innate recognition of human nature in oneself and others, some contest the methodology for his studies. Some stated that it was problematic that Maslow was said to have been very selective with the individuals chosen for his research; he selected pursued highly productive and accomplished individuals, his rankings were problematic when attempting to address gender and societal differences {% cite abulof2017introduction horne_2019 %}. 
+Maslow's framework, however, is not without critique. Despite its ubiquity of application, and being repeatedly proven to evoke an innate recognition of human nature in oneself and others, some contest the methodology for his studies. Some stated that it was problematic that Maslow was said to have been very selective with the individuals chosen for his research; he selectively pursued highly productive and accomplished individuals, his rankings were problematic when attempting to address gender and societal differences {% cite abulof2017introduction horne_2019 %}. 
 
 One work even focused on the problematic nature of attempting to apply Maslow's ideas concerning self-actualization in educational settings {% cite frame1996maslow %}.  It suggested that since so few among the broad population meet Maslow's rigid criteria for self-actualization, an educational system intended to deliver such personalities would flounder to achieve satisfactory outcomes. The flaw in the application here would be the setting of rigid enforcement standards to produce satisfactory outcomes rather than using it to stoke curiosity and creativity; this application would be forcing goal achievement, regardless of effectively activating personal motivation, or considering students' limitations (be it environmental, physical, or mental). 
 
