@@ -39,3 +39,6 @@ This form assigns persons to fingers on one's hand. This method is reminiscent o
  It has recently been suggested this hand mnemonic device, can be adapted to include all the verb conjugation details. The vosotros form can be acknowledged as special rather than being ignored; this uniqueness can be highlighted through its association with the ring finger.
 
 ![Hellloererererer](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/palm.PNG)
+
+
+[Back to: Cognitive needs: Analysis](https://llord1.github.io/2020/06/08/Analysis)
