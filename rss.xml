@@ -5,8 +5,8 @@
         <description>Laurel's Works in Progress - Laurel Lord</description>
         <link>http://llord1.github.io</link>
         <atom:link href="http://llord1.github.io/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 18 Oct 2020 22:55:15 -0400</lastBuildDate>
-        <pubDate>Sun, 18 Oct 2020 22:55:15 -0400</pubDate>
+        <lastBuildDate>Mon, 19 Oct 2020 23:29:57 -0400</lastBuildDate>
+        <pubDate>Mon, 19 Oct 2020 23:29:57 -0400</pubDate>
         <ttl>60</ttl>
 
 
@@ -1224,8 +1224,8 @@ As noted, our main programming constraint is the fact that our API is limited to
 &lt;p&gt;Please take a look at &lt;a href=&quot;&quot;&gt;&lt;/a&gt;
 or jump right into &lt;a href=&quot;&quot;&gt;Usage&lt;/a&gt; if you’d like.&lt;/p&gt;
 </description>
-                <link>http://llord1.github.io/lessons/2011/12/29/jekyll-introductionCopy</link>
-                <guid>http://llord1.github.io/lessons/2011/12/29/jekyll-introductionCopy</guid>
+                <link>http://llord1.github.io/papers/2011/12/29/jekyll-introductionCopy</link>
+                <guid>http://llord1.github.io/papers/2011/12/29/jekyll-introductionCopy</guid>
                 <pubDate>Thu, 29 Dec 2011 00:00:00 -0500</pubDate>
         </item>
 

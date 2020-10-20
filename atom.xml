@@ -4,7 +4,7 @@
  <title>Laurel's Works in Progress</title>
  <link href="http://llord1.github.io/atom.xml" rel="self"/>
  <link href="http://llord1.github.io"/>
- <updated>2020-10-18T22:55:15-04:00</updated>
+ <updated>2020-10-19T23:29:57-04:00</updated>
  <id>http://llord1.github.io</id>
  <author>
    <name>Laurel Lord</name>
@@ -810,9 +810,9 @@ and making homophonous lexemes two or more separate entries; polysemous terms ca
  
  <entry>
    <title>Jekyll Introductioncopy</title>
-   <link href="http://llord1.github.io/lessons/2011/12/29/jekyll-introductionCopy"/>
+   <link href="http://llord1.github.io/papers/2011/12/29/jekyll-introductionCopy"/>
    <updated>2011-12-29T00:00:00-05:00</updated>
-   <id>http://llord1.github.io/lessons/2011/12/29/jekyll-introductionCopy</id>
+   <id>http://llord1.github.io/papers/2011/12/29/jekyll-introductionCopy</id>
    <content type="html">
 &lt;p&gt;This Jekyll introduction will outline specifically  what Jekyll is and why you would want to use it.
 Directly following the intro we’ll learn exactly &lt;em&gt;how&lt;/em&gt; Jekyll does what it does.&lt;/p&gt;
