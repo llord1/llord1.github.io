@@ -34,25 +34,23 @@ Dr. Rand Ford: Professor and Program Director of Data Analytics at HU
 
 **Committee Members:**  
 
-- **HU Members:**
-
-    - Dr. Sa Liu: App developer and Assistant Professor at HU
 
 - **External Members:** 
 
-    - Dr. Laurel Braden Symes: Avian expert and works with bioacoustic data collection and analysis.
-
     - Dr. Melissa Irvine: Ph.D. Linguist;  disseration on Saint Lucian Creoles.
+
+    - Dr. Luisa Maffi: Biocultural diversity expert and co-founder and director of Terralingua.
 
     - Dr. David Frank: Linguist at SIL, Creole expert and contributing author of one of Saint Lucia's creole dictionaries.
 
     - Dr. Teresa Lynn: Linguist specializing in endangered languages and their presence in social media like Twitter.
-    - Dr. Luisa Maffi: Biocultural diversity expert and co-founder and director of Terralingua.
 
     - Dr. Bruno Gonçalves: Vice President at JPMorgan Chase & Co Data Science and Finance Division. Linguist specializing in multiple languages and their presence in social media like Twitter (currently recreating a few of his papers).
 
     - Dr. James W. Pennebaker: Linguistic Inquiry and Word Count (LIWC) co-creator and social psychologist (need to prepare formal meeting request after LIWC papers are reviewed by Dr. Ford).
 
-## Conferences:
-- The 2020 Women in Statistics and Data Science (WSDS) conference, slated for September 30–October 2
-    - Role: Attendee (no presentation)
+    - Dr. Laurel Braden Symes: Avian expert and works with bioacoustic data collection and analysis.
+
+- **HU Members:**
+
+    - Dr. Sa Liu: App developer and Assistant Professor at HU
