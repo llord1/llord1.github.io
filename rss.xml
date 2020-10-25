@@ -5,8 +5,8 @@
         <description>Laurel's Works in Progress - Laurel Lord</description>
         <link>http://llord1.github.io</link>
         <atom:link href="http://llord1.github.io/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 24 Oct 2020 08:33:26 -0400</lastBuildDate>
-        <pubDate>Sat, 24 Oct 2020 08:33:26 -0400</pubDate>
+        <lastBuildDate>Sun, 25 Oct 2020 04:10:02 -0400</lastBuildDate>
+        <pubDate>Sun, 25 Oct 2020 04:10:02 -0400</pubDate>
         <ttl>60</ttl>
 
 
@@ -832,57 +832,6 @@ and making homophonous lexemes two or more separate entries; polysemous terms ca
                 <link>http://llord1.github.io/2020/02/08/Aesthetic</link>
                 <guid>http://llord1.github.io/2020/02/08/Aesthetic</guid>
                 <pubDate>Sat, 08 Feb 2020 00:00:00 -0500</pubDate>
-        </item>
-
-        <item>
-                <title>Assets: Assessing the link between law and linguistics - Analysis</title>
-                <description>
-&lt;h3 id=&quot;safety-and-security-needs-can-be-explored-as-topics-related-to-assets&quot;&gt;&lt;strong&gt;&lt;em&gt;Safety and security needs&lt;/em&gt;&lt;/strong&gt; can be explored as topics related to &lt;strong&gt;&lt;em&gt;Assets&lt;/em&gt;&lt;/strong&gt;.&lt;/h3&gt;
-
-&lt;h3 id=&quot;introduction&quot;&gt;Introduction:&lt;/h3&gt;
-
-&lt;p&gt;In a time of crisis, such as the 2020 SARS-CoV-2 pandemic, Maslow’s theory of needs aids in visualizing and prioritizing scarce resources based on an individual’s needs &lt;a class=&quot;citation&quot; href=&quot;#maslow_1943_2000&quot;&gt;(Maslow, 1943; Mcleod, 2020; Matias et al., 2020; Casale &amp;amp; Flett, 2020; Wong et al., 2020)&lt;/a&gt;. Often, obtaining our needs is intrinsically linked to the ease with which we are able to communicate - our ability to understand and to be understood. To effectively facilitate the communication of various societal needs, data science can be employed as a means of monitoring and maintaining the standards of numerous fields through the careful study of an environment’s linguistics.&lt;/p&gt;
-
-&lt;p&gt;For example, our sense of safety and security can be linked to the ease with which we can understand the medical advice being relayed to us by medical professionals or their ability to understand the symptoms we describe. As recently as 2019, Sweden conducted a national study on health care professionals’ communications through interpreters; an investigation occurred after noting that many parents utilizing neonatal care were foreign-born and unable to effectively communicate with the healthcare professionals in the local language, &lt;a class=&quot;citation&quot; href=&quot;#patriksson2019health&quot;&gt;(Patriksson et al., 2019)&lt;/a&gt;.  In 2013, linguistic one work highlighted communications issues between physicians and Spanish-speaking Latin American women with pelvic floor disorders &lt;a class=&quot;citation&quot; href=&quot;#sevilla2013communication&quot;&gt;(Sevilla et al., 2013)&lt;/a&gt;. This study highlighted that apart from patients’ lack of understanding concerning the disease, there was a lack of Spanish proficiency among the participating physicians. Even in 2009, there was a study done on competent peer support intervention for Spanish-speaking Latinas with breast cancer &lt;a class=&quot;citation&quot; href=&quot;#napoles2009developing&quot;&gt;(Nápoles-Springer et al., 2009)&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Notably, one of the areas most closely associated with ensuring societal safety and security would be a country’s legal system. This system encompasses police officers and high courts, however, the position of utmost importance in navigating the legal system on an individual’s behalf - one’s voice in the court - would be their lawyer. Therefore, the effectiveness of communication between lawyers and the client can be fundamentally linked to that client’s freedom. Data science can therefore be used as a means of monitoring and maintaining justice through the exploration of legal data; trends may be uncovered on the probability of innocent or guilty verdicts, given the lawyer’s capacity to communicate in the client’s dominant language (mother tongue).&lt;/p&gt;
-
-&lt;p&gt;For example, the Caribbean can serve as a rich multilingual setting in which one can explore the relationship between law and linguistics. The 2006 case for Gerald Joseph’s criminal appeal, served to highlight the importance of proper linguistic consideration for clients that speak heritage languages (missing reference), do these cases occur most often require Family law, Land law, Property law, Environmental law, or perhaps Employment law, Human rights law, and even Criminal law. Based on the verdict of cases, it may also be possible to predict the likelihood of one winning a case where one’s language limitations are part of their legal defense. Where possible, additional demographic data may be highlighted to provide additional parameters for the calculation of the likelihood of success or failure.&lt;/p&gt;
-
-&lt;p&gt;Considerations may need to be made as to the setting of the cases. Should the case be considered a success or a failure if the defendant is the creole speaker? What happens if the plaintiff is the speaker and wins? What happens if the plaintiff is the speaker and loses? What happens when both are creole speakers? Were court-appointed interpreters used?&lt;/p&gt;
-
-&lt;p&gt;Additional complications may include the fact that there are various types of creole in the Caribbean. Some are French-based like Haitian Creole and Antillean Kwéyòl (Saint Lucian and Dominican). Others may be English-based; this may include Jamaican and Barbadian (but may also include a Saint Lucian variant &lt;a class=&quot;citation&quot; href=&quot;#irvine2020st&quot;&gt;(Irvine, 2020; Hilaire, 2008; St-Hilaire, 2011)&lt;/a&gt;. Additionally, Papiamento or Papiamentu, a Portuguese-based creole language, is also present in the Caribbean; however, it is mostly restricted to the Dutch Caribbean/ ABC islands, having official status in Aruba and Curaçao, and is a recognized language in the Dutch public bodies of Bonaire, Sint-Eustatius and Saba).&lt;/p&gt;
-
-&lt;p&gt;This analysis will begin with cases in the Caribbean region (as this is a highly multilingual setting) from the database of www.eccourts.org; if the data is insufficient parameters will be widened.&lt;/p&gt;
-
-&lt;p&gt;Will need to settle on a model once sufficient data has been identified.&lt;/p&gt;
-
-&lt;p&gt;After testing the necessary preliminary analysis is conducted, documents will be developed, finalized, and shopped around to the various related journals.&lt;/p&gt;
-
-&lt;p&gt;This document may be paired with the industry multilinguistic competency survey of Saint Lucian lawyers.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://llord1.github.io/2020/08/26/AssetsSLUlaw&quot;&gt;Survey discussion&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;references&quot;&gt;References:&lt;/h3&gt;
-
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;maslow_1943_2000&quot;&gt;Maslow, A. H. (1943). Theory of Human Motivation : Psychological Review. In &lt;i&gt;Classics in the History of Psychology: A Theory of Human Motivation&lt;/i&gt;. Christopher D. Green of York University, Toronto, Ontario . https://psychclassics.yorku.ca/Maslow/motivation.htm&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span id=&quot;mcleod_2020&quot;&gt;Mcleod, S. (2020). Maslow’s Hierarchy of Needs. In &lt;i&gt;Simply Psychology&lt;/i&gt;. Simply Psychology. https://www.simplypsychology.org/maslow.html#needs7&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span id=&quot;matias2020human&quot;&gt;Matias, T., Dominski, F. H., &amp;amp; Marks, D. F. (2020). &lt;i&gt;Human needs in COVID-19 isolation&lt;/i&gt;. SAGE Publications Sage UK: London, England. https://journals.sagepub.com/doi/full/10.1177/1359105320925149&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span id=&quot;casale2020interpersonally&quot;&gt;Casale, S., &amp;amp; Flett, G. L. (2020). Interpersonally-based fears during the COVID-19 pandemic: Reflections on the fear of missing out and the fear of not mattering constructs. &lt;i&gt;Clinical Neuropsychiatry&lt;/i&gt;, &lt;i&gt;17&lt;/i&gt;(2), 88–93. https://doi.org/10.36131/CN20200211&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span id=&quot;wong2020healing&quot;&gt;Wong, A. H., Pacella-LaBarbara, M. L., Ray, J. M., Ranney, M. L., &amp;amp; Chang, B. P. (2020). Healing the Healer: Protecting Emergency Health Care Workers’ Mental Health During COVID-19. &lt;i&gt;Annals of Emergency Medicine&lt;/i&gt;. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7196406/&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span id=&quot;patriksson2019health&quot;&gt;Patriksson, K., Wigert, H., Berg, M., &amp;amp; Nilsson, S. (2019). Health care professional’s communication through an interpreter where language barriers exist in neonatal care: a national study. &lt;i&gt;BMC Health Services Research&lt;/i&gt;, &lt;i&gt;19&lt;/i&gt;(1), 586. https://doi.org/10.1186/s12913-019-4428-z&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span id=&quot;sevilla2013communication&quot;&gt;Sevilla, C., Wieslander, C. K., Alas, A. N., Dunivan, G. C., Khan, A. A., Maliski, S. L., Rogers, R. G., &amp;amp; Anger, J. T. (2013). Communication between physicians and Spanish-speaking Latin American women with pelvic floor disorders: a cycle of misunderstanding? &lt;i&gt;Female Pelvic Medicine &amp;amp; Reconstructive Surgery&lt;/i&gt;, &lt;i&gt;19&lt;/i&gt;(2), 90.&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span id=&quot;napoles2009developing&quot;&gt;Nápoles-Springer, A. M., Ortı́z Carmen, O’Brien, H., &amp;amp; Dı́az-Méndez Marynieves. (2009). Developing a culturally competent peer support intervention for Spanish-speaking Latinas with breast cancer. &lt;i&gt;Journal of Immigrant and Minority Health&lt;/i&gt;, &lt;i&gt;11&lt;/i&gt;(4), 268. https://doi.org/https://doi.org/10.1007/s10903-008-9128-4&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span id=&quot;irvine2020st&quot;&gt;Irvine, M. (2020). St. Lucia Creole English and Dominica Creole English. &lt;i&gt;World Englishes&lt;/i&gt;. https://doi.org/0.1111/weng.12519&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span id=&quot;hilaire2008postcolonialism&quot;&gt;Hilaire, A. S. (2008). Postcolonialism, identity, and the French language in St. Lucia. &lt;i&gt;New West Indian Guide/Nieuwe West-Indische Gids&lt;/i&gt;, &lt;i&gt;81&lt;/i&gt;(1-2), 55–77.&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span id=&quot;hilaire2011kweyol&quot;&gt;St-Hilaire, A. (2011). &lt;i&gt;Kwéyòl in postcolonial Saint Lucia: Globalization, language planning, and national development&lt;/i&gt; (Vol. 40). John Benjamins Publishing.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://llord1.github.io/2020/07/08/Assets&quot;&gt;Back to: Safety and security needs: Assets&lt;/a&gt;&lt;/p&gt;
-
-</description>
-                <link>http://llord1.github.io/2011/12/29/law_linguistics</link>
-                <guid>http://llord1.github.io/2011/12/29/law_linguistics</guid>
-                <pubDate>Thu, 29 Dec 2011 00:00:00 -0500</pubDate>
         </item>
 
         <item>
