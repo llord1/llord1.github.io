@@ -41,7 +41,9 @@ After testing the necessary preliminary analysis is conducted, documents will be
 
 This document may be paired with the industry multilinguistic competency survey of Saint Lucian lawyers.
 
-[Survey discussion](https://llord1.github.io/2020/08/26/AssetsSLUlaw)
+[Survey discussion](https://llord1.github.io/2020/08/26/AssetsSLUlawsurvey)
+
+
 
 
 
