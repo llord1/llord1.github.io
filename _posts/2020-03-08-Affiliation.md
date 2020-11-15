@@ -2,6 +2,7 @@
 layout: post
 title: "Love and belonging needs can be explored as topics related to Affiliation"
 description: "Love and belonging needs: Affiliation"
+tags: [Affiliation]
 ---
 
 ## Affiliation through Language: 
