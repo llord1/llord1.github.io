@@ -1,7 +1,7 @@
 ---
 layout: post
 category : Papers
-title: "Data Science: Musings"
+title: "Data Science: Discussions"
 description: "Data Science: Musings"
 tags: [Assets]
 ---
