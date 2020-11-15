@@ -1,6 +1,5 @@
 ---
-layout: post
-category : Papers
+layout: page
 title: "Data Science: Musings"
 description: "Data Science: Musings"
 tags: [Assets]
@@ -8,12 +7,12 @@ tags: [Assets]
 {% include JB/setup %}
 
 
-## __Musings on Capitonyms__
+### __Musings on Capitonyms__
 
 Recently, I have been feeling a bit more confident in my data science field knowledge, as I have been able to pick up on applications of field concepts in the tools that I and other items in my immediate environment. I now look at Grammarly and wonder about the underlying tools and infrastructure. I think about Noam Chomsky's ideas on the "autonomy of syntax", where syntax and grammar depict information that is independent of the meaning and semantics of words,  and how that may impact autocorrection here. It seems to have some sort of an interactive spelling correction, with an interesting combination of background lemmatization, tokenization, and PoS tagging; Grammarly probably has some "named entity recognition", with "sentence boundary detection", and a "Word Sense Disambiguation" feature using some kind of Lesk algorithm and snowball stemmer and (like those present in Python's NLTK). Concepts like the editing of stopwords are not applied here, and it is not yet capable of properly handling corrections for various languages.
 
 
-### Te quiero/ Yo te quiero:
+#### Te quiero/ Yo te quiero:
 
 I also noticed that some phrases do not trigger error alerts in Grammarly. It appears that it does allow for Spanish phrases to be addressed as correct or incorrect, on an assumingly English platform. Sometimes it flags a Spanish word as incorrect simply because the word is not capitalized. For example, one can look at the Spanish phrase 'te quiero', which is the informal, way of saying 'I love you' (when compared to the more romantic phrase 'te amo'). Grammarly currently suggests that one' capitalizes only word quiero, to make the phrase acceptable/ remove the grammar alert ('te Quiero'). 
 
@@ -25,7 +24,7 @@ Interestingly, GoogleTranslate and Python's Textblob library may also be a bit f
 
 This translation issue might also be due to the distinction between direct and indirect objects is not quite the same in Spanish, as it is in English; and thus the pronouns that represent them are sometimes called accusative and dative pronouns, respectively. Or it could be that the verb, Querer,  is considered to be a transitive verb (one that needs to have a direct object) and, therefore its usage is a bit more complex, thus difficult to program? Anyway, since the language is so temperamental does that mean that larger training datasets are needed in order to detect the nuance of the appropriate use or translation, or is this something a language package update/ new package could address?
 
-### Current example of machine translation issues in action:
+#### Current example of machine translation issues in action:
 
 Moreover, in the last week, the singer Jennifer Lopez had a controversial Spanish line in her latest song that caused an interesting look into the NLP capitonym challenges. She called herself "Tu negrita del Bronx". Negrita as you can probably guess can imply that something is dark, and "ita" is usually added to the end of something to indicate a term of endearment, infantilizing, or insulting to a dark-skinned person. People were unsure of what she meant by its use since she is clearly not dark in skin tone, but she tried to explain that in some parts of the Spanish world, calling someone dark-skinned is universal- basically, saying anyone who is not white is dark, and they do uplift each other for this quality. So confused fans went to Google for a literal translation, only to encounter further confusion; if you capitalized Bronx, it would display the negative version (your n-word from the Bronx), and if you did not capitalize it would have translated to the milder version ( "Your black girl from the bronx").  Textblob also has the same translation result for both scenarios.
 
