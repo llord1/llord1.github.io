@@ -4,7 +4,7 @@
  <title>Laurel's Works in Progress</title>
  <link href="http://llord1.github.io/atom.xml" rel="self"/>
  <link href="http://llord1.github.io"/>
- <updated>2020-11-14T20:03:08-05:00</updated>
+ <updated>2020-11-14T20:55:37-05:00</updated>
  <id>http://llord1.github.io</id>
  <author>
    <name>Laurel Lord</name>
@@ -13,49 +13,66 @@
 
  
  <entry>
-   <title>Current tasks</title>
-   <link href="http://llord1.github.io/2020/11/14/currenttasks"/>
+   <title>Current Tasks</title>
+   <link href="http://llord1.github.io/2020/11/14/CurrentTasks"/>
    <updated>2020-11-14T00:00:00-05:00</updated>
-   <id>http://llord1.github.io/2020/11/14/currenttasks</id>
+   <id>http://llord1.github.io/2020/11/14/CurrentTasks</id>
    <content type="html">
-&lt;p&gt;Current tasks:&lt;/p&gt;
+&lt;h4 id=&quot;current-tasks&quot;&gt;Current tasks:&lt;/h4&gt;
 
-&lt;p&gt;Note the differences between linguistics, computational linguistics, digital humanities, and data science.&lt;/p&gt;
-
-&lt;p&gt;Look into recommended NLP textbooks&lt;/p&gt;
-
-&lt;p&gt;Review more dissertations on NLP&lt;/p&gt;
-
-&lt;p&gt;Review more publications related to NLP:&lt;/p&gt;
-
-&lt;p&gt;Explore well-known and recent NLP articles, and read the articles recommended by John&lt;/p&gt;
-
-&lt;p&gt;Summarize NLP articles for core concepts and models&lt;/p&gt;
-
-&lt;p&gt;Update conference/publication plan (data science and linguistics conferences).&lt;/p&gt;
-
-&lt;p&gt;NLP video by Alice Zhao&lt;/p&gt;
-
-&lt;p&gt;Review Sentiment Analysis videos by Pennebaker&lt;/p&gt;
-
-&lt;p&gt;Compare to other existing sentiment analysis software/ tools&lt;/p&gt;
-
-&lt;p&gt;Read up on graph theory and sentiment analysis&lt;/p&gt;
-
-&lt;p&gt;Find additional committee members related to linguistics/NLP&lt;/p&gt;
-
-&lt;p&gt;Speak to these potential members to at least get feedback on progress&lt;/p&gt;
-
-&lt;p&gt;Have at least a basic model, some committee members, and by end of the semester.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Note the differences between linguistics, computational linguistics, digital humanities, and data science.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Look into recommended NLP textbooks&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Review more dissertations on NLP&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Review more publications related to NLP:&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Explore well-known and recent NLP articles, and read the articles recommended by John&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Summarize NLP articles for core concepts and models&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Update conference/publication plan (data science and linguistics conferences).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;NLP video by Alice Zhao&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Review Sentiment Analysis videos by Pennebaker&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Compare to other existing sentiment analysis software/ tools&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Read up on graph theory and sentiment analysis&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Find additional committee members related to linguistics/NLP&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Speak to these potential members to at least get feedback on progress&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Have at least a basic model and some committee members by end of the semester.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
 </content>
  </entry>
  
  <entry>
    <title>Current Outline</title>
-   <link href="http://llord1.github.io/2020/11/14/currentoutline"/>
+   <link href="http://llord1.github.io/2020/11/14/CurrentOutline"/>
    <updated>2020-11-14T00:00:00-05:00</updated>
-   <id>http://llord1.github.io/2020/11/14/currentoutline</id>
+   <id>http://llord1.github.io/2020/11/14/CurrentOutline</id>
    <content type="html">
 &lt;p&gt;Current tasks and paper outline:&lt;/p&gt;
 
@@ -63,67 +80,90 @@
 
 &lt;h3 id=&quot;chapter-1&quot;&gt;Chapter 1:&lt;/h3&gt;
 
-&lt;p&gt;Establishing concepts/themes:&lt;/p&gt;
+&lt;h4 id=&quot;establishing-conceptsthemes&quot;&gt;Establishing concepts/themes:&lt;/h4&gt;
 
 &lt;p&gt;Includes a critique of data science pedagogy (revamped creative and ethical data science research topic-generation); differentiating between linguistics and computational linguistics, digital humanities, and biocultural diversity, and NLP discussion.&lt;/p&gt;
 
 &lt;h3 id=&quot;chapter-2&quot;&gt;Chapter 2:&lt;/h3&gt;
 
-&lt;p&gt;Goal: Improved Cross-Lingual Sentiment Analysis Models&lt;/p&gt;
+&lt;h4 id=&quot;goal-improved-cross-lingual-sentiment-analysis-models&quot;&gt;Goal: Improved Cross-Lingual Sentiment Analysis Models&lt;/h4&gt;
 
-&lt;p&gt;*Describe the basics of sentiment analysis along with a brief summary of related work.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Describe the basics of sentiment analysis along with a brief summary of related work.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Introduce possible scenarios for cross-lingual sentiment analysis, argues the use of machine translation, and introduces an example target language - Saint Lucian creole&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;*Introduce possible scenarios for cross-lingual sentiment analysis, argues the use of machine translation, and introduces an example target language - Saint Lucian creole&lt;/p&gt;
-
-&lt;p&gt;Model design and application:&lt;/p&gt;
+&lt;h4 id=&quot;model-design-and-application&quot;&gt;Model design and application:&lt;/h4&gt;
 
 &lt;p&gt;Cross-Lingual Sentiment Analysis (using not bi-grams, but phrase-grams with LIWC in Machine Translation); NLP model proposal for Creole to English, English to Creole Rule-Based Machine Translation System.&lt;/p&gt;
 
-&lt;p&gt;Model application:&lt;/p&gt;
-
-&lt;p&gt;Assessing accuracy via datasets:&lt;/p&gt;
-
-&lt;p&gt;*Provide details of data sets and tools used in experiments.
--Using established datasets (sources of Creole literature, and sentences from Creole dictionary (labeled))&lt;/p&gt;
-
-&lt;p&gt;*Consider an experiment using corpus-based cross-lingual projections.&lt;/p&gt;
-
-&lt;p&gt;*Study cross-lingual polarity detection where (labeled or unlabeled) data in the target language is available.&lt;/p&gt;
-
-&lt;p&gt;*Compare the methods for translation of sentiment lexicons.&lt;/p&gt;
-
-&lt;p&gt;-Use POS tags from the Creole dictionary&lt;/p&gt;
-
-&lt;p&gt;-Attempt Cross-Lingual Sentiment labeling with LIWC&lt;/p&gt;
-
-&lt;p&gt;-Evaluate special rules of creole for a Rule-Based Machine Translation; is there anything unique to creole&lt;/p&gt;
+&lt;h4 id=&quot;assessing-accuracy-via-datasets&quot;&gt;Assessing accuracy via datasets:&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Provide a summary of all experiment results, remarks,
-contributions and directions for further research.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Provide details of data sets and tools used in experiments.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Using established datasets (sources of Creole literature, and sentences from Creole dictionary (labeled)).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Consider an experiment using corpus-based cross-lingual projections.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Study cross-lingual polarity detection where (labeled or unlabeled) data in the target language is available.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Compare the methods for translation of sentiment lexicons.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Use POS tags from the Creole dictionary&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Attempt Cross-Lingual Sentiment labeling with LIWC&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Evaluate special rules of creole for a Rule-Based Machine Translation; is there anything unique to creole&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Provide a summary of all experiment results, remarks, contributions and directions for further research.&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;chapter-3&quot;&gt;Chapter 3:&lt;/h3&gt;
 
-&lt;p&gt;Related prediction models:&lt;/p&gt;
+&lt;h4 id=&quot;related-prediction-models&quot;&gt;Related prediction models:&lt;/h4&gt;
 
 &lt;p&gt;Language and law (predict the likelihood of success in creole cases, the typical legal language/phrases in creole cases).&lt;/p&gt;
 
-&lt;p&gt;Additional models:&lt;/p&gt;
+&lt;h4 id=&quot;additional-models&quot;&gt;Additional models:&lt;/h4&gt;
 
-&lt;p&gt;*Kmeans clustering for Creole language origins; French, African, Spanish, Portuguese, English, and Tamil. Many-to-one relationship?&lt;/p&gt;
-
-&lt;p&gt;*Consideration of Cross-Lingual Sentiment Analysis Models using graph theory.&lt;/p&gt;
-
-&lt;p&gt;*Test text generation: Machine Learning using transformers (not LSTM); GPT2 (using Google Collab)&lt;/p&gt;
-
-&lt;p&gt;*Attempting to use the phrase-grams to aid with creating additional Creole literature on various topics; attempting to translate an English legal document into Creole (check if accuracy is present; if the text remains neutral (as the law is believed to be so, or if there are additional emotions detected)and see how successful additional legal document generation could be.&lt;/p&gt;
-
-&lt;p&gt;*Additional paper on standard creative literature (stories and fables).  Thinking and creating in English first, then translating to Creole; or thinking and creating directly in Creole, then translating to English.&lt;/p&gt;
-
-&lt;p&gt;*Some calypso songs have parts that are purely creole, however, these are designed to have hidden meaning using plain phrases. It will be interesting to see if the AI can detect the subtlety.&lt;/p&gt;
-
-&lt;p&gt;*Current questions: Is this Ph.D. level work yet? How can I improve what I have/ check what is missing? Are these the only areas I need to be aware of when addressing a lost in translation issue?&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Kmeans clustering for Creole language origins; French, African, Spanish, Portuguese, English, and Tamil. Many-to-one relationship?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Consideration of Cross-Lingual Sentiment Analysis Models using graph theory.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Test text generation: Machine Learning using transformers (not LSTM); GPT2 (using Google Collab)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Attempting to use the phrase-grams to aid with creating additional Creole literature on various topics; attempting to translate an English legal document into Creole (check if accuracy is present; if the text remains neutral (as the law is believed to be so, or if there are additional emotions detected)and see how successful additional legal document generation could be.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Additional paper on standard creative literature (stories and fables).  Thinking and creating in English first, then translating to Creole; or thinking and creating directly in Creole, then translating to English.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Some calypso songs have parts that are purely creole, however, these are designed to have hidden meaning using plain phrases. It will be interesting to see if the AI can detect the subtlety.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Current questions: Is this Ph.D. level work yet? How can I improve what I have/ check what is missing? Are these the only areas I need to be aware of when addressing a lost in translation issue?&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
 </content>
  </entry>
