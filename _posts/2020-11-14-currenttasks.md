@@ -8,6 +8,7 @@ tags: [Affiliation]
 
 #### Current tasks:
 
+
 * Note the differences between linguistics, computational linguistics, digital humanities, and data science.
 
 * Look into recommended NLP textbooks

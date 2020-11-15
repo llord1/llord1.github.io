@@ -9,7 +9,9 @@ tags: [Affiliation]
 
 Current tasks and paper outline: 
 
+
 Maslow's need for belonging: Addressing the "lost in translation" issues with sentiment analysis.
+
 
 ### Chapter 1: 
 
