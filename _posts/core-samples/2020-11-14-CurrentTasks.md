@@ -10,24 +10,24 @@ tags: [Affiliation]
 #### Current tasks:
 
 
-* Note the differences between linguistics, computational linguistics, digital humanities, and data science.
+* ~~NLP video by Alice Zhao~~
 
-* Look into recommended NLP textbooks
+* ~~Look into recommended NLP textbooks~~: can still look into more
 
-* Review more dissertations on NLP
+* ~~Review some dissertations on NLP:~~ can still look into more
 
-* Review more publications related to NLP: 
+* Review Sentiment Analysis videos by Pennebaker
 
 - Explore well-known and recent NLP articles, and read the articles recommended by John
 
 - Summarize NLP articles for core concepts and models
 
+* ~~Review some publications related to NLP:~~ can still look into more
 
 * Update conference/publication plan (data science and linguistics conferences).
 
-* NLP video by Alice Zhao
+* Note the differences between linguistics, computational linguistics, digital humanities, and data science.
 
-* Review Sentiment Analysis videos by Pennebaker
 
 * Compare to other existing sentiment analysis software/ tools
 
