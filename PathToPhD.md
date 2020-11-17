@@ -10,7 +10,6 @@ description: "Path to Ph.D."
 
 
 
-
 ### Starting Point: 
 
 Background: 
@@ -33,7 +32,7 @@ HU Masters in Analytics: Case study - Data analysis of Spanish language acquisit
 *Road blocks= Spoke to Ford and five other teachers. There was partial positive feedback but not full support from Dr. Ford. No traction/it did not appear to fit for a Ph.D. in data science.*
 
 
-2.  ~~Projects of cultural and environmental significance:~~
+1.  ~~Projects of cultural and environmental significance:~~
 
 *Conservation via the collection and monitoring of data related to animals and humans; deep learning related to entity identification - animal acoustics and noise pollution, and monitoring endangered languages.*
 
