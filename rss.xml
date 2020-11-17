@@ -5,8 +5,8 @@
         <description>Laurel's Works in Progress - Laurel Lord</description>
         <link>http://llord1.github.io</link>
         <atom:link href="http://llord1.github.io/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 15 Nov 2020 23:41:40 -0500</lastBuildDate>
-        <pubDate>Sun, 15 Nov 2020 23:41:40 -0500</pubDate>
+        <lastBuildDate>Mon, 16 Nov 2020 23:34:27 -0500</lastBuildDate>
+        <pubDate>Mon, 16 Nov 2020 23:34:27 -0500</pubDate>
         <ttl>60</ttl>
 
 
@@ -17,16 +17,16 @@
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;Note the differences between linguistics, computational linguistics, digital humanities, and data science.&lt;/p&gt;
+    &lt;p&gt;&lt;del&gt;NLP video by Alice Zhao&lt;/del&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Look into recommended NLP textbooks&lt;/p&gt;
+    &lt;p&gt;&lt;del&gt;Look into recommended NLP textbooks&lt;/del&gt;: can still look into more&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Review more dissertations on NLP&lt;/p&gt;
+    &lt;p&gt;&lt;del&gt;Review some dissertations on NLP:&lt;/del&gt; can still look into more&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Review more publications related to NLP:&lt;/p&gt;
+    &lt;p&gt;Review Sentiment Analysis videos by Pennebaker&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Explore well-known and recent NLP articles, and read the articles recommended by John&lt;/p&gt;
@@ -35,13 +35,13 @@
     &lt;p&gt;Summarize NLP articles for core concepts and models&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
+    &lt;p&gt;&lt;del&gt;Review some publications related to NLP:&lt;/del&gt; can still look into more&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
     &lt;p&gt;Update conference/publication plan (data science and linguistics conferences).&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;NLP video by Alice Zhao&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Review Sentiment Analysis videos by Pennebaker&lt;/p&gt;
+    &lt;p&gt;Note the differences between linguistics, computational linguistics, digital humanities, and data science.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Compare to other existing sentiment analysis software/ tools&lt;/p&gt;
