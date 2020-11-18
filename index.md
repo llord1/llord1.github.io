@@ -7,7 +7,7 @@ tagline: Supporting tagline
 
 ## Topic: 
 
-**Phrase-based sentiment detection for cross-lingual machine translation (hybrid rule-based and statistical-based) for small languages and underresourced domains (such as Caribbean creole languages).**
+**Phrase-based sentiment detection for cross-lingual machine translation for small languages and underresourced domains: A Sentiment Analysis System for the Saint Lucian Kwéyòl (Antillean Creole/Patios) Language by Integrating Gated Recurrent Unit with Genetic Algorithm.**
 
 
 
