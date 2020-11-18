@@ -7,9 +7,8 @@ tagline: Supporting tagline
 
 ## Topic: 
 
-**The Data Science Biocultural Diversity (DSBD) Framework: Reenvisioning Maslow's Hierarchy of Needs for Data Science and Biocultural Diversity Efforts**
+**Phrase-based sentiment detection for cross-lingual machine translation (hybrid rule-based and statistical-based) for small languages and underresourced domains (such as Caribbean creole languages).**
 
-*Novel diagnosis and prescriptive frameworks for assessing oneself and surroundings and exploring the prescriptions of various modern data science tools towards amelioration.*
 
 
 ## To-Do:
@@ -32,25 +31,37 @@ tagline: Supporting tagline
 
 Dr. Rand Ford: Professor and Program Director of Data Analytics at HU
 
-**Committee Members:**  
+**Dream Team Committee Members:**  
 
+
+
+
+- **HU Members:**
+
+Internal:
+
+    - Erin Buchanan
+
+    - Kevin Purcell 
+
+    - Kevin Huggins
+
+    - Roozbeh Sadeghian
 
 - **External Members:** 
 
-    - Dr. Melissa Irvine: Ph.D. Linguist;  disseration on Saint Lucian Creoles.
+    - *Dr. Melissa Irvine: Ph.D. Linguist; dissertation on Saint Lucian Creoles.
+
+    - *Dr. David Frank: Linguist at SIL, Creole expert and contributing author of one of Saint Lucia’s creole dictionaries.
+
+    - *Dr. James W. Pennebaker: Linguistic Inquiry and Word Count (LIWC) co-creator and social psychologist (need to prepare formal meeting request after LIWC papers are reviewed by Dr. Ford).
+
+    - Dr. Jordan Boyd-Graber: Ph.D. in Computer Science 2004 – 2010 Advisor: David Blei; Thesis: Linguistic Extensions of Topic Models. Is "an expert in the application of topic models, completely automatic tools that can discover structure and meaning in large, multilingual datasets. His work has been supported by NSF, IARPA, and ARL." I was intrigued by his recent publication on Interactive Refinement of Cross-Lingual Word Embeddings.
 
     - Dr. Luisa Maffi: Biocultural diversity expert and co-founder and director of Terralingua.
-
-    - Dr. David Frank: Linguist at SIL, Creole expert and contributing author of one of Saint Lucia's creole dictionaries.
 
     - Dr. Teresa Lynn: Linguist specializing in endangered languages and their presence in social media like Twitter.
 
     - Dr. Bruno Gonçalves: Vice President at JPMorgan Chase & Co Data Science and Finance Division. Linguist specializing in multiple languages and their presence in social media like Twitter (currently recreating a few of his papers).
 
-    - Dr. James W. Pennebaker: Linguistic Inquiry and Word Count (LIWC) co-creator and social psychologist (need to prepare formal meeting request after LIWC papers are reviewed by Dr. Ford).
 
-    - Dr. Laurel Braden Symes: Avian expert and works with bioacoustic data collection and analysis.
-
-- **HU Members:**
-
-    - Dr. Sa Liu: App developer and Assistant Professor at HU
