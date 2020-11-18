@@ -10,7 +10,6 @@ tagline: Supporting tagline
 **Phrase-based sentiment detection for cross-lingual machine translation for small languages and underresourced domains: A Sentiment Analysis System for the Saint Lucian Kwéyòl (Antillean Creole/Patios) Language by Integrating Gated Recurrent Unit with Genetic Algorithm.**
 
 
-
 ## To-Do:
 
 **The proposal should contain the following elements:**
