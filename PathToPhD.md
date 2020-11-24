@@ -72,7 +72,7 @@ Road blocks= While I was able to find external support from Cornell, there was n
 Road blocks= Was not able to access the data right away, yet when data was finally available, it did not appear to be substantial for a Ph.D. in data science.*
 
 
-8.  Covid pivot- ~~Began focusing on data science pedagogy:~~
+8.  Covid pivot - ~~Began focusing on data science pedagogy:~~
 
     * Some research slowed down as some people had to pivot/redesign their ideas on in-person interaction with test subjects, which was made difficult with the pandemic.*
 
