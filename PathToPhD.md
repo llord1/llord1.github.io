@@ -96,7 +96,7 @@ HU Masters in Analytics: Case study Data analysis - Spanish language acquisition
 
 Currently exploring Cross-Lingual Sentiment Analysis (might look at 'Integrating Gated Recurrent Unit with Genetic Algorithm'); using LIWC with Machine Translation.
 
-Perhaps a 'Phrase-based sentiment detection for cross-lingual machine translation for small languages and underresourced domains: A Sentiment Analysis System for the Saint Lucian Kwéyòl (Antillean Creole/Patios) Language by Integrating Gated Recurrent Unit with Genetic Algorithm'.
+Perhaps a 'Phrase-based sentiment detection for cross-lingual machine translation for small languages and underresourced (low-resource) domains: A Sentiment Analysis System for the Saint Lucian Kwéyòl (Antillean Creole/Patios) Language by Integrating Gated Recurrent Unit with Genetic Algorithm'.
 
 I do want to see if I can salvage anything concerning biocultural diversity; particularly, the vitality of the Saint Lucian Kwéyòl (Antillean Creole/Patios/Patwa) language via sentiment analysis of social media platform commentaries, such as Tripadvisor reviews, or [Facebook ](https://www.facebook.com/kweyolsentlisi/) and Twitter activity. This would be an exploration, collection, and analysis of social media occurrences of creole statements, and reviews of creole in pop-culture (such as songs), and works of literature.
 
