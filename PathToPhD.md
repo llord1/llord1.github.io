@@ -74,7 +74,7 @@ HU Masters in Analytics: Case study Data analysis - Spanish language acquisition
     * Road blocks= Was not able to access the data right away, yet when data was finally available, it did not appear to be substantial for a Ph.D. in data science.
 
 
-8a.  Covid pivot - ~~Began focusing on data science pedagogy and methodology:~~
+8.  Covid pivot - ~~Began focusing on data science pedagogy and methodology:~~
 
     * *Some research slowed down as some people had to pivot/redesign their ideas on in-person interaction with test subjects, which was made difficult with the pandemic.*
 
@@ -83,14 +83,14 @@ HU Masters in Analytics: Case study Data analysis - Spanish language acquisition
     * Road blocks= There was partial internal support from Dr. Ford but was unable to find internal support members; unable to form a committee from HU members. No traction/it did not appear to fit for a Ph.D. in data science.
 
 
-8b.  ~~Using Maslow's need for safety and security, and the lens of linguistics created an association between linguistics and crime; thought I could add to the data science field through data curation and analysis:~~
+9.  ~~Using Maslow's need for safety and security, and the lens of linguistics created an association between linguistics and crime; thought I could add to the data science field through data curation and analysis:~~
 
     * *Wanted to create an NLP project on legal phrase detection; hoped to use entity (phrase) detection to predict success in court; also wanted to convert existing linguistic vitality survey to an online survey (a demographic and linguistic census-type survey of lawyers where an endangered language is spoken, and how their linguistic capacities helped or hindered client representation).* [See draft online form](https://form.jotform.com/203134599286160) and [draft presentation](https://prezi.com/p/edit/xvydxfo_48dd/).
 
     * Road blocks= Spoke to Purcell, Ashby, and Ford. There was partial internal support from Dr. Ford; there was some traction but, he mentioned focusing more on sentiment analysis, and using the language as a background for the dataset. Unable to form a committee from HU members. It did not appear to be fit for a Ph.D. in data science.
 
 
-9.  Current state: 
+10.  Current state: 
 
     * *Delving into NLP and Machine translation and sentiment analysis:*
 
