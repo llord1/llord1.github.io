@@ -85,7 +85,7 @@ HU Masters in Analytics: Case study Data analysis - Spanish language acquisition
 
 8b.  ~~Using Maslow's need for safety and security, and the lens of linguistics created an association between linguistics and crime; thought I could add to the data science field through data curation and analysis:~~
 
-    * *Wanted to create an NLP project on legal phrase detection; hoped to use entity (phrase) detection to predict success in court; also wanted to convert existing linguistic vitality survey to an online survey (a demographic and linguistic census-type survey of lawyers where an endangered language is spoken, and how their linguistic capacities helped or hindered client representation).* [See draft online form](https://form.jotform.com/203134599286160)
+    * *Wanted to create an NLP project on legal phrase detection; hoped to use entity (phrase) detection to predict success in court; also wanted to convert existing linguistic vitality survey to an online survey (a demographic and linguistic census-type survey of lawyers where an endangered language is spoken, and how their linguistic capacities helped or hindered client representation).* [See draft online form](https://form.jotform.com/203134599286160) and [draft presentation](https://prezi.com/p/edit/xvydxfo_48dd/).
 
     * Road blocks= Spoke to Purcell, Ashby, and Ford. There was partial internal support from Dr. Ford; there was some traction but, he mentioned focusing more on sentiment analysis, and using the language as a background for the dataset. Unable to form a committee from HU members. It did not appear to be fit for a Ph.D. in data science.
 
@@ -94,9 +94,22 @@ HU Masters in Analytics: Case study Data analysis - Spanish language acquisition
 
     * *Delving into NLP and Machine translation and sentiment analysis:*
 
-Currently exploring Cross-Lingual Sentiment Analysis; using LIWC with Machine Translation.
+Currently exploring Cross-Lingual Sentiment Analysis (might look at 'Integrating Gated Recurrent Unit with Genetic Algorithm'); using LIWC with Machine Translation.
+
+Perhaps a 'Phrase-based sentiment detection for cross-lingual machine translation for small languages and underresourced domains: A Sentiment Analysis System for the Saint Lucian Kwéyòl (Antillean Creole/Patios) Language by Integrating Gated Recurrent Unit with Genetic Algorithm'.
+
 I do want to see if I can salvage anything concerning biocultural diversity; particularly, the vitality of the Saint Lucian Kwéyòl (Antillean Creole/Patios/Patwa) language via sentiment analysis of social media platform commentaries, such as Tripadvisor reviews, or [Facebook ](https://www.facebook.com/kweyolsentlisi/) and Twitter activity. This would be an exploration, collection, and analysis of social media occurrences of creole statements, and reviews of creole in pop-culture (such as songs), and works of literature.
 
+
+Current inspirations:
+
+[Cross-Lingual Sentiment Analysis with Machine Translation](https://pure.tue.nl/ws/portalfiles/portal/46951131/761617-1.pdf)
+
+[A Sentiment Analysis System for the Hindi Language by Integrating Gated Recurrent Unit with Genetic Algorithm](https://iajit.org/PDF/November%202020,%20No.%206/18975.pdf)
+
+[Co-training for cross-lingual sentiment classification](https://www.aclweb.org/anthology/P09-1027.pdf)
+
+[Cross-lingual mixture model for sentiment classification](https://www.aclweb.org/anthology/P12-1060.pdf)
 
 Access is available to labeled dictionary XML dataset in the target language (but no sentiment data)
 
