@@ -114,6 +114,7 @@ Current inspirations:
 
 
 Additional notes:
+
 Access is available to labeled dictionary XML dataset in the target language (but no sentiment data).
 
 There are quite a few language apps developed thanks to SIL's [webapps](https://play.google.com/store/search?q=webonary-sil&c=apps), however, there was none for Saint Lucian Kwéyòl. So, I am currently reviewing [SIL's Online Dictionary-Making &  Lexicography Course](https://sites.google.com/sil.org/dls-course/) using the XML files for [SIL's Kwéyòl Dictionary](https://www.webonary.org/kweyol/browse/kweyol-english/?letter=z&key=acf).
