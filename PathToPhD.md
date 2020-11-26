@@ -41,7 +41,7 @@ HU Masters in Analytics: Case study Data analysis - Spanish language acquisition
 
 3.  ~~Projects related to understanding language vitality:~~
 
-    * *Since no language vitality survey has been conducted in Saint Lucia since the 1970s, it is currently difficult to assess if the language heritage language of Saint Lucian Kwéyòl (Antillean Creole/Patios/Patwa) is thriving or flagging. I proposed an exploration, collection, and analysis of [social media occurrences](https://www.facebook.com/kweyolsentlisi/) of creole statements, review of creole in pop-culture (such as songs), and literature works. This would be bolstered by conducting a census-type survey to curate a language dataset to assess the state of vitality/state of endangerment or extinction of the Saint Lucian Kwéyòl (Antillean Creole/Patios).[See draft online form](https://form.jotform.com/203242982904153). Also created a language acquisition/reinforcement tool - [a word search puzzle](https://kopwann.weebly.com/animalwordsearch.html) using HTML, CSS, and JS.* 
+    * *Since no language vitality survey has been conducted in Saint Lucia since the 1970s, it is currently difficult to assess if the language heritage language of Saint Lucian Kwéyòl (Antillean Creole/Patios/Patwa) is thriving or flagging. I proposed an exploration, collection, and analysis of [social media occurrences](https://www.facebook.com/kweyolsentlisi/) of creole statements, review of creole in pop-culture (such as songs), and literature works. This would be bolstered by conducting a census-type survey to curate a language dataset to assess the state of vitality/state of endangerment or extinction of the Saint Lucian Kwéyòl (Antillean Creole/Patios). [See draft online-form](https://form.jotform.com/203242982904153). I also created a language acquisition/reinforcement tool - [a word search puzzle](https://kopwann.weebly.com/animalwordsearch.html) using HTML, CSS, and JS.* 
 
      * Road blocks= Spoke to Ford. While I was able to find external support, I was unable to find internal support members; unable to form a committee from HU members. No traction/it did not appear to fit for a Ph.D. in data science.
 
@@ -92,7 +92,7 @@ HU Masters in Analytics: Case study Data analysis - Spanish language acquisition
 
 10.  Current state: 
 
-    * *Delving into NLP and Machine translation and sentiment analysis:*
+    * Delving into NLP and Machine translation and sentiment analysis:
 
 Currently exploring Cross-Lingual Sentiment Analysis (might look at 'Integrating Gated Recurrent Unit with Genetic Algorithm'); using LIWC with Machine Translation.
 
@@ -111,13 +111,15 @@ Current inspirations:
 
 [Cross-lingual mixture model for sentiment classification](https://www.aclweb.org/anthology/P12-1060.pdf)
 
-Access is available to labeled dictionary XML dataset in the target language (but no sentiment data)
 
-There are quite a few language apps developed thanks to SIL's [webapps](https://play.google.com/store/search?q=webonary-sil&c=apps), however, there was none for Saint Lucian Kwéyòl. So, I am currently reviewing [SIL's Online Dictionary-Making &  Lexicography Course](https://sites.google.com/sil.org/dls-course/) using the XML files for [SIL's Kwéyòl Dictionary](https://www.webonary.org/kweyol/browse/kweyol-english/?letter=z&key=acf)
 
 Additional notes:
+Access is available to labeled dictionary XML dataset in the target language (but no sentiment data).
 
-I am a bit familiar with TensorFlow via practice on [GoogleCollab]
-(https://colab.research.google.com/drive/1j8RsxU63rQX23gzFqU5ftX_3_IjWvbIO?usp=sharing).
+There are quite a few language apps developed thanks to SIL's [webapps](https://play.google.com/store/search?q=webonary-sil&c=apps), however, there was none for Saint Lucian Kwéyòl. So, I am currently reviewing [SIL's Online Dictionary-Making &  Lexicography Course](https://sites.google.com/sil.org/dls-course/) using the XML files for [SIL's Kwéyòl Dictionary](https://www.webonary.org/kweyol/browse/kweyol-english/?letter=z&key=acf).
+
+
+
+I am a bit familiar with TensorFlow via practice on [GoogleCollab](https://colab.research.google.com/drive/1j8RsxU63rQX23gzFqU5ftX_3_IjWvbIO?usp=sharing).
 
 {% include JB/setup %}
