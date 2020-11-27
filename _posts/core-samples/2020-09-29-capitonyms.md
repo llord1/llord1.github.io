@@ -3,7 +3,7 @@ layout: post
 category : Papers
 title: "Data Science: Discussions"
 description: "Data Science: Musings"
-tags: [Assets]
+tags: [Affiliation]
 ---
 {% include JB/setup %}
 
