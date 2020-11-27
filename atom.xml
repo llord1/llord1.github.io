@@ -4,7 +4,7 @@
  <title>Laurel's Works in Progress</title>
  <link href="http://llord1.github.io" rel="self"/>
  <link href="http://llord1.github.io"/>
- <updated>2020-11-27T04:55:37-05:00</updated>
+ <updated>2020-11-27T08:17:56-05:00</updated>
  <id>http://llord1.github.io</id>
  <author>
    <name>Laurel Lord</name>
@@ -13,18 +13,20 @@
 
  
  <entry>
-   <title>Data Science Discussions: The natural annotation of crowdsourced online dictionaries</title>
+   <title>Data Sci. Discussions: Natural annotation of crowdsourced online dictionaries</title>
    <link href="http://llord1.github.io/papers/2020/11/27/wiwords"/>
    <updated>2020-11-27T00:00:00-05:00</updated>
    <id>http://llord1.github.io/papers/2020/11/27/wiwords</id>
    <content type="html">
-&lt;h3 id=&quot;musings-on-the-natural-annotation-of-crowdsourced-online-dictionaries&quot;&gt;&lt;strong&gt;Musings on the natural annotation of crowdsourced online dictionaries&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;general-discussion-of-the-natural-annotation-of-crowdsourced-online-dictionaries&quot;&gt;&lt;strong&gt;General discussion of the natural annotation of crowdsourced online dictionaries&lt;/strong&gt;&lt;/h3&gt;
 
 &lt;p&gt;I am interested in leveraging the natural annotation provided by a crowdsourced online dictionary &lt;a href=&quot;http://wiwords.com/&quot;&gt;Wiwords&lt;/a&gt;, to actively/continuously address word sense disambiguation issues that arise from the analysis of a low-resource language (Saint Lucian Creole)’s social media (Facebook, Instagram, Twitter, etc.) text data. By improving word sense disambiguation issues with the creole language, one may be better able to assess the language’s vitality via assessing the frequency of its usage in social media posts.&lt;/p&gt;
 
-&lt;p&gt;For example, avocado translates to zabòka&lt;a href=&quot;https://www.webonary.org/kweyol/gfdb5d87c-f3e9-49f6-a80e-f9dddeb2e358/&quot;&gt;2&lt;/a&gt; in the official Saint Lucian creole dictionary. However, on Instagram&lt;a href=&quot;https://www.instagram.com/explore/tags/zaboca/?hl=en&quot;&gt;3&lt;/a&gt;, Facebook&lt;a href=&quot;https://www.facebook.com/embracedominica/posts/known-locally-as-pear-or-zaboca-the-avocado-is-a-flowering-plant-native-to-mexic/1796956037194101/&quot;&gt;4&lt;/a&gt;, and Twitter&lt;a href=&quot;https://twitter.com/itzbuellzfool/status/1312498381860659200&quot;&gt;5&lt;/a&gt;, refers to the same item using the spelling ‘zaboca’, ‘zabocca’ &lt;a href=&quot;https://www.facebook.com/BarbadosCulinaryJourney/photos/avocado-or-zabocca-originally-found-in-the-deep-forests-of-south-america-and-tak/1037910523023415/g&quot;&gt;6&lt;/a&gt;&lt;a href=&quot;https://pdfs.semanticscholar.org/5204/05cfd523532ee8a3d9470bbeb200c17af9cc.pdf&quot;&gt;7&lt;/a&gt;, and ‘zaboka’&lt;a href=&quot;https://twitter.com/lylythervil/status/998975906738733058&quot;&gt;8&lt;/a&gt;. Yet, the crowdsourced online dictionary Wiwords notes the same item with the spelling ‘zaboca’&lt;a href=&quot;http://wiwords.com/word/zaboca&quot;&gt;9&lt;/a&gt; and includes pictures for clarification.&lt;/p&gt;
+&lt;p&gt;For example, avocado translates to zabòka&lt;a href=&quot;https://www.webonary.org/kweyol/gfdb5d87c-f3e9-49f6-a80e-f9dddeb2e358/&quot;&gt;2&lt;/a&gt; in the official Saint Lucian creole dictionary. However, on Instagram&lt;a href=&quot;https://www.instagram.com/explore/tags/zaboca/?hl=en&quot;&gt;3&lt;/a&gt;, Facebook&lt;a href=&quot;https://www.facebook.com/embracedominica/posts/known-locally-as-pear-or-zaboca-the-avocado-is-a-flowering-plant-native-to-mexic/1796956037194101/&quot;&gt;4&lt;/a&gt;, and Twitter&lt;a href=&quot;https://twitter.com/itzbuellzfool/status/1312498381860659200&quot;&gt;5&lt;/a&gt; (and even a &lt;a href=&quot;https://www.amazon.com/Under-Zaboca-Tree-Glynis-Guevara/dp/1771333294&quot;&gt;book on Amazon&lt;/a&gt;, refers to the same item using the spelling ‘zaboca’, ‘zabocca’ &lt;a href=&quot;https://www.facebook.com/BarbadosCulinaryJourney/photos/avocado-or-zabocca-originally-found-in-the-deep-forests-of-south-america-and-tak/1037910523023415/g&quot;&gt;6&lt;/a&gt;&lt;a href=&quot;https://pdfs.semanticscholar.org/5204/05cfd523532ee8a3d9470bbeb200c17af9cc.pdf&quot;&gt;7&lt;/a&gt;, and ‘zaboka’&lt;a href=&quot;https://twitter.com/lylythervil/status/998975906738733058&quot;&gt;8&lt;/a&gt;. Yet, the crowdsourced online dictionary Wiwords notes the same item with the spelling ‘zaboca’&lt;a href=&quot;http://wiwords.com/word/zaboca&quot;&gt;9&lt;/a&gt; and includes pictures for clarification.&lt;/p&gt;
 
 &lt;p&gt;A cursory search of Twitter revealed that the ‘zaboca’ spelling was just about as common as ‘zaboka’,  yet the accented spelling, ‘zabòka’, was not present. One could say that Wiwords did indeed reflect the term’s typical informal (social media) form. While Wiwords does not list the official spelling or all other alternative spellings, it does assist with understanding instances of the presence or absence of diacritical marks and providing needed context to improving the word sense disambiguation.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://llord1.github.io/2020/04/08/Altruism&quot;&gt;Read related draft literature that needs to be cleaned and combined.&lt;/a&gt;&lt;/p&gt;
 
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;/ol&gt;
 </content>
@@ -64,7 +66,7 @@
     &lt;p&gt;Update conference/publication plan (data science and linguistics conferences).&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Note the differences between linguistics, computational linguistics, digital humanities, and data science.&lt;/p&gt;
+    &lt;p&gt;Write out the differences between linguistics, computational linguistics, digital humanities, and data science for literature review.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Compare to other existing sentiment analysis software/ tools&lt;/p&gt;
@@ -77,6 +79,9 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Speak to these potential members to at least get feedback on progress&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Read &lt;a href=&quot;https://dl.acm.org/doi/pdf/10.1145/3321128&quot;&gt;From Genesis to Creole Language: Transfer Learning for Singlish Universal Dependencies Parsing and POS Tagging&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Have at least a basic model and some committee members by end of the semester.&lt;/p&gt;
@@ -157,7 +162,7 @@
 
 &lt;p&gt;Language and law (predict the likelihood of success in creole cases, the typical legal language/phrases in creole cases).&lt;/p&gt;
 
-&lt;h4 id=&quot;additional-models&quot;&gt;Additional models:&lt;/h4&gt;
+&lt;h4 id=&quot;additional-models-and-discussions&quot;&gt;Additional models and discussions:&lt;/h4&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -167,10 +172,13 @@
     &lt;p&gt;Consideration of Cross-Lingual Sentiment Analysis Models using graph theory.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Test text generation: Machine Learning using transformers (not LSTM); GPT2 (using Google Collab)&lt;/p&gt;
+    &lt;p&gt;Test text generation: Machine Learning using transformers (not LSTM); GPT2 (using TensorFlow and Google Collab)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Attempting to use the phrase-grams to aid with creating additional Creole literature on various topics; attempting to translate an English legal document into Creole (check if accuracy is present; if the text remains neutral (as the law is believed to be so, or if there are additional emotions detected)and see how successful additional legal document generation could be.&lt;/p&gt;
+    &lt;p&gt;Attempt to leverage the natural annotation provided by a crowdsourced online dictionary &lt;a href=&quot;http://wiwords.com/&quot;&gt;Wiwords&lt;/a&gt;, to actively/continuously address word sense disambiguation issues that arise from the analysis of a low-resource language (Saint Lucian Creole)’s social media (Facebook, Instagram, Twitter, etc.) text data. By improving word sense disambiguation issues with the creole language, one may be better able to assess the language’s vitality via assessing the frequency of its usage in social media posts. &lt;a href=&quot;https://llord1.github.io/papers/2020/11/27/wiwords&quot;&gt;See a draft of expanded discussion.&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Attempt to use the phrase-grams to aid with creating additional Creole literature on various topics; attempting to translate an English legal document into Creole (check if accuracy is present; if the text remains neutral (as the law is believed to be so, or if there are additional emotions detected)and see how successful additional legal document generation could be.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Additional paper on standard creative literature (stories and fables).  Thinking and creating in English first, then translating to Creole; or thinking and creating directly in Creole, then translating to English.&lt;/p&gt;
@@ -187,12 +195,12 @@
  </entry>
  
  <entry>
-   <title>Data Science: Discussions</title>
+   <title>Data Sci. Discussions: Capitonyms</title>
    <link href="http://llord1.github.io/papers/2020/09/29/capitonyms"/>
    <updated>2020-09-29T00:00:00-04:00</updated>
    <id>http://llord1.github.io/papers/2020/09/29/capitonyms</id>
    <content type="html">
-&lt;h3 id=&quot;musings-on-capitonyms&quot;&gt;&lt;strong&gt;Musings on Capitonyms&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;general-discussion-of-capitonyms&quot;&gt;&lt;strong&gt;General discussion of Capitonyms&lt;/strong&gt;&lt;/h3&gt;
 
 &lt;p&gt;Because of this Ph.D. program, I believe I have become a bit more capable of noticing applications of NLP concepts in my surroundings. I now look at Grammarly.com and wonder about the underlying tools and infrastructure. I think about Noam Chomsky’s ideas on the “autonomy of syntax”, where syntax and grammar depict information that is independent of the meaning and semantics of words,  and how that may impact autocorrection here. It seems to have some sort of an interactive spelling correction, with an interesting combination of background lemmatization, tokenization, and PoS tagging; Grammarly.com probably has some “named entity recognition”, with “sentence boundary detection”, and a “Word Sense Disambiguation” feature using some kind of Lesk algorithm and snowball stemmer and (like those present in Python’s NLTK). Concepts like the editing of stopwords are not applied here, and it is not yet capable of properly handling corrections for various languages.&lt;/p&gt;
 
@@ -870,7 +878,7 @@ https://data.govt.lc/dataset/st-lucia-police-stations&lt;/p&gt;
   &lt;li&gt;Assessing the link between crime and language. Could miscommunication between prestige and heritage language speakers hinder legal defenses? Are there any metrics on lawyers’ multilingual lawyers on the island? Are there any laws related to representation requirements (do lawyers assess the language needs of clients to decide how best to assist them)? What are the rates of incarceration of predominantly Saint Lucian Kwéyòl language speakers? What are the inmate metrics per district of origin (there is a popular belief that most Saint Lucian Kwéyòl language speakers are located in the Southern part of the country)?&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://llord1.github.io/2020/07/08/AssetsSLUlaw&quot;&gt;Lawyer demographics&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://llord1.github.io/2020/08/26/AssetsSLUlaw&quot;&gt;Lawyer demographics&lt;/a&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;What impact, if any, does tourism have on the vitality of the Saint Lucian Kwéyòl language? What factors elevated the prestige language on over the heritage language? This entails observing the number of ports of entry per district, number of tourist attractions per district, number of hotels per district, number of jobs related to tourism per district, number of educational facilities per district, number of main government offices per district. The final details may lead to a discussion of language hotspots; and a possible explanation of their existence.&lt;/li&gt;
@@ -889,7 +897,7 @@ https://data.govt.lc/dataset/st-lucia-police-stations&lt;/p&gt;
 &lt;h2 id=&quot;cognitive-needs-can-be-explored-as-topics-related-to-analysis&quot;&gt;&lt;strong&gt;&lt;em&gt;Cognitive needs&lt;/em&gt;&lt;/strong&gt; can be explored as topics related to &lt;strong&gt;&lt;em&gt;Analysis&lt;/em&gt;&lt;/strong&gt;.&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;What language learning tools are most effective with acquiring Saint Lucian Kwéyòl language? A comparison of specially curated Saint Lucian Kwéyòl language of Language learning tools: discussion of the value of puzzles for language acquisition and familiarity (word search puzzles), discussion of curated mnemonic tools, and language learning mobile applications.&lt;/li&gt;
+  &lt;li&gt;What language learning tools are most effective with acquiring Saint Lucian Kwéyòl language? A comparison of specially curated language learning tools: discussion of the value of puzzles for language acquisition and familiarity (word search puzzles), discussion of curated mnemonic tools, and language learning mobile applications.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;introduction&quot;&gt;Introduction:&lt;/h3&gt;
@@ -904,23 +912,30 @@ https://data.govt.lc/dataset/st-lucia-police-stations&lt;/p&gt;
 
 &lt;p&gt;Overall, verbs are typically taught using simple tables. Even if one were to focus on stem-changing verbs, tables are indeed the most common form of displaying the information. While not very visually interesting, this is the standard.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/palm.PNG&quot; alt=&quot;Hellloererererer&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/plaintable.PNG&quot; alt=&quot;Hellloererererer&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Other teachers may attempt to make this information more visually appealing by displaying images of these personal groupings, and then adding their related labels.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/plain.PNG&quot; alt=&quot;Hellloererererer&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/palm.PNG&quot; alt=&quot;Hellloererererer&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Other teachers may attempt to make this information more visually appealing by highlighting their related labels.&lt;/p&gt;
 
-&lt;p&gt;Some teachers have unofficially adopted the “shoe/boot verbs method” to visualize verb conjugation. Another less popular method in the US is the “hand method”.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/tablee.PNG&quot; alt=&quot;Hellloererererer&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/palm.PNG&quot; alt=&quot;Hellloererererer&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Some teachers have unofficially adopted the “shoe/boot verbs method” to emphasize the visualization of the verb conjugation.&lt;/p&gt;
 
-&lt;p&gt;This form assigns persons to fingers on one’s hand. This method is reminiscent of the Guidonian hand mnemonic device, that had been used to aid singers in studying to sight-sing. This form, however, excludes the second-person-plural version of verbs - the vosotros form. This form is not necessarily difficult to learn, only novel to many persons that learned Spanish in the Americas; when looking at spanish being acquired in Latin America versus Spain, the use of vosotros can mean the difference between being formally correct or informally fluent, respectively.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/boot.PNG&quot; alt=&quot;Hellloererererer&quot; /&gt;
+&lt;img src=&quot;https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/boot2.PNG&quot; alt=&quot;Hellloererererer&quot; /&gt;
+&lt;img src=&quot;https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/boot3.PNG&quot; alt=&quot;Hellloererererer&quot; /&gt;
+&lt;img src=&quot;https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/boot-verbs.PNG&quot; alt=&quot;Hellloererererer&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/palm.PNG&quot; alt=&quot;Hellloererererer&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Another less popular method in the US is the “hand method”. This form assigns persons to fingers on one’s hand. This method is reminiscent of the Guidonian hand mnemonic device, that had been used to aid singers in studying to sight-sing. This form, however, excludes the second-person-plural version of verbs - the vosotros form. This form is not necessarily difficult to learn, only novel to many persons that learned Spanish in the Americas; when looking at spanish being acquired in Latin America versus Spain, the use of vosotros can mean the difference between being formally correct or informally fluent, respectively.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/ghand.PNG&quot; alt=&quot;Hellloererererer&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/traditionalhand.PNG&quot; alt=&quot;Hellloererererer&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;It has recently been suggested this hand mnemonic device, can be adapted to include all the verb conjugation details. The vosotros form can be acknowledged as special rather than being ignored; this uniqueness can be highlighted through its association with the ring finger.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/palm.PNG&quot; alt=&quot;Hellloererererer&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/myhands.PNG&quot; alt=&quot;Hellloererererer&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://llord1.github.io/2020/06/08/Analysis&quot;&gt;Back to: Cognitive needs: Analysis&lt;/a&gt;&lt;/p&gt;
 </content>
