@@ -4,13 +4,31 @@
  <title>Laurel's Works in Progress</title>
  <link href="http://llord1.github.io" rel="self"/>
  <link href="http://llord1.github.io"/>
- <updated>2020-11-26T02:46:04-05:00</updated>
+ <updated>2020-11-27T04:55:37-05:00</updated>
  <id>http://llord1.github.io</id>
  <author>
    <name>Laurel Lord</name>
    <email>lalord@my.harrisburgu.edu</email>
  </author>
 
+ 
+ <entry>
+   <title>Data Science Discussions: The natural annotation of crowdsourced online dictionaries</title>
+   <link href="http://llord1.github.io/papers/2020/11/27/wiwords"/>
+   <updated>2020-11-27T00:00:00-05:00</updated>
+   <id>http://llord1.github.io/papers/2020/11/27/wiwords</id>
+   <content type="html">
+&lt;h3 id=&quot;musings-on-the-natural-annotation-of-crowdsourced-online-dictionaries&quot;&gt;&lt;strong&gt;Musings on the natural annotation of crowdsourced online dictionaries&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;I am interested in leveraging the natural annotation provided by a crowdsourced online dictionary &lt;a href=&quot;http://wiwords.com/&quot;&gt;Wiwords&lt;/a&gt;, to actively/continuously address word sense disambiguation issues that arise from the analysis of a low-resource language (Saint Lucian Creole)’s social media (Facebook, Instagram, Twitter, etc.) text data. By improving word sense disambiguation issues with the creole language, one may be better able to assess the language’s vitality via assessing the frequency of its usage in social media posts.&lt;/p&gt;
+
+&lt;p&gt;For example, avocado translates to zabòka&lt;a href=&quot;https://www.webonary.org/kweyol/gfdb5d87c-f3e9-49f6-a80e-f9dddeb2e358/&quot;&gt;2&lt;/a&gt; in the official Saint Lucian creole dictionary. However, on Instagram&lt;a href=&quot;https://www.instagram.com/explore/tags/zaboca/?hl=en&quot;&gt;3&lt;/a&gt;, Facebook&lt;a href=&quot;https://www.facebook.com/embracedominica/posts/known-locally-as-pear-or-zaboca-the-avocado-is-a-flowering-plant-native-to-mexic/1796956037194101/&quot;&gt;4&lt;/a&gt;, and Twitter&lt;a href=&quot;https://twitter.com/itzbuellzfool/status/1312498381860659200&quot;&gt;5&lt;/a&gt;, refers to the same item using the spelling ‘zaboca’, ‘zabocca’ &lt;a href=&quot;https://www.facebook.com/BarbadosCulinaryJourney/photos/avocado-or-zabocca-originally-found-in-the-deep-forests-of-south-america-and-tak/1037910523023415/g&quot;&gt;6&lt;/a&gt;&lt;a href=&quot;https://pdfs.semanticscholar.org/5204/05cfd523532ee8a3d9470bbeb200c17af9cc.pdf&quot;&gt;7&lt;/a&gt;, and ‘zaboka’&lt;a href=&quot;https://twitter.com/lylythervil/status/998975906738733058&quot;&gt;8&lt;/a&gt;. Yet, the crowdsourced online dictionary Wiwords notes the same item with the spelling ‘zaboca’&lt;a href=&quot;http://wiwords.com/word/zaboca&quot;&gt;9&lt;/a&gt; and includes pictures for clarification.&lt;/p&gt;
+
+&lt;p&gt;A cursory search of Twitter revealed that the ‘zaboca’ spelling was just about as common as ‘zaboka’,  yet the accented spelling, ‘zabòka’, was not present. One could say that Wiwords did indeed reflect the term’s typical informal (social media) form. While Wiwords does not list the official spelling or all other alternative spellings, it does assist with understanding instances of the presence or absence of diacritical marks and providing needed context to improving the word sense disambiguation.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;/ol&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Current Tasks</title>
