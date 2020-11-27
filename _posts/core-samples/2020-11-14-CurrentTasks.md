@@ -26,7 +26,7 @@ tags: [Affiliation]
 
 * Update conference/publication plan (data science and linguistics conferences).
 
-* Note the differences between linguistics, computational linguistics, digital humanities, and data science.
+* Write out the differences between linguistics, computational linguistics, digital humanities, and data science for literature review.
 
 
 * Compare to other existing sentiment analysis software/ tools
@@ -36,6 +36,8 @@ tags: [Affiliation]
 * Find additional committee members related to linguistics/NLP
 
 * Speak to these potential members to at least get feedback on progress
+
+- Read [From Genesis to Creole Language: Transfer Learning for Singlish Universal Dependencies Parsing and POS Tagging](https://dl.acm.org/doi/pdf/10.1145/3321128)
 
 * Have at least a basic model and some committee members by end of the semester.
 

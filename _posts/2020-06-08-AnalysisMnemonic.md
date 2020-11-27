@@ -8,7 +8,7 @@ description: "Cognitive needs: Analysis"
 
 ## __*Cognitive needs*__ can be explored as topics related to __*Analysis*__.
 
-+ What language learning tools are most effective with acquiring Saint Lucian Kwéyòl language? A comparison of specially curated Saint Lucian Kwéyòl language of Language learning tools: discussion of the value of puzzles for language acquisition and familiarity (word search puzzles), discussion of curated mnemonic tools, and language learning mobile applications.
++ What language learning tools are most effective with acquiring Saint Lucian Kwéyòl language? A comparison of specially curated language learning tools: discussion of the value of puzzles for language acquisition and familiarity (word search puzzles), discussion of curated mnemonic tools, and language learning mobile applications.
 
 ### Introduction:
 
@@ -22,23 +22,31 @@ However, the teaching and learning of Spanish verbs can be difficult. In Spanish
 
 Overall, verbs are typically taught using simple tables. Even if one were to focus on stem-changing verbs, tables are indeed the most common form of displaying the information. While not very visually interesting, this is the standard. 
 
-![Hellloererererer](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/palm.PNG)
+![Hellloererererer](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/plaintable.PNG)
 
-Other teachers may attempt to make this information more visually appealing by displaying images of these personal groupings, and then adding their related labels.
+![Hellloererererer](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/plain.PNG)
 
-![Hellloererererer](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/palm.PNG)
+Other teachers may attempt to make this information more visually appealing by highlighting their related labels.
 
-Some teachers have unofficially adopted the "shoe/boot verbs method" to visualize verb conjugation. Another less popular method in the US is the "hand method". 
+![Hellloererererer](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/tablee.PNG)
 
-![Hellloererererer](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/palm.PNG)
+Some teachers have unofficially adopted the "shoe/boot verbs method" to emphasize the visualization of the verb conjugation. 
 
-This form assigns persons to fingers on one's hand. This method is reminiscent of the Guidonian hand mnemonic device, that had been used to aid singers in studying to sight-sing. This form, however, excludes the second-person-plural version of verbs - the vosotros form. This form is not necessarily difficult to learn, only novel to many persons that learned Spanish in the Americas; when looking at spanish being acquired in Latin America versus Spain, the use of vosotros can mean the difference between being formally correct or informally fluent, respectively.
+![Hellloererererer](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/boot.PNG)
+![Hellloererererer](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/boot2.PNG)
+![Hellloererererer](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/boot3.PNG)
+![Hellloererererer](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/boot-verbs.PNG)
 
-![Hellloererererer](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/palm.PNG)
 
- It has recently been suggested this hand mnemonic device, can be adapted to include all the verb conjugation details. The vosotros form can be acknowledged as special rather than being ignored; this uniqueness can be highlighted through its association with the ring finger.
+Another less popular method in the US is the "hand method". This form assigns persons to fingers on one's hand. This method is reminiscent of the Guidonian hand mnemonic device, that had been used to aid singers in studying to sight-sing. This form, however, excludes the second-person-plural version of verbs - the vosotros form. This form is not necessarily difficult to learn, only novel to many persons that learned Spanish in the Americas; when looking at spanish being acquired in Latin America versus Spain, the use of vosotros can mean the difference between being formally correct or informally fluent, respectively.
 
-![Hellloererererer](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/palm.PNG)
+![Hellloererererer](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/ghand.PNG)
+
+![Hellloererererer](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/traditionalhand.PNG)
+
+It has recently been suggested this hand mnemonic device, can be adapted to include all the verb conjugation details. The vosotros form can be acknowledged as special rather than being ignored; this uniqueness can be highlighted through its association with the ring finger.
+
+![Hellloererererer](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/myhands.PNG)
 
 
 [Back to: Cognitive needs: Analysis](https://llord1.github.io/2020/06/08/Analysis)

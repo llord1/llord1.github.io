@@ -92,7 +92,7 @@ HU Masters in Analytics: Case study Data analysis - Spanish language acquisition
 
 10.  Current state: 
 
-    * Delving into NLP and Machine translation and sentiment analysis:
+* Delving into NLP and Machine translation and sentiment analysis:
 
 Currently exploring Cross-Lingual Sentiment Analysis (might look at 'Integrating Gated Recurrent Unit with Genetic Algorithm'); using LIWC with Machine Translation.
 
@@ -105,26 +105,25 @@ I am interested in leveraging the natural annotation provided by a crowdsourced 
 [See a draft of expanded discussion.](https://llord1.github.io/papers/2020/11/27/wiwords)
 
 
-Current inspirations:
+* Current inspirations:
 
-    * [Cross-Lingual Sentiment Analysis with Machine Translation](https://pure.tue.nl/ws/portalfiles/portal/46951131/761617-1.pdf)
+[Cross-Lingual Sentiment Analysis with Machine Translation](https://pure.tue.nl/ws/portalfiles/portal/46951131/761617-1.pdf)
 
-    * [A Sentiment Analysis System for the Hindi Language by Integrating Gated Recurrent Unit with Genetic Algorithm](https://iajit.org/PDF/November%202020,%20No.%206/18975.pdf)
+[A Sentiment Analysis System for the Hindi Language by Integrating Gated Recurrent Unit with Genetic Algorithm](https://iajit.org/PDF/November%202020,%20No.%206/18975.pdf)
 
-    * [Co-training for cross-lingual sentiment classification](https://www.aclweb.org/anthology/P09-1027.pdf)
+[Co-training for cross-lingual sentiment classification](https://www.aclweb.org/anthology/P09-1027.pdf)
 
-    * [Cross-lingual mixture model for sentiment classification](https://www.aclweb.org/anthology/P12-1060.pdf)
+[Cross-lingual mixture model for sentiment classification](https://www.aclweb.org/anthology/P12-1060.pdf)
 
 
 
-    * Additional notes:
+* Additional notes:
 
 Access is available to labeled dictionary XML dataset in the target language (but no sentiment data).
 
 There are quite a few language apps developed thanks to SIL's [webapps](https://play.google.com/store/search?q=webonary-sil&c=apps), however, there was none for Saint Lucian Kwéyòl. So, I am currently reviewing [SIL's Online Dictionary-Making &  Lexicography Course](https://sites.google.com/sil.org/dls-course/) using the XML files for [SIL's Kwéyòl Dictionary](https://www.webonary.org/kweyol/browse/kweyol-english/?letter=z&key=acf).
 
 
-
-    * I am a bit familiar with TensorFlow via practice on [GoogleCollab](https://colab.research.google.com/drive/1j8RsxU63rQX23gzFqU5ftX_3_IjWvbIO?usp=sharing).
+* I am a bit familiar with TensorFlow via practice on [GoogleCollab](https://colab.research.google.com/drive/1j8RsxU63rQX23gzFqU5ftX_3_IjWvbIO?usp=sharing).
 
 {% include JB/setup %}

@@ -1,14 +1,14 @@
 ---
 layout: post
 category : Papers
-title: "Data Science: Discussions"
+title: "Data Sci. Discussions: Capitonyms"
 description: "Data Science: Musings"
 tags: [Affiliation]
 ---
 {% include JB/setup %}
 
 
-### __Musings on Capitonyms__
+### __General discussion of Capitonyms__
 
 Because of this Ph.D. program, I believe I have become a bit more capable of noticing applications of NLP concepts in my surroundings. I now look at Grammarly.com and wonder about the underlying tools and infrastructure. I think about Noam Chomsky's ideas on the "autonomy of syntax", where syntax and grammar depict information that is independent of the meaning and semantics of words,  and how that may impact autocorrection here. It seems to have some sort of an interactive spelling correction, with an interesting combination of background lemmatization, tokenization, and PoS tagging; Grammarly.com probably has some "named entity recognition", with "sentence boundary detection", and a "Word Sense Disambiguation" feature using some kind of Lesk algorithm and snowball stemmer and (like those present in Python's NLTK). Concepts like the editing of stopwords are not applied here, and it is not yet capable of properly handling corrections for various languages.
 

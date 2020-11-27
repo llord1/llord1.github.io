@@ -63,15 +63,17 @@ Cross-Lingual Sentiment Analysis (using not bi-grams, but phrase-grams with LIWC
 Language and law (predict the likelihood of success in creole cases, the typical legal language/phrases in creole cases).
 
 
-#### Additional models:
+#### Additional models and discussions:
 
 * Kmeans clustering for Creole language origins; French, African, Spanish, Portuguese, English, and Tamil. Many-to-one relationship?
 
 * Consideration of Cross-Lingual Sentiment Analysis Models using graph theory.
 
-* Test text generation: Machine Learning using transformers (not LSTM); GPT2 (using Google Collab)
+* Test text generation: Machine Learning using transformers (not LSTM); GPT2 (using TensorFlow and Google Collab)
 
-* Attempting to use the phrase-grams to aid with creating additional Creole literature on various topics; attempting to translate an English legal document into Creole (check if accuracy is present; if the text remains neutral (as the law is believed to be so, or if there are additional emotions detected)and see how successful additional legal document generation could be. 
+* Attempt to leverage the natural annotation provided by a crowdsourced online dictionary [Wiwords](http://wiwords.com/), to actively/continuously address word sense disambiguation issues that arise from the analysis of a low-resource language (Saint Lucian Creole)'s social media (Facebook, Instagram, Twitter, etc.) text data. By improving word sense disambiguation issues with the creole language, one may be better able to assess the language's vitality via assessing the frequency of its usage in social media posts. [See a draft of expanded discussion.](https://llord1.github.io/papers/2020/11/27/wiwords)
+
+* Attempt to use the phrase-grams to aid with creating additional Creole literature on various topics; attempting to translate an English legal document into Creole (check if accuracy is present; if the text remains neutral (as the law is believed to be so, or if there are additional emotions detected)and see how successful additional legal document generation could be. 
 
 * Additional paper on standard creative literature (stories and fables).  Thinking and creating in English first, then translating to Creole; or thinking and creating directly in Creole, then translating to English.
 
