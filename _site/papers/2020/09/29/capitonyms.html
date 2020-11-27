@@ -1,0 +1,239 @@
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7 ie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8 ie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9 ie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<title>Data Sci. Discussions: Capitonyms</title>
+	<meta name="author" content="Laurel Lord">
+	<link href='/assets/themes/the-program/css/style.css' rel="stylesheet" media="all">
+	<link href="http://feeds.feedburner.com/" rel="alternate" title="Data Sci. Discussions: Capitonyms" type="application/atom+xml">
+	<script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.0.6/modernizr.min.js"></script>
+</head>
+<body>
+
+<div id="page" class="hentry">
+	<header class="the-header">
+		<div class="unit-head">
+			<div class="unit-inner unit-head-inner">
+				<nav class="nav-global">
+					<ul>
+						<li class="logo"><a href="/">Laurel's Works in Progress</a></li>
+						<li class="archive"><a href="/archive.html">archive</a></li>
+						<li class="page"><a href="/pages.html">pages</a></li>
+						<li class="category"><a href="/categories.html">categories</a></li>
+						<li class="tag"><a href="/tags.html">tags</a></li>
+						<li class="forkme"><div><iframe src="http://markdotto.github.com/github-buttons/github-btn.html?user=plusjade&repo=jekyll-bootstrap&type=fork&count=true"
+									allowtransparency="true" frameborder="0" scrolling="0" width="95px" height="20px"></iframe></div></li>
+					</ul>
+				</nav>
+			</div><!-- unit-inner -->
+		</div><!-- unit-head -->
+	</header>
+	<div class="body" role="main">
+		<div class="unit-body">
+			<div class="unit-inner unit-body-inner">
+				<div class="entry-content">
+					
+
+<article class="unit-article layout-post">
+	<div class="unit-inner unit-article-inner">
+		<div class="content">
+			<header>
+				<div class="unit-head">
+					<div class="unit-inner unit-head-inner">
+						<h1 class="h2 entry-title">Data Sci. Discussions: Capitonyms</h1>
+					</div><!-- unit-inner -->
+				</div><!-- unit-head -->
+			</header>
+
+			<div class="bd">
+				<div class="entry-content">
+					
+<h3 id="general-discussion-of-capitonyms"><strong>General discussion of Capitonyms</strong></h3>
+
+<p>Because of this Ph.D. program, I believe I have become a bit more capable of noticing applications of NLP concepts in my surroundings. I now look at Grammarly.com and wonder about the underlying tools and infrastructure. I think about Noam Chomsky’s ideas on the “autonomy of syntax”, where syntax and grammar depict information that is independent of the meaning and semantics of words,  and how that may impact autocorrection here. It seems to have some sort of an interactive spelling correction, with an interesting combination of background lemmatization, tokenization, and PoS tagging; Grammarly.com probably has some “named entity recognition”, with “sentence boundary detection”, and a “Word Sense Disambiguation” feature using some kind of Lesk algorithm and snowball stemmer and (like those present in Python’s NLTK). Concepts like the editing of stopwords are not applied here, and it is not yet capable of properly handling corrections for various languages.</p>
+
+<h4 id="te-quiero-yo-te-quiero">Te quiero/ Yo te quiero:</h4>
+
+<p>I also noticed that some phrases do not trigger error alerts in Grammarly.com. It appears that it does allow for Spanish phrases to be addressed as correct or incorrect, on an assumingly English platform. Sometimes it flags a Spanish word as incorrect simply because the word is not capitalized. For example, one can look at the Spanish phrase ‘te quiero’;  this is the informal way of saying ‘I love you’, and has a lighter connotation of love and care when compared to the more romantic phrase ‘te amo’. Grammarly.com currently suggests that one capitalizes only the word quiero, to make the phrase acceptable/ remove the grammar alert (‘te Quiero’).</p>
+
+<p>‘Quiero’ appears to have Latin roots from the word <a href="https://www.wordsense.eu/quaero/">‘quaero’</a> - meaning to ‘seek’ or ‘look for’. The word ‘quiero’ is indeed a tricky one as it can be arrived at through conjugation, based on different scenarios. It can be derived from the reciprocal verb ‘Quererse’, where it can mean ‘to feel affection for’ (to love each other). It can also be derived from the transitive verb ‘Querer’; however, in a transitive form (where it demands things), it also has several slightly different meanings; it can mean ‘to feel affection’ which includes ‘to love’, ‘to like’, and ‘to be fond of’; it can also indicate intention (‘to mean’ and ‘to try’), or to wish (‘to want’). I will, however, state that the fact that quiero can be applied to so many different scenarios, can serve to support an argument for it being a demonstration of polysemy.</p>
+
+<p>Perhaps, this issue with Grammarly.com is indeed due to quiero’s typical usage; it typically indicates a want. For example, one can want an item, like ice-cream; ‘Quiero helado’ translates to ‘I want ice-cream’. Here Quiero’s use is viewed as correct, yet instead, helado is marked here as non-English. I suppose the Spanish phrase for “want ice-cream” may not be as popular/common, and one could say that this may have been a flaw with the original training data; however, I am uninformed of the underlying structure, so I am unable to state if is completely based on machine learning models (or combined with a supporting language-translation tool) where quiero would have been typically encountered at the beginning of a sentence.</p>
+
+<p>Interestingly, GoogleTranslate and Python’s Textblob library may also be a bit faulty as it seems that they offer varied capitalizations or meanings when a word or phrase is hyphenated, separate, or concatenated <a class="citation" href="#sarkar2019text">(Sarkar, 2019; Sarkar, 2019)</a>. When using GoogleTranslate from English to Spanish, to indicate that I want ice cream (with the words ice and cream separated) there are no capitalizations. However, if I hyphenate or concatenate, it capitalizes the word “Quiero”.</p>
+
+<p>This translation issue might also be due to the distinction between direct and indirect objects is not quite the same in Spanish, as it is in English; and thus the pronouns that represent them are sometimes called accusative and dative pronouns, respectively. Or it could be that the verb, Querer,  is considered to be a transitive verb (one that needs to have a direct object) and, therefore its usage is a bit more complex, thus difficult to program? Anyway, since the language is so temperamental does that mean that larger training datasets are needed to detect the nuance of the appropriate use or translation, or is this something a language package update/ new package could address?</p>
+
+<h4 id="current-example-of-machine-translation-issues-in-action">Current example of machine translation issues in action:</h4>
+
+<p>Moreover, in the last week, the singer Jennifer Lopez had a controversial Spanish line in her latest song that caused an interesting look into the NLP capitonym challenges. She called herself “Tu negrita del Bronx”. Negrita as you can probably guess can imply that something is dark, and “ita” is usually added to the end of something to indicate a term of endearment, infantilizing, or insulting to a dark-skinned person. People were unsure of what she meant by its use since she is clearly not dark in skin tone, but she tried to explain that in some parts of the Spanish world, calling someone dark-skinned is universal- basically, saying anyone who is not white is dark, and they do uplift each other for this quality. So confused fans went to Google for a literal translation, only to encounter further confusion; if you capitalized Bronx, it would display the negative version (your n-word from the Bronx), and if you did not capitalize it would have translated to the milder version ( “Your black girl from the bronx”).  Textblob also has the same translation result for both scenarios.</p>
+
+<p>Interestingly, that capitonym also appears to be used in Textblob to a certain extent; it appeared to be a means to address the differentiation between formal forms and informal forms of conversations.
+The formal form of ‘yo te quiero’ and the informal from ‘te quiero’ result in ‘I love you’ and  ‘i love u’,  respectively. Note that regardless of capitalization in the formal phrase, the result is capitalized.  Yet only when the first character is capitalized in the informal (‘Te quiero’), will it be reciprocated in the result (‘I love u’); yet, the other words remain in their informal forms (‘you’ remains as ‘u’). An additional consideration is that when the word ‘mucho’ accompanies the phrase ‘te quiero’ to form ‘te quiero mucho’ (‘I love you very much’)  it seems to be regarded as formal, as all the necessary formatting is present.</p>
+
+<p>It will be interesting to see if translation changes over time to directly address this concern as the scandal would have generated additional internet chatter. It does not appear that Google is addressing this matter based on a live training dataset but perhaps based on a package like Textblob. Using keywords like “capitonym” “te quiero” “textblob”, I was unable to find any current literature on this occurrence via any Google or present in any scholarly archives.</p>
+
+<p>Ultimately, I guess would love to do some sort of commentary paper on this phenomenon; to perhaps discuss the possible inner workings of the underlying algorithm that furthered the scandal, and discuss the possible future implications. Since world leaders are increasing their use of informal text and speech through the use of social media platforms, yet these same governments rely on this technology for translation, there could be potential future conflicts due to literal misinterpretation. Perhaps data science studies can raise the alarm for a need for improvement in the underlying flawed structure that lacks live updating to formal and informal dictionaries or demonstrates overfit models. That paper would have gone under my Maslow’s needs sections on belonging or security, since miscommunication can facture one’s sense of belonging, and subsequently lead to a lack of sense of security.</p>
+
+<p>I am currently reading a work called <em><a href="https://tinyurl.com/yyu3fxl2">‘The definite article in Spanish as a polysemous category’</a></em> since it was published in the Journal of Cognitive Science as if 2017; however, I acknowledge this is just for personal edification since this is more along the realms of Cognitive Linguistics and not pure Data Science. I am also reading <em><a href="https://upcommons.upc.edu/handle/2117/7492">‘Linguistic-based evaluation criteria to identify statistical machine translation errors’</a></em> since I am interested in statistical machine translation errors.</p>
+
+<h3 id="references">References:</h3>
+
+<ol class="bibliography"><li><span id="sarkar2019text">Sarkar, D. (2019). <i>Text analytics with Python: a practitioner’s guide to natural language processing</i>. Apress.</span></li>
+<li><span id="sarkar_2019">Sarkar, D. (2019). <i>Text Analytics with Python</i>. Apress. https://doi.org/10.1007/978-1-4842-4354-1</span></li></ol>
+
+					<div class="meta">
+						<p class="date-publish">
+							Published: 
+							<date class="date-pub" title="2020-09-29T00:00:00-04:00" datetime="2020-09-29T00:00:00-04:00" pubdate>
+							<span class="month"><abbr>September</abbr></span>
+							<span class="day">29</span>
+							<span class="year">2020</span>
+							</date>
+						</p>
+						<ul class="list-category list-linear">
+							<li class="list-head">category: </li>
+							
+							
+
+
+  
+     
+    	<li><a href="/categories.html#Papers-ref">
+    		Papers <span>4</span>
+    	</a></li>
+    
+  
+
+
+						</ul>
+						<ul class="list-tag list-linear">
+							<li class="list-head">tags: </li>
+							
+							
+
+
+  
+     
+    	<li><a href="/tags.html#Affiliation-ref">Affiliation <span>5</span></a></li>
+    
+  
+
+
+
+						</ul>
+					</div><!-- meta -->
+				</div><!-- entry-content -->
+				<div class="misc-content">
+					<div class="social">
+						<ul class="list-linear">
+							<li><div class="twitter-tweet"><a href="https://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="" data-lang="en">Tweet</a></div></li>
+							<li><div class="twitter-follow"><a href="https://twitter.com/" class="twitter-follow-button" data-show-count="false" data-lang="en"></a></div></li>
+						</ul>
+					</div>
+					<div class="comment">
+					
+
+
+  <div id="disqus_thread"></div>
+<script type="text/javascript">
+    
+    var disqus_developer = 1;
+    var disqus_shortname = 'jekyllbootstrap'; // required: replace example with your forum shortname
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+
+
+					</div>
+				</div><!-- misc-content -->
+			</div><!-- bd -->
+			<footer class="unit-foot">
+				<div class="unit-inner unit-foot-inner">
+					<nav class="pagination">
+						<ul>
+							
+							<li class="prev"><a class="internal" rel="prev"  href="/2020/08/26/LawConsent" title="View Survey Consent:Lawyers">&laquo; Survey Consent:Lawyers</a></li>
+							
+							
+							<li class="pipe"> | </li>
+							
+							
+							<li class="next"><a class="internal" rel="next"  href="/papers/2020/11/14/CurrentOutline" title="View Current Outline">Current Outline &raquo;</a></li>
+							
+						</ul>
+					</nav>
+					<p class="gotop">
+						<a href="#page">Back to Top</a>
+					</p>
+				</div>
+			</footer>
+
+		</div><!-- content -->
+	</div><!-- unit-inner -->
+</article>
+
+
+				</div>
+			</div><!-- unit-inner -->
+		</div><!-- unit-body -->
+	</div><!-- body -->
+	<footer class="the-footer">
+		<div class="unit-foot">
+			<div class="unit-inner unit-foot-inner">
+				<div class="misc vcard">
+					<h4>about</h4>
+					<ul>
+						<li class="contact"><address><span class="author fn n">Laurel Lord</span> - <span class="fn email">lalord@my.harrisburgu.edu</span></address></li>
+						<li class="github"><a href="http://github.com/llord1/" rel="me">github.com/llord1</a></li>
+						<li class="twitter"><a href="http://twitter.com//" rel="me">twitter.com/</a></li>
+						<li class="rss"><a href="http://feeds.feedburner.com/">Subscribe to RSS Feed</a></li>
+					</ul>
+				</div><!-- misc -->
+				<p class="licence">
+					Theme: <a href="http://layouts-the.me">the_minimum</a> based on <a href="http://jekyllbootstrap.com/">Jekyll-bootstrap</a>.<br>
+					Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a>.
+				</p>
+			</div><!-- unit-foot-inner -->
+		</div><!-- unit-foot -->
+	</footer>
+</div><!-- page -->
+<script>
+	(function(d, s) {
+		var js, fjs = d.getElementsByTagName(s)[0], load = function(url, id) {
+		if (d.getElementById(id)) {return;}
+		js = d.createElement(s); js.src = url; js.id = id;
+		fjs.parentNode.insertBefore(js, fjs);
+		};
+	load('//platform.twitter.com/widgets.js', 'tweetjs');
+	// load('https://apis.google.com/js/plusone.js', 'gplus1js'); // Checkout http://j.mp/ApDgMr for usage html for this is <div class="g-plusone" data-size="medium"></div>
+	// load('//connect.facebook.net/en_US/all.js#xfbml=1', 'fbjssdk'); // Checkout http://j.mp/wZw2xR for using open graph protorol html for this is <div class="fb-like" data-href="/papers/2020/09/29/capitonyms" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false" data-font="verdana"></div>
+	}(document, 'script'));
+</script>
+<script>
+/*! A fix for the iOS orientationchange zoom bug.Script by @scottjehl, rebound by @wilto. MIT License.*/
+(function(j){var i=j.document;if(!i.querySelectorAll){return}var l=i.querySelectorAll("meta[name=viewport]")[0],a=l&&l.getAttribute("content"),h=a+", maximum-scale=1.0",d=a+", maximum-scale=10.0",g=true,c=j.orientation,k=0;if(!l){return}function f(){l.setAttribute("content",d);g=true}function b(){l.setAttribute("content",h);g=false}function e(m){c=Math.abs(j.orientation);k=Math.abs(m.gamma);if(k>8&&c===0){if(g){b()}}else{if(!g){f()}}}j.addEventListener("orientationchange",f,false);j.addEventListener("deviceorientation",e,false)})(this);
+</script>
+  
+  
+
+
+
+</body>
+</html>
+
