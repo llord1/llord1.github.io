@@ -34,7 +34,7 @@ HU Masters in Analytics: Case study Data analysis - Spanish language acquisition
 
 2.  ~~Projects of cultural and environmental significance:~~
 
-    * *Conservation via the collection and monitoring of data related to animals and humans; deep learning related to entity identification - animal acoustics and noise pollution, and monitoring endangered languages.*
+    * *Conservation via the collection and monitoring of acoustic data related to animals and humans; deep learning related to entity identification - animal acoustics and noise pollution, and monitoring endangered languages (on social media).*
 
     * Road blocks= Spoke to Ford. There was partial positive feedback but not full support from Dr. Ford. While I was able to find external support, I was unable to find internal support members; unable to form a committee from HU members. No traction/it did not appear to fit for a Ph.D. in data science.
 
@@ -55,7 +55,7 @@ HU Masters in Analytics: Case study Data analysis - Spanish language acquisition
 
 5.  ~~Presented on using data science for environmental analysis with index creation:~~
 
-    * *Proposed and presented a multi-paper mixture of sound and sentiment analysis to HU members.*
+    * *Proposed and presented a multi-paper cross-domain attempt at highlighting 'the duality of the fragility of endangered animals (sounds) and endangered human languages' to HU members; it was a biocultural diversity effort to encourage conservation through acoustic analysis and monitoring of endangered animals, and the monitoring of endangered heritage language of Saint Lucian Kwéyòl (on social media via sentiment analysis etc.).*
 
     * Road blocks= Spoke to Ford, Ashby, Arvid, and five other teachers. While I was able to find external support, there was no additional internal support; unable to form a committee. No traction/it did not appear to fit for a Ph.D. in data science; I was advised to focus more on business or tourism, or anything I had a background in, or focusing on one area (not a multi-paper publication route).
 
