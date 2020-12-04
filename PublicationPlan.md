@@ -3,7 +3,7 @@ layout: page
 title: "Publication Plan"
 description: "Publication Plan."
 ---
-### Upcoming conferences: 
+#### Past conferences: 
 
 - **A Virtual Festival Celebrating Caribbean Languages:**
 
@@ -20,7 +20,7 @@ Status: **Accepted**
 
 
 
-### Publications: 
+#### Publications: 
 
 - **Applied Corpus Linguistics:**
 
