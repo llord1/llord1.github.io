@@ -5,33 +5,82 @@
         <description>Laurel's Works in Progress - Laurel Lord</description>
         <link>http://llord1.github.io</link>
         <atom:link href="http://llord1.github.io" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 03 Dec 2020 23:40:54 -0500</lastBuildDate>
-        <pubDate>Thu, 03 Dec 2020 23:40:54 -0500</pubDate>
+        <lastBuildDate>Fri, 04 Dec 2020 17:10:32 -0500</lastBuildDate>
+        <pubDate>Fri, 04 Dec 2020 17:10:32 -0500</pubDate>
         <ttl>60</ttl>
 
 
         <item>
                 <title>Data Sci. Discussions: Cross-lingual frameworks and natural annotation of crowdsourced online dictionaries</title>
                 <description>
-&lt;h3 id=&quot;quick-overlook&quot;&gt;&lt;strong&gt;Quick overlook&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Note: There is an alternative view of this document available on &lt;a href=&quot;&quot;&gt;Google Colab&lt;/a&gt;. This is functionally very similar to shared Google docs; offer comments where necessary. The document’s ‘References’ are simply pasted to aid in the review process, however, they are not interactive.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;In the realm of cross-lingual or multilingual natural language processing, it does appear that some languages tend to get more attention than others; typically well-established languages with a plethora of linguistic words to build from, often thrive while low-resource languages, such as various creoles, are left to languish. However, the increasing popularity of opinion rich resources such as blogs &lt;a class=&quot;citation&quot; href=&quot;#kweyol_works_joseph&quot;&gt;(Joseph, 2020)&lt;/a&gt;, shopping websites, review portals, and social media platforms &lt;a class=&quot;citation&quot; href=&quot;#kweyol_fb_joseph&quot;&gt;(Joseph, 2020)&lt;/a&gt; are increasingly attracting business people, governments, and researchers alike. While there are multiple ways to utilize NLP functions, sentiment analysis often garners great interest. It has also been said while there is a lingering bias towards contemporary Indo-European languages, treebanks for other language families and treebanks for classical languages are on the rise &lt;a class=&quot;citation&quot; href=&quot;#nivre2016universal&quot;&gt;(Nivre et al., 2016)&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 id=&quot;quick-overlook&quot;&gt;&lt;strong&gt;Quick overlook&lt;/strong&gt;&lt;/h4&gt;
 
-&lt;p&gt;Therefore, it may be helpful to develop a framework to improve the models for linguistics; perhaps an extendable framework that can demonstrate its application to low-resource languages such as creole. Improving the status of an endangered language through careful application of the technology would also exemplify the core principles of biocultural diversity. Some works have suggested dealing with the lexical deviations inherent to creoles can be accommodated by applying the existing language (like French or English) dependency relation definitions while ensuring consistency with the annotations in other non-French or non-English Universal Dependency (UD) treebanks &lt;a class=&quot;citation&quot; href=&quot;#Wang2020FromGT&quot;&gt;(Wang et al., 2020)&lt;/a&gt;. Ultimately, it begs the question of how may attempt leveraging existing tree-banks, and focusing on POS and sentiment analysis, for languages that do not have an extensively established digital presence (corpus).&lt;/p&gt;
+&lt;p&gt;In the realm of cross-lingual or multilingual natural language processing, it does appear that some languages tend to get more attention than others. Typically well-established languages with a plethora of linguistic words to build from, often thrive while low-resource languages, such as various creoles, are left to languish; as of today, some words within the Saint Lucian creole vocabulary, that lack official etymological details. However, the increasing popularity of opinion rich resources such as blogs &lt;a class=&quot;citation&quot; href=&quot;#kweyol_works_joseph&quot;&gt;(Joseph, 2020)&lt;/a&gt;, shopping websites, review portals, and social media platforms &lt;a class=&quot;citation&quot; href=&quot;#kweyol_fb_joseph&quot;&gt;(Joseph, 2020)&lt;/a&gt; are rapidly attracting business people, governments, and researchers alike. While there are multiple ways to utilize NLP functions, sentiment analysis often garners great interest. It has also been said while there is a lingering ‘bias towards contemporary Indo-European languages’, treebanks for other language families and treebanks for classical languages are on the rise &lt;a class=&quot;citation&quot; href=&quot;#nivre2016universal&quot;&gt;(Nivre et al., 2016)&lt;/a&gt;. Therefore, it may be helpful to develop a framework to improve the models for linguistics; perhaps an extendable framework that can demonstrate its application to low-resource languages such as creole.&lt;/p&gt;
 
-&lt;p&gt;It may also be useful to leverage the natural annotation provided by a crowdsourced online dictionary &lt;a href=&quot;http://wiwords.com/&quot;&gt;Wiwords&lt;/a&gt;, to actively/continuously address word sense disambiguation issues that arise from the analysis of a low-resource language (Saint Lucian Creole)’s social media (Facebook, Instagram, Twitter, etc.) text data. By improving word sense disambiguation issues with the creole language, one may be better able to evaluate the language’s vitality via assessing the frequency of its usage in social media posts.&lt;/p&gt;
+&lt;p&gt;My current overarching scholarly inspirations deal with universal dependency parching, POS Tagging, and possibly sentiment analysis. Some works have suggested that the lexical deviations inherent to creoles can be accommodated by applying the existing language (like French or English) dependency relation definitions while ensuring consistency with the annotations in other non-French or non-English Universal Dependency (UD) treebanks &lt;a class=&quot;citation&quot; href=&quot;#Wang2020FromGT&quot;&gt;(Wang et al., 2020)&lt;/a&gt;. The document ‘From Genesis to Creole Language: Transfer Learning for Singlish Universal Dependencies Parsing and POS Tagging’ &lt;a class=&quot;citation&quot; href=&quot;#Wang2020FromGT&quot;&gt;(Wang et al., 2020)&lt;/a&gt;, is my main point of reference for now. This is due to the relevance of the topic, and the creativity of the work.  Additional considerations may be given to a paper that focuses on ‘NLPyPort’. This is said to be an ‘NLP pipeline in Python, primarily based on NLTK, and focused on Portuguese’, and is ‘mostly assembled from pre-existent resources or their adaptations, but improves over the performance of existing alternatives in Python, namely in the tasks of tokenization, PoS tagging, lemmatization and NER’ &lt;a class=&quot;citation&quot; href=&quot;#ferreira2019improving&quot;&gt;(Ferreira et al., 2019)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I do also acknowledge that I do need to delve into the discussion of treebanks and their creation. Since I am dealing with a creole that is mostly french based, it might be wise to review the works of Anne Abeillé. Her most relevant works might be ‘Treebanks: Building and using parsed corpora’  &lt;a class=&quot;citation&quot; href=&quot;#abeille2012treebanks&quot;&gt;(Abeillé, 2012)&lt;/a&gt;, ‘Building a treebank for French’ &lt;a class=&quot;citation&quot; href=&quot;#abeille2003building&quot;&gt;(Abeillé et al., 2003)&lt;/a&gt; and ‘Enriching a French treebank’ &lt;a class=&quot;citation&quot; href=&quot;#abeille2004enriching&quot;&gt;(Abeillé &amp;amp; Barrier, 2004)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Yet another source of inspiration has been the works of Dr. Bruno Gonçalves. He is a linguist specializing in multiple languages and their presence in social media like Twitter, yet manages to visually tie his findings to his appreciation of the physical environment from which the messages originate. His works seem to have cross-domain appeal as they impact data science, as well as the topic of ‘biocultural diversity’ (a term coined by Luisa Maffi &lt;a class=&quot;citation&quot; href=&quot;#terralingua_2019&quot;&gt;(Terralingua, 2019; Terralingua, 2020; Terralingua, 2014; Maffi &amp;amp; others, 2007; Maffi, 2005)&lt;/a&gt;). Gonçalves’ works on the ranking of touristic-sites worldwide based on their attractiveness (measured with geolocated data as a proxy for human mobility), and ‘mapping world languages through microblogging platforms’ &lt;a class=&quot;citation&quot; href=&quot;#BrunoGonccalves2016touristic&quot;&gt;(Bassolas et al., 2016)&lt;/a&gt;. He also worked on ‘learning Spanish dialects through Twitter’ by employing a corpus based on geographically tagged messages &lt;a class=&quot;citation&quot; href=&quot;#BrunoGonccalves2013twitter&quot;&gt;(Mocanu et al., 2013; Gonçalves &amp;amp; Sánchez, 2014)&lt;/a&gt;, and exploring global language network (as a form of ranking languages) &lt;a class=&quot;citation&quot; href=&quot;#BrunoGonccalves2014links&quot;&gt;(Ronen et al., 2014)&lt;/a&gt;, were all visually fascinating. However, replicating his works, with the inclusion of a creole language may be a bit difficult. Still, one may yet garner inspiration from his 2017 paper on ‘Semantic homophily in online communication’ employing confirmation from Twitter &lt;a class=&quot;citation&quot; href=&quot;#BrunoGonccalves2017semantic&quot;&gt;(Šćepanović et al., 2017)&lt;/a&gt;; his discussion of ‘value homophily’ as it relates to one’s” internal states’ that might influence future behavior, can be adapted to discuss the similarities yet differences between the islands that observe mutually intelligible creoles (like the Antillean creole spoken among the inhabitants of Dominica and Saint Lucia). Based on the works of Wang, Abeillé, Gonçalves, and even Maffi, one may ponder the possibility of leveraging existing tree-banks and focusing on POS tagging and sentiment analysis, for languages that do not have an extensively established digital presence or corpora.&lt;/p&gt;
+
+&lt;p&gt;Bearing this in mind, it may also be useful to leverage the natural annotation provided by crowdsourced online dictionaries related to low-resource languages, such as &lt;a href=&quot;http://wiwords.com/&quot;&gt;Wiwords&lt;/a&gt;. For example, this could actively/continuously address word sense disambiguation issues that arise from the text analysis of the Saint Lucian Creole’s online social media chatter on various platforms, like Facebook, Instagram, Twitter, etc. By improving word sense disambiguation issues with the creole language, one may be better able to evaluate the language’s vitality via assessing the frequency of its usage in social media posts.&lt;/p&gt;
 
 &lt;p&gt;For example, avocado translates to zabòka&lt;a href=&quot;https://www.webonary.org/kweyol/gfdb5d87c-f3e9-49f6-a80e-f9dddeb2e358/&quot;&gt;2&lt;/a&gt; in the official Saint Lucian creole dictionary. However, on Instagram&lt;a href=&quot;https://www.instagram.com/explore/tags/zaboca/?hl=en&quot;&gt;3&lt;/a&gt;, Facebook&lt;a href=&quot;https://www.facebook.com/embracedominica/posts/known-locally-as-pear-or-zaboca-the-avocado-is-a-flowering-plant-native-to-mexic/1796956037194101/&quot;&gt;4&lt;/a&gt;, and Twitter&lt;a href=&quot;https://twitter.com/itzbuellzfool/status/1312498381860659200&quot;&gt;5&lt;/a&gt; (and even a &lt;a href=&quot;https://www.amazon.com/Under-Zaboca-Tree-Glynis-Guevara/dp/1771333294&quot;&gt;book on Amazon&lt;/a&gt;, refers to the same item using the spelling ‘zaboca’, ‘zabocca’ &lt;a href=&quot;https://www.facebook.com/BarbadosCulinaryJourney/photos/avocado-or-zabocca-originally-found-in-the-deep-forests-of-south-america-and-tak/1037910523023415/g&quot;&gt;6&lt;/a&gt;&lt;a href=&quot;https://pdfs.semanticscholar.org/5204/05cfd523532ee8a3d9470bbeb200c17af9cc.pdf&quot;&gt;7&lt;/a&gt;, and ‘zaboka’&lt;a href=&quot;https://twitter.com/lylythervil/status/998975906738733058&quot;&gt;8&lt;/a&gt;. Yet, the crowdsourced online dictionary Wiwords notes the same item with the spelling ‘zaboca’&lt;a href=&quot;http://wiwords.com/word/zaboca&quot;&gt;9&lt;/a&gt; and includes pictures for clarification.&lt;/p&gt;
 
 &lt;p&gt;A cursory search of Twitter revealed that the ‘zaboca’ spelling was just about as common as ‘zaboka’,  yet the accented spelling, ‘zabòka’, was not present. One could say that Wiwords did indeed reflect the term’s typical informal (social media) form. While Wiwords does not list the official spelling or all other alternative spellings, it does assist with understanding instances of the presence or absence of diacritical marks and providing needed context to improving the word sense disambiguation.&lt;/p&gt;
 
+&lt;p&gt;In terms of creole data, I currently have access to public social media data, poems, hymns, and the Saint Lucian national anthem. I also have access to a partially labeled XML dictionary dataset in the target language of Saint Lucian creole (but no sentiment data). There are numerical indicators to signify the differences between homonyms, and according to the dictionary’s creator&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;the set of parts of speech, or word classes, used in this dictionary is as
+follows: N (noun), PRO (pronoun), ADJ (adjective), ART (article), V (verb),
+ADV (adverb), PREP (preposition), CONJ (conjunction), and INTERJ
+(interjection). These are only broad categories. In a more complete
+a grammatical description of Kwéyòl, these broad categories could and should be further broken down into subcategories* &lt;a class=&quot;citation&quot; href=&quot;#Frank2001kweyol&quot;&gt;(Crosbie et al., 2001)&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In terms of technology and tools, I have found Python to be very useful. Please note that Github has proven useful in allowing one to explore various topics through shared community efforts; there are Universal Dependencies of various languages like Tamil, Spanish, and French, however, there are creole ones as of yet. I am currently reviewing “The Universal Dependency version of the French Treebank (Abeillé et al., 2003)” - &lt;a href=&quot;https://github.com/UniversalDependencies/UD_French-FTB&quot;&gt;‘UD_French-FTB’&lt;/a&gt;, and the presentation on &lt;a href=&quot;https://syntaxfest.github.io/syntaxfest19/slides/slides_91.pdf&quot;&gt;‘Deep Universal Dependencies’&lt;/a&gt;, created by Daniel Zeman. It is stated to be a ‘treebank of sentences from the newspaper Le Monde, initially manually annotated with morphological information and phrase-structure and then converted to the Universal Dependencies annotation scheme’.&lt;/p&gt;
+
+&lt;p&gt;Additionally, Google Colab has proven to be an interesting environment that facilitates document and code sharing and commenting, and version control. One also has access to a GPU, which tends to be useful for [deep learning and some parallelizable data science algorithms] (https://towardsdatascience.com/superpower-your-google-colab-720d54dd6a06). Additionally, there is access to a research &lt;a href=&quot;https://aihub.cloud.google.com/u/0/&quot;&gt;‘Seedbank’&lt;/a&gt; where Google has an entire repository of deep learning and data science proof of concepts hosted. This includes code concerning &lt;a href=&quot;https://aihub.cloud.google.com/p/products%2F024b89fd-9bc8-4c24-b8a8-e347479f3270&quot;&gt;‘Neural Translation with Attention’&lt;/a&gt;, &lt;a href=&quot;https://aihub.cloud.google.com/u/0/p/products%2F760da8f1-439f-44cb-af51-3680987b9786&quot;&gt;‘Tensor2Tensor: Translate from English to German with a pre-trained model’&lt;/a&gt;, and even a &lt;a href=&quot;https://aihub.cloud.google.com/u/0/p/products%2Fbd3b0d5c-e4d0-450a-890f-e7b4027e8d09&quot;&gt;‘Multilingual Language Model Dataset’s&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;While Python is so useful, I am, however, also currently reviewing the treebank construction feature and pre-trained annotation models offered by [‘UDPipe Natural Language Processing - Text Annotation’ According to its &lt;a href=&quot;https://cran.r-project.org/web/packages/udpipe/vignettes/udpipe-annotation.html&quot;&gt;website&lt;/a&gt;, the most relevant features would be&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;*Allowing R users simple access in order to easily tokenize, tag, lemmatize or perform dependency parsing on text in any language&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;‘Provide easy access to pre-trained annotation models’&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Allow R users to easily construct your own annotation model based on data in CONLL-U format as provided in more than 100 treebanks available at https://universaldependencies.org&lt;/em&gt; &lt;a class=&quot;citation&quot; href=&quot;#wijffels_2020&quot;&gt;(Wijffels, 2020)&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ultimately, improving the status of an endangered language through careful application of the technology would also exemplify the core principles of biocultural diversity. Overall, this investigation has implications across various domains including data science, computational linguistics, digital humanities, and biocultural diversity. Bearing this in mind, this will open up the publication opportunities for the various aspects of this dissertation.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Please note:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;I do know I need to create a visual to better summarize the core concepts of the framework&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I do know I need to clean up my overall work to fit into the following format:&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Statement of Research Questions or Hypothesis&lt;/li&gt;
+      &lt;li&gt;Literature Review&lt;/li&gt;
+      &lt;li&gt;Theoretical or Conceptual Model&lt;/li&gt;
+      &lt;li&gt;Data and Analytic Method&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h4 id=&quot;brief-literature-review&quot;&gt;Brief literature review&lt;/h4&gt;
 
-&lt;p&gt;Due to the extended period of social disruption caused by the 2020 SARS-CoV-2 pandemic, many gained a newfound appreciation for Maslow’s theory on a hierarchy of needs &lt;a class=&quot;citation&quot; href=&quot;#maslow_1943_2000&quot;&gt;(Maslow, 1943; Matias et al., 2020; Wong et al., 2020; Casale &amp;amp; Flett, 2020)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Due to the extended period of social disruption caused by the 2020 SARS-CoV-2 pandemic, many gained a newfound appreciation for Maslow’s theory on a hierarchy of needs &lt;a class=&quot;citation&quot; href=&quot;#maslow_1943_2000&quot;&gt;(Maslow, 1943; Matias et al., 2020; Wong et al., 2020; Casale &amp;amp; Flett, 2020)&lt;/a&gt;. Global citizens reflected on the loss of lives, the loss of a sense of justice, the loss of financial stability, the subsequent loss of housing stability, and an overall sense of the loss of social normalcy. Many are also concerned about the severity and frequency of natural disasters that were increasingly impacting all forms of life within our complex global socio-ecological environment.&lt;/p&gt;
 
-&lt;p&gt;Due to the extended period of social disruption caused by the 2020 SARS-CoV-2 pandemic, many gained a newfound appreciation for Maslow’s theory on a hierarchy of needs &lt;a class=&quot;citation&quot; href=&quot;#maslow_1943_2000&quot;&gt;(Maslow, 1943; Matias et al., 2020; Wong et al., 2020; Casale &amp;amp; Flett, 2020)&lt;/a&gt;. Global citizens reflected on the loss of lives, the loss of a sense of justice, the loss of financial stability, the subsequent loss of housing stability, and an overall sense of the loss of social normalcy. Many are also concerned about the severity and frequency of natural disasters that were increasingly impacting all forms of life within our complex global socio-ecological environment. In a time of crisis, Maslow’s theory can aid in visualizing and prioritizing scarce resources according to one’s needs, and data science can be used to explore, assess, and address those needs; data science can serve as a tool of establishing a degree of certainty, in uncertain times. Often, obtaining our needs is intrinsically linked to the ease with which we are able to communicate - our ability to understand and to be understood. To effectively facilitate the communication of various societal needs, data science can be employed as a means of monitoring and maintaining the standards of numerous fields through the careful study of an environment’s linguistics.&lt;/p&gt;
+&lt;p&gt;In a time of crisis, Maslow’s theory can aid in visualizing and prioritizing scarce resources according to one’s needs, and data science can be used to explore, assess, and address those needs; data science can serve as a tool of establishing a degree of certainty, in uncertain times. Often, obtaining our needs is intrinsically linked to the ease with which we can communicate - our ability to understand and to be understood. To effectively facilitate the communication of various societal needs, data science can be employed as a means of monitoring and maintaining the standards of numerous fields through the careful study of an environment’s linguistics.&lt;/p&gt;
 
-&lt;p&gt;Consideration of ease with which one is able to communicate with others can impact their need for belonging. Language allows messages to be conveyed. The ability to understand and to be understood is crucial in times of great uncertainty and the constant fear of possible emergencies.&lt;/p&gt;
+&lt;p&gt;Consideration of the ease with which one is able to communicate with others can impact their need for belonging. Language allows messages to be conveyed. The ability to understand and to be understood is crucial in times of great uncertainty and the constant fear of possible emergencies.&lt;/p&gt;
 
 &lt;h4 id=&quot;perceptions-of-saint-lucian-kwéyòl&quot;&gt;Perceptions of Saint Lucian Kwéyòl&lt;/h4&gt;
 
@@ -62,15 +111,15 @@ Frank’s 2007 work on “Sources of St. Lucian Creole Vocabulary” suggested t
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;The current LIWC dictionary is composed of 5,690 words and word stems. Therefore there means that some words are not accounted for, and to a broader extent translation does not always indicate sentiment; concepts such as sarcasm, irony, and slang, polysemy, and captionyms can be problematic if the context is not adequately communicated.&lt;/p&gt;
+&lt;p&gt;The current LIWC dictionary is composed of 5,690 words and word stems. Therefore, this means that some words are not accounted for, and to a broader extent translation does not always indicate sentiment; concepts such as sarcasm, irony, and slang, polysemy, and captionyms can be problematic if the context is not adequately communicated.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Need to discuss online dictionaries&lt;/li&gt;
+  &lt;li&gt;Need to discuss online dictionaries (might need to add something more to the details below).&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Online dictionaries allow users and compilers opportunities far beyond those of traditional publishing constructions. For an endangered language, the use of such a resource becoming increasingly essential. However, the use of static online dictionaries may not be sufficient to meet the demands of language that is slowly dying. Static dictionaries with dynamic qualities may better serve the needs of cataloging an endangered language.&lt;/p&gt;
 
-&lt;p&gt;Online dictionaries can benefit from using technology to update their records regularly. This not only pertains to new sections of the alphabet but “also with words of particular interest to its users at the time”. Words such as LOL and YOLO were online slang that were added to the Oxford English Dictionary (OED) in 2011, and 2016 respectively. The third edition of the OED appears to no longer suppress widely‑used slang terms, however, it certainly is incapable of documenting the meaning and use of every fleeting term used among small assortments of speakers within the entirety of the English‑speaking world.&lt;/p&gt;
+&lt;p&gt;Online dictionaries can benefit from using technology to update their records regularly. This not only pertains to new sections of the alphabet but “also with words of particular interest to its users at the time”. Words such as ‘LOL’ and ‘YOLO’ were online slang that were added to the Oxford English Dictionary (OED) in 2011, and 2016 respectively. The third edition of the OED appears to no longer suppress widely‑used slang terms, however, it certainly is incapable of documenting the meaning and use of every fleeting term used among small assortments of speakers within the entirety of the English‑speaking world.&lt;/p&gt;
 
 &lt;p&gt;The Urban Dictionary is the free service of an online dictionary of contemporary English slang usage; it is a “collaborative project of over 1 million definitions for over 400,000 unique headwords”. It serves as an online lexicography where public contributors explain the meanings of words and phrases not readily covered by traditional dictionaries; contributors collaborate, cooperate, and compete for meaning-making. Eventually, depending on the proliferation of use in society, official dictionaries, such as OED, may elect to officially adopt a word from such a collection.&lt;/p&gt;
 
@@ -84,11 +133,12 @@ Frank’s 2007 work on “Sources of St. Lucian Creole Vocabulary” suggested t
 
 &lt;p&gt;As noted before, Saint Lucian Kwéyòl is highly influenced by ‘imported vocabulary’; the majority of which is French followed by English, however, it should be noted that the third largest portion of the language has definitive etymological sources. These words may constitute out-of-vocabulary (OOV) regarding a standard English or French treebank and could result in difficulties for using English-trained tools on Saint Lucian Kwéyòl &lt;a class=&quot;citation&quot; href=&quot;#Wang2020FromGT&quot;&gt;(Wang et al., 2020)&lt;/a&gt;. Moreover, in terms of topic prominence, Saint Lucian creole is regarded as a ‘Subject-Predicate-Object’ ordered language &lt;a class=&quot;citation&quot; href=&quot;#frank1992clause&quot;&gt;(Frank, 1992)&lt;/a&gt;.&lt;/p&gt;
 
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- I do want to include a bit of discussion about the creole sentence structure, clauses, and the lingering impact of languages such as French, English, Spanish; this may involve the discussion of the common Subject+Verb+Object (SVO) structure, versus the Subject+Object+Verb (SOV), etc. This sentence structure typically notes a noun phrase before a verb phrase (or a Subject+Predicate(+Object) combination at the clause level), however, structures of creoles sentences may not be so simple. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
 &lt;p&gt;It is also important to note that additional natural language processing issues may arise when manipulating the creole language, or attempting to adapt it to a digital environment such as a comprehensive online-dictionary. Public contributors may understand the language in terms of speaking it, however, they may not be the best teachers; that is to say that contributors may not always be clear in their explanations or contributions. Overall, straying from official spellings of words can contribute to data entry issues. For example, one can observe the accents used with “chofé” - “to heat up”,  and “chofè” - a “driver”. These words without context and accents would be very difficult to decipher. Persons inaccurately applying accents, or unable to access the necessary unique characters were required (diacritics) for formal grammar can present problems in documenting the language.&lt;/p&gt;
 
-&lt;p&gt;As noted by Frank, some dictionary entries can present as variants of keywords, and debates can arise concerning which word should be the dominant standard form, and which should be the variant form &lt;a class=&quot;citation&quot; href=&quot;#Frank2001kweyol&quot;&gt;(Crosbie et al., 2001)&lt;/a&gt;. For example, the Saint Lucian Kwéyòl dictionary notes &lt;em&gt;jòdi&lt;/em&gt; as the standard form of the adverb ‘today’, and &lt;em&gt;hòdi&lt;/em&gt; as the variant form &lt;a class=&quot;citation&quot; href=&quot;#Frank2001kweyol&quot;&gt;(Crosbie et al., 2001)&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Frank is said to address the issue of determining the Kwéyòl form of words by noting the ‘commonly-used form that is closest to the French origin (or, in some cases, origin from another source) was chosen for a full entry, and other forms less directly related to the form of the etymological source were said to be the variants’ &lt;a class=&quot;citation&quot; href=&quot;#Frank2001kweyol&quot;&gt;(Crosbie et al., 2001)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;As noted by Frank, some dictionary entries can present as variants of keywords, and debates can arise concerning which word should be the dominant standard form, and which should be the variant form &lt;a class=&quot;citation&quot; href=&quot;#Frank2001kweyol&quot;&gt;(Crosbie et al., 2001)&lt;/a&gt;. For example, the Saint Lucian Kwéyòl dictionary notes &lt;em&gt;jòdi&lt;/em&gt; as the standard form of the adverb ‘today’, and &lt;em&gt;hòdi&lt;/em&gt; as the variant form &lt;a class=&quot;citation&quot; href=&quot;#Frank2001kweyol&quot;&gt;(Crosbie et al., 2001)&lt;/a&gt;. Frank is said to address the issue of determining the Kwéyòl form of words by noting the ‘commonly-used form that is closest to the French origin (or, in some cases, origin from another source) was chosen for a full entry, and other forms less directly related to the form of the etymological source were said to be the variants’ &lt;a class=&quot;citation&quot; href=&quot;#Frank2001kweyol&quot;&gt;(Crosbie et al., 2001)&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h4 id=&quot;problems-of-polysemy&quot;&gt;Problems of polysemy&lt;/h4&gt;
 
@@ -105,9 +155,7 @@ and making homophonous lexemes two or more separate entries; polysemous terms ca
 
 &lt;p&gt;It is said that the shared creole alphabet writing system arose out of two creole ethnography workshops held in St. Lucia in January 1981 and September in 1982; this was developed through the efforts of researchers at “the University of the West Indies (U.W.I.), The Université Antilles – Guyane groups from St. Lucia (MOKWÉYÓL), Dominica (K.E.K.) and the Groupé d’Etude et de Recherche en Espace, Creolophone (GEREC) from Martinique and Guadeloupe” (missing reference).&lt;/p&gt;
 
-&lt;p&gt;Even the word, “Creole” can be viewed as a contested, polysemous term in the English language. The term has been used at different times and in various geographical regions to describe distinct identities, languages, peoples, ethnicities, racial heritages, and cultural artefacts. As an adjective, Creole was applied as an indicator of higher status bestowed upon Louisiana-born slaves to distinguish them from those born in African. It was also used as a noun to designate local birth in Louisiana, regardless of racial heritage; later Creole was used by Americans when referring to people of Spanish or French descent, yet it has often been conflated with the term “Cajan” (which described French colonists that settled in Canada’s Acadia region, then migrated to Louisiana). In fact, for some time, there was also a misconception that the term only referred to whites born in Louisiana.&lt;/p&gt;
-
-&lt;p&gt;Currently, Creole primarily refers to one’s linguistic heritage (French culture and a unique Franco-linguistic dialect) as the main source of their ethnic identity (particularly those of mixed or foreign ancestry). Creole, ‘Kreyol’ or ‘Kweyol’ also refers to the creole languages in the Caribbean, including Antillean Creole, Haitian Creole, and Jamaican Creole, among others.&lt;/p&gt;
+&lt;p&gt;Even the word, “Creole” can be viewed as a contested, polysemous term in the English language. The term has been used at different times and in various geographical regions to describe distinct identities, languages, peoples, ethnicities, racial heritages, and cultural artefacts. As an adjective, Creole was applied as an indicator of higher status bestowed upon Louisiana-born slaves to distinguish them from those born in African. It was also used as a noun to designate local birth in Louisiana, regardless of racial heritage; later Creole was used by Americans when referring to people of Spanish or French descent, yet it has often been conflated with the term “Cajan” (which described French colonists that settled in Canada’s Acadia region, then migrated to Louisiana). In fact, for some time, there was also a misconception that the term only referred to whites born in Louisiana. Currently, Creole primarily refers to one’s linguistic heritage (French culture and a unique Franco-linguistic dialect) as the main source of their ethnic identity (particularly those of mixed or foreign ancestry). Creole, ‘Kreyol’ or ‘Kweyol’ also refers to the creole languages in the Caribbean, including Antillean Creole, Haitian Creole, and Jamaican Creole, among others.&lt;/p&gt;
 
 &lt;p&gt;Polysemy may indeed present an issue when attempting to study a language or dialects, however, it is in fact, the premise of much of the active literature in this language. Calypso, and most other endemic forms of music, may celebrate this ability to utilize words or phrases bearing double meanings to indirectly discuss topics that are often crude. Philips suggested that Calypsos can engage this method via ‘lamina lyrics’. &lt;em&gt;Much like an onion, these Calypsos have a number of different levels of meaning, concealed one underneath the other. Achieving this phenomenon, Calypsonians use frames and masks that manifest in Calypsos as a metaphor, metonym, polysemy, irony, and satire&lt;/em&gt;.&lt;/p&gt;
 
@@ -118,8 +166,9 @@ and making homophonous lexemes two or more separate entries; polysemous terms ca
 
 &lt;p&gt;Moreover,  Sasse (2001) lists ten changes occurring during language obsolescence;  several of which bear similarities to those described by Campbell &amp;amp; Muntzel (1989) and Palosaari &amp;amp; Campbell (2011), namely: &lt;em&gt;loss of phonological distinctions, regularization of morphophonemics, loss of function words, analyticity, loss of morphology, loss of syntactic complexity, agrammatism, phonological and grammatical variability, reduction of vocabulary, and an increase in polysemy&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;Evaluating and creating structures is crucial for the preservation and promotion of endangered languages.
-&lt;strong&gt;Need to expand on the definition of systems dynamic model and other models here…&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Evaluating and creating structures is crucial for the preservation and promotion of endangered languages.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Need to expand on the definition of systems dynamic model and other models here…&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;investigation&quot;&gt;Investigation&lt;/h4&gt;
 
@@ -134,9 +183,138 @@ It begs the question, how can one leverage existing tree-banks, focusing on POS 
     &lt;p&gt;Additionally, this ultimately leaves one to wonder if it is logical and possible to merge an official online static dictionary with a dynamic slang dictionary to increase overall fluency in an endangered language? Such a system would require access to an existing dictionary, as well as opportunities for dictionary contributions. The creation of an interactive dictionary may assist with reinvigorating the usage of the language through active use and contributions to this resource, but also offer opportunities to actively discuss and clarify words and concepts associated with creole.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Need to clean this up and add the references mentioned&lt;/p&gt;
+    &lt;p&gt;Need to clean this up and add the references mentioned above.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h4 id=&quot;implications-for-the-field-of-study-the-works-significance-and-contribution-to-the-field-of-data-science-and-cross-domain-appeal&quot;&gt;Implications for the Field of Study: The work’s significance and contribution to the field of Data Science and cross-domain appeal.&lt;/h4&gt;
+
+&lt;p&gt;As noted above, this paper intends to focus on computational linguistic (and machine translation) skills to address societal communication difficulties, particularly when dealing with low resource languages. Introducing a framework to natural language processing will improve computational linguistics as when as data science, as both tend to use the same or similar models and technologies. However, there are additional related fields that may benefit from introducing frameworks that ultimately improve communications; particularly in low-resource/ endangered languages. Therefore, this work can also be considered to explore the possible cross-domain approach to ethical data science projects through highlighting the similarities of skills and technologies associated with, and the possible merger of, the topics related to digital humanities and biocultural diversity.&lt;/p&gt;
+
+&lt;p&gt;During the 2020 SARS-CoV-2 pandemic, global citizens began critically assessing existing communication issues and problematic policies, and strove to create and cement beneficial policies for the future. It appeared that genuine value could be generated from studies in the areas of Digital Humanities (DH) and Biocultural Diversity (BCD), as these fields specifically focus on the intrinsic connection between societal structures and its possible harmony with their surroundings.&lt;/p&gt;
+
+&lt;p&gt;Digital Humanities can be interpreted as the intersection of computing (or digital technologies and humanities disciplines; it is regarded as the technology space where many digital humanists undertake the process of “translating texts into digital spaces and data or translating digital and quantitative information into new texts and interpretations” &lt;a class=&quot;citation&quot; href=&quot;#levenberg2018research&quot;&gt;(Levenberg et al., 2018)&lt;/a&gt;. The field of digital humanities is quite diverse, and flexible, meaning that skills acquired can be applied to various areas. For example, an understanding and appreciation of linguistics is often helpful when working in this field; a digital humanities task related to linguistic analysis and marketing could entail an analysis of YouTube Play comments to aid in answering a question about targeted audiences  &lt;a class=&quot;citation&quot; href=&quot;#levenberg2018research&quot;&gt;(Levenberg et al., 2018)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The ability to reliably collect and manipulate a large set of texts is crucial; one may employ computational techniques from “natural language processing, corpus linguistics, distant reading, or broad
+reading”  &lt;a class=&quot;citation&quot; href=&quot;#levenberg2018research&quot;&gt;(Levenberg et al., 2018)&lt;/a&gt;. These techniques assist with data processing; this can encompass data aggregation and analysis of large sets of structured or unstructured texts  &lt;a class=&quot;citation&quot; href=&quot;#levenberg2018research&quot;&gt;(Levenberg et al., 2018)&lt;/a&gt;. Depending on the purposes of
+their research, it is said that different disciplinary approaches use distinct sets of algorithmic or programmatic approaches to interpreting the contents of texts  &lt;a class=&quot;citation&quot; href=&quot;#levenberg2018research&quot;&gt;(Levenberg et al., 2018)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Digital humanities can be the strategic and systematic implementation and utilization of digital resources on the study of the humanities and further analysis of their application. For example, this can take the form of works in archeology. Undertakings can produce an intricate reconstruction of the social and environmental history of various areas of a bygone era (like developing “Patterns of Etruscan Urbanism” &lt;a class=&quot;citation&quot; href=&quot;#stoddart2020patterns&quot;&gt;(Stoddart et al., 2020)&lt;/a&gt;); this area is particularly useful when attempting to process historical documents related to time data &lt;a class=&quot;citation&quot; href=&quot;#ortman2019new&quot;&gt;(Ortman, 2019)&lt;/a&gt;. Additionally, these skills can be useful in recreating documents  &lt;a class=&quot;citation&quot; href=&quot;#ortman2019new&quot;&gt;(Ortman, 2019)&lt;/a&gt;, catalog images &lt;a class=&quot;citation&quot; href=&quot;#DH_Art_label_Delgado&quot;&gt;(Ziegler Delgado, 2020)&lt;/a&gt;, using Computer Vision &lt;a class=&quot;citation&quot; href=&quot;#DH_pattern_recognition_Cornia&quot;&gt;(Cornia et al., 2020)&lt;/a&gt;, and using various forms of machine translation to handle text processing &lt;a class=&quot;citation&quot; href=&quot;#DH_LIWC_2020Ye_Boot&quot;&gt;(Ye &amp;amp; Boot, 2020)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Need to expand this area a bit; may need more sources&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In Mattmann’s “vision for data science” he suggested that “for the specialism to emerge and grow, data scientists will have to overcome barriers that are common to multidisciplinary research” &lt;a class=&quot;citation&quot; href=&quot;#mattmann2013vision&quot;&gt;(Mattmann, 2013)&lt;/a&gt;. Luisa Maffi was the co-founder and director of Terralingua and a pioneer in the Biocultural Diversity domain of research &lt;a class=&quot;citation&quot; href=&quot;#terralingua_2019&quot;&gt;(Terralingua, 2019; Terralingua, 2020; Terralingua, 2014; Maffi &amp;amp; others, 2007; Maffi, 2005)&lt;/a&gt;. She revealed the interrelated (and possibly coevolved) nature of the diversity of all forms of life within a complex socio-ecological adaptive system. BCD projects tend to have some connection to conservation efforts, and have strong ties to linguistics; according to Maffi, biological, cultural, and scientific complexity add to the various forms of diversity in life &lt;a class=&quot;citation&quot; href=&quot;#terralingua_2019&quot;&gt;(Terralingua, 2019; Bates et al., 2020; Buckley, 2020; Corlett et al., 2020; Maffi &amp;amp; others, 2007; Maffi, 2005)&lt;/a&gt;. BCD has been regarded as an evolving perspective for examining the interconnection of living beings and their environments, particularly regarding conservation efforts &lt;a class=&quot;citation&quot; href=&quot;#myers2000biodiversity&quot;&gt;(Myers et al., 2000)&lt;/a&gt;; one source regards it as highlighting the “interrelatedness between people and their natural environment” &lt;a class=&quot;citation&quot; href=&quot;#buizer2016governing&quot;&gt;(Buizer et al., 2016)&lt;/a&gt;. Maffi has dedicated much of her work to linguistics &lt;a class=&quot;citation&quot; href=&quot;#maffi2005linguistic&quot;&gt;(Maffi, 2005)&lt;/a&gt;, particularly the preserving and reinvigorating endangered languages &lt;a class=&quot;citation&quot; href=&quot;#maffi2002endangered&quot;&gt;(Maffi, 2002; Maffi, 2003)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;While BCD adaptable to every environment, it is very apt for positive projects in rural areas or the countryside communities (with limited infrastructure) and even indigenous communities  &lt;a class=&quot;citation&quot; href=&quot;#terralingua_2019&quot;&gt;(Terralingua, 2019; Terralingua, 2020; Terralingua, 2014; Maffi &amp;amp; others, 2007; Maffi, 2005)&lt;/a&gt;. Often these communities highly value their environment as it sustains them. For example, Brazil is a country with vast natural resources, and it is home to various indigenous communities (with many unique languages).&lt;/p&gt;
+
+&lt;p&gt;In one Brazilian study, the thoughtful application of BCD actions aided in counteracting adverse social outcomes where government interference in local nature governance occurred (missing reference). Island countries such as Saint Lucia, in the Caribbean, has a local heritage language of Saint Lucian Kwéyòl language that is currently in a precarious state; no language vitality census has been attempted since the late 1940s &lt;a class=&quot;citation&quot; href=&quot;#irvine2020language&quot;&gt;(Irvine, 2020; Hilaire, 2008; St-Hilaire, 2011)&lt;/a&gt;. The vocabulary of this language is intrinsically tied to objects in the natural environment.  Moreover, the country’s national cultural policy outlines even outlined a desire for Saint Lucian Caribbean people to “be aware of the importance of living in harmony with the environment” &lt;a class=&quot;citation&quot; href=&quot;#unesco_2017&quot;&gt;(UNESCO, 2017; CDF, 2019)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Another work acknowledged Maffi’s expression of concern for the twofold destruction of local cultures and wilderness in her early writings, yet the work highlighted the possible positive outcomes with diligent proactive efforts. It was believed that acknowledgment of BCD would facilitate a move from a “crisis narrative to a dynamic narrative” &lt;a class=&quot;citation&quot; href=&quot;#elands_biocultural_2019&quot;&gt;(Elands et al., 2019)&lt;/a&gt;. Additionally, the work highlighted that BCD studies do not solely occur in rural areas; observations could be made in cities to assist with improving living standards and encouraging urban green infrastructure projects &lt;a class=&quot;citation&quot; href=&quot;#elands_biocultural_2019&quot;&gt;(Elands et al., 2019)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Cities are increasingly considering BCD projects as a means of rapidly ameliorating living conditions. BCD has been recognized for its ability to foster creative solutions to addressing environmental concerns, and aid in a more forceful embedding of ecology into decision-making (beyond standard ecological concepts such as Ecosystems Services (ES)) &lt;a class=&quot;citation&quot; href=&quot;#buizer2016governing&quot;&gt;(Buizer et al., 2016)&lt;/a&gt;; one work insisted that researchers and policy-makers carefully consider including BCD in their “conceptual repertoire” related to environmental projects as a means of addressing the “value-orientations of all stakeholders” &lt;a class=&quot;citation&quot; href=&quot;#buizer2016governing&quot;&gt;(Buizer et al., 2016)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;While the concept of biocultural diversity is relatively novel, there are increasing bodies of works constantly being developed, even during the 2020 SARS-CoV-2 pandemic. In fact, the pandemic appeared to be creating a unique opportunity to academically assess the interrelatedness of entities existing and enduring through the crisis; as noted earlier, there are unusual increases and decreases of interactions between humans and animals, and between humans and their environments &lt;a class=&quot;citation&quot; href=&quot;#reyes-valdes_information_2020&quot;&gt;(Reyes-Valdés &amp;amp; Kantartzi, 2020; Bates et al., 2020; Buckley, 2020; Corlett et al., 2020)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;For example, one new work during this time acknowledged the concept’s typical associations with transdisciplinary projects and the concept’s involvement with linguistic, cultural, and biological research methods in tandem with numerous statistical and mathematical approaches &lt;a class=&quot;citation&quot; href=&quot;#reyes-valdes_information_2020&quot;&gt;(Reyes-Valdés &amp;amp; Kantartzi, 2020)&lt;/a&gt;. However, the work then demonstrated the adaptability of the concept to biological data, by connecting transcriptome analysis bearing a biological interaction structure of a cultural group. Unique relationships were able to be identified through the lens of the cultural group component. The findings were scientifically supported, as it was said that “the specificity and specialization indices have a direct mathematical relationship with the biocultural complexity, which can be interpreted as the effective number of biocultural units equivalent to the observed data” &lt;a class=&quot;citation&quot; href=&quot;#reyes-valdes_information_2020&quot;&gt;(Reyes-Valdés &amp;amp; Kantartzi, 2020)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;May need to expand this area a bit; may need more sources&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Motivation is essential to change, however, to properly allocate resources, data collection and analysis should occur; based on the details above, it does appear that the areas of digital humanities and biocultural diversity do acknowledge and respect careful scientific observation and accounting of findings. Data science offers a plethora of tools in which to explore our world. However, it is often a difficult task to decipher what tools to use and when. Developing the skill and capacity to achieve this requires quite a bit of study. It also requires a significant degree of concern and compassion to dedicate resources to research that may not have a direct, immediate, or substantial financial reward.&lt;/p&gt;
+
+&lt;h4 id=&quot;publication-plan&quot;&gt;Publication Plan&lt;/h4&gt;
+
+&lt;p&gt;The publication process can be viewed as an essential part of one’s Ph.D. solidification in the field. While publications before graduation from a program can at times be difficult, it may be advantageous to attempt this as part of one’s ultimate success in the field. A publication plan allows one to market their results to places that are more apt to appreciate one’s works; this allows one to ensure that their contributions are better recognized by industry professionals. Some have viewed such publications as providing a powerful and significant indicator for ‘scientific career advancement’ &lt;a class=&quot;citation&quot; href=&quot;#giebel_2019&quot;&gt;(Giebel, 2019)&lt;/a&gt;; this is particularly important in a highly competitive field.&lt;/p&gt;
+
+&lt;p&gt;Based on the level of a literature review I intend to complete concerning the creation of a framework and its application, I intend to publish a view papers/chapters before my final dissertation presentation (as soon as possible). My main target is a recently created publication geared towards data science papers - &lt;em&gt;Patterns&lt;/em&gt;. It is said to publish&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;…original research in data science, particularly focusing on solutions to the cross-disciplinary problems that all researchers face when dealing with data, and articles about datasets, software code, algorithms, infrastructures, etc., with permanent links to these research outputs. Patterns also promotes cross-community conversation by publishing opinion pieces and review articles* &lt;a class=&quot;citation&quot; href=&quot;#patterns_2020&quot;&gt;(“Patterns,” 2020)&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Since I do intend to discuss matters related to computational linguistics, frameworks, and my dissertation’s societal value to low-resource languages (biocultural diversity topics), I do believe that this is an appropriate target. However, this does not mean that other publishers will not be considered; I am also open to suggestions and changes concerning this matter. Please see below for details on publications currently being considered.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Publications:&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Patterns:&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;https://www.cell.com/patterns/home&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Applied Corpus Linguistics:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;https://www.journals.elsevier.com/applied-corpus-linguistics&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Language &amp;amp; Communication: An Interdisciplinary Journal:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;https://www.journals.elsevier.com/language-and-communication&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Lingua: An International Review of General Linguistics:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;https://www.journals.elsevier.com/lingua&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Ampersand: An International Journal of General and Applied Linguistics:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;https://www.journals.elsevier.com/ampersand&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Journal of Memory and Language:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;https://www.journals.elsevier.com/journal-of-memory-and-language&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Linguistics and Education: An International Research Journal:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;https://www.journals.elsevier.com/linguistics-and-education&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Journal of Second Language Writing: An international journal on second and foreign language writing and writing instruction:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;https://www.journals.elsevier.com/journal-of-second-language-writing&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Language Sciences:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;https://www.journals.elsevier.com/language-sciences&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Modern Journal of Language Teaching Methods (MJLTM):&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;https://mjltm.org/&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Elsevier Journals in Linguistics and Language:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;https://www.elsevier.com/social-sciences-and-humanities/linguistics-and-language/journals&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Journal of Marine and Island Cultures:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;https://jmic.online/&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Sustainability — Open Access Journal:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;https://www.mdpi.com/journal/sustainability&lt;/p&gt;
 
 &lt;h3 id=&quot;references&quot;&gt;References:&lt;/h3&gt;
 
@@ -144,6 +322,22 @@ It begs the question, how can one leverage existing tree-banks, focusing on POS 
 &lt;li&gt;&lt;span id=&quot;kweyol_fb_joseph&quot;&gt;Joseph, J. C. (2020). Kwéyòl Sent Lisi. In &lt;i&gt;Facebook&lt;/i&gt;. https://www.facebook.com/kweyolsentlisi/&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span id=&quot;nivre2016universal&quot;&gt;Nivre, J., De Marneffe, M.-C., Ginter, F., Goldberg, Y., Hajic, J., Manning, C. D., McDonald, R., Petrov, S., Pyysalo, S., Silveira, N., &amp;amp; others. (2016). Universal dependencies v1: A multilingual treebank collection. &lt;i&gt;Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC’16)&lt;/i&gt;, 1659–1666.&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span id=&quot;Wang2020FromGT&quot;&gt;Wang, H., Yang, J., &amp;amp; Zhang, Y. (2020). From Genesis to Creole Language. &lt;i&gt;ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)&lt;/i&gt;, &lt;i&gt;19&lt;/i&gt;, 1–29. https://doi.org/10.1145/3321128&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;ferreira2019improving&quot;&gt;Ferreira, J., Gonçalo Oliveira, H., &amp;amp; Rodrigues, R. (2019). Improving NLTK for processing Portuguese. &lt;i&gt;8th Symposium on Languages, Applications and Technologies (SLATE 2019)&lt;/i&gt;.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;abeille2012treebanks&quot;&gt;Abeillé, A. (2012). &lt;i&gt;Treebanks: Building and using parsed corpora&lt;/i&gt; (Vol. 20). Springer Science &amp;amp; Business Media.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;abeille2003building&quot;&gt;Abeillé, A., Clément, L., &amp;amp; Toussenel, F. (2003). Building a treebank for French. In &lt;i&gt;Treebanks&lt;/i&gt; (pp. 165–187). Springer.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;abeille2004enriching&quot;&gt;Abeillé, A., &amp;amp; Barrier, N. (2004). Enriching a French treebank. &lt;i&gt;LREC&lt;/i&gt;.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;terralingua_2019&quot;&gt;Terralingua. (2019). What Is Biocultural Diversity? In &lt;i&gt;Terralingua&lt;/i&gt;. Terralingua. https://terralingua.org/what-we-do/what-is-biocultural-diversity/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;terralingua_edu_2020&quot;&gt;Terralingua. (2020). Biocultural Diversity Education. In &lt;i&gt;Terralingua&lt;/i&gt;. Terralingua. https://terralingua.org/our-projects/biocultural-diversity-education/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;terralingua_overview_2014&quot;&gt;Terralingua. (2014). Our Overview of a New Approach to Education and Curriculum Development . In &lt;i&gt;Terralingua&lt;/i&gt;. Terralingua. https://terralingua.org/wp-content/uploads/2015/07/BCDEI-Overview.pdf&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;maffi2007biocultural&quot;&gt;Maffi, L., &amp;amp; others. (2007). Biocultural diversity and sustainability. &lt;i&gt;The SAGE Handbook of Environment and Society. SAGE Publ., London&lt;/i&gt;, 267–277.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;maffi2005linguistic&quot;&gt;Maffi, L. (2005). Linguistic, cultural, and biological diversity. &lt;i&gt;Annu. Rev. Anthropol.&lt;/i&gt;, &lt;i&gt;34&lt;/i&gt;, 599–617.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;BrunoGonccalves2016touristic&quot;&gt;Bassolas, A., Lenormand, M., Tugores, A., Gonçalves, B., &amp;amp; Ramasco, J. J. (2016). Touristic site attractiveness seen through Twitter. &lt;i&gt;EPJ Data Science&lt;/i&gt;, &lt;i&gt;5&lt;/i&gt;(1), 12.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;BrunoGonccalves2013twitter&quot;&gt;Mocanu, D., Baronchelli, A., Perra, N., Gonçalves, B., Zhang, Q., &amp;amp; Vespignani, A. (2013). The twitter of babel: Mapping world languages through microblogging platforms. &lt;i&gt;PloS One&lt;/i&gt;, &lt;i&gt;8&lt;/i&gt;(4), e61981.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;BrunoGonccalves2014crowdsourcing&quot;&gt;Gonçalves, B., &amp;amp; Sánchez, D. (2014). Crowdsourcing dialect characterization through Twitter. &lt;i&gt;PloS One&lt;/i&gt;, &lt;i&gt;9&lt;/i&gt;(11), e112074.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;BrunoGonccalves2014links&quot;&gt;Ronen, S., Gonçalves, B., Hu, K. Z., Vespignani, A., Pinker, S., &amp;amp; Hidalgo, C. A. (2014). Links that speak: The global language network and its association with global fame. &lt;i&gt;Proceedings of the National Academy of Sciences&lt;/i&gt;, &lt;i&gt;111&lt;/i&gt;(52), E5616–E5622.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;BrunoGonccalves2017semantic&quot;&gt;Šćepanović, S., Mishkovski, I., Gonçalves, B., Nguyen, T. H., &amp;amp; Hui, P. (2017). Semantic homophily in online communication: evidence from twitter. &lt;i&gt;Online Social Networks and Media&lt;/i&gt;, &lt;i&gt;2&lt;/i&gt;, 1–18.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;Frank2001kweyol&quot;&gt;Crosbie, P., Frank, D., Leon, E., Samuel, P., &amp;amp; Castries, S. L. (2001). Kwéyòl dictionary. &lt;i&gt;Castries, Government of Saint Lucia, Ministry of Education&lt;/i&gt;. http://www.saintluciancreole.dbfrank.net/dictionary/KweyolDictionary.pdf&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;wijffels_2020&quot;&gt;Wijffels, J. (2020). UDPipe Natural Language Processing - Text Annotation. In &lt;i&gt;UDPipe&lt;/i&gt;. https://cran.r-project.org. https://cran.r-project.org/web/packages/udpipe/vignettes/udpipe-annotation.html)&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span id=&quot;maslow_1943_2000&quot;&gt;Maslow, A. H. (1943). Theory of Human Motivation : Psychological Review. In &lt;i&gt;Classics in the History of Psychology: A Theory of Human Motivation&lt;/i&gt;. Christopher D. Green of York University, Toronto, Ontario . https://psychclassics.yorku.ca/Maslow/motivation.htm&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span id=&quot;matias2020human&quot;&gt;Matias, T., Dominski, F. H., &amp;amp; Marks, D. F. (2020). &lt;i&gt;Human needs in COVID-19 isolation&lt;/i&gt;. SAGE Publications Sage UK: London, England. https://journals.sagepub.com/doi/full/10.1177/1359105320925149&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span id=&quot;wong2020healing&quot;&gt;Wong, A. H., Pacella-LaBarbara, M. L., Ray, J. M., Ranney, M. L., &amp;amp; Chang, B. P. (2020). Healing the Healer: Protecting Emergency Health Care Workers’ Mental Health During COVID-19. &lt;i&gt;Annals of Emergency Medicine&lt;/i&gt;. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7196406/&lt;/span&gt;&lt;/li&gt;
@@ -165,8 +359,30 @@ It begs the question, how can one leverage existing tree-banks, focusing on POS 
 &lt;li&gt;&lt;span id=&quot;marmion2014community&quot;&gt;Marmion, D., Obata, K., &amp;amp; Troy, J. (2014). &lt;i&gt;Community, identity, wellbeing: the report of the Second National Indigenous Languages Survey&lt;/i&gt;. Australian Institute of Aboriginal and Torres Strait Islander Studies Canberra.&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span id=&quot;kabir_dennerysegment2020creolization&quot;&gt;Kabir, A. J. (2020). Creolization as balancing act in the transoceanic quadrille: Choreogenesis, incorporation, memory, market. &lt;i&gt;Atlantic Studies&lt;/i&gt;, &lt;i&gt;17&lt;/i&gt;(1), 135–157.&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span id=&quot;frank1992clause&quot;&gt;Frank, D. (1992). &lt;i&gt;Clause versus Sentence in St. Lucian French Creole&lt;/i&gt;.&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span id=&quot;Frank2001kweyol&quot;&gt;Crosbie, P., Frank, D., Leon, E., Samuel, P., &amp;amp; Castries, S. L. (2001). Kwéyòl dictionary. &lt;i&gt;Castries, Government of Saint Lucia, Ministry of Education&lt;/i&gt;. http://www.saintluciancreole.dbfrank.net/dictionary/KweyolDictionary.pdf&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span id=&quot;dominica_dic2018&quot;&gt;Kweyol Language. (2018). In &lt;i&gt;A virtual Dominica&lt;/i&gt;. Govt of Dominica. https://www.avirtualdominica.com/project/creole-kweyol-language/&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;
+&lt;li&gt;&lt;span id=&quot;dominica_dic2018&quot;&gt;Kweyol Language. (2018). In &lt;i&gt;A virtual Dominica&lt;/i&gt;. Govt of Dominica. https://www.avirtualdominica.com/project/creole-kweyol-language/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;levenberg2018research&quot;&gt;Levenberg, L., Neilson, T., &amp;amp; Rheams, D. (2018). &lt;i&gt;Research methods for the digital humanities&lt;/i&gt;. Springer.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;stoddart2020patterns&quot;&gt;Stoddart, S., Palmisano, A., Redhouse, D., Barker, G., Di Paola, G., Motta, L., Rasmussen, T., Samuels, T., &amp;amp; Witcher, R. E. (2020). Patterns of Etruscan urbanism. &lt;i&gt;Frontiers in Digital Humanities.&lt;/i&gt;, &lt;i&gt;7&lt;/i&gt;, 1.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;ortman2019new&quot;&gt;Ortman, S. G. (2019). A New Kind of Relevance for Archaeology. &lt;i&gt;Frontiers in Digital Humanities&lt;/i&gt;, &lt;i&gt;6&lt;/i&gt;, 16. https://doi.org/10.3389/fdigh.2019.00016&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;DH_Art_label_Delgado&quot;&gt;Ziegler Delgado, M. M. (2020). THE TIME OF DIGITAL HUMANITIES: BETWEEN ART HISTORY, CULTURAL HERITAGE, GLOBAL CITIZENSHIP AND EDUCATION IN DIGITAL SKILLS. &lt;i&gt;Revista De Comunicación De La SEECI&lt;/i&gt;, &lt;i&gt;52&lt;/i&gt;, 29. http://proxy-harrisburg.klnpa.org/login?url=http://search.ebscohost.com/login.aspx?direct=true&amp;amp;db=edb&amp;amp;AN=145102698&amp;amp;site=eds-live&amp;amp;scope=site&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;DH_pattern_recognition_Cornia&quot;&gt;Cornia, M., Stefanini, M., Baraldi, L., Corsini, M., &amp;amp; Cucchiara, R. (2020). Explaining digital humanities by aligning images and textual descriptions. &lt;i&gt;Pattern Recognition Letters&lt;/i&gt;, &lt;i&gt;129&lt;/i&gt;, 166–172. http://proxy-harrisburg.klnpa.org/login?url=http://search.ebscohost.com/login.aspx?direct=true&amp;amp;db=edselp&amp;amp;AN=S0167865519303381&amp;amp;site=eds-live&amp;amp;scope=site&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;DH_LIWC_2020Ye_Boot&quot;&gt;Ye, Y., &amp;amp; Boot, P. (2020). &lt;i&gt;Machine Translation as an Alternative to Language-Specific Dictionaries for LIWC.&lt;/i&gt; http://proxy-harrisburg.klnpa.org/login?url=http://search.ebscohost.com/login.aspx?direct=true&amp;amp;db=edsbas&amp;amp;AN=edsbas.EE8D7521&amp;amp;site=eds-live&amp;amp;scope=site&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;mattmann2013vision&quot;&gt;Mattmann, C. A. (2013). A vision for data science. &lt;i&gt;Nature&lt;/i&gt;, &lt;i&gt;493&lt;/i&gt;(7433), 473–475.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;bates_2020&quot;&gt;Bates, A. E., Primack, R. B., Moraga, P., &amp;amp; Duarte, C. M. (2020). COVID-19 pandemic and associated lockdown as a &quot;Global Human Confinement Experiment&quot; to investigate biodiversity conservation. In &lt;i&gt;Biological conservation&lt;/i&gt;. Elsevier Ltd. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7284281/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;buckley2020conservation&quot;&gt;Buckley, R. (2020). Conservation implications of COVID19: Effects via tourism and extractive industries. &lt;i&gt;Biological Conservation&lt;/i&gt;. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7247974/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;corlett2020impacts&quot;&gt;Corlett, R. T., Primack, R. B., Devictor, V., Maas, B., Goswami, V. R., Bates, A. E., Koh, L. P., Regan, T. J., Loyola, R., Pakeman, R. J., &amp;amp; others. (2020). Impacts of the coronavirus pandemic on biodiversity conservation. &lt;i&gt;Biological Conservation&lt;/i&gt;, &lt;i&gt;246&lt;/i&gt;, 108571. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7139249&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;myers2000biodiversity&quot;&gt;Myers, N., Mittermeier, R. A., Mittermeier, C. G., Da Fonseca, G. A. B., &amp;amp; Kent, J. (2000). Biodiversity hotspots for conservation priorities. &lt;i&gt;Nature&lt;/i&gt;, &lt;i&gt;403&lt;/i&gt;(6772), 853–858. https://www.nature.com/articles/35002501?report=reader&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;buizer2016governing&quot;&gt;Buizer, M., Elands, B., &amp;amp; Vierikko, K. (2016). Governing cities reflexively—The biocultural diversity concept as an alternative to ecosystem services. &lt;i&gt;Environmental Science &amp;amp; Policy&lt;/i&gt;, &lt;i&gt;62&lt;/i&gt;, 7–13. https://doi.org/10.1016/j.envsci.2016.03.003&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;maffi2002endangered&quot;&gt;Maffi, L. (2002). Endangered languages, endangered knowledge. &lt;i&gt;International Social Science Journal&lt;/i&gt;, &lt;i&gt;54&lt;/i&gt;(173), 385–393. https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-2451.00390&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;maffi2003business&quot;&gt;Maffi, L. (2003). The “business” of language endangerment. &lt;i&gt;Language in the Twenty-First Century&lt;/i&gt;, 67–86.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;irvine2020language&quot;&gt;Irvine, M. (2020). &lt;i&gt;Language contact in St. Lucia: The features and origins of St. Lucia Creole English&lt;/i&gt; [PhD thesis]. ResearchSpace@ Auckland.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;hilaire2008postcolonialism&quot;&gt;Hilaire, A. S. (2008). Postcolonialism, identity, and the French language in St. Lucia. &lt;i&gt;New West Indian Guide/Nieuwe West-Indische Gids&lt;/i&gt;, &lt;i&gt;81&lt;/i&gt;(1-2), 55–77.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;hilaire2011kweyol&quot;&gt;St-Hilaire, A. (2011). &lt;i&gt;Kwéyòl in postcolonial Saint Lucia: Globalization, language planning, and national development&lt;/i&gt; (Vol. 40). John Benjamins Publishing.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;unesco_2017&quot;&gt;UNESCO. (2017). Technical and Vocational Education and Training (TVET) Policy Review: Saint Lucia. In &lt;i&gt;unesdoc.unesco.org&lt;/i&gt;. United Nations Educational, Scientific and Cultural Organization. https://unesdoc.unesco.org/ark:/48223/pf0000247494&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;cdf_2019&quot;&gt;CDF. (2019). National Cultural Policy. In &lt;i&gt;Cultural Development Foundation (CDF) St. Lucia&lt;/i&gt;. Ministry of Social Transformation, Culture &amp;amp; Local Government. http://www.cdfstlucia.org/who-we-are/national-cultural-policy/&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;elands_biocultural_2019&quot;&gt;Elands, B. H. M., Vierikko, K., Andersson, E., Fischer, L. K., Gonçalves, P., Haase, D., Kowarik, I., Luz, A. C., Niemelä, J., Santos-Reis, M., &amp;amp; Wiersum, K. F. (2019). Biocultural diversity: A novel concept to assess human-nature interrelations, nature conservation and stewardship in cities. &lt;i&gt;Urban Forestry &amp;amp; Urban Greening&lt;/i&gt;, &lt;i&gt;40&lt;/i&gt;, 29–34. https://doi.org/10.1016/j.ufug.2018.04.006&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;reyes-valdes_information_2020&quot;&gt;Reyes-Valdés, M. H., &amp;amp; Kantartzi, S. K. (2020). An information theory approach to biocultural complexity. &lt;i&gt;Scientific Reports&lt;/i&gt;, &lt;i&gt;10&lt;/i&gt;(1), 7203. https://doi.org/10.1038/s41598-020-64260-5&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;giebel_2019&quot;&gt;Giebel, M. (2019). Is it a good idea to publish during your PhD? Yes, but ... In &lt;i&gt;Nature News&lt;/i&gt;. Nature Publishing Group. https://socialsciences.nature.com/posts/53143-is-it-publish-or-perish-for-phd-students-it-depends&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;patterns_2020&quot;&gt;Patterns. (2020). In &lt;i&gt;journals.elsevier.com/patterns&lt;/i&gt;. Elsevier.com. https://www.journals.elsevier.com/patterns/#: :text=Patterns is a premium open,scope, regardless of original domain.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;
 </description>
                 <link>http://llord1.github.io/papers/2020/12/02/overview</link>
                 <guid>http://llord1.github.io/papers/2020/12/02/overview</guid>
@@ -1064,28 +1280,33 @@ Options: In private practice, in a firm with less than 5 lawyers; In private pra
                 <description>
 &lt;h3 id=&quot;safety-and-security-needs-can-be-explored-as-topics-related-to-assets&quot;&gt;&lt;strong&gt;&lt;em&gt;Safety and security needs&lt;/em&gt;&lt;/strong&gt; can be explored as topics related to &lt;strong&gt;&lt;em&gt;Assets&lt;/em&gt;&lt;/strong&gt;.&lt;/h3&gt;
 
-&lt;h3 id=&quot;introduction&quot;&gt;Introduction:&lt;/h3&gt;
+&lt;h4 id=&quot;introduction&quot;&gt;Introduction:&lt;/h4&gt;
 
 &lt;p&gt;What impact, if any, does tourism have on the vitality of the Saint Lucian Kwéyòl language? What factors elevated the prestige language on over the heritage language? For example, are tourists likely to move freely throughout all communities, or just certain ones based on the number of tourist attractions or ease of transportation (based on infrastructure)? Consequently, vendors of those communities may frequently defer to the prestige language when engaging in tourists due to the positive reinforcement associated with a successful sale. Also, are educational facilities of impressionable youths located near tourist hubs?&lt;/p&gt;
 
 &lt;p&gt;This study would entail observing data on various areas of interest related to tourism in Saint Lucia. For example, examining data on the number of tourist attractions per district, number of hotels per district,  the ports of entry per district, number of jobs related to tourism per district, number of educational facilities per district, and the number of main government offices per district. The final details may lead to a discussion of language hotspots; and a possible explanation of their existence.&lt;/p&gt;
 
-&lt;p&gt;Current data sources:&lt;/p&gt;
+&lt;h4 id=&quot;current-data-sources&quot;&gt;Current data sources:&lt;/h4&gt;
 
-&lt;p&gt;https://data.govt.lc/dataset/hotel-listings
-https://data.govt.lc/dataset/st-lucia-hotel-locations (coordinates)
-https://data.govt.lc/dataset/tourism-indicators&lt;/p&gt;
+&lt;p&gt;https://data.govt.lc/dataset/hotel-listings&lt;/p&gt;
 
-&lt;p&gt;https://data.govt.lc/dataset/st-lucia-communities
-https://data.govt.lc/dataset/st-lucia-districts (includes coordinates and basic population demographics)&lt;/p&gt;
+&lt;p&gt;https://data.govt.lc/dataset/st-lucia-hotel-locations (coordinates)&lt;/p&gt;
 
-&lt;p&gt;https://data.govt.lc/dataset/labour-force-statistics
-(List of tabulations and indicators 2014 - 2017)&lt;/p&gt;
+&lt;p&gt;https://data.govt.lc/dataset/tourism-indicators&lt;/p&gt;
+
+&lt;p&gt;https://data.govt.lc/dataset/st-lucia-communities&lt;/p&gt;
+
+&lt;p&gt;https://data.govt.lc/dataset/st-lucia-districts (includes coordinates and basic population demographics)&lt;/p&gt;
+
+&lt;p&gt;https://data.govt.lc/dataset/labour-force-statistics&lt;/p&gt;
+
+&lt;p&gt;(List of tabulations and indicators 2014 - 2017)&lt;/p&gt;
 
 &lt;p&gt;https://data.govt.lc/dataset/location-data-st-lucia-schools&lt;/p&gt;
 
-&lt;p&gt;https://data.govt.lc/dataset/locations-highways
-https://data.govt.lc/dataset/st-lucia-police-stations&lt;/p&gt;
+&lt;p&gt;https://data.govt.lc/dataset/locations-highways&lt;/p&gt;
+
+&lt;p&gt;https://data.govt.lc/dataset/st-lucia-police-stations&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://llord1.github.io/2020/07/08/Assets&quot;&gt;Back to: Safety and security needs: Assets&lt;/a&gt;&lt;/p&gt;
 
