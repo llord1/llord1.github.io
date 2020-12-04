@@ -5,8 +5,8 @@
         <description>Laurel's Works in Progress - Laurel Lord</description>
         <link>http://llord1.github.io</link>
         <atom:link href="http://llord1.github.io" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Fri, 04 Dec 2020 17:29:07 -0500</lastBuildDate>
-        <pubDate>Fri, 04 Dec 2020 17:29:07 -0500</pubDate>
+        <lastBuildDate>Fri, 04 Dec 2020 18:16:19 -0500</lastBuildDate>
+        <pubDate>Fri, 04 Dec 2020 18:16:19 -0500</pubDate>
         <ttl>60</ttl>
 
 
@@ -14,7 +14,7 @@
                 <title>Data Sci. Discussions: Cross-lingual frameworks and natural annotation of crowdsourced online dictionaries</title>
                 <description>
 &lt;ul&gt;
-  &lt;li&gt;Note: There is an alternative view of this document available on &lt;a href=&quot;&quot;&gt;Google Colab&lt;/a&gt;. This is functionally very similar to shared Google docs; offer comments where necessary. The document’s ‘References’ are simply pasted to aid in the review process, however, they are not interactive.&lt;/li&gt;
+  &lt;li&gt;Note: There is an alternative view of this document available on &lt;a href=&quot;https://colab.research.google.com/drive/1HfBeQ70vvcXL16Eks098Fbvhe7NWokwA?usp=sharing&quot;&gt;Google Colab&lt;/a&gt;. This is functionally very similar to shared Google docs; offer comments where necessary.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&quot;quick-overlook&quot;&gt;&lt;strong&gt;Quick overlook&lt;/strong&gt;&lt;/h4&gt;
@@ -45,7 +45,7 @@ a grammatical description of Kwéyòl, these broad categories could and should b
 
 &lt;p&gt;Additionally, Google Colab has proven to be an interesting environment that facilitates document and code sharing and commenting, and version control. One also has access to a GPU, which tends to be useful for [deep learning and some parallelizable data science algorithms] (https://towardsdatascience.com/superpower-your-google-colab-720d54dd6a06). Additionally, there is access to a research &lt;a href=&quot;https://aihub.cloud.google.com/u/0/&quot;&gt;‘Seedbank’&lt;/a&gt; where Google has an entire repository of deep learning and data science proof of concepts hosted. This includes code concerning &lt;a href=&quot;https://aihub.cloud.google.com/p/products%2F024b89fd-9bc8-4c24-b8a8-e347479f3270&quot;&gt;‘Neural Translation with Attention’&lt;/a&gt;, &lt;a href=&quot;https://aihub.cloud.google.com/u/0/p/products%2F760da8f1-439f-44cb-af51-3680987b9786&quot;&gt;‘Tensor2Tensor: Translate from English to German with a pre-trained model’&lt;/a&gt;, and even a &lt;a href=&quot;https://aihub.cloud.google.com/u/0/p/products%2Fbd3b0d5c-e4d0-450a-890f-e7b4027e8d09&quot;&gt;‘Multilingual Language Model Dataset’s&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;While Python is so useful, I am, however, also currently reviewing the treebank construction feature and pre-trained annotation models offered by [‘UDPipe Natural Language Processing - Text Annotation’ According to its &lt;a href=&quot;https://cran.r-project.org/web/packages/udpipe/vignettes/udpipe-annotation.html&quot;&gt;website&lt;/a&gt;, the most relevant features would be&lt;/p&gt;
+&lt;p&gt;While Python is so useful, I am, however, also currently reviewing the treebank construction feature and pre-trained annotation models offered by ‘UDPipe Natural Language Processing - Text Annotation’. According to its &lt;a href=&quot;https://cran.r-project.org/web/packages/udpipe/vignettes/udpipe-annotation.html&quot;&gt;website&lt;/a&gt;, the most relevant features would be:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;em&gt;Allowing R users simple access in order to easily tokenize, tag, lemmatize or perform dependency parsing on text in any language&lt;/em&gt;&lt;/li&gt;
@@ -85,7 +85,7 @@ a grammatical description of Kwéyòl, these broad categories could and should b
 &lt;p&gt;The Caribbean has had a complicated past of trade, colonization, slavery, indentured labor, and more recently voluntary immigration. This, therefore, leads to a present setting of an actively multilingual environment that is ever-changing due to evolving political and legal policies (such as Citizenship by Investment (CIP) &lt;a class=&quot;citation&quot; href=&quot;#bayat_2020&quot;&gt;(Bayat &amp;amp; El Hachem, 2020; GIS, 2017; CIP, 2020; Capital, 2020; Harvey, 2020; Visa, 2016)&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;English is the main language spoken (a prestige language) in Saint Lucia, however, Saint Lucian Kwéyòl (Antillean Creole/Patios) is the heritage language of the island; there are several other languages officially taught (French and Spanish) and generally spoken in the close-knit Caribbean (such as Dutch, Portuguese, Hindi, Arabic, and even Japanese, Mandarin and increasingly Russian) &lt;a class=&quot;citation&quot; href=&quot;#hillman2009understanding&quot;&gt;(Hillman &amp;amp; D’Agostino, 2009; “Saint Lucia,” n.d.; Kobayashi, 2020; Nesheim, 2020; CBF, 2020)&lt;/a&gt;.
-Frank’s 2007 work on “Sources of St. Lucian Creole Vocabulary” suggested that about 83.8 % -95.0 % words he came across had French origins,  about 2.8 % to 3.2 % were English, .6 % to .7 % were Amerindian-based, and about .5 % to .6 % were African-based; .4 %  were Indian language-based (Tamil or Hindi), and .1 % was Spanish/Portuguese-based. A notable 11.8 % were St. Lucian Creole lexical items for which the etymological source could not be precisely determined &lt;a class=&quot;citation&quot; href=&quot;#frank2008sources&quot;&gt;(Frank, 2008)&lt;/a&gt;.&lt;/p&gt;
+Frank’s 2008 work on “Sources of St. Lucian Creole Vocabulary” suggested that about 83.8 % -95.0 % words he came across had French origins,  about 2.8 % to 3.2 % were English, .6 % to .7 % were Amerindian-based, and about .5 % to .6 % were African-based; .4 %  were Indian language-based (Tamil or Hindi), and .1 % was Spanish/Portuguese-based. A notable 11.8 % were St. Lucian Creole lexical items for which the etymological source could not be precisely determined &lt;a class=&quot;citation&quot; href=&quot;#frank2007sources&quot;&gt;(Frank, 2007)&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;According to Douglas Midgett’s work on the anthropological linguistics of Saint Lucia, the island’s inhabitants have struggled in their appreciation of its heritage language &lt;a class=&quot;citation&quot; href=&quot;#midgett1970bilingualism&quot;&gt;(Midgett, 1970)&lt;/a&gt;. Historically there were negative connotations with Saint Lucian Kwéyòl (Antillean Creole/Patios), upon emancipation there was extreme enmity between English and Creole in the newly free society; the use was negatively equated “with all that is backward, rural, Negro, and unsophisticated” &lt;a class=&quot;citation&quot; href=&quot;#midgett1970bilingualism&quot;&gt;(Midgett, 1970)&lt;/a&gt;. Midgett highlighted that the formal teaching of Patois would be viewed as “unjustifiable and in any case, would never be tolerated by even its most ardent user”.&lt;/p&gt;
 
@@ -97,7 +97,7 @@ Frank’s 2007 work on “Sources of St. Lucian Creole Vocabulary” suggested t
 
 &lt;p&gt;In 1998, Frank explored and even expanded the written form of the creole language in Saint Lucia while attempting to effectively translate an English bible into the local language. Upon concluding his tasks he remarked that the bible would indirectly boost creole literacy through the motivational passages of the bible:&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;‘… for all practical purposes Creole remains an unwritten language for the majority of the population, which remains unaware of the books published in Creole. Attempts to teach Creole literacy have not met with much success because of lack of interest. Motivation is the most important factor in the success of any literacy program, and having something people want to read is the most important motivating factor’&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;‘… for all practical purposes Creole remains an unwritten language for the majority of the population, which remains unaware of the books published in Creole. Attempts to teach Creole literacy have not met with much success because of lack of interest. Motivation is the most important factor in the success of any literacy program, and having something people want to read is the most important motivating factor’&lt;/em&gt; &lt;a class=&quot;citation&quot; href=&quot;#frank1998lexical&quot;&gt;(Frank &amp;amp; Frank, 1998)&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h4 id=&quot;consideration-of-digital-tools-for-language-rejuvenation-and-conservation&quot;&gt;Consideration of digital tools for language rejuvenation and conservation&lt;/h4&gt;
 
@@ -133,7 +133,7 @@ Frank’s 2007 work on “Sources of St. Lucian Creole Vocabulary” suggested t
 &lt;p&gt;As noted before, Saint Lucian Kwéyòl is highly influenced by ‘imported vocabulary’; the majority of which is French followed by English, however, it should be noted that the third largest portion of the language has definitive etymological sources. These words may constitute out-of-vocabulary (OOV) regarding a standard English or French treebank and could result in difficulties for using English-trained tools on Saint Lucian Kwéyòl &lt;a class=&quot;citation&quot; href=&quot;#Wang2020FromGT&quot;&gt;(Wang et al., 2020)&lt;/a&gt;. Moreover, in terms of topic prominence, Saint Lucian creole is regarded as a ‘Subject-Predicate-Object’ ordered language &lt;a class=&quot;citation&quot; href=&quot;#frank1992clause&quot;&gt;(Frank, 1992)&lt;/a&gt;.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;I do want to include a bit of discussion about the creole sentence structure, clauses, and the lingering impact of languages such as French, English, Spanish; this may involve the discussion of the common Subject+Verb+Object (SVO) structure, versus the Subject+Object+Verb (SOV), etc. This sentence structure typically notes a noun phrase before a verb phrase (or a Subject+Predicate(+Object) combination at the clause level), however, structures of creoles sentences may not be so simple.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;I do want to include a bit of discussion about the creole sentence structure, clauses, and the lingering impact of languages such as French, English, and Spanish.&lt;/em&gt; This may involve the discussion of the common Subject+Verb+Object (SVO) structure, versus the Subject+Object+Verb (SOV), etc. This sentence structure typically notes a noun phrase before a verb phrase (or a Subject+Predicate(+Object) combination at the clause level), however, structures of creoles sentences may not be so simple.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;It is also important to note that additional natural language processing issues may arise when manipulating the creole language, or attempting to adapt it to a digital environment such as a comprehensive online-dictionary. Public contributors may understand the language in terms of speaking it, however, they may not be the best teachers; that is to say that contributors may not always be clear in their explanations or contributions. Overall, straying from official spellings of words can contribute to data entry issues. For example, one can observe the accents used with “chofé” - “to heat up”,  and “chofè” - a “driver”. These words without context and accents would be very difficult to decipher. Persons inaccurately applying accents, or unable to access the necessary unique characters were required (diacritics) for formal grammar can present problems in documenting the language.&lt;/p&gt;
@@ -184,7 +184,7 @@ It begs the question, how can one leverage existing tree-banks, focusing on POS 
 &lt;ul&gt;
   &lt;li&gt;
     &lt;ul&gt;
-      &lt;li&gt;Need to clean this up and add the references mentioned above.*.&lt;/li&gt;
+      &lt;li&gt;Need to clean this up and add the references mentioned above.*&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
@@ -352,12 +352,13 @@ their research, it is said that different disciplinary approaches use distinct s
 &lt;li&gt;&lt;span id=&quot;kobayashi_2020&quot;&gt;Kobayashi, T. (2020). Message from the Chief Representative. In &lt;i&gt;JICA&lt;/i&gt;. https://www.jica.go.jp/stlucia/english/office/about/message.html&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span id=&quot;nesheim_CIP_2020&quot;&gt;Nesheim, C. H. (2020). The Saint Lucia Citizenship by Investment Programme. In &lt;i&gt;Investment Migration Insider&lt;/i&gt;. Investment Migration Insider. https://www.imidaily.com/the-saint-lucia-citizenship-by-investment-programme/&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span id=&quot;CBF_2020&quot;&gt;CBF. (2020). Saint Lucia Presents a New CIP-Project. In &lt;i&gt;Cross Border Freedom&lt;/i&gt;. CBF. https://www.crossborderfreedom.com/saint-lucia-presents-a-new-cip-project/&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span id=&quot;frank2008sources&quot;&gt;Frank, D. B. (2008). &lt;i&gt;Sources of St. Lucian Creole Vocabulary&lt;/i&gt;.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;frank2007sources&quot;&gt;Frank, D. B. (2007). &lt;i&gt;Sources of St. Lucian Creole Vocabulary&lt;/i&gt;. http://www.saintluciancreole.dbfrank.net/workpapers/sources_of_vocabulary.pdf&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span id=&quot;midgett1970bilingualism&quot;&gt;Midgett, D. (1970). Bilingualism and linguistic change in St. Lucia. &lt;i&gt;Anthropological Linguistics&lt;/i&gt;, 158–170. https://www.jstor.org/stable/30029245?seq=1&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span id=&quot;oas_2018&quot;&gt;OAS. (2018). Organization of American States: Democracy for peace, security, and development. In &lt;i&gt;OAS&lt;/i&gt;. 	Organization of Eastern Caribbean States Commission represented by St. Lucia and the Innoved Uniq, Quisqueya University, Haiti. https://www.oas.org/cotep/LibraryDetails.aspx?lang=en&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span id=&quot;marmion2014community&quot;&gt;Marmion, D., Obata, K., &amp;amp; Troy, J. (2014). &lt;i&gt;Community, identity, wellbeing: the report of the Second National Indigenous Languages Survey&lt;/i&gt;. Australian Institute of Aboriginal and Torres Strait Islander Studies Canberra.&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span id=&quot;kabir_dennerysegment2020creolization&quot;&gt;Kabir, A. J. (2020). Creolization as balancing act in the transoceanic quadrille: Choreogenesis, incorporation, memory, market. &lt;i&gt;Atlantic Studies&lt;/i&gt;, &lt;i&gt;17&lt;/i&gt;(1), 135–157.&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span id=&quot;frank1992clause&quot;&gt;Frank, D. (1992). &lt;i&gt;Clause versus Sentence in St. Lucian French Creole&lt;/i&gt;.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;frank1998lexical&quot;&gt;Frank, D., &amp;amp; Frank, D. (1998). Lexical challenges in the St. Lucian Creole Bible translation project. &lt;i&gt;Twelfth Biennial Conference of the Society for Caribbean Linguistics, Castries, St. Lucia&lt;/i&gt;, 1–16. https://www.saintluciancreole.org/workpapers/lexical_challenges.pdf&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;frank1992clause&quot;&gt;Frank, D. (1992). &lt;i&gt;Clause versus Sentence in St. Lucian French Creole&lt;/i&gt;. https://www.saintluciancreole.org/workpapers/clause_versus_sentence.pdf&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span id=&quot;dominica_dic2018&quot;&gt;Kweyol Language. (2018). In &lt;i&gt;A virtual Dominica&lt;/i&gt;. Govt of Dominica. https://www.avirtualdominica.com/project/creole-kweyol-language/&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span id=&quot;levenberg2018research&quot;&gt;Levenberg, L., Neilson, T., &amp;amp; Rheams, D. (2018). &lt;i&gt;Research methods for the digital humanities&lt;/i&gt;. Springer.&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span id=&quot;stoddart2020patterns&quot;&gt;Stoddart, S., Palmisano, A., Redhouse, D., Barker, G., Di Paola, G., Motta, L., Rasmussen, T., Samuels, T., &amp;amp; Witcher, R. E. (2020). Patterns of Etruscan urbanism. &lt;i&gt;Frontiers in Digital Humanities.&lt;/i&gt;, &lt;i&gt;7&lt;/i&gt;, 1.&lt;/span&gt;&lt;/li&gt;
