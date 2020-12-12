@@ -22,23 +22,23 @@ However, the teaching and learning of Spanish verbs can be difficult. In Spanish
 
 Overall, verbs are typically taught using simple tables. Even if one were to focus on stem-changing verbs, tables are indeed the most common form of displaying the information. While not very visually interesting, this is the standard. 
 
-![Table1](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/plaintable.png)
+![Table1](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/plaintable.png){: .center-image }
 
-![Table2](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/plain.png)
+![Table2](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/plain.png){: .center-image }
 
 Other teachers may attempt to make this information more visually appealing by highlighting their related labels.
 
-![Table3](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/tablee.png)
+![Table3](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/tablee.png){: .center-image }
 
 Some teachers have unofficially adopted the "shoe/boot verbs method" to emphasize the visualization of the verb conjugation. 
 
-![Boot1](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/boot.png)
+![Boot1](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/boot.png){: .center-image }
 
-![Boot2](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/boot2.png)
+![Boot2](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/boot2.png){: .center-image }
 
-![Boot3](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/boot3.png)
+![Boot3](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/boot3.png){: .center-image }
 
-![Boot4](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/boot-verbs.png)
+![Boot4](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/boot-verbs.png){: .center-image }
 
 
 Another less popular method in the US is the "hand method". This form assigns persons to fingers on one's hand. This method is reminiscent of the Guidonian hand mnemonic device, that had been used to aid singers in studying to sight-sing. This form, however, excludes the second-person-plural version of verbs - the vosotros form. This form is not necessarily difficult to learn, only novel to many persons that learned Spanish in the Americas; when looking at spanish being acquired in Latin America versus Spain, the use of vosotros can mean the difference between being formally correct or informally fluent, respectively.
