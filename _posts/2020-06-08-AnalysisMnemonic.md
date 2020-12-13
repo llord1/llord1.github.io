@@ -43,7 +43,7 @@ Some teachers have unofficially adopted the "shoe/boot verbs method" to emphasiz
 
 Another less popular method in the US is the "hand method". This form assigns persons to fingers on one's hand. This method is reminiscent of the Guidonian hand mnemonic device, that had been used to aid singers in studying to sight-sing. This form, however, excludes the second-person-plural version of verbs - the vosotros form. This form is not necessarily difficult to learn, only novel to many persons that learned Spanish in the Americas; when looking at spanish being acquired in Latin America versus Spain, the use of vosotros can mean the difference between being formally correct or informally fluent, respectively.
 
-![Guidonian](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/ghand.PNG)
+![Guidonian](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/ghand.png)
 
 ![Traditional hand](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/traditionalhand.png)
 
