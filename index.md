@@ -5,9 +5,6 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-## Topic: 
-
-**Framework for phrase-based sentiment detection for cross-lingual machine translation for under resourced languages like Saint Lucian Kwéyòl (Antillean Creole/Patios/Patwa).**
 
 
 ## To-Do:
