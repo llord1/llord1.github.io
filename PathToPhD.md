@@ -98,7 +98,7 @@ Currently exploring Cross-Lingual Sentiment Analysis (might look at 'Integrating
 
 Perhaps a 'Phrase-based sentiment detection for cross-lingual machine translation for small languages and underresourced (low-resource) domains: A Sentiment Analysis System for the Saint Lucian Kwéyòl (Antillean Creole/Patios) Language by Integrating Gated Recurrent Unit with Genetic Algorithm'.
 
-I do want to see if I can salvage anything concerning biocultural diversity; particularly, the vitality of the Saint Lucian Kwéyòl (Antillean Creole/Patios/Patwa) language via sentiment analysis of social media platform commentaries, such as Tripadvisor reviews, or [Facebook ](https://www.facebook.com/kweyolsentlisi/) and Twitter activity. This would be an exploration, collection, and analysis of social media occurrences of creole statements, and reviews of creole in pop-culture (such as songs/hymns), and works of literature.
+I do want to see if I can salvage anything concerning biocultural diversity; particularly, the vitality of the Saint Lucian Kwéyòl (Antillean Creole/Patios/Patwa) language via sentiment analysis of social media platfom commentaries, such as Tripadvisor reviews, or [Facebook ](https://www.facebook.com/kweyolsentlisi/) and Twitter activity. This would be an exploration, collection, and analysis of social media occurrences of creole statements, and reviews of creole in pop-culture (such as songs/hymns), and works of literature.
 
 I am interested in leveraging the natural annotation provided by a crowdsourced online dictionary [Wiwords](http://wiwords.com/), to actively/continuously address word sense disambiguation issues that arise from the analysis of a low-resource language (Saint Lucian Creole)'s social media (Facebook, Instagram, Twitter, etc.) text data. By improving word sense disambiguation issues with the creole language, one may be better able to assess the language's vitality via assessing the frequency of its usage in social media posts.
 
@@ -108,8 +108,6 @@ I am interested in leveraging the natural annotation provided by a crowdsourced 
 * Current inspirations:
 
 [Cross-Lingual Sentiment Analysis with Machine Translation](https://pure.tue.nl/ws/portalfiles/portal/46951131/761617-1.pdf)
-
-[A Sentiment Analysis System for the Hindi Language by Integrating Gated Recurrent Unit with Genetic Algorithm](https://iajit.org/PDF/November%202020,%20No.%206/18975.pdf)
 
 [Co-training for cross-lingual sentiment classification](https://www.aclweb.org/anthology/P09-1027.pdf)
 
