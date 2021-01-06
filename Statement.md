@@ -17,7 +17,7 @@ Maslow’s hierarchy of needs has been applied to many fields outside of the bus
 
 ### Research question: 
 
-What are the benefits of applying Maslow's hierarchy of needs to data science studies? *Can the application of Maslow's hierarchy of needs to data science studies intrinsically support the digital humanities and biocultural diversity efforts?*
+---*
 
 ### Hypothesis: 
 
