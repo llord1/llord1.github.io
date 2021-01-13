@@ -41,11 +41,16 @@ Some teachers have unofficially adopted the "shoe/boot verbs method" to emphasiz
 ![Boot4](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/boot-verbs.png){: .center-image }
 
 
-Another less popular method in the US is the "hand method". This form assigns persons to fingers on one's hand. This method is reminiscent of the Guidonian hand mnemonic device, that had been used to aid singers in studying to sight-sing. This form, however, excludes the second-person-plural version of verbs - the vosotros form. This form is not necessarily difficult to learn, only novel to many persons that learned Spanish in the Americas; when looking at spanish being acquired in Latin America versus Spain, the use of vosotros can mean the difference between being formally correct or informally fluent, respectively.
-
-![Guidonian](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/ghand.png)
+Another less popular method in the US is the "hand method". This form assigns persons to fingers on one's hand. 
 
 ![Traditional hand](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/traditionalhand.png)
+
+This method is reminiscent of the Guidonian hand mnemonic device, that had been used to aid singers in studying to sight-sing. ![Guidonian](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/ghand.png)
+
+
+This form, however, excludes the second-person-plural version of verbs - the vosotros form. This form is not necessarily difficult to learn, only novel to many persons that learned Spanish in the Americas; when looking at spanish being acquired in Latin America versus Spain, the use of vosotros can mean the difference between being formally correct or informally fluent, respectively.
+
+
 
 It has recently been suggested this hand mnemonic device, can be adapted to include all the verb conjugation details. The vosotros form can be acknowledged as special rather than being ignored; this uniqueness can be highlighted through its association with the ring finger.
 
