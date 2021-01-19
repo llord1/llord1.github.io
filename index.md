@@ -38,11 +38,6 @@ Internal:
 
     - Erin Buchanan
 
-    - Kevin Purcell 
-
-    - Kevin Huggins
-
-    - Roozbeh Sadeghian
 
 - **External Members:** 
 
