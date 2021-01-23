@@ -5,13 +5,8 @@
         <description>Laurel's Works in Progress - Laurel Lord</description>
         <link>http://llord1.github.io</link>
         <atom:link href="http://llord1.github.io" rel="self" type="application/rss+xml" />
-<<<<<<< Updated upstream
-        <lastBuildDate>Thu, 21 Jan 2021 23:42:12 -0500</lastBuildDate>
-        <pubDate>Thu, 21 Jan 2021 23:42:12 -0500</pubDate>
-=======
-        <lastBuildDate>Wed, 20 Jan 2021 23:48:30 -0500</lastBuildDate>
-        <pubDate>Wed, 20 Jan 2021 23:48:30 -0500</pubDate>
->>>>>>> Stashed changes
+        <lastBuildDate>Fri, 22 Jan 2021 23:45:34 -0500</lastBuildDate>
+        <pubDate>Fri, 22 Jan 2021 23:45:34 -0500</pubDate>
         <ttl>60</ttl>
 
 
