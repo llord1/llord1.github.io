@@ -33,9 +33,15 @@ Dr. Rand Ford: Professor and Program Director of Data Analytics at HU
 
 - **HU Members:**
 
-Internal:
+- **Internal:**
 
     - Erin Buchanan
+
+    - Kevin Purcell 
+
+    - Kevin Huggins
+
+    - Roozbeh Sadeghian
 
 
 - **External Members:** 
