@@ -29,7 +29,7 @@ Dr. Rand Ford: Professor and Program Director of Data Analytics at HU
 **Dream Team Committee Members:**  
 
 
-- **Internal:**
+- **Internal Members:**
 
     - Erin Buchanan
 
