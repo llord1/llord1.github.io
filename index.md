@@ -48,7 +48,7 @@ Dr. Rand Ford: Professor and Program Director of Data Analytics at HU
 
     - *Dr. James W. Pennebaker: Linguistic Inquiry and Word Count (LIWC) co-creator and social psychologist (need to prepare formal meeting request after LIWC papers are reviewed by Dr. Ford).
 
-    - *Graham Neubig - CMU lecturer (Multilingual NLP)
+    - *Graham Neubig: Carnegie Mellon University lecturer (Multilingual NLP)
 
 
 
