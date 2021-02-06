@@ -19,7 +19,10 @@ However, this does not mean that other publishers will be ignored; I am also ope
 https://www.cell.com/patterns/home
 
 
-#### Publications: 
+ - **Journal of Pidgin and Creole Languages:**
+
+https://www.jbe-platform.com/content/journals/15699870
+
 
 - **Applied Corpus Linguistics:**
 
@@ -78,6 +81,7 @@ https://jmic.online/
 - **Sustainability — Open Access Journal:**
 
 https://www.mdpi.com/journal/sustainability
+
 
 
 
