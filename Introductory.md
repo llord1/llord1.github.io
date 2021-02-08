@@ -1,85 +1,25 @@
 ---
 layout: page
-title: "Brief Introduction: Data Science Biocultural Diversity (DSBD) Framework"
-description: "Introduction to the Data Science Biocultural Diversity (DSBD) Framework"
+title: "Brief Introduction: Low-resource Cross-lingual Framework"
+description: "Introduction to Low-resource Cross-lingual Framework"
 ---
 {% include JB/setup %}
 
-## The Framework's Levels:
 
 
-<iframe width="600" height="600" src="https://prezi.com/i/anbnfuxd7fss/embed" webkitallowfullscreen="1" mozallowfullscreen="1" allowfullscreen="1"></iframe>
+#### __Quick overlook__
 
+In the realm of cross-lingual or multilingual natural language processing (NLP), it does appear that some languages tend to get more attention. Typically well-established languages, with a plethora of linguistic resources to build from, often thrive while low-resource creole languages are left to languish. Creoles are a particular challenge of the NLP community as these languages often arise from often frantic and urgent needs to establish harmony in communication within cacophonous settings. In the Caribbean, creole languages often emerged as a means of survival, and endured as a result of resilience; often speakers struggled to work within the bounds of a dominant prestige language while retaining unique traces of their heritage languages or contact languages.
 
+It is this the very discordant origin, and complexity of structure, that poses issues for the study and preservation of creole languages. For example, most words in Saint Lucian Kwéyòl/creole focus on emotions, the weather, and other aspects of the natural environment including food sources; therefore finding domain equivalent literature out of that context. Additionally, it is said that just over 83% of vocabulary words have French origins; roughly 3% is English-based, and Amerindian, African, and East Indian sources account for about  ½ % of the total each. Even with the advantage of cross-referencing parallel language data sources, the challenge is made more complex by the lacking details on many vocabulary word origins. Even the author of the official creole dictionary acknowledged gaps in its vocabulary due to the lack of official etymological details of over 11% of documented words. Ultimately, the situation may be described as a "Mondrian-like" learning setting due to the possibility of this creole being close to parallel and monolingual data with high resource languages (like French and English), yet the data may belong to different domains {% cite Ranzato2021%}. Not much NLP research has been done on adapting its components to creole languages, therefore, the careful creation of tools and frameworks is needed to facilitate all of society's language needs.
 
-- __*Biological and physiological needs*__  can be explored as topics related to __*Ambience*__.
-
-+ Exploring housing access and opportunities for Saint Lucian Kwéyòl language speakers; are there differences present in rental rates, ownership rates, and overall availability in areas that have dense Saint Lucian Kwéyòl language speaker populations when compared to other areas on the island?
-
-+ Employing computer vision to aid in the identification of varying stages of ripeness or disease of endemic flora (or vital) crops. 
-
-+ Employing computer vision to track endemic fauna (however, spectrographic analysis utilizing Raven Pro software from the Cornell Lab may assist in the bioacoustic study of vulnerable species, and note levels noise pollution).
-
-
-- __*Safety and security needs*__ can be explored as topics related to __*Assets*__.
-
-
-+ Assessing the link between crime and language. Could miscommunication between prestige and heritage language speakers hinder legal defenses? Are there any metrics on lawyers' multilingual lawyers on the island? Are there any laws related to representation requirements (do lawyers assess the language needs of clients to decide how best to assist them)? What are the rates of incarceration of predominantly Saint Lucian Kwéyòl language speakers? What are the inmate metrics per district of origin (there is a popular belief that most Saint Lucian Kwéyòl language speakers are located in the Southern part of the country)? 
-
-+ What impact, if any, does tourism have on the vitality of the Saint Lucian Kwéyòl language? What factors elevated the prestige language on over the heritage language? This entails observing the number of ports of entry per district, number of tourist attractions per district, number of hotels per district, number of jobs related to tourism per district, number of educational facilities per district, number of main government offices per district. The final details may lead to a discussion of language hotspots; and a possible explanation of their existence. 
-
-- __*Love and belonging needs*__ can be explored as topics related to __*Affiliation*__.
-
-+ What is the vitality of the Saint Lucian Kwéyòl language? (potentially, what are the issues with attempting online investigations onto the language vitality of creole languages?). Exploring knowledge of flora and fauna here as they have heritage language names.
-
-+ Where are the Saint Lucian Kwéyòl language hotspots (is the perception that the southern rural area of the island the main hotspot incorrect, and are there any explanations for any present clusters? Can other language hotspots be identified?
-
- + What is the impact of Indian culture and language on the Saint Lucian Kwéyòl language; the impact is believed to be limited to vocabulary words describing Indian inhabitants, and the foods and meals that they brought along with them, however, this belief could be incorrect as there has been no quantifiable study. A list of words commonly believed to have Indian origins words will be compared to two Indian language datasets; these will be based on the languages associated with historical immigrant data.
-
-
-- __*Self-esteem needs*__ can be explored as topics related to __*Attitudes*__.
-
-+ How effective is an LIWC Sentiment analysis on the Saint Lucian Kwéyòl language? Can it effectively capture the emotions expressed in translated works?
-
-+ Sentiment analysis on tourists' perceptions of the Saint Lucian Kwéyòl language using TripAdvisor commentary ( an analysis of reviews from popular tourist destinations); were there any frustrations caused by language barriers when interacting Saint Lucian Kwéyòl language speakers; was "language contact" the main motivator for traveling?
-
-
-- __*Cognitive needs*__ can be explored as topics related to __*Analysis*__.
-
-+ An exploratory investigation into the Saint Lucian Kwéyòl language learning tools present in Saint Lucia, and what is the national language policy?
-
-+ What language learning tools are most effective with acquiring Saint Lucian Kwéyòl language? A comparison of specially curated Saint Lucian Kwéyòl language of Language learning tools: discussion of the value of puzzles for language acquisition and familiarity (word search puzzles), discussion of curated mnemonic tools, and language learning mobile applications.
-
-+ Exploring multilingualism in Saint Lucia; are there any patterns of language pairings, on the island, that help or hurt Saint Lucian Kwéyòl language acquisition? 
-
-
-- __*Aesthetic needs*__ can be explored as topics related to __*Artistry*__.
-
-+ How effective are data science tools in creating legible Saint Lucian Kwéyòl language poems for language reinvigoration? Is this possible to attempt this with an unsupervised learning transformer model (GPT-2)? 
-
-+ How effective are data science tools in creating new creole language songs for language reinvigoration? Is this possible to attempt this with an unsupervised learning transformer model (GPT-2)? 
-
-
-- __*Self-actualization needs*__ can be explored as topics related to __*Awareness*__. 
-
-+ Using deep computer vision to digitally catalog manually written, aged  Saint Lucian Kwéyòl language texts and images; there was a fire at the Folk Resource Center and assistance is needed with document recovery and restoration.
-
-+ Evaluating Saint Lucian Kwéyòl language assessment tools and techniques.
-
-+ What can an LIWC Sentiment analysis on Maslow's works reveal?
-
-+ Assessing the teaching techniques associated with Multivariate Analysis (improving its teaching may make it easier for exploring similar data).
-
-
-- __*Transcendence needs*__ can be explored as topics related to __*Altruism*__.   
-
-+ Creating a framework for an online language revitalization system. The aim is to merge an official online static dictionary with a dynamic slang dictionary option to improve the vitality of an endangered language. Think, Webster's Dictionary meets Urban Dictionary.
-
-+ Publicly share survey data sets and new vocabulary documents.
+The increasing popularity of opinion rich resources such as blogs {% cite kweyol_works_joseph %}, shopping websites, review portals, and social media platforms {% cite kweyol_fb_joseph %} are rapidly attracting business people, governments, and researchers alike. While there are multiple ways to utilize NLP functions, sentiment analysis often garners high interest to businesses. However, word sense disambiguation and issues with dependency parsers highlight very difficult tasks in natural language processing; a major challenge of lexical semantics is creating training data and algorithms that facilitate downstream tasks. Moreover, it has also been said while there is a lingering 'bias towards contemporary Indo-European languages', treebanks for other language families and treebanks for classical languages are on the rise {% cite nivre2016universal %}. It has been suggested that categorizing the challenges and formalizing their interpretation using Universal Dependencies may aid in creating a Saint Lucian Kwéyòl dependency treebank, and later facilitate other needed NLP tasks (such as sentiment analysis of texts). A Saint Lucian Kwéyòl parser may be built by leveraging the base knowledge of French syntax. However, these may not be the only tools required to tackle the issues of digitizing and analyzing creole languages. Therefore, it may be helpful to develop a framework to improve the models for linguistics. Perhaps an extendable framework that can demonstrate its application to low-resource languages such as creole. 
 
 
 
 
+### References:
 
+{% bibliography --cited %}
 
 {% include JB/setup %}
