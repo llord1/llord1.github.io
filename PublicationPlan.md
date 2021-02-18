@@ -12,7 +12,10 @@ The publication process can be viewed as an essential part of one's Ph.D. solidi
 Based on the level of a literature review I intend to complete concerning the creation of a framework and its application, I intend to publish a view papers/chapters before my final dissertation presentation (as soon as possible). My main target is a recently created publication geared towards data science papers - *Patterns*. It is said to publish
 
 *'...original research in data science, particularly focusing on solutions to the cross-disciplinary problems that all researchers face when dealing with data, and articles about datasets, software code, algorithms, infrastructures, etc., with permanent links to these research outputs'. Patterns also promotes cross-community conversation by publishing opinion pieces and review articles* {% cite patterns_2020 %}. Since I do intend to discuss matters related to computational linguistics, frameworks, and my dissertation's societal value to low-resource languages (biocultural diversity topics), I do believe that this is an appropriate target. 
-However, this does not mean that other publishers will be ignored; I am also open to suggestions and changes concerning this matter. I will also review the [](https://www.taaonline.net/textbook-publishers-author-guidelines) Please see below for details on publications currently being considered.
+
+However, this does not mean that other publishers will be ignored; I am also open to suggestions and changes concerning this matter. For example, I have recently become aware of Easychair {% cite easychair2021 %}; it claims to support "a large number of conference models and, judging by our Web traffic, is the world's largest conference management system".
+
+I will also review the [Taaonline's publishers/author's guidelines](https://www.taaonline.net/textbook-publishers-author-guidelines). Please see below for details on publications currently being considered.
 
 - **Patterns:**
 
@@ -22,6 +25,12 @@ https://www.cell.com/patterns/home
  - **Journal of Pidgin and Creole Languages:**
 
 https://www.jbe-platform.com/content/journals/15699870
+
+
+
+ - **Easychair:**
+
+https://easychair.org/
 
 
 - **Applied Corpus Linguistics:**
@@ -81,7 +90,6 @@ https://jmic.online/
 - **Sustainability — Open Access Journal:**
 
 https://www.mdpi.com/journal/sustainability
-
 
 
 
