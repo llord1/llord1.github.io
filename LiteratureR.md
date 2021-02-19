@@ -27,7 +27,7 @@ This endeavor is quite a complicated undertaking to publish as a single contribu
 
 #### The Tools:
 
-The tools may focus on open source and low-cost resources such as R Studio, Python, Dart, Flutter, LIWC, Github, Microsoft Office 365 tools (like Forms and Power BI), Tensorflow, and other available Google tools available. 
+The tools may focus on open source and low-cost resources such as R Studio, Python, Dart, Flutter, fastText, LIWC, Github, Microsoft Office 365 tools (like Forms and Power BI), Tensorflow, and other available Google tools available. 
 
 - Google Colab can be described as a Python development environment that runs in the browser using Google Cloud; it is completely free of charge, and even offers access to their GPU is free of charge for some hours of usage every day. 
 
