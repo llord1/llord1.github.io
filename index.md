@@ -26,7 +26,7 @@ tagline: Supporting tagline
 
 Dr. Rand Ford: Professor and Program Director of Data Analytics at HU
 
-**Dream Team Committee Members:**  
+**Possible Team Committee Members:**  
 
 
 - **Internal Members:**
@@ -34,8 +34,6 @@ Dr. Rand Ford: Professor and Program Director of Data Analytics at HU
     - Erin Buchanan
 
     - Kevin Purcell 
-
-    - Kevin Huggins
 
     - Roozbeh Sadeghian
 
