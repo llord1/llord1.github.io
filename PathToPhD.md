@@ -113,6 +113,8 @@ I am interested in leveraging the natural annotation provided by a crowdsourced 
 
 [Cross-lingual mixture model for sentiment classification](https://www.aclweb.org/anthology/P12-1060.pdf)
 
+[Language Identification of Guadeloupean Creole](https://hal.archives-ouvertes.fr/hal-03066031/document#page=59)
+
 
 
 * Additional notes:
