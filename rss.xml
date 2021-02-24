@@ -5,8 +5,8 @@
         <description>Laurel's Works in Progress - Laurel Lord</description>
         <link>http://llord1.github.io</link>
         <atom:link href="http://llord1.github.io" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 22 Feb 2021 23:30:55 -0500</lastBuildDate>
-        <pubDate>Mon, 22 Feb 2021 23:30:55 -0500</pubDate>
+        <lastBuildDate>Tue, 23 Feb 2021 19:41:04 -0500</lastBuildDate>
+        <pubDate>Tue, 23 Feb 2021 19:41:04 -0500</pubDate>
         <ttl>60</ttl>
 
 
@@ -374,8 +374,8 @@ However, this does not mean that other publishers will be ignored; I am also ope
 &lt;li&gt;&lt;span id=&quot;Wang2020FromGT&quot;&gt;Wang, H., Yang, J., &amp;amp; Zhang, Y. (2020). From Genesis to Creole Language. &lt;i&gt;ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)&lt;/i&gt;, &lt;i&gt;19&lt;/i&gt;, 1–29. https://doi.org/10.1145/3321128&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span id=&quot;ferreira2019improving&quot;&gt;Ferreira, J., Gonçalo Oliveira, H., &amp;amp; Rodrigues, R. (2019). Improving NLTK for processing Portuguese. &lt;i&gt;8th Symposium on Languages, Applications and Technologies (SLATE 2019)&lt;/i&gt;.&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span id=&quot;abeille2012treebanks&quot;&gt;Abeillé, A. (2012). &lt;i&gt;Treebanks: Building and using parsed corpora&lt;/i&gt; (Vol. 20). Springer Science &amp;amp; Business Media.&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span id=&quot;abeille2003building&quot;&gt;Abeillé, A., Clément, L., &amp;amp; Toussenel, F. (2003). Building a treebank for French. In &lt;i&gt;Treebanks&lt;/i&gt; (pp. 165–187). Springer.&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span id=&quot;abeille2004enriching&quot;&gt;Abeillé, A., &amp;amp; Barrier, N. (2004). Enriching a French treebank. &lt;i&gt;LREC&lt;/i&gt;.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;abeille2003building&quot;&gt;Abeillé, A., Clément, L., &amp;amp; Toussenel, F. (2003). Building a treebank for French. In &lt;i&gt;Treebanks&lt;/i&gt; (pp. 165–187). Springer. https://link.springer.com/chapter/10.1007/978-94-010-0201-1_10&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;abeille2004enriching&quot;&gt;Abeillé, A., &amp;amp; Barrier, N. (2004). Enriching a French treebank. &lt;i&gt;LREC&lt;/i&gt;. http://www.lrec-conf.org/proceedings/lrec2004/pdf/562.pdf&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span id=&quot;maslow_1943_2000&quot;&gt;Maslow, A. H. (1943). Theory of Human Motivation : Psychological Review. In &lt;i&gt;Classics in the History of Psychology: A Theory of Human Motivation&lt;/i&gt;. Christopher D. Green of York University, Toronto, Ontario . https://psychclassics.yorku.ca/Maslow/motivation.htm&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span id=&quot;matias2020human&quot;&gt;Matias, T., Dominski, F. H., &amp;amp; Marks, D. F. (2020). &lt;i&gt;Human needs in COVID-19 isolation&lt;/i&gt;. SAGE Publications Sage UK: London, England. https://journals.sagepub.com/doi/full/10.1177/1359105320925149&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span id=&quot;wong2020healing&quot;&gt;Wong, A. H., Pacella-LaBarbara, M. L., Ray, J. M., Ranney, M. L., &amp;amp; Chang, B. P. (2020). Healing the Healer: Protecting Emergency Health Care Workers’ Mental Health During COVID-19. &lt;i&gt;Annals of Emergency Medicine&lt;/i&gt;. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7196406/&lt;/span&gt;&lt;/li&gt;
