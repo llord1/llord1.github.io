@@ -79,8 +79,6 @@ Ultimately, outcomes of this endeavor will include, contributions of new and/ or
 
 **Draft modeling for Complex Unsupervised Statistical Machine Translation for Saint Lucian Creole/ Kwéyòl:**
 
-![creoleorgins](https://drive.google.com/file/d/1W-mAHPpY6jPkV5E5tYnOBElNwyIdY7kS/uc?usp=sharing)
-
 ->![vocab](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/vocabo.png)<-
 
 ->![Vocabop](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/Vocabop.png)<-
