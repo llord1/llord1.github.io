@@ -53,13 +53,100 @@
 
 			<div class="bd">
 				<div class="entry-content">
-					<h3 id="theoretical-or-conceptual-model">Theoretical or Conceptual Model</h3>
+					<h4 id="theoretical-or-conceptual-model"><strong>Theoretical or Conceptual Model:</strong></h4>
 
 <p><strong>Low-resource Cross-lingual Framework</strong></p>
 
-<p><em>Title:</em></p>
+<p>In summary, David Frank’s paper on Sources of St. Lucian Creole Vocabulary piqued my interest, particularly the section on Vocabulary of Unknown Origin. Creole is complex as it is an amalgamation of different languages adapted for survival and solidified through generations of oral and written communication. I became intrigued by the complexity and mysteries within Saint Lucian creole “Kwéyòl” and hoped to explore it through data science tools and techniques.</p>
 
-<h3 id="questions-related-to-the-framework">Questions related to the Framework:</h3>
+<p>Currently, I am leaning towards using multilingual natural language processing to create a language detection and translation model capable of tracing the origin of Saint Lucian creole “Kwéyòl” by exploring supervised and unsupervised Statistical Machine Translation. However, in order to do so, I must also explore and understand the underlying language structures; such as dependency parsing, treebanks, sentiment semantic indexing on multilingual data.</p>
+
+<p>I am also intrigued by topics on word sense disambiguation in creole; particularly the problems polysemy poses to sentiment analysis and how that impacts machine translation in low-resource languages. I want to explore phrase-based parsing techniques to see how they will impact the accuracy of my machine translation models.</p>
+
+<p>Ultimately, outcomes of this endeavor will include, contributions of new and/ or improved Saint Lucian “Kwéyòl corpora for future analysis, and new techniques and tools for exploring sentiment, and low resource languages.  In order to properly explore this topic, I will need to search for and prepare the sample Saint Lucian “Kwéyòl corpora; locating as much parallel data as I can find.</p>
+
+<p>I want to use cross-lingual machine translation to find the unknown origins of vocabulary words</p>
+
+<h5 id="assumptions"><strong>Assumptions:</strong></h5>
+<ul>
+  <li>Saint Lucian Kwéyòl is a low resource language</li>
+  <li>Lexifiers can be assigning ranks based on an established assumed similarity to the target language.</li>
+  <li>The official Saint Lucian Kwéyòl dictionary is a work in progress; not fully comprehensive.</li>
+  <li>French (fr) is the main lexifier language of “Kwéyòl.</li>
+  <li>The official French dictionary is adequately comprehensive.</li>
+  <li>English (en) is the current prestige language of Saint Lucia.</li>
+  <li>The official English dictionary is adequately comprehensive.</li>
+  <li>Additional known contributing languages: Guadeloupean Creole French (gcf), Haitian Creole (hat), Spanish/Portuguese (sp/pt), Amerindian (Carib -car, Arawak -arw,), Indian (Hindi-hi, Tamil-ta), African (Yoruba-yor, Fulani-ful, Bantu-bnt, Igbo-ibo, Kikongo-kon, Mende-men).</li>
+  <li>These other contributing languages are low in resources.</li>
+  <li>Exploring and categorizing the vocabulary of unknown origin may assist with understanding semantic domains.</li>
+  <li>An understanding and focus on cognates is essential to the cross-lingual or multilingual NLP techniques used for language translation and detection.</li>
+  <li>The LIWC does not currently factor in all recent Unicode emojis, thus may be a flawed system in detecting the full context of modern social media discussions.</li>
+</ul>
+
+<h5 id="draft-hypotheses"><strong>Draft Hypotheses:</strong></h5>
+
+<ul>
+  <li>
+    <p><em>Hypothesis:</em> In exploring semantic similarity corpus from related yet better-documented languages (such as Haitian Creole and Guadeloupean Creole French) may assist with unsupervised Statistical Machine Translation testing.</p>
+  </li>
+  <li>
+    <p><em>Hypothesis:</em> While English is the current prestige language of Saint Lucia, and French is the main lexifier language of “Kwéyòl, the origins of the unknown vocabulary are mostly composed of roots from the lesser linked languages (arw, car, sp, Indian, and African) are most likely to hold the remaining details due to their continual depletion.</p>
+  </li>
+  <li>
+    <p><em>Hypothesis:</em> A novel CNN-based sentiment semantic indexing method can be applied to multilingual data; this should ease/improve sentiment analysis outcomes on Kwéyòl data.</p>
+  </li>
+  <li>
+    <p><em>Hypothesis:</em> Alpha and beta phrase parsers can reduce issues of polysemy and word sense disambiguation, thus improving sentiment analysis.</p>
+  </li>
+  <li>
+    <p><em>Hypothesis:</em> the natural annotation of crowdsourced online dictionaries can be useful for building the corpus of a low-resource language, and reducing issues of polysemy and word sense disambiguation, thus improving sentiment analysis.</p>
+  </li>
+  <li>
+    <p><em>Hypothesis:</em> careful use of social media text can aid in building the corpus of a low-resource language, and reducing issues of polysemy and word sense disambiguation, thus improving sentiment analysis; looking at the intent of discussions/texts of social media.</p>
+  </li>
+  <li>
+    <p><em>Hypothesis:</em> There is an arguable existence of a connection between ethical data science pursuits, Maslow’s hierarchy, biocultural diversity, and the importance of language preservation in light of covid.</p>
+  </li>
+  <li>
+    <p><em>Hypothesis:</em> There may be a biocultural diversity link to most creole words as they were created for survival; words are mostly related to nature, food, and relationships.</p>
+  </li>
+</ul>
+
+<h5 id="draft-modeling-for-complex-unsupervised-statistical-machine-translation-for-saint-lucian-creole-kwéyòl"><strong>Draft modeling for Complex Unsupervised Statistical Machine Translation for Saint Lucian Creole/ Kwéyòl:</strong></h5>
+
+<p><img src="https://drive.google.com/file/d/1W-mAHPpY6jPkV5E5tYnOBElNwyIdY7kS/uc?usp=sharing" alt="creoleorgins" /></p>
+
+<p>Using back translation to augment or to create pseudo-parallel data from Source language to target language, and then back from the target language to the source language. The source language would be our main lexifier languages, and would, therefore, be more dominant/strong than the other lexifiers being used. For now, I will list dominant first, and will also be looking for language clusters (like French, Guadeloupean Creole French, Haitian Creole, and English).</p>
+
+<p>Dominant/stronger lexifier/source language clusters:</p>
+<ul>
+  <li>French: fr → acf    acf →fr</li>
+  <li>Guadeloupean Creole French: gcf →  acf    acf →gcf</li>
+  <li>Haitian, Haitian Creole: hat → acf    acf →</li>
+  <li>English: en → acf    acf → en  en →  acf    acf → en</li>
+</ul>
+
+<p>Non-dominant/Weaker clusters lexifier/source language clusters:</p>
+<ul>
+  <li>Spanish: sp → acf    acf → sp</li>
+  <li>Portuguese: pt → acf    acf → pt</li>
+  <li>Amerindian:</li>
+  <li>Arawak language (Lokono) arw → acf    acf → arw</li>
+  <li>Carib language (Kali’na):  car → acf    acf → car</li>
+  <li>Indian-</li>
+  <li>Hindi: hi → acf    acf → hi</li>
+  <li>Tamil: ta → acf    acf → ta</li>
+  <li>African-</li>
+  <li>Yoruba: yor → acf    acf → yor</li>
+  <li>Fulani: ful → acf    acf → ful</li>
+  <li>Bantu: bnt → acf    acf → bnt</li>
+  <li>Igbo: ibo → acf    acf →ibo</li>
+  <li>Kikongo: kon → acf    acf → kon</li>
+  <li>Mende: men  → acf    acf → men</li>
+</ul>
+
+<p>Once a phrase machine translation model is trained in both directions (back and forth), do back translation to augment or to create pseudo-parallel data from those languages (using the phrase-based model that
+was just built) in an attempt to create iterative refinement on the validation set.</p>
 
 
 				</div><!-- entry-content -->
