@@ -14,7 +14,7 @@ description: "Work in progress"
 
 When exploring the matter of Multilingual NLP, Dr. Benjamin Elson's 1987 *Linguistic Creed* comes to mind.
 
-“As the most uniquely human characteristic a person has, a person's language is associated with his self-image. Interest in and appreciation of a person's language is tantamount to interest in and appreciation of the person himself. All languages are worthy of preservation in written form by means of grammars, dictionaries, and written texts. This should be done as part of the heritage of the human race."
+*“As the most uniquely human characteristic a person has, a person's language is associated with his self-image. Interest in and appreciation of a person's language is tantamount to interest in and appreciation of the person himself. All languages are worthy of preservation in written form by means of grammars, dictionaries, and written texts. This should be done as part of the heritage of the human race."*
 
 In the realm of cross-lingual or multilingual natural language processing (NLP), it does appear that some languages tend to garner more attention. Typically well-established languages, with a plethora of linguistic resources to build from, often thrive while low-resource creole languages are left to languish. Creoles are a particular challenge of the NLP community as these languages often arise from often frantic and urgent needs to establish harmony in communication within cacophonous settings. In the Caribbean, creole languages often emerged as a means of survival, and endured as a result of resilience; often speakers struggled to work within the bounds of a dominant prestige language while retaining unique traces of their heritage languages or contact languages. The resilience of this language is currently being tested with the advent of the SARS-CoV-2 pandemic threatening the lives of older language-keepers. Therefore, the careful creation of tools and frameworks is needed to facilitate society's creole language needs. 
 
@@ -107,10 +107,10 @@ Using back translation to augment or to create pseudo-parallel data from Source 
 - Amerindian: 
  - Arawak language (Lokono) arw → acf    acf → arw
  - Carib language (Kali'na):  car → acf    acf → car
-- Indian-
+- Indian:
  - Hindi: hi → acf    acf → hi
  - Tamil: ta → acf    acf → ta
-- African-
+- African:
  - Yoruba: yor → acf    acf → yor
  - Fulani: ful → acf    acf → ful
  - Bantu: bnt → acf    acf → bnt
