@@ -21,8 +21,9 @@ Spanish is one of the most popular languages spoken in the world and taught in s
 However, the teaching and learning of Spanish verbs can be difficult. In Spanish, most verbs can be classified based on their endings of AR, ER, and AR. Conjugating the verbs requires an understanding of concepts such as regular and irregular endings. Verbs may also be classified based on the "stem change" involved in conjugation.
 
 Overall, verbs are typically taught using simple tables. Even if one were to focus on stem-changing verbs, tables are indeed the most common form of displaying the information. While not very visually interesting, this is the standard. 
+<div style="text-align: right"><img src="/default/image/sms.png" width="100" /></div>
 
-->![Table1](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/plaintable.png)<-
+<div style="text-align: right"><img src="https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/plaintable.png" width="100" /></div
 
 ->![Table2](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/plain.png)<-
 
