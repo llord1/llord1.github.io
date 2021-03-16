@@ -23,7 +23,7 @@ However, the teaching and learning of Spanish verbs can be difficult. In Spanish
 Overall, verbs are typically taught using simple tables. Even if one were to focus on stem-changing verbs, tables are indeed the most common form of displaying the information. While not very visually interesting, this is the standard. 
 
 
-<div style="text-align: right"><img src="https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/plaintable.png" width="100" /></div
+<div style="text-align: right"><img src="https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/plaintable.png" width="700" /></div
 
 ->![Table2](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/plain.png)<-
 
