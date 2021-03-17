@@ -74,7 +74,7 @@
 
 <p>In summary, David Frank’s paper on Sources of St. Lucian Creole Vocabulary piqued my interest, particularly the section on Vocabulary of Unknown Origin. Creole is complex as it is an amalgamation of different languages adapted for survival and solidified through generations of oral and written communication. I became intrigued by the complexity and mysteries within Saint Lucian creole “Kwéyòl” and hoped to explore it through data science tools and techniques.</p>
 
-<h4 id="draft-methodology"><strong>Draft methodology:</strong></h4>
+<h5 id="draft-methodology"><strong>Draft methodology:</strong></h5>
 
 <p>Currently, I am leaning towards using multilingual natural language processing to create a language detection and translation model capable of tracing the origin of Saint Lucian creole “Kwéyòl” by exploring supervised and unsupervised Statistical Machine Translation. However, in order to do so, I must also explore and understand the underlying language structures; such as dependency parsing, treebanks, sentiment semantic indexing on multilingual data.</p>
 
@@ -82,7 +82,7 @@
 
 <p>Ultimately, outcomes of this endeavor will include, contributions of new and/ or improved Saint Lucian “Kwéyòl corpora for future analysis, and new techniques and tools for exploring sentiment, and low resource languages. In order to properly explore this topic, I will need to search for and prepare the sample Saint Lucian “Kwéyòl corpora; locating as much parallel data as I can find. I want to use cross-lingual machine translation to find the unknown origins of vocabulary words.</p>
 
-<h5 id="data-sources"><strong>Data sources:</strong></h5>
+<p><strong>Data sources:</strong></p>
 
 <p>In terms of creole data, I currently have access to traditional folk songs <a class="citation" href="#joseph_songs_2020">(Joseph, 2020; Yannucci, 2020)</a>, discourses <a class="citation" href="#weekes2014bodies">(Weekes, 2014; Frank, 1990)</a>, and stories <a class="citation" href="#sil_readingbook_1989">(SIL, 1989)</a>. Digital versions of a bible (new testament) <a class="citation" href="#SLUnewtestament_1999">(“Tèstèman nèf-la: Épi an posyòn an liv samz-la,” 1999; “Saint Lucian Creole French New Testament,” 2004; “Glory (Saint Lucian Creole French),” 2020)</a>, an audio version of the bible <a class="citation" href="#audiobible2020">(“Liv Bon Nouvèl-la Mak Ékwi-a 1: Bible.is,” n.d.)</a>, a few documents from the government such as the Saint Lucian national anthem <a class="citation" href="#anthem_2016">(“Kwéyòl National Anthem approved,” 2016)</a> and Kwéyòl public service announcements <a class="citation" href="#louisy_govt_2004">(Louisy, 2004; SLU, 2020)</a> are also accessible. Public social media data are also useful, particularly the postings by verified Saint Lucian Kwéyòl writers (missing reference). In 1993 a document entitled “Dances and Songs from a Caribbean Island” was created and in 1996 one named “Select Bibliography of the Literature of the English-speaking West Indies” was also created; if the documents above are insufficient, I will consult these two anthological works for additional data <a class="citation" href="#islandsongs_1993">(“Musical Traditions of St. Lucia, West Indies,” 1993; Carnegie, 1996)</a> There are few books but they are mostly physical documents (I need to finish looking into their digital versions).</p>
 
@@ -153,64 +153,67 @@ Another addressing sentiment analysis (getting the sentiment behind these phrase
 
 <p><strong>Draft modeling for Complex Unsupervised Statistical Machine Translation for Saint Lucian Creole/ Kwéyòl:</strong></p>
 
-<p>-&gt;<img src="https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/vocabo.png" alt="vocab" />&lt;-</p>
+<div style="text-align: right"><img src="https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/vocabo.png" width="700" />&lt;/div
 
-<p>-&gt;<img src="https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/Vocabop.png" alt="Vocabop" />&lt;-</p>
+<div style="text-align: right"><img src="https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/Vocabop.png" width="700" />&lt;/div
 
-<h3 id="the-proposed-framework">The Proposed Framework:</h3>
 
-<p>Using back translation to augment or to create pseudo-parallel data from Source language to target language, and then back from the target language to the source language. The source language would be our main lexifier languages, and would, therefore, be more dominant/strong than the other lexifiers being used. For now, I will list dominant first, and will also be looking for language clusters (like French, Guadeloupean Creole French, Haitian Creole, and English).</p>
+### The Proposed Framework:
 
-<p>-&gt;<img src="https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/unsupervised_statistical_mt.png" alt="unsupervised_statistical_mt" />&lt;-</p>
+Using back translation to augment or to create pseudo-parallel data from Source language to target language, and then back from the target language to the source language. The source language would be our main lexifier languages, and would, therefore, be more dominant/strong than the other lexifiers being used. For now, I will list dominant first, and will also be looking for language clusters (like French, Guadeloupean Creole French, Haitian Creole, and English).
 
-<p>-&gt;<img src="https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/distillation.png" alt="distillation" />&lt;-</p>
+<div style="text-align: right"><img src="https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/unsupervised_statistical_mt.png" width="700" />&lt;/div
 
-<p><strong>Dominant/stronger lexifier/source language clusters:</strong></p>
+<div style="text-align: right"><img src="https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/distillation.png" width="700" />&lt;/div
 
-<ul>
-  <li>French: fr → acf    acf →fr</li>
-  <li>Guadeloupean Creole French: gcf →  acf    acf →gcf</li>
-  <li>Haitian, Haitian Creole: hat → acf    acf →</li>
-  <li>English: en → acf    acf → en  en →  acf    acf → en</li>
-</ul>
 
-<p><strong>Non-dominant/Weaker clusters lexifier/source language clusters:</strong></p>
+**Dominant/stronger lexifier/source language clusters:**
 
-<ul>
-  <li>Spanish: sp → acf    acf → sp</li>
-  <li>Portuguese: pt → acf    acf → pt</li>
-  <li>Amerindian:</li>
-  <li>Arawak language (Lokono) arw → acf    acf → arw</li>
-  <li>Carib language (Kali’na):  car → acf    acf → car</li>
-  <li>Indian:</li>
-  <li>Hindi: hi → acf    acf → hi</li>
-  <li>Tamil: ta → acf    acf → ta</li>
-  <li>African:</li>
-  <li>Yoruba: yor → acf    acf → yor</li>
-  <li>Fulani: ful → acf    acf → ful</li>
-  <li>Bantu: bnt → acf    acf → bnt</li>
-  <li>Igbo: ibo → acf    acf →ibo</li>
-  <li>Kikongo: kon → acf    acf → kon</li>
-  <li>Mende: men  → acf    acf → men</li>
-</ul>
+- French: fr → acf    acf →fr
+- Guadeloupean Creole French: gcf →  acf    acf →gcf
+- Haitian, Haitian Creole: hat → acf    acf →
+- English: en → acf    acf → en  en →  acf    acf → en
 
-<p>Once a phrase machine translation model is trained in both directions (back and forth), do back translation to augment or to create pseudo-parallel data from those languages (using the phrase-based model that was just built) in an attempt to create iterative refinement on the validation set.</p>
+**Non-dominant/Weaker clusters lexifier/source language clusters:**
 
-<h4 id="the-obstacles">The Obstacles:</h4>
+- Spanish: sp → acf    acf → sp
+- Portuguese: pt → acf    acf → pt
+- Amerindian: 
+ - Arawak language (Lokono) arw → acf    acf → arw
+ - Carib language (Kali'na):  car → acf    acf → car
+- Indian:
+ - Hindi: hi → acf    acf → hi
+ - Tamil: ta → acf    acf → ta
+- African:
+ - Yoruba: yor → acf    acf → yor
+ - Fulani: ful → acf    acf → ful
+ - Bantu: bnt → acf    acf → bnt
+ - Igbo: ibo → acf    acf →ibo
+ - Kikongo: kon → acf    acf → kon
+ - Mende: men  → acf    acf → men
 
-<p>Data Science is an actively developing field; due to program lengths for P.h.D programs, it may be very difficult to create a timely yet thorough compilation on all available topics, techniques, and technologies. The intention is not to compile a comprehensive list of all possible avenues of data science. It is to encourage interest in the field and provide starting points for personal journeys into data science topics.</p>
 
-<p>This endeavor is quite a complicated undertaking to publish as a single contributor. Co-authorship on works may be sought to competently manage the workload of research, and the coding of these tools. Framework users will require less preparation as introductory research on these tools would already have been completed.</p>
+Once a phrase machine translation model is trained in both directions (back and forth), do back translation to augment or to create pseudo-parallel data from those languages (using the phrase-based model that was just built) in an attempt to create iterative refinement on the validation set.
 
-<h4 id="the-tools">The Tools:</h4>
 
-<p>The tools may focus on open source and low-cost resources such as R Studio, Python, Dart, Flutter, fastText, LIWC, Github, Microsoft Office 365 tools (like Forms and Power BI), Tensorflow, and other available Google tools available.</p>
 
-<ul>
-  <li>Google Colab can be described as a Python development environment that runs in the browser using Google Cloud; it is completely free of charge, and even offers access to their GPU is free of charge for some hours of usage every day.</li>
-</ul>
 
-<h3 id="references">References:</h3>
+#### The Obstacles:
+
+Data Science is an actively developing field; due to program lengths for P.h.D programs, it may be very difficult to create a timely yet thorough compilation on all available topics, techniques, and technologies. The intention is not to compile a comprehensive list of all possible avenues of data science. It is to encourage interest in the field and provide starting points for personal journeys into data science topics. 
+
+This endeavor is quite a complicated undertaking to publish as a single contributor. Co-authorship on works may be sought to competently manage the workload of research, and the coding of these tools. Framework users will require less preparation as introductory research on these tools would already have been completed.
+
+
+#### The Tools:
+
+The tools may focus on open source and low-cost resources such as R Studio, Python, Dart, Flutter, fastText, LIWC, Github, Microsoft Office 365 tools (like Forms and Power BI), Tensorflow, and other available Google tools available. 
+
+- Google Colab can be described as a Python development environment that runs in the browser using Google Cloud; it is completely free of charge, and even offers access to their GPU is free of charge for some hours of usage every day. 
+
+
+### References:
+
 
 <ol class="bibliography"><li><span id="frank2007sources">Frank, D. B. (2007). <i>Sources of St. Lucian Creole Vocabulary</i>. http://www.saintluciancreole.dbfrank.net/workpapers/sources_of_vocabulary.pdf</span></li>
 <li><span id="frank2001kweyol">Crosbie, P., Frank, D., Leon, E., Samuel, P., &amp; Castries, S. L. (2001). Kwéyòl dictionary. <i>Castries, Government of Saint Lucia, Ministry of Education</i>. http://www.saintluciancreole.dbfrank.net/dictionary/KweyolDictionary.pdf</span></li>
@@ -233,10 +236,16 @@ Another addressing sentiment analysis (getting the sentiment behind these phrase
 <li><span id="islandsongs_1993">Musical Traditions of St. Lucia, West Indies. (1993). In <i>Dances and Songs from a Caribbean Island</i>. Smithsonian/Folkways Recording. https://media.smithsonianfolkways.org/liner_notes/smithsonian_folkways/SFW40416.pdf</span></li>
 <li><span id="creolelitlist1996">Carnegie, J. R. (1996). Select Bibliography of the Literature of the English-speaking West Indies, 1989-1991. <i>Journal of West Indian Literature</i>, <i>7</i>(1), 1–53. http://www.jstor.org/stable/23019891</span></li></ol>
 
-<h3 id="references-1">References:</h3>
+
+
+
+
+### References:
 
 <ol class="bibliography"></ol>
 
+
+</div></div></div></div>
 
 				</div><!-- entry-content -->
 			</div><!-- bd -->
