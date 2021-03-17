@@ -54,7 +54,9 @@ Digital versions of a bible (new testament) {% cite SLUnewtestament_1999 biblepr
 
 
 
-##### __Draft modeling for Complex Supervised and Unsupervised Statistical Machine Translation for Saint Lucian Creole/ Kwéyòl:__
+##### __Draft modeling:__
+
+**Complex Supervised and Unsupervised Statistical Machine Translation for Saint Lucian Creole/ Kwéyòl:**
 
 ![vocab](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/vocabo.PNG)
 
@@ -83,19 +85,19 @@ Digital versions of a bible (new testament) {% cite SLUnewtestament_1999 biblepr
 
 **Draft Hypotheses:**
 
-- *Hypothesis:* Since the language is mostly orally passed on and spelled phonetically (though inconsistently), it may be possible to find the origin of the words, not only through text analysis but through cross-lingual acoustic models. The mystery words will not only be compared to words of similar text cognates etc. but also compared with vocal sound files from nearby languages.
-
 - *Hypothesis:* While English is the current prestige/official language of Saint Lucia, and French is the main lexifier language of "Kwéyòl, the origins of the unknown vocabulary are mostly composed of roots from the lesser linked languages (arw, car, sp, Indian, and African) are most likely to hold the remaining details due to their continual depletion.
+
+- *Hypothesis:* Since the language is mostly orally passed on and spelled phonetically (though inconsistently), it may be possible to find the origin of the words, not only through text analysis but through cross-lingual acoustic models. The mystery words will not only be compared to words of similar text cognates etc. but also compared with vocal sound files from nearby languages.
 
 - *Hypothesis:* Alpha and beta phrase parsers can reduce issues of polysemy and word sense disambiguation, thus improving sentiment analysis.
 
 - *Hypothesis:* A novel CNN-based sentiment semantic indexing method can be applied to multilingual data; this should ease/improve sentiment analysis outcomes on Kwéyòl data.
 
-- *Hypothesis:* the natural annotation of crowdsourced online dictionaries can be useful for building the corpus of a low-resource language, and reducing issues of polysemy and word sense disambiguation, thus improving sentiment analysis.
+- *Hypothesis:* The natural annotation of crowdsourced online dictionaries can be useful for building the corpus of a low-resource language, and reducing issues of polysemy and word sense disambiguation, thus improving sentiment analysis.
 
 - *Hypothesis:* Exploring the semantic similarity of corpus related to yet better documented than creole (such as Haitian Creole and Guadeloupean Creole French), may assist with unsupervised statistical machine translation testing.
 
-- *Hypothesis:* careful use of social media text can aid in building the corpus of a low-resource language, and reducing issues of polysemy and word sense disambiguation, thus improving sentiment analysis; looking at the intent of discussions/texts of social media.
+- *Hypothesis:* Careful use of social media text can aid in building the corpus of a low-resource language, and reducing issues of polysemy and word sense disambiguation, thus improving sentiment analysis; looking at the intent of discussions/texts of social media.
 
 - *Hypothesis:* There is an arguable existence of a connection between ethical data science pursuits, Maslow’s hierarchy, biocultural diversity, and the importance of language preservation in light of covid.
 
@@ -163,13 +165,6 @@ The tools may focus on open source and low-cost resources such as R Studio, Pyth
 
 ### References:
 
-
-{% bibliography --cited %}
-
-{% include JB/setup %}
-
-
-### References:
 
 {% bibliography --cited %}
 
