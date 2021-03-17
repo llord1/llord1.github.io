@@ -29,7 +29,7 @@ Moreover, it has also been said that while there is a lingering 'bias towards co
 
 In summary, David Frank's paper on Sources of St. Lucian Creole Vocabulary piqued my interest, particularly the section on Vocabulary of Unknown Origin. Creole is complex as it is an amalgamation of different languages adapted for survival and solidified through generations of oral and written communication. I became intrigued by the complexity and mysteries within Saint Lucian creole "Kwéyòl" and hoped to explore it through data science tools and techniques. 
 
-#### __Draft methodology:__
+##### __Draft methodology:__
 
 Currently, I am leaning towards using multilingual natural language processing to create a language detection and translation model capable of tracing the origin of Saint Lucian creole "Kwéyòl" by exploring supervised and unsupervised Statistical Machine Translation. However, in order to do so, I must also explore and understand the underlying language structures; such as dependency parsing, treebanks, sentiment semantic indexing on multilingual data.
 
@@ -37,15 +37,13 @@ I am also intrigued by topics on word sense disambiguation in creole; particular
 
 Ultimately, outcomes of this endeavor will include, contributions of new and/ or improved Saint Lucian "Kwéyòl corpora for future analysis, and new techniques and tools for exploring sentiment, and low resource languages. In order to properly explore this topic, I will need to search for and prepare the sample Saint Lucian "Kwéyòl corpora; locating as much parallel data as I can find. I want to use cross-lingual machine translation to find the unknown origins of vocabulary words.
 
-##### __Data sources:__
+**Data sources:**
 
 In terms of creole data, I currently have access to traditional folk songs {% cite joseph_songs_2020 SLU_song_yannucci_2020 %}, discourses {% cite weekes2014bodies frank_1990 %}, and stories {% cite sil_readingbook_1989 %}. Digital versions of a bible (new testament) {% cite SLUnewtestament_1999 bibleproject_2004 BibleSocieties_2020 %}, an audio version of the bible {% cite audiobible2020 %}, a few documents from the government such as the Saint Lucian national anthem {% cite anthem_2016 %} and Kwéyòl public service announcements {% cite louisy_govt_2004 sluFRC_FB_2020 %} are also accessible. Public social media data are also useful, particularly the postings by verified Saint Lucian Kwéyòl writers {% cite kweyol_fb_joseph  kweyol_works_joseph  kweyol_playlists_joseph%}. In 1993 a document entitled "Dances and Songs from a Caribbean Island" was created and in 1996 one named "Select Bibliography of the Literature of the English-speaking West Indies" was also created; if the documents above are insufficient, I will consult these two anthological works for additional data {% cite islandsongs_1993 creolelitlist1996 %} There are few books but they are mostly physical documents (I need to finish looking into their digital versions). 
 
 I also have access to a partially labeled XML version of the Saint Lucian Kwéyòl dictionary dataset (but no sentiment data) {% cite frank2001kweyol %}. There are numerical indicators to signify the differences between homonyms, and according to the dictionary's creator
 
 *'the set of parts of speech, or word classes, used in this dictionary is as follows: N (noun), PRO (pronoun), ADJ (adjective), ART (article), V (verb), ADV (adverb), PREP (preposition), CONJ (conjunction), and INTERJ (interjection). These are only broad categories. In a more complete a grammatical description of Kwéyòl, these broad categories could and should be further broken down into subcategories'* {% cite frank2001kweyol %}. 
-
-
 
 
 **Assumptions:**
@@ -100,18 +98,18 @@ Another addressing sentiment analysis (getting the sentiment behind these phrase
 
 **Draft modeling for Complex Unsupervised Statistical Machine Translation for Saint Lucian Creole/ Kwéyòl:**
 
-->![vocab](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/vocabo.png)<-
+<div style="text-align: right"><img src="https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/vocabo.png" width="700" /></div
 
-->![Vocabop](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/Vocabop.png)<-
+<div style="text-align: right"><img src="https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/Vocabop.png" width="700" /></div
 
 
 ### The Proposed Framework:
 
 Using back translation to augment or to create pseudo-parallel data from Source language to target language, and then back from the target language to the source language. The source language would be our main lexifier languages, and would, therefore, be more dominant/strong than the other lexifiers being used. For now, I will list dominant first, and will also be looking for language clusters (like French, Guadeloupean Creole French, Haitian Creole, and English).
 
-->![unsupervised_statistical_mt](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/unsupervised_statistical_mt.png)<-
+<div style="text-align: right"><img src="https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/unsupervised_statistical_mt.png" width="700" /></div
 
-->![distillation](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/distillation.png)<-
+<div style="text-align: right"><img src="https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/distillation.png" width="700" /></div
 
 
 **Dominant/stronger lexifier/source language clusters:**
