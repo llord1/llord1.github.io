@@ -82,6 +82,14 @@
 
 <p>Ultimately, outcomes of this endeavor will include, contributions of new and/ or improved Saint Lucian “Kwéyòl corpora for future analysis, and new techniques and tools for exploring sentiment, and low resource languages. In order to properly explore this topic, I will need to search for and prepare the sample Saint Lucian “Kwéyòl corpora; locating as much parallel data as I can find. I want to use cross-lingual machine translation to find the unknown origins of vocabulary words.</p>
 
+<h5 id="data-sources"><strong>Data sources:</strong></h5>
+
+<p>In terms of creole data, I currently have access to traditional folk songs <a class="citation" href="#joseph_songs_2020">(Joseph, 2020; Yannucci, 2020)</a>, discourses <a class="citation" href="#weekes2014bodies">(Weekes, 2014; Frank, 1990)</a>, and stories <a class="citation" href="#sil_readingbook_1989">(SIL, 1989)</a>. Digital versions of a bible (new testament) <a class="citation" href="#SLUnewtestament_1999">(“Tèstèman nèf-la: Épi an posyòn an liv samz-la,” 1999; “Saint Lucian Creole French New Testament,” 2004; “Glory (Saint Lucian Creole French),” 2020)</a>, an audio version of the bible <a class="citation" href="#audiobible2020">(“Liv Bon Nouvèl-la Mak Ékwi-a 1: Bible.is,” n.d.)</a>, a few documents from the government such as the Saint Lucian national anthem <a class="citation" href="#anthem_2016">(“Kwéyòl National Anthem approved,” 2016)</a> and Kwéyòl public service announcements <a class="citation" href="#louisy_govt_2004">(Louisy, 2004; SLU, 2020)</a> are also accessible. Public social media data are also useful, particularly the postings by verified Saint Lucian Kwéyòl writers (missing reference). In 1993 a document entitled “Dances and Songs from a Caribbean Island” was created and in 1996 one named “Select Bibliography of the Literature of the English-speaking West Indies” was also created; if the documents above are insufficient, I will consult these two anthological works for additional data <a class="citation" href="#islandsongs_1993">(“Musical Traditions of St. Lucia, West Indies,” 1993; Carnegie, 1996)</a> There are few books but they are mostly physical documents (I need to finish looking into their digital versions).</p>
+
+<p>I also have access to a partially labeled XML version of the Saint Lucian Kwéyòl dictionary dataset (but no sentiment data) <a class="citation" href="#frank2001kweyol">(Crosbie et al., 2001)</a>. There are numerical indicators to signify the differences between homonyms, and according to the dictionary’s creator</p>
+
+<p><em>‘the set of parts of speech, or word classes, used in this dictionary is as follows: N (noun), PRO (pronoun), ADJ (adjective), ART (article), V (verb), ADV (adverb), PREP (preposition), CONJ (conjunction), and INTERJ (interjection). These are only broad categories. In a more complete a grammatical description of Kwéyòl, these broad categories could and should be further broken down into subcategories’</em> <a class="citation" href="#frank2001kweyol">(Crosbie et al., 2001)</a>.</p>
+
 <p><strong>Assumptions:</strong></p>
 
 <ul>
@@ -107,6 +115,9 @@
   </li>
   <li>
     <p><em>Hypothesis:</em> While English is the current prestige language of Saint Lucia, and French is the main lexifier language of “Kwéyòl, the origins of the unknown vocabulary are mostly composed of roots from the lesser linked languages (arw, car, sp, Indian, and African) are most likely to hold the remaining details due to their continual depletion.</p>
+  </li>
+  <li>
+    <p><em>Hypothesis:</em> Since the language is mostly orally passed on, and spelled phonetically (though inconsistently), it may be possible to find the origin of the words, not only through text analysis but through cross-lingual acoustic models. The mystery words will not only be compared to words of similar text cognates etc. but also compared with vocal sound files from nearby languages.</p>
   </li>
   <li>
     <p><em>Hypothesis:</em> A novel CNN-based sentiment semantic indexing method can be applied to multilingual data; this should ease/improve sentiment analysis outcomes on Kwéyòl data.</p>
@@ -206,7 +217,21 @@ Another addressing sentiment analysis (getting the sentiment behind these phrase
 <li><span id="soto2020language">Soto, W. (2020). Language Identification of Guadeloupean Creole. <i>Groupement De Recherche Linguistique Informatique Formelle Et De Terrain (LIFT)</i>, 53. https://hal.archives-ouvertes.fr/hal-03066031/document#page=59</span></li>
 <li><span id="kweyol_works_joseph">Joseph, J. C. (2020). Kwéyòl Sent Lisi. In <i>Kwéyòl Sent Lisi</i>. https://kweyolsentlisi.weebly.com/</span></li>
 <li><span id="kweyol_fb_joseph">Joseph, J. C. (2020). Kwéyòl Sent Lisi. In <i>Facebook</i>. https://www.facebook.com/kweyolsentlisi/</span></li>
-<li><span id="nivre2016universal">Nivre, J., De Marneffe, M.-C., Ginter, F., Goldberg, Y., Hajic, J., Manning, C. D., McDonald, R., Petrov, S., Pyysalo, S., Silveira, N., &amp; others. (2016). Universal dependencies v1: A multilingual treebank collection. <i>Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC’16)</i>, 1659–1666.</span></li></ol>
+<li><span id="nivre2016universal">Nivre, J., De Marneffe, M.-C., Ginter, F., Goldberg, Y., Hajic, J., Manning, C. D., McDonald, R., Petrov, S., Pyysalo, S., Silveira, N., &amp; others. (2016). Universal dependencies v1: A multilingual treebank collection. <i>Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC’16)</i>, 1659–1666.</span></li>
+<li><span id="joseph_songs_2020">Joseph, J. C. (2020). Mèt Lékòl - Kwéyòl Sent Lisi . In <i>10 St. Lucia La Rose Songs</i>. Kwéyòl Sent Lisi . https://kweyolsentlisi.weebly.com/megravet-leacutekogravel.html</span></li>
+<li><span id="SLU_song_yannucci_2020">Yannucci, L. (2020). Fanm Ki Dou - Saint Lucia. In <i>Mama Lisa’s World of Children and International Culture</i>. mamalisa. https://www.mamalisa.com/?t=es&amp;p=4060</span></li>
+<li><span id="weekes2014bodies">Weekes, T. (2014). <i>BODIES, MEMORIES AND SPIRITS: A DISCOURSE ON SELECTED CULTURAL FORMS AND PRACTICES OF ST.LUCIA</i>. Xlibris US. https://books.google.com/books?id=8O_wAgAAQBAJ</span></li>
+<li><span id="frank_1990">Frank, D. (1990). Six St Lucian French Creole Narrative Texts. In <i> Work Papers of the Summer Institute of Linguistics in St Lucia</i>. SIL International. https://www.dbfrank.net/saintluciancreole/workpapers/six_texts.pdf</span></li>
+<li><span id="sil_readingbook_1989">SIL. (1989). Sé Kon Sal Fèt - A reading book in Saint Lucian Creole. In <i>Summer Institute of Linguistics</i>. SIL International. https://www.sil.org/system/files/reapdata/13/47/39/134739838606900861230369818388141393138/SeKon_45937.pdf</span></li>
+<li><span id="SLUnewtestament_1999">Tèstèman nèf-la: Épi an posyòn an liv samz-la. (1999). In <i>Saint Lucian Creole French New Testament</i>. The Digital Bible Society . http://downloads.dbs.org/scriptures/pdf/ACFWBT/ACFWBT.pdf</span></li>
+<li><span id="bibleproject_2004">Saint Lucian Creole French New Testament. (2004). In <i>The Global Bible Project</i>. Wycliffe Bible Translators. https://acf.global.bible/bible/4e558d011298deae-01/2JN.intro</span></li>
+<li><span id="BibleSocieties_2020">Glory (Saint Lucian Creole French). (2020). In <i>The Translation Insights and Perspectives (TIPs)</i>. United Bible Societies. https://tips.translation.bible/story/glory-saint-lucian-creole-french/</span></li>
+<li><span id="audiobible2020">Liv Bon Nouvèl-la Mak Ékwi-a 1: Bible.is. In <i>Bible.is Online</i>. Faith Comes By Hearing ®. https://live.bible.is/bible/ACFWBT/MRK/1</span></li>
+<li><span id="anthem_2016">Kwéyòl National Anthem approved. (2016). In <i>Saint Lucia - Access Government</i>. Office of the Prime Minister. http://www.govt.lc/news/kw-y-l-national-anthem-approved</span></li>
+<li><span id="louisy_govt_2004">Louisy, D. C. P. L. (2004). “Facing Opportunity and Taking Responsibility for Our Country’s Development. In <i>Throne Speech</i>. Governor General Dame Calliopa Pearlette Louisy. http://caribbeanelections.com/eDocs/articles/lc/lc_Throne_Speech_2004.pdf</span></li>
+<li><span id="sluFRC_FB_2020">SLU. (2020). Folk Research Centre. In <i>Facebook</i>. https://www.facebook.com/saintluciafolk/</span></li>
+<li><span id="islandsongs_1993">Musical Traditions of St. Lucia, West Indies. (1993). In <i>Dances and Songs from a Caribbean Island</i>. Smithsonian/Folkways Recording. https://media.smithsonianfolkways.org/liner_notes/smithsonian_folkways/SFW40416.pdf</span></li>
+<li><span id="creolelitlist1996">Carnegie, J. R. (1996). Select Bibliography of the Literature of the English-speaking West Indies, 1989-1991. <i>Journal of West Indian Literature</i>, <i>7</i>(1), 1–53. http://www.jstor.org/stable/23019891</span></li></ol>
 
 <h3 id="references-1">References:</h3>
 
