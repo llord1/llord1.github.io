@@ -5,7 +5,6 @@ description: "Introduction to Low-resource Cross-lingual Framework"
 ---
 {% include JB/setup %}
 
-
 #### __Introduction:__
 
 
@@ -15,7 +14,7 @@ When exploring the matter of Multilingual NLP, Dr. Benjamin Elson's 1987 *Lingui
 
 In the realm of cross-lingual or multilingual natural language processing (NLP), it does appear that some languages tend to garner more attention. Typically well-established languages, with a plethora of linguistic resources to build from, often thrive while low-resource creole languages are left to languish. Creoles are a particular challenge to the NLP community as these languages tend to arise from oftentimes frantic and urgent needs to establish harmony in communication within cacophonous settings. 
 
-A creole language is different from a pidgin as it has established language rules that have been learned as a first language than one or more generations. In the Caribbean, creole languages emerged as a means of survival, and endured as a result of resilience; often speakers struggled to work within the bounds of a dominant prestige language while retaining unique traces of heritage languages or contact languages. The resilience of this language is currently being tested with the advent of the SARS-CoV-2 pandemic;  it created a situation where effective and timely communication is needed, while also threatening the lives of the older, more fluent, language-keepers. Therefore, the careful creation of tools and frameworks is needed to facilitate society's creole language needs. 
+A creole language is different from a pidgin as it has established language rules that have been learned as a first language for one or more generations. In the Caribbean, creole languages emerged as a means of survival, and endured as a result of resilience; often speakers struggled to work within the bounds of a dominant prestige language while retaining unique traces of heritage languages or contact languages. The resilience of this language is currently being tested with the advent of the SARS-CoV-2 pandemic;  it created a situation where effective and timely communication is needed, while also threatening the lives of the older, more fluent, language-keepers. Therefore, the careful creation of tools and frameworks is needed to facilitate society's creole language needs. 
 
 It is this very discordant origin and complexity of structure that presents issues to the preservation of creole languages. For example, most words in Saint Lucian Kwéyòl/creole focus on emotions, the weather, and other aspects of the immediate natural environment, including endemic animals and food sources {% cite frank2007sources %}. Therefore, finding domain-equivalent literature sources outside of certain contexts can be challenging.
 
@@ -30,7 +29,7 @@ There are multiple reasons to explore NLP topics on creole data. The increasing 
 
 In summary, Creole is complex as it is an amalgamation of different languages adapted for survival and solidified through generations of oral and written communication. David Frank's paper on *Sources of St. Lucian Creole Vocabulary* piqued my interest, particularly the section on *Vocabulary of Unknown Origin*. I became intrigued by the complexity and mysteries within Saint Lucian creole / "Kwéyòl" and hoped to explore it through data science tools and techniques. 
 
-Currently, I am leaning towards using multilingual NLP to combat the challenges of creole conservation; to create a language detection and translation model capable of tracing the origin of Saint Lucian creole "Kwéyòl", via supervised and unsupervised statistical machine translation. However, to do so, I must explore and understand the underlying language structures, such as dependency parsing, treebanks, and sentiment semantic indexing on multilingual data.
+Currently, I am leaning towards using multilingual NLP to combat the challenges of creole conservation; to create a language detection and translation model capable of tracing the origin of Saint Lucian creole "Kwéyòl", via supervised and unsupervised statistical machine translation. However, to do so, I must explore and understand the underlying language structures, such as dependency parsing, treebanks, and sentiment semantic indexing on multilingual data. For example, of the two types of linguistic structures, dependency parsing can be viewed as more applicable to multilinguality, as it demonstrates the relationships between words in a straightforward way. Phrase structure can be viewed as difficult to define in languages with free word order.
 
 Additionally, effective language detection and translation models for creole may address topics on word sense disambiguation; particularly the problems polysemy poses to sentiment analysis and how that impacts machine translation in low-resource languages. Phrase-based parsing techniques may also impact the model's accuracy(adequacy and fluency of translation).
 
@@ -39,6 +38,7 @@ Ultimately, outcomes of this endeavor will include, contributions of new and/ or
 ![nlp_overview](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/nlp_overview.PNG)
 
 ![types_of_ling_structure_dep_n_phrase.PNG](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/types_of_ling_structure_dep_n_phrase.PNG)
+
 
 ![model_ex_unsup_n_sup](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/model_ex_unsup_n_sup.PNG)
 
