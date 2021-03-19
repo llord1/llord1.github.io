@@ -64,6 +64,9 @@ Digital versions of a bible (new testament) {% cite SLUnewtestament_1999 biblepr
 
 ![Vocabop](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/Vocabop.PNG)
 
+![dep_crossling_structure](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/dep_crossling_structure.PNG)
+
+![morphogen](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/morphogen.PNG)
 
 
 **Assumptions:**
@@ -112,9 +115,6 @@ Digital versions of a bible (new testament) {% cite SLUnewtestament_1999 biblepr
 Using back-translation to augment or to create pseudo-parallel data from a source language to the target language, and then back from the target language to the source language. Since creole has more than one influence, it may require multiple source languages for back-translation. Our main lexifier language (French), and would, therefore, be more dominant/strong than the other lexifiers being used. The semantic similarity may also be visually explored through grouping related languages like French, Guadeloupean Creole French, Haitian Creole, and English.
 
 
-![morphogen](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/morphogen.PNG)
-
-
 ![unsupervised_statistical_mt](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/unsupervised_statistical_mt.PNG)
 
 
@@ -152,12 +152,9 @@ Once a phrase machine translation model is trained in both directions (back and 
 
 
 
-
-
 #### The Obstacles:
 
 Data Science is an actively developing field; due to program lengths for P.h.D programs, it may be very difficult to create a timely yet thorough compilation of all available topics, techniques, and technologies. This endeavor is quite a complicated undertaking to publish as a single contributor. Co-authorship on works may be sought to competently manage the workload of research, and the coding of these tools. Ultimately, the intention is not to compile a comprehensive list of all possible avenues of exploring creole via data science's NLP tools. It is to encourage interest in the field and provide starting points for possible future expansion of these topics.
-
 
 
 
