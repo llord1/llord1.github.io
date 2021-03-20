@@ -31,22 +31,20 @@ Dr. Rand Ford: Professor and Program Director of Data Analytics at HU
 
 - **Internal Members:**
 
-    - Erin Buchanan
+    - Dr. Erin Buchanan
 
-    - Kevin Purcell 
+    - Dr. Kayla N. Jordan: Worked on with James Pennebaker on Linguistic Inquiry and Word Count (LIWC).
 
-    - Roozbeh Sadeghian
+    - Dr. Roozbeh Sadeghian
 
 
 - **External Members:** 
 
-    - *Dr. Melissa Irvine: Ph.D. Linguist; dissertation on Saint Lucian Creoles.
+    - *Dr. Melissa Irvine:Linguist; dissertation on Saint Lucian Creoles.
 
     - *Dr. David Frank: Linguist at SIL, Creole expert and contributing author of one of Saint Lucia’s creole dictionaries.
 
-    - *Dr. James W. Pennebaker: Linguistic Inquiry and Word Count (LIWC) co-creator and social psychologist (need to prepare formal meeting request after LIWC papers are reviewed by Dr. Ford).
-
-    - *Graham Neubig: Carnegie Mellon University lecturer (Multilingual NLP)
+    - **Dr. Graham Neubig: Carnegie Mellon University lecturer (Multilingual NLP)
 
 
 {% bibliography --cited %}
