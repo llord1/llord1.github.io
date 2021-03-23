@@ -68,6 +68,10 @@
 
 <p>Additionally, it is said that just over 83% of vocabulary words have French origins; roughly 3% is English-based, and Amerindian, African, and East Indian sources account for about  ½ % of the total each  <a class="citation" href="#frank2007sources">(Frank, 2007)</a>. Even the author of the official creole dictionary acknowledged gaps in its vocabulary being due to the lack of official etymological details of over 11% of documented words <a class="citation" href="#frank2001kweyol">(Crosbie et al., 2001; Frank, 2007)</a>. Despite the advantage of cross-referencing parallel language data sources, the language challenges are made more complex by many of the vocabulary words lacking details on their origins. Ultimately, the situation could be described as bearing a “Mondrian-like” language setting. This image seems apt to explain this low-resource creole being close to parallel and monolingual data with high-resource languages (like French and English), yet the present language data may belong to different domains (missing reference).</p>
 
+<p><img src="https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/vocabo.PNG" alt="vocab" width="650" /></p>
+
+<p><img src="https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/Vocabop.PNG" alt="Vocabop" width="650" /></p>
+
 <p>Moreover, there are challenges present in natural language processing, particularly when dealing with sentiment analysis, word-sense disambiguation, and issues with dependency parsers in cross-lingual settings. A major challenge of lexical semantics is creating training data and algorithms that facilitate downstream tasks. Furthermore, it has also been said that while there is a lingering ‘bias towards contemporary Indo-European languages’, treebanks for other language families and treebanks for classical languages are on the rise <a class="citation" href="#nivre2016universal">(Nivre et al., 2016)</a>.</p>
 
 <p>There are multiple reasons to explore NLP topics on creole data. The increasing popularity of opinion-rich resources such as blogs <a class="citation" href="#kweyol_works_joseph">(Joseph, 2020)</a>, shopping websites, review portals, and social media platforms <a class="citation" href="#kweyol_fb_joseph">(Joseph, 2020)</a> are rapidly attracting business people, governments, and researchers alike. Sentiment analysis often garners high interest from businesses. Not much NLP research has tackled adapting its components to creole languages; however, the academic tide has been changing as of 2020 <a class="citation" href="#soto2020language">(Soto, 2020)</a>. As of late 2020, even Carnegie Mellon University has taken steps forward with the curate courses in Multilingual NLP, and Low-resource NLP. It has been suggested that categorizing the challenges and formalizing their interpretation using Universal Dependencies may help create a Saint Lucian Kwéyòl dependency treebank, and later facilitate other needed NLP tasks (such as sentiment analysis of texts). A Saint Lucian Kwéyòl parser may be constructed by leveraging the base knowledge of French syntax. However, these may not be the only tools required to tackle the challenges of digitizing and analyzing creole languages. Therefore, it may be helpful to develop a framework to improve the models for linguistics. Perhaps an extendable framework that can demonstrate its application to low-resource creole languages.</p>
@@ -88,25 +92,17 @@
 
 <p><img src="https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/model_ex_unsup_n_sup.PNG" alt="model_ex_unsup_n_sup" width="650" /></p>
 
-<h5 id="data-sources"><strong>Data sources:</strong></h5>
+<p><strong>Data sources:</strong></p>
 
 <p>In terms of creole data, I currently have access to a partially labeled XML version of the Saint Lucian Kwéyòl dictionary dataset; it has parallel data but no sentiment tags <a class="citation" href="#frank2001kweyol">(Crosbie et al., 2001)</a>. There are, however, numerical indicators to signify the differences between homonyms, and according to the dictionary’s creator</p>
 
-<p><em>‘the set of parts of speech, or word classes, used in this dictionary is as
-follows: N (noun), PRO (pronoun), ADJ (adjective), ART (article), V (verb),
-ADV (adverb), PREP (preposition), CONJ (conjunction), and INTERJ
-(interjection). These are only broad categories. In a more complete
-a grammatical description of Kwéyòl, these broad categories could and should be further broken down into subcategories’</em> <a class="citation" href="#frank2001kweyol">(Crosbie et al., 2001)</a>. It should, however, be noted that attempts to translate sample sentences from the creole dictionary into lexifier languages may be challenging due to the words endemic to the creole’s setting; a tropical Caribbean island.</p>
+<p><em>‘the set of parts of speech, or word classes, used in this dictionary is as follows: N (noun), PRO (pronoun), ADJ (adjective), ART (article), V (verb), ADV (adverb), PREP (preposition), CONJ (conjunction), and INTERJ (interjection). These are only broad categories. In a more complete a grammatical description of Kwéyòl, these broad categories could and should be further broken down into subcategories’</em> <a class="citation" href="#frank2001kweyol">(Crosbie et al., 2001)</a>. It should, however, be noted that attempts to translate sample sentences from the creole dictionary into lexifier languages may be challenging due to the words endemic to the creole’s setting; a tropical Caribbean island.</p>
 
 <p>Digital versions of a bible (new testament) <a class="citation" href="#SLUnewtestament_1999">(“Tèstèman nèf-la: Épi an posyòn an liv samz-la,” 1999; “Saint Lucian Creole French New Testament,” 2004; “Glory (Saint Lucian Creole French),” 2020)</a>, an audio version of the bible <a class="citation" href="#audiobible2020">(“Liv Bon Nouvèl-la Mak Ékwi-a 1: Bible.is,” n.d.)</a>, a few documents from the government such as the Saint Lucian national anthem <a class="citation" href="#anthem_2016">(“Kwéyòl National Anthem approved,” 2016)</a> and Kwéyòl public service announcements <a class="citation" href="#louisy_govt_2004">(Louisy, 2004; SLU, 2020)</a> are also accessible. I also have access to traditional folk songs <a class="citation" href="#joseph_songs_2020">(Joseph, 2020; Yannucci, 2020)</a>, discourses <a class="citation" href="#weekes2014bodies">(Weekes, 2014; Frank, 1990)</a>, and stories <a class="citation" href="#sil_readingbook_1989">(SIL, 1989)</a>. Public social media data are also useful, particularly the postings by verified Saint Lucian Kwéyòl writers (missing reference). In 1993 a document entitled “Dances and Songs from a Caribbean Island” was created and in 1996 one named “Select Bibliography of the Literature of the English-speaking West Indies” was also created; if the documents above are insufficient, I will consult these two anthological works for additional data <a class="citation" href="#islandsongs_1993">(“Musical Traditions of St. Lucia, West Indies,” 1993; Carnegie, 1996)</a> There are few books but they are mostly physical documents (I need to finish looking into their digital versions).</p>
 
-<h5 id="draft-modeling"><strong>Draft modeling:</strong></h5>
+<p><strong>Draft modeling:</strong></p>
 
 <p><strong>Complex Supervised and Unsupervised Statistical Machine Translation for Saint Lucian Creole/ Kwéyòl:</strong></p>
-
-<p><img src="https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/vocabo.PNG" alt="vocab" width="650" /></p>
-
-<p><img src="https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/Vocabop.PNG" alt="Vocabop" width="650" /></p>
 
 <p><img src="https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/dep_crossling_structure.PNG" alt="dep_crossling_structure" width="650" /></p>
 
