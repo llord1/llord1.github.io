@@ -4,6 +4,8 @@ title: "Brief Introduction: Low-resource Cross-lingual Framework"
 description: "Introduction to Low-resource Cross-lingual Framework"
 ---
 {% include JB/setup %}
+
+
 #### __Introduction:__
 
 
@@ -18,6 +20,10 @@ A creole language is different from a pidgin as it has established language rule
 It is this very discordant origin and complexity of structure that presents issues to the preservation of creole languages. For example, most words in Saint Lucian Kwéyòl/creole focus on emotions, the weather, and other aspects of the immediate natural environment, including endemic animals and food sources {% cite frank2007sources %}. Therefore, finding domain-equivalent literature sources outside of certain contexts can be challenging.
 
 Additionally, it is said that just over 83% of vocabulary words have French origins; roughly 3% is English-based, and Amerindian, African, and East Indian sources account for about  ½ % of the total each  {% cite frank2007sources %}. Even the author of the official creole dictionary acknowledged gaps in its vocabulary being due to the lack of official etymological details of over 11% of documented words {% cite frank2001kweyol frank2007sources %}. Despite the advantage of cross-referencing parallel language data sources, the language challenges are made more complex by many of the vocabulary words lacking details on their origins. Ultimately, the situation could be described as bearing a "Mondrian-like" language setting. This image seems apt to explain this low-resource creole being close to parallel and monolingual data with high-resource languages (like French and English), yet the present language data may belong to different domains {% cite ranzato2021 %}. 
+
+![vocab](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/vocabo.PNG){: width="650" }
+
+![Vocabop](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/Vocabop.PNG){: width="650" }
 
 Moreover, there are challenges present in natural language processing, particularly when dealing with sentiment analysis, word-sense disambiguation, and issues with dependency parsers in cross-lingual settings. A major challenge of lexical semantics is creating training data and algorithms that facilitate downstream tasks. Furthermore, it has also been said that while there is a lingering 'bias towards contemporary Indo-European languages', treebanks for other language families and treebanks for classical languages are on the rise {% cite nivre2016universal %}. 
 
@@ -36,36 +42,23 @@ Ultimately, outcomes of this endeavor will include, contributions of new and/ or
 
 ![nlp_overview](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/nlp_overview.PNG){: width="650" }
 
-
 ![types_of_ling_structure_dep_n_phrase.PNG](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/types_of_ling_structure_dep_n_phrase.PNG){: width="650" }
-
 
 ![model_ex_unsup_n_sup](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/model_ex_unsup_n_sup.PNG){: width="650" }
 
 
-##### __Data sources:__
+**Data sources:**
 
 In terms of creole data, I currently have access to a partially labeled XML version of the Saint Lucian Kwéyòl dictionary dataset; it has parallel data but no sentiment tags {% cite frank2001kweyol %}. There are, however, numerical indicators to signify the differences between homonyms, and according to the dictionary's creator
 
-*'the set of parts of speech, or word classes, used in this dictionary is as
-follows: N (noun), PRO (pronoun), ADJ (adjective), ART (article), V (verb),
-ADV (adverb), PREP (preposition), CONJ (conjunction), and INTERJ
-(interjection). These are only broad categories. In a more complete
-a grammatical description of Kwéyòl, these broad categories could and should be further broken down into subcategories'* {% cite frank2001kweyol %}. It should, however, be noted that attempts to translate sample sentences from the creole dictionary into lexifier languages may be challenging due to the words endemic to the creole's setting; a tropical Caribbean island.
+*'the set of parts of speech, or word classes, used in this dictionary is as follows: N (noun), PRO (pronoun), ADJ (adjective), ART (article), V (verb), ADV (adverb), PREP (preposition), CONJ (conjunction), and INTERJ (interjection). These are only broad categories. In a more complete a grammatical description of Kwéyòl, these broad categories could and should be further broken down into subcategories'* {% cite frank2001kweyol %}. It should, however, be noted that attempts to translate sample sentences from the creole dictionary into lexifier languages may be challenging due to the words endemic to the creole's setting; a tropical Caribbean island.
 
 Digital versions of a bible (new testament) {% cite SLUnewtestament_1999 bibleproject_2004 BibleSocieties_2020 %}, an audio version of the bible {% cite audiobible2020 %}, a few documents from the government such as the Saint Lucian national anthem {% cite anthem_2016 %} and Kwéyòl public service announcements {% cite louisy_govt_2004 sluFRC_FB_2020 %} are also accessible. I also have access to traditional folk songs {% cite joseph_songs_2020 SLU_song_yannucci_2020 %}, discourses {% cite weekes2014bodies frank_1990 %}, and stories {% cite sil_readingbook_1989 %}. Public social media data are also useful, particularly the postings by verified Saint Lucian Kwéyòl writers {% cite kweyol_fb_joseph  kweyol_works_joseph  kweyol_playlists_joseph%}. In 1993 a document entitled "Dances and Songs from a Caribbean Island" was created and in 1996 one named "Select Bibliography of the Literature of the English-speaking West Indies" was also created; if the documents above are insufficient, I will consult these two anthological works for additional data {% cite islandsongs_1993 creolelitlist1996 %} There are few books but they are mostly physical documents (I need to finish looking into their digital versions). 
 
 
-
-##### __Draft modeling:__
+**Draft modeling:**
 
 **Complex Supervised and Unsupervised Statistical Machine Translation for Saint Lucian Creole/ Kwéyòl:**
-
-![vocab](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/vocabo.PNG){: width="650" }
-
-
-![Vocabop](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/Vocabop.PNG){: width="650" }
-
 
 ![dep_crossling_structure](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/dep_crossling_structure.PNG){: width="650" }
 
@@ -178,3 +171,9 @@ The tools may focus on open source and low-cost resources such as R Studio, Pyth
 {% bibliography --cited %}
 
 {% include JB/setup %}
+
+
+
+
+
+
