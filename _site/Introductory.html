@@ -1,0 +1,301 @@
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7 ie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8 ie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9 ie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<title>Brief Introduction: Low-resource Cross-lingual Framework</title>
+	<meta name="author" content="Laurel Lord">
+	<link href='/assets/themes/the-program/css/style.css' rel="stylesheet" media="all">
+	<link href="http://feeds.feedburner.com/" rel="alternate" title="Brief Introduction: Low-resource Cross-lingual Framework" type="application/atom+xml">
+	<script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.0.6/modernizr.min.js"></script>
+</head>
+<body>
+
+<div id="page" class="hentry">
+	<header class="the-header">
+		<div class="unit-head">
+			<div class="unit-inner unit-head-inner">
+				<nav class="nav-global">
+					<ul>
+						<li class="logo"><a href="/">Laurel's Works in Progress</a></li>
+						<li class="archive"><a href="/archive.html">archive</a></li>
+						<li class="page"><a href="/pages.html">pages</a></li>
+						<li class="category"><a href="/categories.html">categories</a></li>
+						<li class="tag"><a href="/tags.html">tags</a></li>
+						<li class="forkme"><div><iframe src="http://markdotto.github.com/github-buttons/github-btn.html?user=plusjade&repo=jekyll-bootstrap&type=fork&count=true"
+									allowtransparency="true" frameborder="0" scrolling="0" width="95px" height="20px"></iframe></div></li>
+					</ul>
+				</nav>
+			</div><!-- unit-inner -->
+		</div><!-- unit-head -->
+	</header>
+	<div class="body" role="main">
+		<div class="unit-body">
+			<div class="unit-inner unit-body-inner">
+				<div class="entry-content">
+					
+
+<article class="unit-article layout-page">
+	<div class="unit-inner unit-article-inner">
+		<div class="content">
+			<header>
+				<div class="unit-head">
+					<div class="unit-inner unit-head-inner">
+						<h1 class="h2 entry-title">Brief Introduction: Low-resource Cross-lingual Framework</h1>
+					</div><!-- unit-inner -->
+				</div><!-- unit-head -->
+			</header>
+
+			<div class="bd">
+				<div class="entry-content">
+					
+<h4 id="introduction"><strong>Introduction:</strong></h4>
+
+<p>When exploring the matter of Multilingual NLP, Dr. Benjamin Elson’s 1987 <em>Linguistic Creed</em> comes to mind.</p>
+
+<p><em>“As the most uniquely human characteristic a person has, a person’s language is associated with his self-image. Interest in and appreciation of a person’s language is tantamount to interest in and appreciation of the person himself. All languages are worthy of preservation in written form by means of grammars, dictionaries, and written texts. This should be done as part of the heritage of the human race.”</em></p>
+
+<p>In the realm of cross-lingual or multilingual natural language processing (NLP), it does appear that some languages tend to garner more attention. Typically well-established languages, with a plethora of linguistic resources to build from, often thrive while low-resource creole languages are left to languish. Creoles are a particular challenge to the NLP community as these languages tend to arise from oftentimes frantic and urgent needs to establish harmony in communication within cacophonous settings.</p>
+
+<p>A creole language is different from a pidgin as it has established language rules that have been learned as a first language for one or more generations. In the Caribbean, creole languages emerged as a means of survival, and endured as a result of resilience; often speakers struggled to work within the bounds of a dominant prestige language while retaining unique traces of heritage languages or contact languages. The resilience of this language is currently being tested with the advent of the SARS-CoV-2 pandemic;  it created a situation where effective and timely communication is needed, while also threatening the lives of the older, more fluent, language-keepers. Therefore, the careful creation of tools and frameworks is needed to facilitate society’s creole language needs.</p>
+
+<p>It is this very discordant origin and complexity of structure that presents issues to the preservation of creole languages. For example, most words in Saint Lucian Kwéyòl/creole focus on emotions, the weather, and other aspects of the immediate natural environment, including endemic animals and food sources <a class="citation" href="#frank2007sources">(Frank, 2007)</a>. Therefore, finding domain-equivalent literature sources outside of certain contexts can be challenging.</p>
+
+<p>Additionally, it is said that just over 83% of vocabulary words have French origins; roughly 3% is English-based, and Amerindian, African, and East Indian sources account for about  ½ % of the total each  <a class="citation" href="#frank2007sources">(Frank, 2007)</a>. Even the author of the official creole dictionary acknowledged gaps in its vocabulary being due to the lack of official etymological details of over 11% of documented words <a class="citation" href="#frank2001kweyol">(Crosbie et al., 2001; Frank, 2007)</a>. Despite the advantage of cross-referencing parallel language data sources, the language challenges are made more complex by many of the vocabulary words lacking details on their origins. Ultimately, the situation could be described as bearing a “Mondrian-like” language setting. This image seems apt to explain this low-resource creole being close to parallel and monolingual data with high-resource languages (like French and English), yet the present language data may belong to different domains (missing reference).</p>
+
+<p><img src="https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/vocabo.PNG" alt="vocab" width="650" /></p>
+
+<p><img src="https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/Vocabop.PNG" alt="Vocabop" width="650" /></p>
+
+<p>Moreover, there are challenges present in natural language processing, particularly when dealing with sentiment analysis, word-sense disambiguation, and issues with dependency parsers in cross-lingual settings. A major challenge of lexical semantics is creating training data and algorithms that facilitate downstream tasks. Furthermore, it has also been said that while there is a lingering ‘bias towards contemporary Indo-European languages’, treebanks for other language families and treebanks for classical languages are on the rise <a class="citation" href="#nivre2016universal">(Nivre et al., 2016)</a>.</p>
+
+<p>There are multiple reasons to explore NLP topics on creole data. The increasing popularity of opinion-rich resources such as blogs <a class="citation" href="#kweyol_works_joseph">(Joseph, 2020)</a>, shopping websites, review portals, and social media platforms <a class="citation" href="#kweyol_fb_joseph">(Joseph, 2020)</a> are rapidly attracting business people, governments, and researchers alike. Sentiment analysis often garners high interest from businesses. Not much NLP research has tackled adapting its components to creole languages; however, the academic tide has been changing as of 2020 <a class="citation" href="#soto2020language">(Soto, 2020)</a>. As of late 2020, even Carnegie Mellon University has taken steps forward with the curate courses in Multilingual NLP, and Low-resource NLP. It has been suggested that categorizing the challenges and formalizing their interpretation using Universal Dependencies may help create a Saint Lucian Kwéyòl dependency treebank, and later facilitate other needed NLP tasks (such as sentiment analysis of texts). A Saint Lucian Kwéyòl parser may be constructed by leveraging the base knowledge of French syntax. However, these may not be the only tools required to tackle the challenges of digitizing and analyzing creole languages. Therefore, it may be helpful to develop a framework to improve the models for linguistics. Perhaps an extendable framework that can demonstrate its application to low-resource creole languages.</p>
+
+<h4 id="draft-methodology"><strong>Draft methodology:</strong></h4>
+
+<p>In summary, Creole is complex as it is an amalgamation of different languages adapted for survival and solidified through generations of oral and written communication. David Frank’s paper on <em>Sources of St. Lucian Creole Vocabulary</em> piqued my interest, particularly the section on <em>Vocabulary of Unknown Origin</em>. I became intrigued by the complexity and mysteries within Saint Lucian creole / “Kwéyòl” and hoped to explore it through data science tools and techniques.</p>
+
+<p>Currently, I am leaning towards using multilingual NLP to combat the challenges of creole conservation; to create a language detection and translation model capable of tracing the origin of Saint Lucian creole “Kwéyòl”, via supervised and unsupervised statistical machine translation. However, to do so, I must explore and understand the underlying language structures, such as dependency parsing, treebanks, and sentiment semantic indexing on multilingual data. For example, of the two types of linguistic structures, dependency parsing can be viewed as more applicable to multilinguality, as it demonstrates the relationships between words in a straightforward way. Phrase structure can be viewed as difficult to define in languages with free word order.</p>
+
+<p>Additionally, effective language detection and translation models for creole may address topics on word sense disambiguation; particularly the problems polysemy poses to sentiment analysis and how that impacts machine translation in low-resource languages. Phrase-based parsing techniques may also impact the model’s accuracy(adequacy and fluency of translation).</p>
+
+<p>Ultimately, outcomes of this endeavor will include, contributions of new and/ or improved Saint Lucian “Kwéyòl corpora for future analysis, and new techniques and tools for exploring NLP in low resource languages.  To properly explore this topic, I will need to search for and prepare the sample Saint Lucian “Kwéyòl corpora; locating as much parallel data as I can find. I want to use cross-lingual machine translation to find the unknown origins of vocabulary words.</p>
+
+<p><img src="https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/nlp_overview.PNG" alt="nlp_overview" width="650" /></p>
+
+<p><img src="https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/types_of_ling_structure_dep_n_phrase.PNG" alt="types_of_ling_structure_dep_n_phrase.PNG" width="650" /></p>
+
+<p><img src="https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/model_ex_unsup_n_sup.PNG" alt="model_ex_unsup_n_sup" width="650" /></p>
+
+<p><strong>Data sources:</strong></p>
+
+<p>In terms of creole data, I currently have access to a partially labeled XML version of the Saint Lucian Kwéyòl dictionary dataset; it has parallel data but no sentiment tags <a class="citation" href="#frank2001kweyol">(Crosbie et al., 2001)</a>. There are, however, numerical indicators to signify the differences between homonyms, and according to the dictionary’s creator</p>
+
+<p><em>‘the set of parts of speech, or word classes, used in this dictionary is as follows: N (noun), PRO (pronoun), ADJ (adjective), ART (article), V (verb), ADV (adverb), PREP (preposition), CONJ (conjunction), and INTERJ (interjection). These are only broad categories. In a more complete a grammatical description of Kwéyòl, these broad categories could and should be further broken down into subcategories’</em> <a class="citation" href="#frank2001kweyol">(Crosbie et al., 2001)</a>. It should, however, be noted that attempts to translate sample sentences from the creole dictionary into lexifier languages may be challenging due to the words endemic to the creole’s setting; a tropical Caribbean island.</p>
+
+<p>Digital versions of a bible (new testament) <a class="citation" href="#SLUnewtestament_1999">(“Tèstèman nèf-la: Épi an posyòn an liv samz-la,” 1999; “Saint Lucian Creole French New Testament,” 2004; “Glory (Saint Lucian Creole French),” 2020)</a>, an audio version of the bible <a class="citation" href="#audiobible2020">(“Liv Bon Nouvèl-la Mak Ékwi-a 1: Bible.is,” n.d.)</a>, a few documents from the government such as the Saint Lucian national anthem <a class="citation" href="#anthem_2016">(“Kwéyòl National Anthem approved,” 2016)</a> and Kwéyòl public service announcements <a class="citation" href="#louisy_govt_2004">(Louisy, 2004; SLU, 2020)</a> are also accessible. I also have access to traditional folk songs <a class="citation" href="#joseph_songs_2020">(Joseph, 2020; Yannucci, 2020)</a>, discourses <a class="citation" href="#weekes2014bodies">(Weekes, 2014; Frank, 1990)</a>, and stories <a class="citation" href="#sil_readingbook_1989">(SIL, 1989)</a>. Public social media data are also useful, particularly the postings by verified Saint Lucian Kwéyòl writers (missing reference). In 1993 a document entitled “Dances and Songs from a Caribbean Island” was created and in 1996 one named “Select Bibliography of the Literature of the English-speaking West Indies” was also created; if the documents above are insufficient, I will consult these two anthological works for additional data <a class="citation" href="#islandsongs_1993">(“Musical Traditions of St. Lucia, West Indies,” 1993; Carnegie, 1996)</a> There are few books but they are mostly physical documents (I need to finish looking into their digital versions).</p>
+
+<p><strong>Draft modeling:</strong></p>
+
+<p><strong>Complex Supervised and Unsupervised Statistical Machine Translation for Saint Lucian Creole/ Kwéyòl:</strong></p>
+
+<p><img src="https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/dep_crossling_structure.PNG" alt="dep_crossling_structure" width="650" /></p>
+
+<p><img src="https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/morphogen.PNG" alt="morphogen" width="650" /></p>
+
+<p><strong>Assumptions:</strong></p>
+<ul>
+  <li>Linguistic universals can exist; all languages typically have vowels and consonants, and typically languages distinguish between nouns and verbs.</li>
+  <li>An understanding and focus on cognates can be important to the cross-lingual or multilingual NLP techniques associated with language translation and detection.</li>
+  <li>Identification of deictic pronouns is important to determining context.</li>
+  <li>Saint Lucian Kwéyòl is a low resource language</li>
+  <li>The official Saint Lucian Kwéyòl dictionary is a work in progress; not fully comprehensive.</li>
+  <li>Lexifiers can be assigned ranks based on an established assumed similarity to the target language.</li>
+  <li>French (fr) is the main lexifier language of “Kwéyòl; it is a former prestige language of Saint Lucia.</li>
+  <li>The official French dictionary is adequately comprehensive.</li>
+  <li>English (en) is the current prestige language of Saint Lucia; it is currently the only official language of Saint Lucia.</li>
+  <li>The official English dictionary is adequately comprehensive.</li>
+  <li>Additional confirmed contributor languages: Guadeloupean Creole French (gcf), Haitian Creole (hat), Spanish/Portuguese (sp/pt), Amerindian (Carib -car, Arawak -arw,), Indian (Hindi-hi, Tamil-ta), African (Yoruba-yor, Fulani-ful, Bantu-bnt, Igbo-ibo, Kikongo-kon, Mende-men).</li>
+  <li>These other contributing languages have varying degrees of available resources; yet most are low in resources.</li>
+  <li>The largest possible parallel dataset among most of the languages being examined would be the bible; therefore, semantic domain challenges may arise.</li>
+  <li>Exploring and categorizing the semantic domains of the vocabulary of unknown origin, may assist with word-sense disambiguation issues with other languages.</li>
+  <li>As the number of N-grams increase, more data is required.</li>
+  <li>The LIWC does not currently factor in all recent Unicode emojis, thus may be a flawed system in detecting the full context of modern social media discussions.</li>
+</ul>
+
+<p><strong>Draft Hypotheses:</strong></p>
+
+<ul>
+  <li>
+    <p><em>Hypothesis:</em> While English is the current prestige/official language of Saint Lucia, and French is the main lexifier language of “Kwéyòl, the origins of the unknown vocabulary are mostly composed of roots from the lesser linked languages (arw, car, sp, Indian, and African) are most likely to hold the remaining details due to their continual depletion.</p>
+  </li>
+  <li>
+    <p><em>Hypothesis:</em> Since the language is mostly orally passed on and spelled phonetically (though inconsistently), it may be possible to find the origin of the words, not only through text analysis but through cross-lingual acoustic models. The mystery words will not only be compared to words of similar text cognates etc. but also compared with vocal sound files from nearby languages.</p>
+  </li>
+  <li>
+    <p><em>Hypothesis:</em> Alpha and beta phrase parsers can reduce issues of polysemy and word sense disambiguation, thus improving sentiment analysis.</p>
+  </li>
+  <li>
+    <p><em>Hypothesis:</em> A novel CNN-based sentiment semantic indexing method can be applied to multilingual data; this should ease/improve sentiment analysis outcomes on Kwéyòl data.</p>
+  </li>
+  <li>
+    <p><em>Hypothesis:</em> The natural annotation of crowdsourced online dictionaries can be useful for building the corpus of a low-resource language, and reducing issues of polysemy and word sense disambiguation, thus improving sentiment analysis.</p>
+  </li>
+  <li>
+    <p><em>Hypothesis:</em> Exploring the semantic similarity of corpus related to yet better documented than creole (such as Haitian Creole and Guadeloupean Creole French), may assist with unsupervised statistical machine translation testing.</p>
+  </li>
+  <li>
+    <p><em>Hypothesis:</em> Careful use of social media text can aid in building the corpus of a low-resource language, and reducing issues of polysemy and word sense disambiguation, thus improving sentiment analysis; looking at the intent of discussions/texts of social media.</p>
+  </li>
+  <li>
+    <p><em>Hypothesis:</em> There is an arguable existence of a connection between ethical data science pursuits, Maslow’s hierarchy, biocultural diversity, and the importance of language preservation in light of covid.</p>
+  </li>
+  <li>
+    <p><em>Hypothesis:</em> There may be a biocultural diversity link to most creole words as they were created for survival; words are mostly related to nature, food, and relationships.</p>
+  </li>
+</ul>
+
+<h3 id="draft-of-one-possible-model">Draft of one possible model:</h3>
+
+<p>Using back-translation to augment or to create pseudo-parallel data from a source language to the target language, and then back from the target language to the source language. Since creole has more than one influence, it may require multiple source languages for back-translation. Our main lexifier language (French), and would, therefore, be more dominant/strong than the other lexifiers being used. The semantic similarity may also be visually explored through grouping related languages like French, Guadeloupean Creole French, Haitian Creole, and English.</p>
+
+<p><img src="https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/unsupervised_statistical_mt.PNG" alt="unsupervised_statistical_mt" width="650" /></p>
+
+<p><img src="https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/distillation.PNG" alt="distillation" width="650" /></p>
+
+<p><strong>Dominant/stronger lexifier/source language clusters:</strong></p>
+
+<ul>
+  <li>French: fr → acf    acf →fr</li>
+  <li>Guadeloupean Creole French: gcf →  acf    acf →gcf</li>
+  <li>Haitian, Haitian Creole: hat → acf    acf →</li>
+  <li>English: en → acf    acf → en  en →  acf    acf → en</li>
+</ul>
+
+<p><strong>Non-dominant/Weaker clusters lexifier/source language clusters:</strong></p>
+
+<ul>
+  <li>Spanish: sp → acf    acf → sp</li>
+  <li>Portuguese: pt → acf    acf → pt</li>
+  <li>Amerindian:</li>
+  <li>Arawak language (Lokono) arw → acf    acf → arw</li>
+  <li>Carib language (Kali’na):  car → acf    acf → car</li>
+  <li>Indian:</li>
+  <li>Hindi: hi → acf    acf → hi</li>
+  <li>Tamil: ta → acf    acf → ta</li>
+  <li>African:</li>
+  <li>Yoruba: yor → acf    acf → yor</li>
+  <li>Fulani: ful → acf    acf → ful</li>
+  <li>Bantu: bnt → acf    acf → bnt</li>
+  <li>Igbo: ibo → acf    acf →ibo</li>
+  <li>Kikongo: kon → acf    acf → kon</li>
+  <li>Mende: men  → acf    acf → men</li>
+</ul>
+
+<p>Once a phrase machine translation model is trained in both directions (back and forth), do back translation to augment or to create pseudo-parallel data from those languages (using the phrase-based model that was just built) in an attempt to create iterative refinement on the validation set.</p>
+
+<h4 id="the-obstacles">The Obstacles:</h4>
+
+<p>Data Science is an actively developing field; due to program lengths for P.h.D programs, it may be very difficult to create a timely yet thorough compilation of all available topics, techniques, and technologies. This endeavor is quite a complicated undertaking to publish as a single contributor. Co-authorship on works may be sought to competently manage the workload of research, and the coding of these tools. Ultimately, the intention is not to compile a comprehensive list of all possible avenues of exploring creole via data science’s NLP tools. It is to encourage interest in the field and provide starting points for possible future expansion of these topics.</p>
+
+<h4 id="the-tools">The Tools:</h4>
+
+<p>The tools may focus on open source and low-cost resources such as R Studio, Python, Pytorch, fastText, LIWC, Github, Microsoft Office 365 tools (like Forms and Power BI), Tensorflow, and other available Google tools available.</p>
+
+<ul>
+  <li>Google Colab can be described as a Python development environment that runs in the browser using Google Cloud; it is completely free of charge, and even offers access to their GPU is free of charge for some hours of usage every day.</li>
+</ul>
+
+<h3 id="references">References:</h3>
+
+<ol class="bibliography"><li><span id="frank2007sources">Frank, D. B. (2007). <i>Sources of St. Lucian Creole Vocabulary</i>. http://www.saintluciancreole.dbfrank.net/workpapers/sources_of_vocabulary.pdf</span></li>
+<li><span id="frank2001kweyol">Crosbie, P., Frank, D., Leon, E., Samuel, P., &amp; Castries, S. L. (2001). Kwéyòl dictionary. <i>Castries, Government of Saint Lucia, Ministry of Education</i>. http://www.saintluciancreole.dbfrank.net/dictionary/KweyolDictionary.pdf</span></li>
+<li><span id="nivre2016universal">Nivre, J., De Marneffe, M.-C., Ginter, F., Goldberg, Y., Hajic, J., Manning, C. D., McDonald, R., Petrov, S., Pyysalo, S., Silveira, N., &amp; others. (2016). Universal dependencies v1: A multilingual treebank collection. <i>Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC’16)</i>, 1659–1666.</span></li>
+<li><span id="kweyol_works_joseph">Joseph, J. C. (2020). Kwéyòl Sent Lisi. In <i>Kwéyòl Sent Lisi</i>. https://kweyolsentlisi.weebly.com/</span></li>
+<li><span id="kweyol_fb_joseph">Joseph, J. C. (2020). Kwéyòl Sent Lisi. In <i>Facebook</i>. https://www.facebook.com/kweyolsentlisi/</span></li>
+<li><span id="soto2020language">Soto, W. (2020). Language Identification of Guadeloupean Creole. <i>Groupement De Recherche Linguistique Informatique Formelle Et De Terrain (LIFT)</i>, 53. https://hal.archives-ouvertes.fr/hal-03066031/document#page=59</span></li>
+<li><span id="SLUnewtestament_1999">Tèstèman nèf-la: Épi an posyòn an liv samz-la. (1999). In <i>Saint Lucian Creole French New Testament</i>. The Digital Bible Society . http://downloads.dbs.org/scriptures/pdf/ACFWBT/ACFWBT.pdf</span></li>
+<li><span id="bibleproject_2004">Saint Lucian Creole French New Testament. (2004). In <i>The Global Bible Project</i>. Wycliffe Bible Translators. https://acf.global.bible/bible/4e558d011298deae-01/2JN.intro</span></li>
+<li><span id="BibleSocieties_2020">Glory (Saint Lucian Creole French). (2020). In <i>The Translation Insights and Perspectives (TIPs)</i>. United Bible Societies. https://tips.translation.bible/story/glory-saint-lucian-creole-french/</span></li>
+<li><span id="audiobible2020">Liv Bon Nouvèl-la Mak Ékwi-a 1: Bible.is. In <i>Bible.is Online</i>. Faith Comes By Hearing ®. https://live.bible.is/bible/ACFWBT/MRK/1</span></li>
+<li><span id="anthem_2016">Kwéyòl National Anthem approved. (2016). In <i>Saint Lucia - Access Government</i>. Office of the Prime Minister. http://www.govt.lc/news/kw-y-l-national-anthem-approved</span></li>
+<li><span id="louisy_govt_2004">Louisy, D. C. P. L. (2004). “Facing Opportunity and Taking Responsibility for Our Country’s Development. In <i>Throne Speech</i>. Governor General Dame Calliopa Pearlette Louisy. http://caribbeanelections.com/eDocs/articles/lc/lc_Throne_Speech_2004.pdf</span></li>
+<li><span id="sluFRC_FB_2020">SLU. (2020). Folk Research Centre. In <i>Facebook</i>. https://www.facebook.com/saintluciafolk/</span></li>
+<li><span id="joseph_songs_2020">Joseph, J. C. (2020). Mèt Lékòl - Kwéyòl Sent Lisi . In <i>10 St. Lucia La Rose Songs</i>. Kwéyòl Sent Lisi . https://kweyolsentlisi.weebly.com/megravet-leacutekogravel.html</span></li>
+<li><span id="SLU_song_yannucci_2020">Yannucci, L. (2020). Fanm Ki Dou - Saint Lucia. In <i>Mama Lisa’s World of Children and International Culture</i>. mamalisa. https://www.mamalisa.com/?t=es&amp;p=4060</span></li>
+<li><span id="weekes2014bodies">Weekes, T. (2014). <i>BODIES, MEMORIES AND SPIRITS: A DISCOURSE ON SELECTED CULTURAL FORMS AND PRACTICES OF ST.LUCIA</i>. Xlibris US. https://books.google.com/books?id=8O_wAgAAQBAJ</span></li>
+<li><span id="frank_1990">Frank, D. (1990). Six St Lucian French Creole Narrative Texts. In <i> Work Papers of the Summer Institute of Linguistics in St Lucia</i>. SIL International. https://www.dbfrank.net/saintluciancreole/workpapers/six_texts.pdf</span></li>
+<li><span id="sil_readingbook_1989">SIL. (1989). Sé Kon Sal Fèt - A reading book in Saint Lucian Creole. In <i>Summer Institute of Linguistics</i>. SIL International. https://www.sil.org/system/files/reapdata/13/47/39/134739838606900861230369818388141393138/SeKon_45937.pdf</span></li>
+<li><span id="islandsongs_1993">Musical Traditions of St. Lucia, West Indies. (1993). In <i>Dances and Songs from a Caribbean Island</i>. Smithsonian/Folkways Recording. https://media.smithsonianfolkways.org/liner_notes/smithsonian_folkways/SFW40416.pdf</span></li>
+<li><span id="creolelitlist1996">Carnegie, J. R. (1996). Select Bibliography of the Literature of the English-speaking West Indies, 1989-1991. <i>Journal of West Indian Literature</i>, <i>7</i>(1), 1–53. http://www.jstor.org/stable/23019891</span></li></ol>
+
+
+				</div><!-- entry-content -->
+			</div><!-- bd -->
+
+			<footer class="unit-foot">
+				<div class="unit-inner unit-foot-inner">
+					<p class="gotop">
+						<a href="#page">Back to Top</a>
+					</p>
+				</div>
+			</footer>
+
+		</div><!-- content -->
+	</div><!-- unit-inner -->
+</article>
+
+
+				</div>
+			</div><!-- unit-inner -->
+		</div><!-- unit-body -->
+	</div><!-- body -->
+	<footer class="the-footer">
+		<div class="unit-foot">
+			<div class="unit-inner unit-foot-inner">
+				<div class="misc vcard">
+					<h4>about</h4>
+					<ul>
+						<li class="contact"><address><span class="author fn n">Laurel Lord</span> - <span class="fn email">lalord@my.harrisburgu.edu</span></address></li>
+						<li class="github"><a href="http://github.com/llord1/" rel="me">github.com/llord1</a></li>
+						<li class="twitter"><a href="http://twitter.com//" rel="me">twitter.com/</a></li>
+						<li class="rss"><a href="http://feeds.feedburner.com/">Subscribe to RSS Feed</a></li>
+					</ul>
+				</div><!-- misc -->
+				<p class="licence">
+					Theme: <a href="http://layouts-the.me">the_minimum</a> based on <a href="http://jekyllbootstrap.com/">Jekyll-bootstrap</a>.<br>
+					Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a>.
+				</p>
+			</div><!-- unit-foot-inner -->
+		</div><!-- unit-foot -->
+	</footer>
+</div><!-- page -->
+<script>
+	(function(d, s) {
+		var js, fjs = d.getElementsByTagName(s)[0], load = function(url, id) {
+		if (d.getElementById(id)) {return;}
+		js = d.createElement(s); js.src = url; js.id = id;
+		fjs.parentNode.insertBefore(js, fjs);
+		};
+	load('//platform.twitter.com/widgets.js', 'tweetjs');
+	// load('https://apis.google.com/js/plusone.js', 'gplus1js'); // Checkout http://j.mp/ApDgMr for usage html for this is <div class="g-plusone" data-size="medium"></div>
+	// load('//connect.facebook.net/en_US/all.js#xfbml=1', 'fbjssdk'); // Checkout http://j.mp/wZw2xR for using open graph protorol html for this is <div class="fb-like" data-href="/Introductory" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false" data-font="verdana"></div>
+	}(document, 'script'));
+</script>
+<script>
+/*! A fix for the iOS orientationchange zoom bug.Script by @scottjehl, rebound by @wilto. MIT License.*/
+(function(j){var i=j.document;if(!i.querySelectorAll){return}var l=i.querySelectorAll("meta[name=viewport]")[0],a=l&&l.getAttribute("content"),h=a+", maximum-scale=1.0",d=a+", maximum-scale=10.0",g=true,c=j.orientation,k=0;if(!l){return}function f(){l.setAttribute("content",d);g=true}function b(){l.setAttribute("content",h);g=false}function e(m){c=Math.abs(j.orientation);k=Math.abs(m.gamma);if(k>8&&c===0){if(g){b()}}else{if(!g){f()}}}j.addEventListener("orientationchange",f,false);j.addEventListener("deviceorientation",e,false)})(this);
+</script>
+  
+  
+
+
+
+</body>
+</html>
+
