@@ -66,6 +66,20 @@ Digital versions of a bible (new testament) {% cite SLUnewtestament_1999 biblepr
 ![morphogen](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/morphogen.PNG){: width="650" }
 
 
+![sing_dia](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/Singlish_diagram.PNG){: width="650" }
+
+
+![sing_tab](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/Singlish_table.PNG){: width="650" }
+
+
+![sing_arc](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/Singlish_arcs.PNG){: width="650" }
+
+
+![tat_cre](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/tatoeba_creole.PNG){: width="650" }
+
+
+
+
 **Assumptions:**
 - Linguistic universals can exist; all languages typically have vowels and consonants, and typically languages distinguish between nouns and verbs.
 - An understanding and focus on cognates can be important to the cross-lingual or multilingual NLP techniques associated with language translation and detection.
