@@ -19,7 +19,7 @@ I will also review the [Taaonline's publishers/author's guidelines](https://www.
 
 - **Patterns:**
 
-https://www.cell.com/patterns/home
+[https://www.cell.com/patterns/home](https://www.cell.com/patterns/home)
 
 
  - **Journal of Pidgin and Creole Languages:**
