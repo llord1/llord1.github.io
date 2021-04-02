@@ -33,7 +33,7 @@ Dr. Rand Ford: Professor and Program Director of Data Analytics at HU
 
     - Dr. Erin Buchanan
 
-    - Dr. Kayla N. Jordan: Worked on with James Pennebaker on Linguistic Inquiry and Word Count (LIWC).
+    - Dr. Kayla N. Jordan
 
     - Dr. Roozbeh Sadeghian
 
