@@ -33,7 +33,7 @@ Dr. Rand Ford: Professor and Program Director of Data Analytics at HU
 
     - Dr. Erin Buchanan
 
-    - Dr. Kayla N. Jordan
+    - Dr. Kayla Jordan
 
     - Dr. Roozbeh Sadeghian
 
