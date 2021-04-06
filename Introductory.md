@@ -21,9 +21,9 @@ It is this very discordant origin and complexity of structure that presents issu
 
 Additionally, it is said that just over 83% of vocabulary words have French origins; roughly 3% is English-based, and Amerindian, African, and East Indian sources account for about  ½ % of the total each  {% cite frank2007sources %}. Even the author of the official creole dictionary acknowledged gaps in its vocabulary being due to the lack of official etymological details of over 11% of documented words {% cite frank2001kweyol frank2007sources %}. Despite the advantage of cross-referencing parallel language data sources, the language challenges are made more complex by many of the vocabulary words lacking details on their origins. Ultimately, the situation could be described as bearing a "Mondrian-like" language setting. This image seems apt to explain this low-resource creole being close to parallel and monolingual data with high-resource languages (like French and English), yet the present language data may belong to different domains {% cite ranzato2021 %}. 
 
-![vocab](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/vocabo.PNG){: width="650" }
+![vocab](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/vocabo.PNG){: width="600" }
 
-![Vocabop](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/Vocabop.PNG){: width="650" }
+![Vocabop](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/Vocabop.PNG){: width="600" }
 
 Moreover, there are challenges present in natural language processing, particularly when dealing with sentiment analysis, word-sense disambiguation, and issues with dependency parsers in cross-lingual settings. A major challenge of lexical semantics is creating training data and algorithms that facilitate downstream tasks. Furthermore, it has also been said that while there is a lingering 'bias towards contemporary Indo-European languages', treebanks for other language families and treebanks for classical languages are on the rise {% cite nivre2016universal %}. 
 
@@ -40,11 +40,11 @@ Additionally, effective language detection and translation models for creole may
 
 Ultimately, outcomes of this endeavor will include, contributions of new and/ or improved Saint Lucian "Kwéyòl corpora for future analysis, and new techniques and tools for exploring NLP in low resource languages.  To properly explore this topic, I will need to search for and prepare the sample Saint Lucian "Kwéyòl corpora; locating as much parallel data as I can find. I want to use cross-lingual machine translation to find the unknown origins of vocabulary words. 
 
-![nlp_overview](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/nlp_overview.PNG){: width="650" }
+![nlp_overview](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/nlp_overview.PNG){: width="600" }
 
-![types_of_ling_structure_dep_n_phrase.PNG](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/types_of_ling_structure_dep_n_phrase.PNG){: width="650" }
+![types_of_ling_structure_dep_n_phrase.PNG](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/types_of_ling_structure_dep_n_phrase.PNG){: width="600" }
 
-![model_ex_unsup_n_sup](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/model_ex_unsup_n_sup.PNG){: width="650" }
+![model_ex_unsup_n_sup](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/model_ex_unsup_n_sup.PNG){: width="600" }
 
 
 **Data sources:**
@@ -60,22 +60,22 @@ Digital versions of a bible (new testament) {% cite SLUnewtestament_1999 biblepr
 
 **Complex Supervised and Unsupervised Statistical Machine Translation for Saint Lucian Creole/ Kwéyòl:**
 
-![dep_crossling_structure](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/dep_crossling_structure.PNG){: width="650" }
+![dep_crossling_structure](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/dep_crossling_structure.PNG){: width="600" }
 
 
-![morphogen](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/morphogen.PNG){: width="650" }
+![morphogen](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/morphogen.PNG){: width="600" }
 
 
-![sing_dia](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/Singlish_diagram.PNG){: width="650" }
+![sing_dia](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/Singlish_diagram.PNG){: width="600" }
 
 
-![sing_tab](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/Singlish_table.PNG){: width="650" }
+![sing_tab](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/Singlish_table.PNG){: width="600" }
 
 
-![sing_arc](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/Singlish_arcs.PNG){: width="650" }
+![sing_arc](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/Singlish_arcs.PNG){: width="600" }
 
 
-![tat_cre](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/tatoeba_creole.PNG){: width="650" }
+![tat_cre](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/tatoeba_creole.PNG){: width="600" }
 
 
 
@@ -126,10 +126,10 @@ Digital versions of a bible (new testament) {% cite SLUnewtestament_1999 biblepr
 Using back-translation to augment or to create pseudo-parallel data from a source language to the target language, and then back from the target language to the source language. Since creole has more than one influence, it may require multiple source languages for back-translation. Our main lexifier language (French), and would, therefore, be more dominant/strong than the other lexifiers being used. The semantic similarity may also be visually explored through grouping related languages like French, Guadeloupean Creole French, Haitian Creole, and English.
 
 
-![unsupervised_statistical_mt](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/unsupervised_statistical_mt.PNG){: width="650" }
+![unsupervised_statistical_mt](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/unsupervised_statistical_mt.PNG){: width="600" }
 
 
-![distillation](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/distillation.PNG){: width="650" }
+![distillation](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/distillation.PNG){: width="600" }
 
 
 
