@@ -40,9 +40,9 @@ Dr. Rand Ford: Professor and Program Director of Data Analytics at HU
 
 - **External Members:** 
 
-    - *Dr. Melissa Irvine:Linguist; dissertation on Saint Lucian Creoles.
+    - Dr. David Frank: Linguist at SIL, Creole expert and contributing author of one of Saint Lucia’s official creole dictionaries.
 
-    - *Dr. David Frank: Linguist at SIL, Creole expert and contributing author of one of Saint Lucia’s official creole dictionaries.
+    - *Dr. Melissa Irvine:Linguist; dissertation on Saint Lucian Creoles.
 
     - **Dr. Graham Neubig: Carnegie Mellon University lecturer (Multilingual NLP)
 
