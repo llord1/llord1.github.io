@@ -9,7 +9,7 @@ description: "Work in progress"
 
 ### Background:
 
-#### __Introduction:__
+#### __Brief Introduction:__
 
 
 When exploring the matter of Multilingual NLP, Dr. Benjamin Elson's 1987 *Linguistic Creed* comes to mind.
