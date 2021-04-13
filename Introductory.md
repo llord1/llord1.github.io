@@ -51,9 +51,9 @@ Ultimately, outcomes of this endeavor will include, contributions of new and/ or
 
 In terms of creole data, I currently have access to a partially labeled XML version of the Saint Lucian Kwéyòl dictionary dataset; it has parallel data but no sentiment tags {% cite frank2001kweyol %}. There are, however, numerical indicators to signify the differences between homonyms, and according to the dictionary's creator
 
-*'the set of parts of speech, or word classes, used in this dictionary is as follows: N (noun), PRO (pronoun), ADJ (adjective), ART (article), V (verb), ADV (adverb), PREP (preposition), CONJ (conjunction), and INTERJ (interjection). These are only broad categories. In a more complete a grammatical description of Kwéyòl, these broad categories could and should be further broken down into subcategories'* {% cite frank2001kweyol %}. It should, however, be noted that attempts to translate sample sentences from the creole dictionary into lexifier languages may be challenging due to the words endemic to the creole's setting; a tropical Caribbean island.
+*'the set of parts of speech, or word classes, used in this dictionary is as follows: N (noun), PRO (pronoun), ADJ (adjective), ART (article), V (verb), ADV (adverb), PREP (preposition), CONJ (conjunction), and INTERJ (interjection). These are only broad categories. In a more complete grammatical description of Kwéyòl, these broad categories could and should be further broken down into subcategories'* {% cite frank2001kweyol %}. It should, however, be noted that attempts to translate sample sentences from the creole dictionary into lexifier languages may be challenging due to the words endemic to the creole's setting; a tropical Caribbean island.
 
-Digital versions of a bible (new testament) {% cite SLUnewtestament_1999 bibleproject_2004 BibleSocieties_2020 %}, an audio version of the bible {% cite audiobible2020 %}, a few documents from the government such as the Saint Lucian national anthem {% cite anthem_2016 %} and Kwéyòl public service announcements {% cite louisy_govt_2004 sluFRC_FB_2020 %} are also accessible. I also have access to traditional folk songs {% cite joseph_songs_2020 SLU_song_yannucci_2020 %}, discourses {% cite weekes2014bodies frank_1990 %}, and stories {% cite sil_readingbook_1989 %}. Public social media data are also useful, particularly the postings by verified Saint Lucian Kwéyòl writers {% cite kweyol_fb_joseph  kweyol_works_joseph  kweyol_playlists_joseph%}. In 1993 a document entitled "Dances and Songs from a Caribbean Island" was created and in 1996 one named "Select Bibliography of the Literature of the English-speaking West Indies" was also created; if the documents above are insufficient, I will consult these two anthological works for additional data {% cite islandsongs_1993 creolelitlist1996 %} There are few books but they are mostly physical documents (I need to finish looking into their digital versions). 
+Digital versions of a bible (new testament) {% cite SLUnewtestament_1999 bibleproject_2004 BibleSocieties_2020 %}, an audio version of the bible {% cite audiobible2020 %}, a few documents from the government such as the Saint Lucian national anthem {% cite anthem_2016 %} and Kwéyòl public service announcements {% cite louisy_govt_2004 sluFRC_FB_2020 %} are also accessible. I also have access to traditional folk songs {% cite joseph_songs_2020 SLU_song_yannucci_2020 %}, discourses {% cite weekes2014bodies frank_1990 %}, and stories {% cite sil_readingbook_1989 %}. Public social media data are also useful, particularly the postings by verified Saint Lucian Kwéyòl writers {% cite kweyol_fb_joseph  kweyol_works_joseph  kweyol_playlists_joseph%}. In 1993 a document entitled "Dances and Songs from a Caribbean Island" was created and in 1996 one named "Select Bibliography of the Literature of the English-speaking West Indies" was also created; if the documents above are insufficient, I will consult these two anthological works for additional data {% cite islandsongs_1993 creolelitlist1996 %}. There are few books but they are mostly physical documents (I need to finish looking into their digital versions). 
 
 
 **Draft modeling:**
@@ -84,7 +84,7 @@ Digital versions of a bible (new testament) {% cite SLUnewtestament_1999 biblepr
 - Linguistic universals can exist; all languages typically have vowels and consonants, and typically languages distinguish between nouns and verbs.
 - An understanding and focus on cognates can be important to the cross-lingual or multilingual NLP techniques associated with language translation and detection.
 - Identification of deictic pronouns is important to determining context.
-- Saint Lucian Kwéyòl is a low resource language
+- Saint Lucian Kwéyòl is a low resource language.
 - The official Saint Lucian Kwéyòl dictionary is a work in progress; not fully comprehensive.
 - Lexifiers can be assigned ranks based on an established assumed similarity to the target language.
 - French (fr) is the main lexifier language of "Kwéyòl; it is a former prestige language of Saint Lucia.
@@ -174,7 +174,7 @@ Data Science is an actively developing field; due to program lengths for P.h.D p
 
 #### The Tools:
 
-The tools may focus on open source and low-cost resources such as R Studio, Python, Pytorch, fastText, LIWC, Github, Microsoft Office 365 tools (like Forms and Power BI), Tensorflow, and other available Google tools available. 
+The tools may focus on open source and low-cost resources such as R Studio, Python, Pytorch, fastText, LIWC, Github, Tensorflow, and other available Google tools available. 
 
 - Google Colab can be described as a Python development environment that runs in the browser using Google Cloud; it is completely free of charge, and even offers access to their GPU is free of charge for some hours of usage every day. 
 
