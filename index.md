@@ -34,9 +34,6 @@ tagline: Supporting tagline
 
     - Dr. Kayla Jordan
 
-    - Dr. Roozbeh Sadeghian
-
-
 - **External Members:** 
 
     - Dr. David Frank: Linguist at SIL, Creole expert and contributing author of one of Saint Lucia’s official creole dictionaries.
@@ -44,6 +41,8 @@ tagline: Supporting tagline
     - *Dr. Melissa Irvine:Linguist; dissertation on Saint Lucian Creoles.
 
     - **Dr. Graham Neubig: Carnegie Mellon University lecturer (Multilingual NLP)
+
+    - **Dr. Yulia Tsvetkov: Carnegie Mellon University lecturer (Multilingual NLP)
 
 
 {% bibliography --cited %}
