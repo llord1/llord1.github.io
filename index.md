@@ -30,6 +30,7 @@ tagline: Supporting tagline
 
 
 - **Internal Members:**
+
     - Dr. Rand Ford: Professor and Program Director of Data Analytics at HU
 
     - Dr. Kayla Jordan
@@ -40,7 +41,7 @@ tagline: Supporting tagline
 
     - *Dr. Melissa Irvine:Linguist; dissertation on Saint Lucian Creoles.
 
-    - **Dr. Graham Neubig: Carnegie Mellon University lecturer (Multilingual NLP)
+    - **Graham Neubig: Carnegie Mellon University lecturer (Multilingual NLP)
 
     - **Dr. Yulia Tsvetkov: Carnegie Mellon University lecturer (Multilingual NLP)
 
