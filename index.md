@@ -22,14 +22,12 @@ tagline: Supporting tagline
 
 *Currently in the pending approval phase*
 
-**Possible Committee Chair:**
-
+**Current Committee Chair:**
 
     - Dr. Rand Ford: Professor and Program Director of Data Analytics at HU
 
 
-**Possible Team Committee Members:**  
-
+**Possible Committee Members:**  
 
 - **Internal Members:**
 
