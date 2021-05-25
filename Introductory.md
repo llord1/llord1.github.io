@@ -10,6 +10,9 @@ description: "Introduction to Low-resource Cross-lingual Framework"
 #### __Working Title:__
 Data science investigations into Saint Lucian Creole; preserving a low resource creole language through compiling, deciphering, and understanding creole data.
 
+#### __Working Title:__
+Data science investigations into Saint Lucian Creole; preserving a low resource creole language through compiling, deciphering, and understanding creole data.
+
 #### __Working Statement of Problem:__
 
 What are the factors associated with Saint Lucian Creole's exclusion from most modern machine translation platforms, and how can this exclusion be addressed through Data Science tools and techniques?
@@ -212,7 +215,7 @@ In terms of creole data, I currently have access to a partially labeled XML vers
 
 *'the set of parts of speech, or word classes, used in this dictionary is as follows: N (noun), PRO (pronoun), ADJ (adjective), ART (article), V (verb), ADV (adverb), PREP (preposition), CONJ (conjunction), and INTERJ (interjection). These are only broad categories. In a more complete grammatical description of Kwéyòl, these broad categories could and should be further broken down into subcategories'* {% cite frank2001kweyol %}. 
 
-Digital versions of a bible (new testament) {% cite SLUnewtestament_1999 bibleproject_2004 BibleSocieties_2020 %}, an audio version of the bible {% cite audiobible2020 %}, a few documents from the government such as the Saint Lucian national anthem {% cite anthem_2016 %}, governmental speeches bearing Kwéyòl dialogue  {% cite louisy_govt_2004 %},  and works for ministries focused on Kwéyòl activities  {% cite sluFRC_FB_2020 %} are also accessible. I also have access to traditional folk songs {% cite joseph_songs_2020 SLU_song_yannucci_2020 %}, discourses {% cite weekes2014bodies frank_1990 %}, and stories {% cite sil_folktale_1985 sil_readingbook_1989 %}. Public social media data are also useful, particularly the postings by verified Saint Lucian Kwéyòl writers {% cite kweyol_fb_joseph  kweyol_works_joseph  kweyol_playlists_joseph%}. There are also Kwéyòl financial document excerpts in the form of Annual Reports from the Saint Lucian National Bank. In 1993 a document entitled "Dances and Songs from a Caribbean Island" was created and in 1996 one named "Select Bibliography of the Literature of the English-speaking West Indies" was also created; if the documents above are insufficient, I will consult these two anthological works for additional data {% islandsongs_1993 creolelitlist1996 %}. There are few more books but they are mostly physical documents (I need to finish looking into their digital versions). 
+Digital versions of a bible (new testament) {% cite SLUnewtestament_1999 bibleproject_2004 BibleSocieties_2020 %}, an audio version of the bible {% cite audiobible2020 %}, a few documents from the government such as the Saint Lucian national anthem {% cite anthem_2016 %}, governmental speeches bearing Kwéyòl dialogue  {% cite louisy_govt_2004 %},  and works for ministries focused on Kwéyòl activities  {% cite sluFRC_FB_2020 %} are also accessible. I also have access to traditional folk songs {% cite joseph_songs_2020 SLU_song_yannucci_2020 %}, discourses {% cite weekes2014bodies frank_1990 %}, and stories {% cite sil_folktale_1985 sil_readingbook_1989 %}. Public social media data are also useful, particularly the postings by verified Saint Lucian Kwéyòl writers {% cite kweyol_fb_joseph  kweyol_works_joseph  kweyol_playlists_joseph%}. There are also Kwéyòl financial document excerpts in the form of Annual Reports from the Saint Lucian National Bank. In 1993 a document entitled "Dances and Songs from a Caribbean Island" was created and in 1996 one named "Select Bibliography of the Literature of the English-speaking West Indies" was also created; if the documents above are insufficient, I will consult these two anthological works for additional data {% cite islandsongs_1993 creolelitlist1996 %}. There are few more books but they are mostly physical documents (I need to finish looking into their digital versions). 
 
 **These 6 papers are my current basis**
 
@@ -302,6 +305,11 @@ The tools may focus on open source and low-cost resources such as R Studio, Pyth
 
 {% include JB/setup %}
 
+
+
+
+
+references and introductory update
 
 
 
