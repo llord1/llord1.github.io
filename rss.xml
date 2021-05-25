@@ -5,8 +5,8 @@
         <description>Laurel's Works in Progress - Laurel Lord</description>
         <link>http://llord1.github.io</link>
         <atom:link href="http://llord1.github.io" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sun, 23 May 2021 23:40:38 -0400</lastBuildDate>
-        <pubDate>Sun, 23 May 2021 23:40:38 -0400</pubDate>
+        <lastBuildDate>Mon, 24 May 2021 23:40:21 -0400</lastBuildDate>
+        <pubDate>Mon, 24 May 2021 23:40:21 -0400</pubDate>
         <ttl>60</ttl>
 
 
@@ -371,7 +371,7 @@ However, this does not mean that other publishers will be ignored; I am also ope
 &lt;li&gt;&lt;span id=&quot;kweyol_works_joseph&quot;&gt;Joseph, J. C. (2020). Kwéyòl Sent Lisi. In &lt;i&gt;Kwéyòl Sent Lisi&lt;/i&gt;. https://kweyolsentlisi.weebly.com/&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span id=&quot;kweyol_fb_joseph&quot;&gt;Joseph, J. C. (2020). Kwéyòl Sent Lisi. In &lt;i&gt;Facebook&lt;/i&gt;. https://www.facebook.com/kweyolsentlisi/&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span id=&quot;nivre2016universal&quot;&gt;Nivre, J., De Marneffe, M.-C., Ginter, F., Goldberg, Y., Hajic, J., Manning, C. D., McDonald, R., Petrov, S., Pyysalo, S., Silveira, N., &amp;amp; others. (2016). Universal dependencies v1: A multilingual treebank collection. &lt;i&gt;Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC’16)&lt;/i&gt;, 1659–1666.&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span id=&quot;Wang2020FromGT&quot;&gt;Wang, H., Yang, J., &amp;amp; Zhang, Y. (2020). From Genesis to Creole Language. &lt;i&gt;ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)&lt;/i&gt;, &lt;i&gt;19&lt;/i&gt;, 1–29. https://doi.org/10.1145/3321128&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;Wang2020FromGT&quot;&gt;Wang, H., Yang, J., &amp;amp; Zhang, Y. (2020). From genesis to creole language: Transfer learning for singlish universal dependencies parsing and pos tagging. &lt;i&gt;ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)&lt;/i&gt;, &lt;i&gt;19&lt;/i&gt;, 1–29. https://doi.org/10.1145/3321128&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span id=&quot;ferreira2019improving&quot;&gt;Ferreira, J., Gonçalo Oliveira, H., &amp;amp; Rodrigues, R. (2019). Improving NLTK for processing Portuguese. &lt;i&gt;8th Symposium on Languages, Applications and Technologies (SLATE 2019)&lt;/i&gt;.&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span id=&quot;abeille2012treebanks&quot;&gt;Abeillé, A. (2012). &lt;i&gt;Treebanks: Building and using parsed corpora&lt;/i&gt; (Vol. 20). Springer Science &amp;amp; Business Media.&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span id=&quot;abeille2003building&quot;&gt;Abeillé, A., Clément, L., &amp;amp; Toussenel, F. (2003). Building a treebank for French. In &lt;i&gt;Treebanks&lt;/i&gt; (pp. 165–187). Springer. https://link.springer.com/chapter/10.1007/978-94-010-0201-1_10&lt;/span&gt;&lt;/li&gt;
