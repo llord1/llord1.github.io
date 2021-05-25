@@ -10,7 +10,7 @@ Data science investigations into Saint Lucian Creole; preserving a low resource 
 
 #### __Working Statement of Problem:__
 
-What are the factors associated with Saint Lucian Creole's exclusion from most modern machine translation platforms, and how can this exclusion be addressed through Data Science tools and techniques?
+What are the factors associated with Saint Lucian Creole's exclusion from most modern machine translation platforms, and how can this exclusion be addressed through Data Science tools and techniques? Can the  Kwéyòl langauge be effectively served through the exploration of the two linguistic structures of Dependency and Phrase Structure?
 
 #### __Introduction and Justification of the Problem:__
 
@@ -125,9 +125,7 @@ The relevant diacritics/ written accents for "Kwéyòl are à, é, è, and ò;  
 "While the vowels a, e, and o combine with an n to form a digraph in which the n is not to be pronounced as a consonant, the same is not true for the vowels i, é, è, ou, and ò, which are never combined with n as a digraph. So any time the reader sees one of these latter vowel symbols followed by an n, he should interpret it as the combination of a vowel plus a consonant rather than as a single nasal vowel sound. In cases where a true n sound is preceded by a nasal vowel, two ns have to be written. Note the spellings of the following words:"
 
 - lapé = l + a + p + é  = ‘peace’
-
 - lapen  = l + a + p + en  = ‘rabbit’
-
 - lapenn  = l + a + p + en + n  = ‘sorrow
 
 "Most punctuation works the same way in St. Lucian Creole as in English. However, special attention must be given to the uses of the hyphen and the apostrophe."
@@ -135,13 +133,9 @@ The relevant diacritics/ written accents for "Kwéyòl are à, é, è, and ò;  
 "*Hyphen:* The definite article (that is, the Creole equivalent of English ‘the’) is attached to the preceding word with a hyphen. The Creole definite article can take four forms, depending on the context: -a, -la, -an, and -lan. Here are some examples:"
 
 - latè-a  = ‘the earth’
-
 - tab-la  = ‘the table’
-
 - tan-an =  ‘the time/weather’
-
 - lanp-lan =  ‘the lamp’
-
 - Mwen kouté listwa-a i wakonté-a. ‘I listened to the story he told.’
 
 
@@ -150,13 +144,9 @@ The relevant diacritics/ written accents for "Kwéyòl are à, é, è, and ò;  
 Here are some examples:
 
 - mwen + pa = m’a
-
 - mwen + ka = ng’a (or n’a)
-
 - mwen + kay = ng’ay (or n’ay)
-
 - si + ou = s’ou
-
 - pa + ankò = p’òkò
 
 When the pronouns i (‘he’ or ‘she’) and ou (‘you’) follow a word that ends with a vowel sound, they are sometimes converted to ’y and ’w respectively and attached to the preceding word, as in the following examples:
@@ -191,10 +181,6 @@ When the pronouns i (‘he’ or ‘she’) and ou (‘you’) follow a word tha
 - *Hypothesis:* A novel CNN-based semantic indexing method can be applied to multilingual data. Semantic domain vocabulary lists can be used with NLP tools for enhancing language learning tools (and should ease/improve language translation outcomes on Kwéyòl data); for example, lists associated with folklore/folktales, flora, fauna, entertainment, health/emergencies, business, politics, and science where possible, can be created.
 
 - *Hypothesis:* Since the language is mostly orally passed on and spelled phonetically (though inconsistently), it may be possible to find the origin of the words, not only through text analysis but through cross-lingual acoustic models. The mystery words will not only be compared to words of similar text cognates etc. but also compared with vocal sound files from nearby languages.
-
-
-
-
 
 #### __Draft methodology:__
 
