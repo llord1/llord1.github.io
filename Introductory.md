@@ -20,7 +20,7 @@ When exploring the matter of Multilingual Natural Language Processing, Dr. Benja
 
 In the realm of cross-lingual or multilingual natural language processing (NLP), it does appear that some languages tend to garner more attention. Typically well-established languages, with a plethora of linguistic resources to build from, often thrive while low-resource creole languages are left to languish. Creoles are a particular challenge to the NLP community as these languages tend to arise from oftentimes frantic and urgent needs to establish harmony in communication within cacophonous settings. 
 
-### __The Problematic Nature of Saint Lucian French Creole\ Kwéyòl\ Patwa\Patois: __
+#### __The Problematic Nature of Saint Lucian French Creole (Kwéyòl\ Patwa\Patois):__
 
 A creole language is different from a pidgin as it has established language rules that have been learned as a first language for one or more generations. While most are recognized as French-based, there is an increasing academic argument to officially recognize additional unique variants of English-based creoles within those settings (instead of simply viewing them as the poor application of English) {% cite irvine2020st irvine2020language %}. Even some sample sentences of the official Kwéyòl dictionary are actually English-based creole ones, rather than standard  English {% cite frank2001writing frank2001kweyol%}. Thus, settings like Saint Lucia, which had over 14 territorial wars between the British and the French, may exhibit English and French creole {% cite irvine2020st irvine2020language %}.
 
