@@ -24,7 +24,7 @@ tagline: Supporting tagline
 
 **Current Committee Chair:**
 
-    - Dr. Rand Ford: Professor and Program Director of Data Analytics at HU
+- Dr. Rand Ford: Professor and Program Director of Data Analytics at HU
 
 
 **Possible Committee Members:**  
