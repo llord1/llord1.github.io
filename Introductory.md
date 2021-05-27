@@ -5,7 +5,11 @@ description: "Introduction to Low-resource Cross-lingual Framework"
 ---
 {% include JB/setup %}
 
+
+
+
 #### __Working Title:__
+
 Data science investigations into Saint Lucian Creole; preserving a low resource creole language through compiling, deciphering, and understanding creole data.
 
 #### __Working Statement of Problem:__
@@ -20,7 +24,7 @@ When exploring the matter of Multilingual Natural Language Processing, Dr. Benja
 
 In the realm of cross-lingual or multilingual natural language processing (NLP), it does appear that some languages tend to garner more attention. Typically well-established languages, with a plethora of linguistic resources to build from, often thrive while low-resource creole languages are left to languish. Creoles are a particular challenge to the NLP community as these languages tend to arise from oftentimes frantic and urgent needs to establish harmony in communication within cacophonous settings. 
 
-#### __The Problematic Nature of Saint Lucian French Creole (Kwéyòl\ Patwa\Patois):__
+### The Problematic Nature of Saint Lucian French Creole (Kwéyòl\Patwa\Patois):
 
 In the Caribbean, creole languages emerged as a means of survival, and endured as a result of resilience; often speakers struggled to work within the bounds of a dominant prestige language while retaining unique traces of heritage languages or contact languages. The Caribbean has had a complicated past of trade, colonization, slavery, indentured labor, and more recently voluntary immigration. This, therefore, leads to a present setting of an actively multilingual environment, that is still dynamically changing due to evolving political and legal policies (such as Citizenship by Investment (CIP) {% cite bayat_2020 gis_CIP_2017 slu_cip_2020 capital_CIP_2020 harvey_2020 investvisa_2016 %}. The resilience of this language is currently being tested with the advent of the SARS-CoV-2 pandemic;  it created a situation where effective and timely communication is needed, while also threatening the lives of the older, more fluent, language-keepers. Therefore, the careful creation of tools and frameworks is needed to facilitate society's creole language needs. 
 
@@ -296,3 +300,7 @@ The tools may focus on open source and low-cost resources such as R Studio, Pyth
 {% bibliography --cited %}
 
 {% include JB/setup %}
+
+
+
+
