@@ -6,8 +6,6 @@ description: "Introduction to Low-resource Cross-lingual Framework"
 {% include JB/setup %}
 
 
-
-
 #### __Working Title:__
 
 Data science investigations into Saint Lucian Creole; preserving a low resource creole language through compiling, deciphering, and understanding creole data.
@@ -22,9 +20,9 @@ When exploring the matter of Multilingual Natural Language Processing, Dr. Benja
 
 *“As the most uniquely human characteristic a person has, a person's language is associated with his self-image. Interest in and appreciation of a person's language is tantamount to interest in and appreciation of the person himself. All languages are worthy of preservation in written form by means of grammars, dictionaries, and written texts. This should be done as part of the heritage of the human race."*
 
-In the realm of cross-lingual or multilingual natural language processing (NLP), it does appear that some languages tend to garner more attention. Typically well-established languages, with a plethora of linguistic resources to build from, often thrive while low-resource creole languages are left to languish. Creoles are a particular challenge to the NLP community as these languages tend to arise from oftentimes frantic and urgent needs to establish harmony in communication within cacophonous settings. 
+In the realm of cross-lingual or multilingual natural language processing (NLP), it does appear that some languages tend to garner more attention. Typically well-established languages, with a plethora of linguistic resources to build from, often thrive while low-resource creole languages are left to languish. Creoles are a particular challenge to the NLP community as these languages tend to arise from oftentimes frantic and urgent needs to establish harmony in communication within cacophonous settings. None the less improvement in the documentation, education, and communication in these languages benefit their societies. The development of resources could enhance communication across various social statuses, improve legal and political representation, reduce miscommunications with law-enforcement figures, and increase the reach of crucial information in worse-case scenarios.
 
-### The Problematic Nature of Saint Lucian French Creole (Kwéyòl\Patwa\Patois):
+### The Problematic Nature of Saint Lucian French Creole (Kwéyòl\ Patwa\Patois):
 
 In the Caribbean, creole languages emerged as a means of survival, and endured as a result of resilience; often speakers struggled to work within the bounds of a dominant prestige language while retaining unique traces of heritage languages or contact languages. The Caribbean has had a complicated past of trade, colonization, slavery, indentured labor, and more recently voluntary immigration. This, therefore, leads to a present setting of an actively multilingual environment, that is still dynamically changing due to evolving political and legal policies (such as Citizenship by Investment (CIP) {% cite bayat_2020 gis_CIP_2017 slu_cip_2020 capital_CIP_2020 harvey_2020 investvisa_2016 %}. The resilience of this language is currently being tested with the advent of the SARS-CoV-2 pandemic;  it created a situation where effective and timely communication is needed, while also threatening the lives of the older, more fluent, language-keepers. Therefore, the careful creation of tools and frameworks is needed to facilitate society's creole language needs. 
 
@@ -42,9 +40,11 @@ In 1998, Frank explored and even expanded the written form of the creole languag
 
  *'... for all practical purposes Creole remains an unwritten language for the majority of the population, which remains unaware of the books published in Creole. Attempts to teach Creole literacy have not met with much success because of lack of interest. Motivation is the most important factor in the success of any literacy program, and having something people want to read is the most important motivating factor'* {% cite frank1998lexical %}. 
 
-English is currently the main language spoken (a prestige language) in Saint Lucia, however, Saint Lucian Kwéyòl (Antillean Creole/ Patios/ Patwa) is the heritage language of the island. There are several other languages officially taught (French and Spanish) and generally spoken in the close-knit Caribbean (such as Dutch, Portuguese, Hindi, Arabic, and even Japanese, Mandarin and increasingly Russian) {% cite hillman2009understanding everyculture_2020 kobayashi_2020 nesheim_CIP_2020 CBF_2020 %}.
+English is currently the main language spoken (a prestige language) in Saint Lucia, however, Saint Lucian Kwéyòl (Antillean Creole/ Patios/ Patwa) is the heritage language of the island. There are several other languages officially taught (French and Spanish) and generally spoken in the close-knit Caribbean (such as Dutch, Portuguese, Hindi, Arabic, and even Japanese, Mandarin and increasingly Russian) {% cite hillman2009understanding everyculture_2020 kobayashi_2020 nesheim_CIP_2020 CBF_2020 %}. 
 
-It is this very discordant origin and complexity of structure that presents issues to the preservation of creole languages. For example, the Saint Lucian French creole writing system is phonemically-based {% cite frank2001writing frank2001kweyol%}, therefore, this makes writing the language and establishing a uniform spelling of words challenging. Moreover, the current state of creole's language vitality is unknown as no survey has been conducted within the 21st century. Additionally, most words in Saint Lucian Kwéyòl/creole focus on emotions, the weather, and other aspects of the immediate natural environment, including endemic animals and food sources {% cite frank2007sources %}. Therefore, finding domain-equivalent literature sources outside of certain contexts can be challenging.
+It is this very discordant origin and complexity of structure that presents issues to the preservation of creole languages. For example, the Saint Lucian French creole writing system is phonemically-based {% cite frank2001writing frank2001kweyol%}, therefore, this makes writing the language and establishing a uniform spelling of words challenging. The language is typically orally passed on, therefore the writing system may be challenging to those unfamiliar with the recently established writing system.
+
+Moreover, the current state of creole's language vitality is unknown as no survey has been conducted within the 21st century. Additionally, most words in Saint Lucian Kwéyòl/creole focus on emotions, the weather, and other aspects of the immediate natural environment, including endemic animals and food sources {% cite frank2007sources %}. Therefore, finding domain-equivalent literature sources outside of certain contexts can be challenging.
 
 Frank's 2008 work on "Sources of St. Lucian Creole Vocabulary" suggested that just over 83% of vocabulary words he came across had French origins, roughly 3% is English-based, and Amerindian, African,  East Indian sources account for about a  ½ % of the total each, and .1 % was Spanish/Portuguese-based {% cite frank2007sources %}. Even this author of the official creole dictionary acknowledged gaps in its vocabulary being due to the lack of official etymological details of nearly 12 % of documented words {% cite frank2001kweyol frank2007sources %}.
 
@@ -59,6 +59,7 @@ Moreover, there are challenges present in natural language processing, particula
 For example, avocado translates to zabòka[2](https://www.webonary.org/kweyol/gfdb5d87c-f3e9-49f6-a80e-f9dddeb2e358/) in the official Saint Lucian Kwéyòl dictionary. However, on Instagram[3](https://www.instagram.com/explore/tags/zaboca/?hl=en), Facebook[4](https://www.facebook.com/embracedominica/posts/known-locally-as-pear-or-zaboca-the-avocado-is-a-flowering-plant-native-to-mexic/1796956037194101/), and Twitter[5](https://twitter.com/itzbuellzfool/status/1312498381860659200) (and even a [book on Amazon](https://www.amazon.com/Under-Zaboca-Tree-Glynis-Guevara/dp/1771333294), refers to the same item using the spelling 'zaboca', 'zabocca' [6](https://www.facebook.com/BarbadosCulinaryJourney/photos/avocado-or-zabocca-originally-found-in-the-deep-forests-of-south-america-and-tak/1037910523023415/g)[7](https://pdfs.semanticscholar.org/5204/05cfd523532ee8a3d9470bbeb200c17af9cc.pdf), and 'zaboka'[8](https://twitter.com/lylythervil/status/998975906738733058). Yet, the crowdsourced online dictionary Wiwords notes the same item with the spelling 'zaboca'[9](http://wiwords.com/word/zaboca) and includes pictures for clarification.
 
 A cursory search of Twitter revealed that the 'zaboca' spelling was just about as common as ' zaboka',  yet the accented spelling, 'zabòka', was not present. One could say that Wiwords did indeed reflect the term's typical informal (social media) form. While Wiwords does not list the official spelling or all other alternative spellings, it does assist with understanding instances of the presence or absence of diacritical marks and providing needed context to improving the word sense disambiguation.
+
 
 A major challenge of lexical semantics is creating training data and algorithms that facilitate downstream tasks. Furthermore, it has also been said that while there is a lingering 'bias towards contemporary Indo-European languages', treebanks for other language families and treebanks for classical languages are on the rise {% cite nivre2016universal %}. Yet, there are multiple reasons to explore NLP topics on creole data. The increasing popularity of opinion-rich resources such as blogs {% cite kweyol_works_joseph %}, shopping websites, review portals, and social media platforms {% cite kweyol_fb_joseph %} are rapidly attracting business people, governments, and researchers alike. 
 
@@ -300,7 +301,3 @@ The tools may focus on open source and low-cost resources such as R Studio, Pyth
 {% bibliography --cited %}
 
 {% include JB/setup %}
-
-
-
-
