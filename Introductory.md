@@ -5,7 +5,6 @@ description: "Introduction to Low-resource Cross-lingual Framework"
 ---
 {% include JB/setup %}
 
-
 #### __Working Title:__
 
 Data science investigations into Saint Lucian Creole; preserving a low resource creole language through compiling, deciphering, and understanding creole data.
@@ -46,7 +45,7 @@ It is this very discordant origin and complexity of structure that presents issu
 
 Moreover, the current state of creole's language vitality is unknown as no survey has been conducted within the 21st century. Additionally, most words in Saint Lucian Kwéyòl/creole focus on emotions, the weather, and other aspects of the immediate natural environment, including endemic animals and food sources {% cite frank2007sources %}. Therefore, finding domain-equivalent literature sources outside of certain contexts can be challenging.
 
-Frank's 2008 work on "Sources of St. Lucian Creole Vocabulary" suggested that just over 83% of vocabulary words he came across had French origins, roughly 3% is English-based, and Amerindian, African,  East Indian sources account for about a  ½ % of the total each, and .1 % was Spanish/Portuguese-based {% cite frank2007sources %}. Even this author of the official creole dictionary acknowledged gaps in its vocabulary being due to the lack of official etymological details of nearly 12 % of documented words {% cite frank2001kweyol frank2007sources %}.
+Frank's 2008 work on "Sources of St. Lucian Creole Vocabulary" suggested that just over 83% of vocabulary words he came across had French origins, roughly 3% had English origins, and Amerindian, African,  East Indian sources account for about a  ½ % of the total each, and .1 % was Spanish/Portuguese-based {% cite frank2007sources %}. Even this author of the official creole dictionary acknowledged gaps in its vocabulary being due to the lack of official etymological details of nearly 12 % of documented words {% cite frank2001kweyol frank2007sources %}.
 
 ![vocab](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/vocabo.PNG){: width="600" }
 
