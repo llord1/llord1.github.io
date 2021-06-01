@@ -45,7 +45,7 @@ The 2020 pandemic motivated the island nation of Saint Lucia to launch efforts t
 
 Additionally, since the 2007 rekindling of the relationship between the governments of Taiwan and Saint Lucia {% cite NYT_2007 huang _2007 %}, Taiwan has strived to facilitate improved access to telecommunication services. In 2015, these two planned for a "Government Islandwide Network (GiNet) Project" to produce affordable and high-quality internet (wifi), delivered via 70 hotspots {% cite neptune_2015 %}. With a focus on youths in need, Taiwan has also donated multiple laptops, projectors, and educational interactive television equipment over the years, and as of 2021 enhanced the "GiNet project" {% cite digital_2018 charles-soomer_edwin_2018 antoine_2019 alexander_2019 SLUgovernment_2019 cng_media_2020 leonce_2021 SLUtimesnews_2021 %}. At a brief ceremony, on the 16th of March 2021, the governments of Saint Lucia and Taiwan collaborated to declare continued work on a total of 91 wireless access points being deployed using "Sector and Omnidirectional antennae"; each wireless access point offering coverage to "approximately 50 users" simultaneously, and the sector antennae bearing a "120-degree coverage and the range of each device is around 150Ft" {% cite SLUtimesnews_2021 %}.
 
-One could feasibly assume that these drastic changes in the telecommunications environment would mean that much of the population has increasingly gained access to digital technology {% cso_2011 %}. This access to technology serves as a boon to online surveying as this virtually reduces most of the obstacles that are typically presented in this setting.
+One could feasibly assume that these drastic changes in the telecommunications environment would mean that much of the population has increasingly gained access to digital technology {% cite cso_2011 %}. This access to technology serves as a boon to online surveying as this virtually reduces most of the obstacles that are typically presented in this setting.
 
 ### Methodology: 
 
@@ -475,7 +475,7 @@ Russian (or any Eurasian language not mentioned)
 Japanese
 Mandarin
 
-Since this survey is unable to acquire data from past clients, this question serves to address the languages that lawyers commonly encounter. The language one speaks is not guaranteed to be what is encountered. It will be interesting to note where the client and lawyer languages overlap and where they do not.
+Since this survey cannot acquire data from past clients, this question aims to address the languages that lawyers commonly encounter. The language one speaks is not guaranteed to be what one will encounter. It will be interesting to note where the client and lawyer languages overlap and where they do not.
 
 ### References:
 
