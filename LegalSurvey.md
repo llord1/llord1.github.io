@@ -130,14 +130,13 @@ Not known
 
 Prefer not to respond
 
-
 While the ABA noted that "most state bars and state licensing agencies do not track race and ethnicity in the profession", in 2020, this type of data collection increased {%cite ABA2020Profile %}, {% cite clio_2020 %}, {% cite AttorneyAtWork_2019 %}. As of 2010, only 11.4% of all American lawyers were men and women of color, and this only rose to 14.1% in 2020 {%cite ABA2020Profile %}, {% cite clio_2020 %}, {% cite AttorneyAtWork_2019 %}. In developed countries, like America, it is said that minorities remain underrepresented in the legal profession; however, there is limited information on the legal environment of the Caribbean-an environment where the majority of the population would historically be non-white. As of the 2010 Saint Lucian census, the "ethnic group" of 
 "African Descents" represented about 85.28 percent of the population (the highest); this was distantly followed by the "Mixed" category with 10.85 percent, and the "East Indian" at 2.16 percent {% cite CSO_SLU2010 %}.
 
 Additionally, one's household and upbringing may shape or influence one's interests. Multiculturalism is quite prevalent in the Caribbean, however, one's multilingualism might be impacted by one's upbringing. While formal education may be a primary factor in one's language acquisition, various states of immigration over generations, or other forms of diversity in one's household, might influence their linguistic capacities.
 Identifying participant ethnicity/race is another standard demographic inquiry, nevertheless, it is needed here to highlight if there are any differences in linguistics interests among the lawyers based on their backgrounds. 
 
-   2. Please indicate the number of years you have been in practice (number of years since your first call to the bar in the Common-Wealth etc.)
+   Please indicate the number of years you have been in practice (number of years since your first call to the bar in the Common-Wealth etc.)
 
 Less than 1
 
@@ -157,7 +156,7 @@ Less than 1
 
 Prefer not to respond
 
-    3. Please indicate the option(s) that best describes your current working environment; please check all that apply. 
+   3. Please indicate the option(s) that best describes your current working environment; please check all that apply. 
 
 In private practice, in a firm with less than 5 lawyers
 
