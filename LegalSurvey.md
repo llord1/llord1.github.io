@@ -30,9 +30,7 @@ Saint Lucia's National Environmental Information System (NEIS)  has been one of 
 
 A need for additional data regarding lawyer demographics in Saint Lucia has been identified. To address this need, while following social distancing protocols, an online survey has been selected as the tool of data collection. Ultimately, such a survey can be applied to lawyers, nurses, or police officers - any profession that requires direct extended interaction with a citizen to provide a sense of safety and security.
 
-
-
-### The Saint Lucian digital environment and survey instruments:
+The Saint Lucian digital environment and survey instruments:
 
 Data collection via surveys is virtually challenging to conduct anywhere. However, in developing nations, limited access to various forms of infrastructure provides additional obstructions. One paper cited at least three major challenges to conducting surveys in the Caribbean {% cite tindigarukayo2001challenges %}. Firstly, it stated there were issues with meager sampling frames from which to select representative samples (especially when sampling noninstitutionalized populations. Secondly, administering various survey instruments was difficult; mailers were challenging due to unreliable postal systems, telephone interviews would be inherently biased due to limited access to telecommunication infrastructure and devices, and local pockets of crime made in-person interviews problematic. Thirdly, effectively surveying these areas of much inherent cultural and linguistic diversity would be challenging.
 
