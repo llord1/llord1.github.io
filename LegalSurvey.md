@@ -16,6 +16,7 @@ The purpose of this paper is to gather general demographic data of lawyers and i
 Lack of labor demographic and linguistic data in Saint Lucia:
 
 Several careers in society can contribute to the general sense of safety and security that Maslow has referred to in his famous hierarchy of needs. However, obvious yet often overlooked issues in communication can mean the difference between life and death in fields of practice such as medicine and law enforcement. Therefore, thoughtful data collection and monitoring of these crucial services can enhance and optimize their performance. 
+
 Thoughtful deliberation of linguistics, particularly consideration of language barriers, is increasing in the medical field. As recently as 2019, Sweden conducted a national study on health care professionals' communications through interpreters; this study occurred after noting that many parents utilizing neonatal care were foreign-born and unable to effectively communicate with the healthcare professionals in the local language {% cite patriksson2019health %}. In 2013, linguistic work had been done to highlight communications issues between physicians and Spanish-speaking Latin American women with pelvic floor disorders {% cite sevilla2013communication %}; this study highlighted that apart from patients’ lack of disease understanding, there was a lack of Spanish proficiency among the participating physicians. Another 2013 qualitative study conducted on linguistics, centered around the perceptions of patient-provider communication in breast and cervical cancer-related care when dealing with low-income English and Spanish-speaking women {% cite simon2013perceptions %}. In 2009, similar work was conducted on competent peer support intervention for Spanish-speaking Latinas with breast cancer {% cite napoles2009developing %}. 
 Questioning the possible ties of linguistics to various professions is not necessarily new, yet few resources are being dedicated to detecting communication issues and improving communication within multilingual countries. More interesting would be the pivot of looking at persons who are already multilingual in a field, and noting if they have sufficient training and resources when their primary language is not the dominant language of the country in which they practice. One study did investigate Spanish–English bilingual psychotherapists and their Personal and professional language development and use {% cite verdinelli2009spanish %}. Another study observed instances where nurses double as interpreters (a study of Spanish-speaking patients in a U.S. primary care setting) {% cite elderkin2001nurses %}.
 
@@ -49,9 +50,12 @@ One could feasibly assume that these drastic changes in the telecommunications e
 
 ### Methodology: 
 
-Chi-square test of independence
+[See draft online form](https://form.jotform.com/203134599286160).
 
- *Survey design (questions)*
+
+May attempt using the Chi-square test of independence for the following survey questions.
+
+*Survey question design*
 
 1.a  Please indicate which of the following best describe (s) you. *
 
@@ -364,10 +368,10 @@ This question seeks to understand the current and demand for multilingualism in 
 
 10a. Please rank the languages you use most often to communicate and your proficiency. Note: Selecting only "listen (understand)" encompasses scenarios where one can comprehend but not converse in a language.
 
-Column categories: Language; Speak/Sign; Read; Write; Listen/Understand; Overall Fluency
-
 Row categories: First Language (most often used at home); Second Language (2nd most often used at home & elsewhere); Third Language
 (3rd most often used at home & elsewhere)
+
+Column categories: Language; Speak/Sign; Read; Write; Listen/Understand; Overall Fluency
 
 Language dropdowns:
 
@@ -442,6 +446,7 @@ Understanding where and how one engages in language learning might highlight env
 
 
 10b. Please indicate which technique best describes how you came to learn each of the aforementioned languages; please select all that apply.
+
 Column categories:
 Formal education (requirement/ elective); Informal education
 (hobby); Informal education (from family & friends); Not applicable; Choose not to respond
