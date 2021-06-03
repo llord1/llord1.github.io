@@ -157,7 +157,7 @@ Less than 1
 
 Prefer not to respond
 
-   3. Please indicate the option(s) that best describes your current working environment; please check all that apply. 
+    3. Please indicate the option(s) that best describes your current working environment; please check all that apply. 
 
 In private practice, in a firm with less than 5 lawyers
 
