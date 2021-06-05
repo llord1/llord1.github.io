@@ -48,7 +48,7 @@ May attempt using the Chi-square test of independence for the following survey q
 
 *Survey question design*
 
-1a.  Please indicate which of the following best describe (s) you. *
+1.a   Please indicate which of the following best describe (s) you. *
 
 Age:
 
@@ -82,7 +82,7 @@ Prefer not to respond
 
 The age range (multiple choice) was based on the ABA data that indicates lawyers typically obtain higher education levels beyond high school and remain in practice past the age of 65 [source]; the median age of all U.S. workers was 42.3 years old, yet very few lawyers are younger than 25 and the median age for U.S. lawyers in 2019 was 47.5 years old. This question is posed as a standard demographic question, yet it is also important as speaks to the current and future state of the legal linguistic environment. Noting age may highlight multilingualism trends among age groups. For example, if multilingualism is more prominent in the younger lawyers, then the projection of multilingual representation would be positive. However, if multilingual tendencies are clustered among older lawyers, then this study may serve to highlight needed points of improvement in the legal system in an increasingly multilingual society. 
 
-1b.  Gender:
+1.b   Gender:
 
 Man
 
@@ -92,7 +92,7 @@ Prefer not to respond
 
 Gender identification is another standard (multiple choice) demographic question, however, it is useful to gather this data to check whether the August 2020 American trend of men outnumbering women (especially in leadership), is replicated in and persistent in the Caribbean country of Saint Lucia {%cite ABA2020Profile clio_2020 AttorneyAtWork_2019 %}. There may also be a need to highlight if there are any differences in linguistics interests among the lawyers. Females are often believed to be more capable of and interested in linguistic acquisition and practice. Data gathered could confirm or dispute this assumption.
 
-1c.  Citizenship:
+1.c   Citizenship:
 
 Jus sanguinis (right of blood)
 
@@ -106,7 +106,7 @@ Prefer not to respond
 
 Citizenship status might indicate a history or lineage of commitment to, and familiarity with, the culture, language, people, and overall development of the country. At the very least it may indicate a legal tie to their practice's environment.
 
-1d.  Ethnicity/race
+1.d   Ethnicity/race
 
 American Indian/Alaska Native
 
@@ -137,7 +137,7 @@ While the ABA noted that "most state bars and state licensing agencies do not tr
 
 Additionally, one's household and upbringing may shape or influence their interests. Multiculturalism is quite prevalent in the Caribbean, however, one's upbringing might impact their multilingualism. While formal education may be a primary factor in one's language acquisition, various states of immigration over generations, or other forms of diversity in their household, might influence their linguistic capacities. Identifying participant ethnicity/race is another standard demographic inquiry; nevertheless, it explores whether or not there are any differences in linguistics interests among the lawyers based on their backgrounds. 
 
-2.  Please indicate the number of years you have been in practice (number of years since your first call to the bar in the Common-Wealth etc.)
+2.   Please indicate the number of years you have been in practice (number of years since your first call to the bar in the Common-Wealth etc.)
 
 Less than 1
 
@@ -157,7 +157,7 @@ Less than 1
 
 Prefer not to respond
 
-3.  Please indicate the option(s) that best describes your current working environment; please check all that apply. 
+3.   Please indicate the option(s) that best describes your current working environment; please check all that apply. 
 
 In private practice, in a firm with less than 5 lawyers
 
@@ -183,7 +183,7 @@ Other
 
 Lawyers may choose to focus on different areas of the law. The cliental they encounter may be influenced by this specialization. Inquiring into one's area of specialization will highlight which areas of the law may be associated with a need to speak multiple languages; more specifically, which areas of the law in Saint Lucia are more likely to require an understanding of  Saint Lucian Kwéyòl language.
 
-4.  Please indicate your area(s) of practice; please check all that apply. 
+4.   Please indicate your area(s) of practice; please check all that apply. 
 
 Alternative dispute resolution (ADR)
 
@@ -241,7 +241,7 @@ Tort law
 
 An additional means of narrowing down underlying multilinguistic tendencies in this field is to inquire into one's areas of practice. St. Lucia is a sovereign island nation in the Commonwealth of Nations but, because Saint Lucia was both a French and English colony before it gained independence on the 22nd of February, 1979, the legal system has been a mix of civil and English common law {% cite specialitysmith_2020 %}. 
 
-5.  Please indicate your average annual income.
+5.   Please indicate your average annual income.
 
 Below 36,000 XCD
 
@@ -265,7 +265,7 @@ Prefer not to respond
 
 Based on one's average salary per case, there could be an argument for the economic reinforcement of certain linguistic standards. It may be interesting to note if a multilingual can request and acquire more money due to their linguistic abilities. The Average Attorney Salary of a lawyer located in the sister island country of Dominica is around 2,950 XCD per month {% cite DOMsalary %}. It is said that salaries range from 1,360 XCD (lowest) to 4,680 XCD (highest). Yet, according to salaryexplorer.com, a Saint Lucian  Attorney typically earns around 5,500 XCD per month;  this is with salaries ranging from 2,530 XCD (lowest) to 8,750 XCD (highest). It should be noted that Saint Lucia's minimum wage rate was last changed at the beginning of 2013, yet it stands at XCD 300 a month for office clerks, XCD 200 for shop assistants, and XCD 160 for messengers according to minimum-wage.org {% cite SLU2020wages %}.
 
-6.  Please indicate your current student debt level.
+6.   Please indicate your current student debt level.
 
 None
 
@@ -291,7 +291,7 @@ Prefer not to respond
 
 This question concerning student debt is typical of the AB, how adjusted for a Saint Lucian setting. It may indicate if this career path is indeed lucrative for the students, thus somewhat gauging the stability of the industry.
 
-7.  Please indicate if your workplace directly offers any formal foreign language assistance programs to clients.
+7.   Please indicate if your workplace directly offers any formal foreign language assistance programs to clients.
 
 Yes, an internal service is available to clients.
 
@@ -301,7 +301,7 @@ Prefer not to respond.
 
 This question would confirm the presence of legal aid in Saint Lucia. It would simultaneously confirm the lawyers' awareness of the availability of this service.
 
-8.  Please indicate if a perceived language barrier has ever limited any of your attorney-client interactions; please select all that apply.
+8.   Please indicate if a perceived language barrier has ever limited any of your attorney-client interactions; please select all that apply.
 
 No
 
@@ -342,7 +342,7 @@ Prefer not to respond
 
 This question seeks to explore the personal linguistic limitations of lawyers in a multilingual environment. It may reinforce the perceived need for lawyers to acquire additional languages. 
 
-9.  If you do speak more than one language, please indicate if your multilingual skill was ever a crucial asset to representing a client.
+9.   If you do speak more than one language, please indicate if your multilingual skill was ever a crucial asset to representing a client.
 
 I do not speak more than one language
 
@@ -354,7 +354,7 @@ Prefer not to respond
 
 This question seeks to understand the current and demand for multilingualism in lawyering, based on past demand. These details may reveal sufficiencies as well as insufficiencies concerning the adequate legal representation of  Saint Lucian clients. Saint Lucia is a multilingual country, and a lawyer with multiple languages may stand a better chance of not only attracting a diverse and numerous clientele base; reduced language barriers would allow lawyers to better relay facts, arguments, and sentiments of clients with diverse backgrounds.
 
-10a.  Please rank the languages you use most often to communicate and your proficiency. Note: Selecting only "listen (understand)" encompasses scenarios where one can comprehend but not converse in a language.
+10a.   Please rank the languages you use most often to communicate and your proficiency. Note: Selecting only "listen (understand)" encompasses scenarios where one can comprehend but not converse in a language.
 
 Row categories: First Language (most often used at home); Second Language (2nd most often used at home & elsewhere); Third Language
 (3rd most often used at home & elsewhere)
@@ -385,13 +385,13 @@ Dutch
 
 Any form of sign language
 
-Hindi (or any Indian subcontinental language not present)
+Hindi (or any Indian subcontinental language not mentioned)
 
-Arabic (or any Mediterranean language not present)
+Arabic (or any Mediterranean language not mentioned)
 
-Swahili (or any African language not present)
+Swahili (or any African language not mentioned)
 
-Russian (or any Eurasian language not present)
+Russian (or any Eurasianlanguage not mentioned)
 
 Japanese
 
@@ -432,7 +432,7 @@ Not applicable
 
 Understanding where and how one engages in language learning might highlight environments that foster multilingualism in lawyers. The learning of languages may take place in formal and informal settings. In Saint Lucia, most language education is likely to be done in a school setting. Overall, the national heritage language of this island would typically be learned informally. Saint Lucian Kwéyòl only recently began being formally taught to young children (between the ages of 6-12) in less than a handful of schools, and adult learners; however, since the major fire at the National Folk Resource Center, most classes have reverted to more private sessions. 
 
-10b.  Please indicate which technique best describes how you came to learn each of the aforementioned languages; please select all that apply.
+10b.   Please indicate which technique best describes how you came to learn each of the aforementioned languages; please select all that apply.
 
 Column categories:
 Formal education (requirement/ elective); Informal education
@@ -445,7 +445,7 @@ This question is one of the most crucial to this study. Saint Lucia is an active
 The column category "understand" was added to account for the possible occurrence of receptive bilingualism among lawyers in the Caribbean. This consideration is valid as multilingualism is prevalent in this region; persons here may encounter various languages, yet have been unable to effectively respond. The presence of a "prestige" language, such as English, may draw speakers away from heritage languages;  these heritage languages can suffer from dropping numbers of speakers when receptive bilingualism is not followed up with focused efforts. 
 
 
-11.  Please indicate which language frequency category best reflects your typical client interactions. This question only requires one response per row.
+11.   Please indicate which language frequency category best reflects your typical client interactions. This question only requires one response per row.
 
 Column categories: Very Frequently; Frequently; Occasionally; Rarely; Very Rarely; Never; Choose not to respond
 
