@@ -48,9 +48,9 @@ May attempt using the Chi-square test of independence for the following survey q
 
 *Survey question design*
 
-1.  Please indicate which of the following best describe (s) you. *
+1.  Please indicate which of the following best describe (s) you. 
 
-a. Age:
+Age:
 
 Less than 18
 
@@ -82,7 +82,7 @@ Prefer not to respond
 
 The age range (multiple choice) was based on the ABA data that indicates lawyers typically obtain higher education levels beyond high school and remain in practice past the age of 65 [source]; the median age of all U.S. workers was 42.3 years old, yet very few lawyers are younger than 25 and the median age for U.S. lawyers in 2019 was 47.5 years old. This question is posed as a standard demographic question, yet it is also important as speaks to the current and future state of the legal linguistic environment. Noting age may highlight multilingualism trends among age groups. For example, if multilingualism is more prominent in the younger lawyers, then the projection of multilingual representation would be positive. However, if multilingual tendencies are clustered among older lawyers, then this study may serve to highlight needed points of improvement in the legal system in an increasingly multilingual society. 
 
-b. Gender:
+Gender:
 
 Man
 
@@ -92,7 +92,7 @@ Prefer not to respond
 
 Gender identification is another standard (multiple choice) demographic question, however, it is useful to gather this data to check whether the August 2020 American trend of men outnumbering women (especially in leadership), is replicated in and persistent in the Caribbean country of Saint Lucia {%cite ABA2020Profile clio_2020 AttorneyAtWork_2019 %}. There may also be a need to highlight if there are any differences in linguistics interests among the lawyers. Females are often believed to be more capable of and interested in linguistic acquisition and practice. Data gathered could confirm or dispute this assumption.
 
-c. Citizenship:
+Citizenship:
 
 Jus sanguinis (right of blood)
 
@@ -106,7 +106,7 @@ Prefer not to respond
 
 Citizenship status might indicate a history or lineage of commitment to, and familiarity with, the culture, language, people, and overall development of the country. At the very least it may indicate a legal tie to their practice's environment.
 
-d. Ethnicity/race
+Ethnicity/race
 
 American Indian/Alaska Native
 
