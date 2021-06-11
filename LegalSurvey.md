@@ -9,18 +9,18 @@ tags: [Assets]
 
 ### Introduction:
 
-Several careers in society can contribute to the general sense of safety and security that Maslow has referred to in his famous hierarchy of needs. These include police forces, judges, and lawyers, among others. However, obvious yet often overlooked issues in communication can mean the difference between life and death in fields of practice such as medicine and law enforcement. Therefore, thoughtful data collection and monitoring of these crucial services can enhance and optimize their performance. 
+Several careers in society can contribute to the general sense of safety and security that Maslow has referred to in his famous hierarchy of needs. These include police forces, judges, and lawyers, among others. However, obvious yet often overlooked issues in communication can mean the difference between life and death in fields of practice such as medicine and law enforcement. Therefore, thoughtful data collection and monitoring of these critical services can enhance and optimize their performance. 
 
 ### Literature Review:
 
 Lack of labor demographic and linguistic data in Saint Lucia:
 
-Thoughtful deliberation of linguistics, particularly consideration of language barriers, is increasing in the medical field. As recently as 2019, Sweden conducted a national study on health care professionals' communications through interpreters; this study occurred after noting that many parents utilizing neonatal care were foreign-born and unable to effectively communicate with the healthcare professionals in the local language {% cite patriksson2019health %}. In 2013, linguistic work had been done to highlight communications issues between physicians and Spanish-speaking Latin American women with pelvic floor disorders {% cite sevilla2013communication %}; this study highlighted that apart from patients’ lack of disease understanding, there was a lack of Spanish proficiency among the participating physicians. Another 2013 qualitative study conducted on linguistics, centered around the perceptions of patient-provider communication in breast and cervical cancer-related care when dealing with low-income English and Spanish-speaking women {% cite simon2013perceptions %}. In 2009, similar work was conducted on competent peer support intervention for Spanish-speaking Latinas with breast cancer {% cite napoles2009developing %}. 
-Questioning the possible ties of linguistics to various professions is not necessarily new, yet few resources are being dedicated to detecting communication issues and improving communication within multilingual countries. More interesting would be the pivot of looking at persons who are already multilingual in a field, and noting if they have sufficient training and resources when their primary language is not the dominant language of the country in which they practice. One study did investigate Spanish–English bilingual psychotherapists and their Personal and professional language development and use {% cite verdinelli2009spanish %}. Another study observed instances where nurses double as interpreters (a study of Spanish-speaking patients in a U.S. primary care setting) {% cite elderkin2001nurses %}.
+Thoughtful deliberation of linguistics, particularly consideration of language barriers, is increasing in the medical field. As recently as 2019, Sweden conducted a national study on health care professionals' communications through interpreters; this study occurred after noting that many parents utilizing neonatal care were foreign-born and unable to effectively communicate with the healthcare professionals in the local language {% cite patriksson2019health %}. In 2013, linguistic work had been done to highlight communications issues between physicians and Spanish-speaking Latin American women with pelvic floor disorders {% cite sevilla2013communication %}; this study highlighted that apart from patients’ lack of disease understanding, there was a lack of Spanish proficiency among the participating physicians. Another 2013 qualitative study conducted on linguistics, centered around the perceptions of patient-provider communication in breast and cervical cancer-related care when dealing with low-income English and Spanish-speaking women {% cite simon2013perceptions %}. In 2009, there was similar work done on a competent peer support intervention for Spanish-speaking Latinas with breast cancer {% cite napoles2009developing %}. 
+Questioning the possible ties of linguistics to various professions is not necessarily new, yet few resources are being dedicated to detecting communication issues and improving communication within multilingual countries. More interesting would be the pivot of looking at persons who are already multilingual in a field, and noting if they have sufficient training and resources when their primary language is not the dominant language of the country in which they practice. One study did investigate Spanish–English bilingual psychotherapists and their Personal and professional language development and use {% cite verdinelli2009spanish %}. Another study observed instances where nurses double as interpreters (a study of Spanish-speaking patients in an American primary care setting) {% cite elderkin2001nurses %}.
 
-While data collection on the various professions can be conducted by private companies, it is typically undertaken by government-backed labor agencies, to ensure that the data is freely available to the public. In America, the U.S. Bureau of Labor Statistics collects such data and hosts it on a public website {% cite BLS2020 %}. While not all developing nations have been able to dedicate resources to the close monitoring of this data, its value is increasingly recognized.
+While data collection on the various professions can be conducted by private companies, it is typically undertaken by government-backed labor agencies, to ensure that the data is freely available to the public. In America, the Bureau of Labor Statistics collects such data and hosts it on a public website {% cite BLS2020 %}. While not all developing nations have been able to dedicate resources to the close monitoring of this data, its value is increasingly recognized.
 
-While the U.S. Bureau of Labor Statistics provides general information on the demographics of the lawyers in the country, the American Bar Association (ABA) gathers more detailed information on Legal Profession Statistics {% cite aba_2020 BLS2020 %}. Their current statistical data assisted with research on lawyers and the legal profession. Their website notes data on the topics of lawyer demographics (including matters of disability, women, and minority/people of color). It also encompasses justice system statistics (including topics on public perception of justice system/lawyers and the justice system), court statistics (including cases filed, and criminal justice statistics). this association also notes the topics of law students and education and legal salaries (and related attrition/retention data).
+While the U.S. Bureau of Labor Statistics provides general information on the demographics of the lawyers in the country, the American Bar Association (ABA) gathers more detailed information on Legal Profession Statistics {% cite aba_2020 BLS2020 %}. Their current statistical data assisted with research on lawyers and the legal profession. Their website notes data on lawyer demographics (including disability, women, and minority/people of color topics). It also encompasses justice system statistics (including public perception of justice system/lawyers and the justice system matters), court statistics (including cases filed, and criminal justice statistics). This association also notes the topics of law students and education and legal salaries (and related attrition/retention data).
 
 Currently, lawyer demographics in Saint Lucia (SLU) do not appear to be centrally gathered. The 2016 Labour Force Survey, made publicly available by The Central Statistical Office of SLU, did inquire into participants' industry - "What is the name of the business where you/....... work? What type of activity is carried on there?" {% cite  govtSLU_Labour_2017 %}. However, the dataset ultimately appears to have been simplified to the point where details on individual professions were rendered indiscernible. The closest response, related to lawyers, would be one that highlighted "professional, scientific and technical activities"; this made up 1.0%  (51 participants) of the survey. A representative of The Central Statistical Office of SLU stated that the data in the country's 2016 Labour Force Survey was "not disaggregated in such a way to get a count of all lawyers" {% cite govtSLU_Labour_2017 %}. It was also stated that since the 2016 Labour Force Survey "utilizes a sample if it were to give a figure it would not be representative" {% cite govtSLU_Labour_2017 %}. Ultimately, even the president of the Bar Association of SLU, also confirmed that she was unaware of the departments of government bearing statistical data specific to lawyers.
 
@@ -51,7 +51,7 @@ May attempt using the Chi-square test of independence for the following survey q
 
 1.  Please indicate which of the following best describe (s) you. 
 
-    * *Age:*
+- Age:
 
 Less than 18
 
@@ -83,7 +83,7 @@ Prefer not to respond
 
 The age range (multiple choice) was based on the ABA data that indicates lawyers typically obtain higher education levels beyond high school and remain in practice past the age of 65 [source]; the median age of all U.S. workers was 42.3 years old, yet very few lawyers are younger than 25 and the median age for U.S. lawyers in 2019 was 47.5 years old. This question is posed as a standard demographic question, yet it is also important as speaks to the current and future state of the legal linguistic environment. Noting age may highlight multilingualism trends among age groups. For example, if multilingualism is more prominent in the younger lawyers, then the projection of multilingual representation would be positive. However, if multilingual tendencies are clustered among older lawyers, then this study may serve to highlight needed points of improvement in the legal system in an increasingly multilingual society. 
 
-    * *Gender:*
+ - Gender:
 
 Man
 
@@ -93,7 +93,7 @@ Prefer not to respond
 
 Gender identification is another standard (multiple choice) demographic question, however, it is useful to gather this data to check whether the August 2020 American trend of men outnumbering women (especially in leadership), is replicated in and persistent in the Caribbean country of Saint Lucia {%cite ABA2020Profile clio_2020 AttorneyAtWork_2019 %}. There may also be a need to highlight if there are any differences in linguistics interests among the lawyers. Females are often believed to be more capable of and interested in linguistic acquisition and practice. Data gathered could confirm or dispute this assumption.
 
-    * *Citizenship:*
+- Citizenship:
 
 Jus sanguinis (right of blood)
 
@@ -107,7 +107,8 @@ Prefer not to respond
 
 Citizenship status might indicate a history or lineage of commitment to, and familiarity with, the culture, language, people, and overall development of the country. At the very least it may indicate a legal tie to their practice's environment.
 
-Ethnicity/race
+
+- Ethnicity/race:
 
 American Indian/Alaska Native
 
@@ -357,7 +358,7 @@ This question seeks to understand the current and demand for multilingualism in 
 
 10.  Please rank the languages you use most often to communicate and your proficiency. 
 
-    * * Note: Selecting only "listen (understand)" encompasses scenarios where one can comprehend but not converse in a language.*
+- Note: Selecting only "listen (understand)" encompasses scenarios where one can comprehend but not converse in a language.
 
 Row categories: First Language (most often used at home); Second Language (2nd most often used at home & elsewhere); Third Language
 (3rd most often used at home & elsewhere)
@@ -435,7 +436,7 @@ Not applicable
 
 Understanding where and how one engages in language learning might highlight environments that foster multilingualism in lawyers. The learning of languages may take place in formal and informal settings. In Saint Lucia, most language education is likely to be done in a school setting. Overall, the national heritage language of this island would typically be learned informally. Saint Lucian Kwéyòl only recently began being formally taught to young children (between the ages of 6-12) in less than a handful of schools, and adult learners; however, since the major fire at the National Folk Resource Center, most classes have reverted to more private sessions. 
 
-    * *Please indicate which technique best describes how you came to learn each of the aforementioned languages; please select all that apply.*
+- Please indicate which technique best describes how you came to learn each of the aforementioned languages; please select all that apply.
 
 Column categories:
 Formal education (requirement/ elective); Informal education
@@ -443,7 +444,7 @@ Formal education (requirement/ elective); Informal education
 
 Row categories: First Language, Second Language, Third Language
 
-This question is one of the most crucial to this study. Saint Lucia is an actively changing multilingual environment. The setting is dynamically changing due to evolving political and legal policies (such as Citizenship by Investment (CIP) {% cite bayat_2020 gis_CIP_2017 slu_cip_2020 capital_CIP_2020 harvey_2020 investvisa_2016 %}. English is listed as it is the official language spoken (a prestige language) in Saint Lucia. Apart from modern English, legal (and medical) professionals can claim to be multilingual based on their foundational Latin studies; noting this detail acknowledges this inherent field facet. Saint Lucian Kwéyòl (Antillean Creole/Patios) is inquired about, as it is the heritage language of the island. French and Spanish are listed as they are typical language offerings at all high schools on the island. Dutch, and Portuguese, and to a lesser extent Hindi and Gaelige/Irish are other common languages to the rest of the Caribbean due to colonialization and indentured labor. Japanese is taught in Saint Lucia by humanitarian volunteers as part of their Japan International Cooperation Agency (JICA) work {% cite kobayashi_2020 %}.  There also appears to be a rapidly growing Mandarin-speaking population in the Caribbean. It is important to ensure that the legal system is able to support the increasing numbers of Mandarin-speaking immigrants of various backgrounds (including investors, tourists, CIP purchasers, and foreign officials (for various joint governmental local projects).
+This question is one of the most crucial to this study. Saint Lucia is an actively changing multilingual environment. The setting is dynamically changing due to evolving political and legal policies (such as Citizenship by Investment (CIP) {% cite bayat_2020 gis_CIP_2017 slu_cip_2020 capital_CIP_2020 harvey_2020 investvisa_2016 %}. English is listed as it is the official language spoken (a prestige language) in Saint Lucia. Apart from modern English, legal (and medical) professionals can claim to be multilingual based on their foundational Latin studies; noting this detail acknowledges this inherent field facet. Saint Lucian Kwéyòl (Antillean Creole/Patios) is inquired about, as it is the heritage language of the island. French and Spanish are listed as they are typical language offerings at all high schools on the island. Dutch, and Portuguese, and to a lesser extent Hindi and Gaelige/Irish are other common languages to the rest of the Caribbean due to colonialization and indentured labor. Japanese is taught in Saint Lucia by humanitarian volunteers as part of their Japan International Cooperation Agency (JICA) work {% cite kobayashi_2020 %}.  There also appears to be a rapidly growing Mandarin-speaking population in the Caribbean. It is important to ensure that the legal system can support the increasing numbers of Mandarin-speaking immigrants of various backgrounds (including investors, tourists, CIP purchasers, and foreign officials (for various joint governmental local projects).
 
 The column category "understand" was added to account for the possible occurrence of receptive bilingualism among lawyers in the Caribbean. This consideration is valid as multilingualism is prevalent in this region; persons here may encounter various languages, yet have been unable to effectively respond. The presence of a "prestige" language, such as English, may draw speakers away from heritage languages;  these heritage languages can suffer from dropping numbers of speakers when receptive bilingualism is not followed up with focused efforts. 
 
