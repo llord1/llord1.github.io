@@ -9,8 +9,6 @@ tags: [Assets]
 
 ### Introduction:
 
-[See brief summary presentation](https://prezi.com/p/tshii5b9h6b8/?present=1).
-
 Several careers in society can contribute to the general sense of safety and security that Maslow has referred to in his famous hierarchy of needs. These include police forces, judges, and lawyers, among others. However, obvious yet often overlooked issues in communication can mean the difference between life and death in fields of practice such as medicine and law enforcement. Therefore, thoughtful data collection and monitoring of these critical services can enhance and optimize their performance. 
 
 ### Literature Review:
@@ -185,7 +183,7 @@ Prefer not to respond
 
 Other
 
-Lawyers may choose to focus on different areas of the law. The cliental they encounter may be influenced by this specialization. Inquiring into one's area of specialization will highlight which areas of the law may be associated with a need to speak multiple languages; more specifically, which areas of the law in Saint Lucia are more likely to require an understanding of  Saint Lucian Kwéyòl language.
+Lawyers may choose different working environments, and such a choice would influence the type of clientele typically encountered. Inquiring into a lawyer's work environment can provide additional insight into the language needs of Saint Lucia's legal system. 
 
 4.  Please indicate your area(s) of practice; please check all that apply. 
 
@@ -243,7 +241,8 @@ Tax law
 
 Tort law
 
-An additional means of narrowing down underlying multilinguistic tendencies in this field is to inquire into one's areas of practice. St. Lucia is a sovereign island nation in the Commonwealth of Nations but, because Saint Lucia was both a French and English colony before it gained independence on the 22nd of February, 1979, the legal system has been a mix of civil and English common law {% cite specialitysmith_2020 %}. 
+An additional means of narrowing down the underlying multilinguistic tendencies in this field involves inquiring into a lawyer's areas of specialization. This focus will highlight which practices may be associated with a need to speak multiple languages; more specifically, which law topics are likely to require an understanding of Saint Lucian Kwéyòl language.  St. Lucia is a sovereign island nation in the Commonwealth of Nations but, because Saint Lucia was both a French and English colony before it gained independence on the 22nd of February, 1979, the legal system has been a mix of civil and English common law {% cite specialitysmith_2020 %}. 
+
 
 5.  Please indicate your average annual income.
 
