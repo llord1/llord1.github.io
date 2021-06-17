@@ -81,7 +81,7 @@ Less than 18
 
 Prefer not to respond
 
-The age range (multiple choice) was based on the ABA data that indicates lawyers typically obtain higher education levels beyond high school and remain in practice past the age of 65 [source]; the median age of all U.S. workers was 42.3 years old, yet very few lawyers are younger than 25 and the median age for U.S. lawyers in 2019 was 47.5 years old. This question is posed as a standard demographic question, yet it is also important as speaks to the current and future state of the legal linguistic environment. Noting age may highlight multilingualism trends among age groups. For example, if multilingualism is more prominent in the younger lawyers, then the projection of multilingual representation would be positive. However, if multilingual tendencies are clustered among older lawyers, then this study may serve to highlight needed points of improvement in the legal system in an increasingly multilingual society. 
+The age range (multiple choice) was based on the ABA data that indicates lawyers typically obtain higher education levels beyond high school and remain in practice past the age of 65 [source]; the median age of all U.S. workers was 42.3 years old, yet very few lawyers are younger than 25 and the median age for U.S. lawyers in 2019 was 47.5 years old. This question is posed as a standard demographic question, yet it is also important as speaks to the current and future state of the legal linguistic environment. Noting age may highlight multilingualism trends among age groups. For example, if multilingualism is more prominent in the younger lawyers, then multilingual representation may have a positive projection. However, if multilingual tendencies cluster among older lawyers, this study may highlight the need to improve the legal system in an increasingly multilingual society. 
 
  - Gender:
 
@@ -91,7 +91,7 @@ Woman
 
 Prefer not to respond
 
-Gender identification is another standard (multiple choice) demographic question, however, it is useful to gather this data to check whether the August 2020 American trend of men outnumbering women (especially in leadership), is replicated in and persistent in the Caribbean country of Saint Lucia {%cite ABA2020Profile clio_2020 AttorneyAtWork_2019 %}. There may also be a need to highlight if there are any differences in linguistics interests among the lawyers. Females are often believed to be more capable of and interested in linguistic acquisition and practice. Data gathered could confirm or dispute this assumption.
+Gender identification is another standard (multiple choice) demographic question. However, it is valuable to gather this data to check whether the August 2020 American trend of men outnumbering women (especially in leadership), is replicated in and persistent in the Caribbean country of Saint Lucia {%cite ABA2020Profile clio_2020 AttorneyAtWork_2019 %}. There may also be a need to highlight if there are any differences in linguistics interests among the lawyers. Females are often believed to be more capable of and interested in linguistic acquisition and practice. Data gathered could confirm or dispute this assumption.
 
 - Citizenship:
 
@@ -136,7 +136,7 @@ Prefer not to respond
 
 While the ABA noted that "most state bars and state licensing agencies do not track race and ethnicity in the profession", in 2020, this type of data collection increased {%cite ABA2020Profile %}, {% cite clio_2020 %}, {% cite AttorneyAtWork_2019 %}. As of 2010, only 11.4% of all American lawyers were men and women of color, and this only rose to 14.1% in 2020 {%cite ABA2020Profile %}, {% cite clio_2020 %}, {% cite AttorneyAtWork_2019 %}. In developed countries, like America, it is said that minorities remain underrepresented in the legal profession; however, there is limited information on the legal environment of the Caribbean-an environment where the majority of the population would historically be non-white. As of the 2010 Saint Lucian census, the "ethnic group" of "African Descents" represented about 85.28 percent of the population (the highest); this was distantly followed by the "Mixed" category with 10.85 percent, and the "East Indian" at 2.16 percent {% cite CSO_SLU2010 %}.
 
-Additionally, one's household and upbringing may shape or influence their interests. Multiculturalism is quite prevalent in the Caribbean, however, one's upbringing might impact their multilingualism. While formal education may be a primary factor in one's language acquisition, various states of immigration over generations, or other forms of diversity in their household, might influence their linguistic capacities. Identifying participant ethnicity/race is another standard demographic inquiry; nevertheless, it explores whether or not there are any differences in linguistics interests among the lawyers based on their backgrounds. 
+Additionally, household settings and upbringing may shape or influence individual interests. Multiculturalism is quite prevalent in the Caribbean, and that upbringing might impact multilingual abilities. While formal education may be a primary factor in language acquisition, various states of immigration over generations, or other forms of diversity in their household, might influence their linguistic capacities. Identifying participant ethnicity/race is another standard demographic inquiry; nevertheless, it explores whether or not there are any differences in linguistics interests among the lawyers based on their backgrounds. 
 
 2.  Please indicate the number of years you have been in practice (number of years since your first call to the bar in the Common-Wealth etc.)
 
@@ -182,7 +182,7 @@ Prefer not to respond
 
 Other
 
-Lawyers may choose different working environments, and such a choice would influence the type of clientele typically encountered. Inquiring into a lawyer's work environment can provide additional insight into the language needs of Saint Lucia's legal system. 
+Lawyers may choose different working environments, and such a choice would influence the type of clientele typically encountered. Inquiring into Saint Lucian lawyer work environments can provide additional insight into the language needs of the legal system. 
 
 4.  Please indicate your area(s) of practice; please check all that apply. 
 
@@ -240,7 +240,7 @@ Tax law
 
 Tort law
 
-An additional means of narrowing down the underlying multilinguistic tendencies in this field involves inquiring into a lawyer's areas of specialization. This focus will highlight which practices may be associated with a need to speak multiple languages; more specifically, which law topics are likely to require an understanding of Saint Lucian Kwéyòl language.  St. Lucia is a sovereign island nation in the Commonwealth of Nations but, because Saint Lucia was both a French and English colony before it gained independence on the 22nd of February, 1979, the legal system has been a mix of civil and English common law {% cite specialitysmith_2020 %}. 
+An additional means of narrowing down the underlying multilinguistic tendencies in this field involves inquiring into the specialization areas of lawyers. This focus will highlight which practices may be associated with a need to speak multiple languages; more specifically, which law topics are likely to require an understanding of Saint Lucian Kwéyòl language. St. Lucia is a sovereign island nation in the Commonwealth of Nations but, because Saint Lucia was both a French and English colony before it gained independence on the 22nd of February, 1979, the legal system has been a mix of civil and English common law {% cite specialitysmith_2020 %}. 
 
 
 5.  Please indicate your average annual income.
@@ -265,7 +265,7 @@ Above 106,001 XCD
 
 Prefer not to respond
 
-Based on one's average salary per case, there could be an argument for the economic reinforcement of certain linguistic standards. It may be interesting to note if a multilingual can request and acquire more money due to their linguistic abilities. The Average Attorney Salary of a lawyer located in the sister island country of Dominica is around 2,950 XCD per month {% cite DOMsalary %}. It is said that salaries range from 1,360 XCD (lowest) to 4,680 XCD (highest). Yet, according to salaryexplorer.com, a Saint Lucian  Attorney typically earns around 5,500 XCD per month;  this is with salaries ranging from 2,530 XCD (lowest) to 8,750 XCD (highest). It should be noted that Saint Lucia's minimum wage rate was last changed at the beginning of 2013, yet it stands at XCD 300 a month for office clerks, XCD 200 for shop assistants, and XCD 160 for messengers according to minimum-wage.org {% cite SLU2020wages %}.
+There could be an argument for the economic reinforcement of certain linguistic standards based on what a lawyer earns. It may be interesting to note if a multilingual can request and acquire more money due to their linguistic abilities. The Average Attorney Salary of a lawyer located in the sister island country of Dominica is around 2,950 XCD per month {% cite DOMsalary %}. Salaries there range from 1,360 XCD (lowest) to 4,680 XCD (highest). Yet, according to salaryexplorer.com, a Saint Lucian  Attorney typically earns around 5,500 XCD per month;  this is with salaries ranging from 2,530 XCD (lowest) to 8,750 XCD (highest). The minimum wage rate in Saint Lucia last changed at the beginning of 2013, yet it currently stands at XCD 300 a month for office clerks, XCD 200 for shop assistants, and XCD 160 for messengers, according to minimum-wage.org {% cite SLU2020wages %}.
 
 6.  Please indicate your current student debt level.
 
@@ -301,29 +301,29 @@ No, an external service would be recommended (for example, a court-appointed int
 
 Prefer not to respond.
 
-This question would confirm the presence of legal aid in Saint Lucia. It would simultaneously note a lawyer's awareness of the availability of such services.
+This question would confirm the presence of legal aid in Saint Lucia. It would simultaneously note general lawyer awareness of the availability of such services.
 
 8.  Please indicate if a perceived language barrier has ever limited any of your attorney-client interactions; please select all that apply.
 
 No
 
-Yes, they used a form of sign language
+Yes, they used a form of sign language.
 
-Yes, they used English
+Yes, they used English.
 
-Yes, they used Saint Lucian Kwéyòl (Antillean Creole/Patios)
+Yes, they used Saint Lucian Kwéyòl (Antillean Creole/Patios).
 
-Yes, they used Haitian Creole
+Yes, they used Haitian Creole.
 
-Yes, they used French
+Yes, they used French.
 
-Yes, they used Spanish
+Yes, they used Spanish.
 
-Yes, they used Papiamento
+Yes, they used Papiamento.
 
-Yes, they used Portuguese
+Yes, they used Portuguese.
 
-Yes, they used Dutch
+Yes, they used Dutch.
 
 Yes, they used Hindi (or any Indian subcontinental language not mentioned)
 
@@ -333,11 +333,11 @@ Yes, they used Swahili (or any African language not mentioned)
 
 Yes, they used Russian (or any European language not mentioned)
 
-Yes, they used Japanese
+Yes, they used Japanese.
 
-Yes, they used Mandarin
+Yes, they used Mandarin.
 
-Yes, they used language not listed above
+Yes, they used language not listed above.
 
 Prefer not to respond
 
@@ -400,7 +400,7 @@ Japanese
 
 Mandarin
 
-Choose not to respond
+Prefer not to respond
 
 "Speak/Sign", "Read", "Write," and "Listen/Understand" dropdowns:
 
@@ -412,7 +412,7 @@ Not well
 
 Not at all	
 
-Choose not to respond
+Prefer not to respond
 
 Not applicable
 
@@ -429,7 +429,7 @@ A little mastery
 
 Not at all	
 
-Choose not to respond
+Prefer not to respond
 
 Not applicable
 
@@ -439,7 +439,7 @@ Understanding where and how one engages in language learning might highlight env
 
 Column categories:
 Formal education (requirement/ elective); Informal education
-(hobby); Informal education (from family & friends); Not applicable; Choose not to respond
+(hobby); Informal education (from family & friends); Not applicable; Prefer not to respond
 
 Row categories: First Language, Second Language, Third Language
 
@@ -450,7 +450,7 @@ The column category "understand" was added to account for the possible occurrenc
 
 11.  Please indicate which language frequency category best reflects your typical client interactions. This question only requires one response per row.
 
-Column categories: Very Frequently; Frequently; Occasionally; Rarely; Very Rarely; Never; Choose not to respond
+Column categories: Very Frequently; Frequently; Occasionally; Rarely; Very Rarely; Never; Prefer not to respond
 
 Row categories:
 Any form of sign language
