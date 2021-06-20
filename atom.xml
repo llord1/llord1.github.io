@@ -1,11 +1,10 @@
-<<<<<<< Updated upstream
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Laurel's Works in Progress</title>
  <link href="http://llord1.github.io" rel="self"/>
  <link href="http://llord1.github.io"/>
- <updated>2021-06-17T02:58:35-04:00</updated>
+ <updated>2021-06-19T23:40:25-04:00</updated>
  <id>http://llord1.github.io</id>
  <author>
    <name>Laurel Lord</name>
@@ -18,27 +17,6 @@
    <link href="http://llord1.github.io/papers/2020/12/02/overview"/>
    <updated>2020-12-02T00:00:00-05:00</updated>
    <id>http://llord1.github.io/papers/2020/12/02/overview</id>
-=======
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
- 
- <title>Laurel's Works in Progress</title>
- <link href="http://llord1.github.io" rel="self"/>
- <link href="http://llord1.github.io"/>
- <updated>2021-06-17T02:58:35-04:00</updated>
- <id>http://llord1.github.io</id>
- <author>
-   <name>Laurel Lord</name>
-   <email>lalord@my.harrisburgu.edu</email>
- </author>
-
- 
- <entry>
-   <title>Data Sci. Discussions: Cross-lingual frameworks and natural annotation of crowdsourced online dictionaries</title>
-   <link href="http://llord1.github.io/papers/2020/12/02/overview"/>
-   <updated>2020-12-02T00:00:00-05:00</updated>
-   <id>http://llord1.github.io/papers/2020/12/02/overview</id>
->>>>>>> Stashed changes
    <content type="html">
 &lt;ul&gt;
   &lt;li&gt;Note: There is an alternative view of this document available on &lt;a href=&quot;https://colab.research.google.com/drive/1HfBeQ70vvcXL16Eks098Fbvhe7NWokwA?usp=sharing&quot;&gt;Google Colab&lt;/a&gt;. This is functionally very similar to shared Google docs; offer comments where necessary.&lt;/li&gt;
@@ -484,7 +462,6 @@ However, this does not mean that other publishers will be ignored; I am also ope
 &lt;li&gt;&lt;span id=&quot;reyes-valdes_information_2020&quot;&gt;Reyes-Valdés, M. H., &amp;amp; Kantartzi, S. K. (2020). An information theory approach to biocultural complexity. &lt;i&gt;Scientific Reports&lt;/i&gt;, &lt;i&gt;10&lt;/i&gt;(1), 7203. https://doi.org/10.1038/s41598-020-64260-5&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span id=&quot;giebel_2019&quot;&gt;Giebel, M. (2019). Is it a good idea to publish during your PhD? Yes, but ... In &lt;i&gt;Nature News&lt;/i&gt;. Nature Publishing Group. https://socialsciences.nature.com/posts/53143-is-it-publish-or-perish-for-phd-students-it-depends&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span id=&quot;patterns_2020&quot;&gt;Patterns. (2020). In &lt;i&gt;journals.elsevier.com/patterns&lt;/i&gt;. Elsevier.com. https://www.journals.elsevier.com/patterns/#: :text=Patterns is a premium open,scope, regardless of original domain.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;
-<<<<<<< Updated upstream
 </content>
  </entry>
  
@@ -493,16 +470,6 @@ However, this does not mean that other publishers will be ignored; I am also ope
    <link href="http://llord1.github.io/papers/2020/11/27/wiwords"/>
    <updated>2020-11-27T00:00:00-05:00</updated>
    <id>http://llord1.github.io/papers/2020/11/27/wiwords</id>
-=======
-</content>
- </entry>
- 
- <entry>
-   <title>Data Sci. Discussions: Natural annotation of crowdsourced online dictionaries</title>
-   <link href="http://llord1.github.io/papers/2020/11/27/wiwords"/>
-   <updated>2020-11-27T00:00:00-05:00</updated>
-   <id>http://llord1.github.io/papers/2020/11/27/wiwords</id>
->>>>>>> Stashed changes
    <content type="html">
 &lt;h4 id=&quot;general-discussion-of-the-natural-annotation-of-crowdsourced-online-dictionaries&quot;&gt;General discussion of the natural annotation of crowdsourced online dictionaries&lt;/h4&gt;
 
@@ -583,7 +550,6 @@ and making homophonous lexemes two or more separate entries; polysemous terms ca
 
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;dominica_dic2018&quot;&gt;of Dominica, G. (2018). Kweyol Language. In &lt;i&gt;A virtual Dominica&lt;/i&gt;. gov.dm. https://www.avirtualdominica.com/project/creole-kweyol-language/&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span id=&quot;creoleconference1980s&quot;&gt;of Dominica, G. (2020). A Brief History of Kwéyòl (Patwa). In &lt;i&gt;The Division of Culture&lt;/i&gt;. gov.dm. http://divisionofculture.gov.dm/creole-languages/5-kweyol&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;
-<<<<<<< Updated upstream
 </content>
  </entry>
  
@@ -592,16 +558,6 @@ and making homophonous lexemes two or more separate entries; polysemous terms ca
    <link href="http://llord1.github.io/papers/2020/11/14/CurrentTasks"/>
    <updated>2020-11-14T00:00:00-05:00</updated>
    <id>http://llord1.github.io/papers/2020/11/14/CurrentTasks</id>
-=======
-</content>
- </entry>
- 
- <entry>
-   <title>Current Tasks</title>
-   <link href="http://llord1.github.io/papers/2020/11/14/CurrentTasks"/>
-   <updated>2020-11-14T00:00:00-05:00</updated>
-   <id>http://llord1.github.io/papers/2020/11/14/CurrentTasks</id>
->>>>>>> Stashed changes
    <content type="html">
 &lt;h4 id=&quot;current-tasks&quot;&gt;Current tasks:&lt;/h4&gt;
 
@@ -653,7 +609,6 @@ and making homophonous lexemes two or more separate entries; polysemous terms ca
   &lt;/li&gt;
 &lt;/ul&gt;
 
-<<<<<<< Updated upstream
 </content>
  </entry>
  
@@ -662,16 +617,6 @@ and making homophonous lexemes two or more separate entries; polysemous terms ca
    <link href="http://llord1.github.io/papers/2020/11/14/CurrentOutline"/>
    <updated>2020-11-14T00:00:00-05:00</updated>
    <id>http://llord1.github.io/papers/2020/11/14/CurrentOutline</id>
-=======
-</content>
- </entry>
- 
- <entry>
-   <title>Current Outline</title>
-   <link href="http://llord1.github.io/papers/2020/11/14/CurrentOutline"/>
-   <updated>2020-11-14T00:00:00-05:00</updated>
-   <id>http://llord1.github.io/papers/2020/11/14/CurrentOutline</id>
->>>>>>> Stashed changes
    <content type="html">
 &lt;p&gt;Current tasks and paper outline:&lt;/p&gt;
 
@@ -767,7 +712,6 @@ and making homophonous lexemes two or more separate entries; polysemous terms ca
   &lt;/li&gt;
 &lt;/ul&gt;
 
-<<<<<<< Updated upstream
 </content>
  </entry>
  
@@ -776,16 +720,6 @@ and making homophonous lexemes two or more separate entries; polysemous terms ca
    <link href="http://llord1.github.io/papers/2020/09/29/capitonyms"/>
    <updated>2020-09-29T00:00:00-04:00</updated>
    <id>http://llord1.github.io/papers/2020/09/29/capitonyms</id>
-=======
-</content>
- </entry>
- 
- <entry>
-   <title>Data Sci. Discussions: Capitonyms</title>
-   <link href="http://llord1.github.io/papers/2020/09/29/capitonyms"/>
-   <updated>2020-09-29T00:00:00-04:00</updated>
-   <id>http://llord1.github.io/papers/2020/09/29/capitonyms</id>
->>>>>>> Stashed changes
    <content type="html">
 &lt;h3 id=&quot;general-discussion-of-capitonyms&quot;&gt;&lt;strong&gt;General discussion of Capitonyms&lt;/strong&gt;&lt;/h3&gt;
 
@@ -820,7 +754,6 @@ The formal form of ‘yo te quiero’ and the informal from ‘te quiero’ resu
 
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;sarkar2019text&quot;&gt;Sarkar, D. (2019). &lt;i&gt;Text analytics with Python: a practitioner’s guide to natural language processing&lt;/i&gt;. Apress.&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span id=&quot;sarkar_2019&quot;&gt;Sarkar, D. (2019). &lt;i&gt;Text Analytics with Python&lt;/i&gt;. Apress. https://doi.org/10.1007/978-1-4842-4354-1&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;
-<<<<<<< Updated upstream
 </content>
  </entry>
  
@@ -829,16 +762,6 @@ The formal form of ‘yo te quiero’ and the informal from ‘te quiero’ resu
    <link href="http://llord1.github.io/2020/08/26/LawConsent"/>
    <updated>2020-08-26T00:00:00-04:00</updated>
    <id>http://llord1.github.io/2020/08/26/LawConsent</id>
-=======
-</content>
- </entry>
- 
- <entry>
-   <title>Survey Consent:Lawyers</title>
-   <link href="http://llord1.github.io/2020/08/26/LawConsent"/>
-   <updated>2020-08-26T00:00:00-04:00</updated>
-   <id>http://llord1.github.io/2020/08/26/LawConsent</id>
->>>>>>> Stashed changes
    <content type="html">
 &lt;p&gt;&lt;strong&gt;Institutional Review Board&lt;/strong&gt;&lt;/p&gt;
 
@@ -881,7 +804,6 @@ The formal form of ‘yo te quiero’ and the informal from ‘te quiero’ resu
 &lt;p&gt;&lt;strong&gt;Inquires/Questions:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Any Any questions may be directed to … at …@my.harrisburgu.edu. Questions or concerns regarding your rights as a subject in this study may be directed to HU IRB via 717-901-5100 or their website at harrisburgu.edu.&lt;/p&gt;
-<<<<<<< Updated upstream
 </content>
  </entry>
  
@@ -900,26 +822,6 @@ The formal form of ‘yo te quiero’ and the informal from ‘te quiero’ resu
    <link href="http://llord1.github.io/2020/08/26/AssetsSLUlawsurvey"/>
    <updated>2020-08-26T00:00:00-04:00</updated>
    <id>http://llord1.github.io/2020/08/26/AssetsSLUlawsurvey</id>
-=======
-</content>
- </entry>
- 
- <entry>
-   <title>Just a quick link to the draft form</title>
-   <link href="http://llord1.github.io/2020/08/26/DraftForm"/>
-   <updated>2020-08-26T00:00:00-04:00</updated>
-   <id>http://llord1.github.io/2020/08/26/DraftForm</id>
-   <content type="html">
-&lt;p&gt;&lt;a href=&quot;https://form.jotform.com/203134599286160&quot;&gt;See draft survey with consent form here&lt;/a&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Assets: Assessing the link between crime and language</title>
-   <link href="http://llord1.github.io/2020/08/26/AssetsSLUlawsurvey"/>
-   <updated>2020-08-26T00:00:00-04:00</updated>
-   <id>http://llord1.github.io/2020/08/26/AssetsSLUlawsurvey</id>
->>>>>>> Stashed changes
    <content type="html">
 &lt;h3 id=&quot;safety-and-security-needs-can-be-explored-as-topics-related-to-assets&quot;&gt;&lt;strong&gt;&lt;em&gt;Safety and security needs&lt;/em&gt;&lt;/strong&gt; can be explored as topics related to &lt;strong&gt;&lt;em&gt;Assets&lt;/em&gt;&lt;/strong&gt;.&lt;/h3&gt;
 
@@ -1301,7 +1203,6 @@ Options: In private practice, in a firm with less than 5 lawyers; In private pra
 
 &lt;p&gt;&lt;a href=&quot;https://llord1.github.io/2020/07/08/Assets&quot;&gt;Back to: Safety and security needs: Assets&lt;/a&gt;&lt;/p&gt;
 
-<<<<<<< Updated upstream
 </content>
  </entry>
  
@@ -1310,16 +1211,6 @@ Options: In private practice, in a firm with less than 5 lawyers; In private pra
    <link href="http://llord1.github.io/2020/08/26/AssetsSLUlaw"/>
    <updated>2020-08-26T00:00:00-04:00</updated>
    <id>http://llord1.github.io/2020/08/26/AssetsSLUlaw</id>
-=======
-</content>
- </entry>
- 
- <entry>
-   <title>Assets: Assessing the link between law and linguistics - Analysis</title>
-   <link href="http://llord1.github.io/2020/08/26/AssetsSLUlaw"/>
-   <updated>2020-08-26T00:00:00-04:00</updated>
-   <id>http://llord1.github.io/2020/08/26/AssetsSLUlaw</id>
->>>>>>> Stashed changes
    <content type="html">
 &lt;h3 id=&quot;safety-and-security-needs-can-be-explored-as-topics-related-to-assets&quot;&gt;&lt;strong&gt;&lt;em&gt;Safety and security needs&lt;/em&gt;&lt;/strong&gt; can be explored as topics related to &lt;strong&gt;&lt;em&gt;Assets&lt;/em&gt;&lt;/strong&gt;.&lt;/h3&gt;
 
@@ -1363,7 +1254,6 @@ Options: In private practice, in a firm with less than 5 lawyers; In private pra
 
 &lt;p&gt;&lt;a href=&quot;https://llord1.github.io/2020/07/08/Assets&quot;&gt;Back to: Safety and security needs: Assets&lt;/a&gt;&lt;/p&gt;
 
-<<<<<<< Updated upstream
 </content>
  </entry>
  
@@ -1372,16 +1262,6 @@ Options: In private practice, in a firm with less than 5 lawyers; In private pra
    <link href="http://llord1.github.io/2020/07/08/Sentiment"/>
    <updated>2020-07-08T00:00:00-04:00</updated>
    <id>http://llord1.github.io/2020/07/08/Sentiment</id>
-=======
-</content>
- </entry>
- 
- <entry>
-   <title>What can an LIWC Sentiment analysis on Maslow's works reveal?</title>
-   <link href="http://llord1.github.io/2020/07/08/Sentiment"/>
-   <updated>2020-07-08T00:00:00-04:00</updated>
-   <id>http://llord1.github.io/2020/07/08/Sentiment</id>
->>>>>>> Stashed changes
    <content type="html">
 &lt;h2 id=&quot;brief-introduction&quot;&gt;Brief introduction:&lt;/h2&gt;
 
@@ -1447,7 +1327,6 @@ Options: In private practice, in a firm with less than 5 lawyers; In private pra
 &lt;ul&gt;
   &lt;li&gt;This includes a comprehensive list of interviews, articles, audio and video material, and books in and out of print: http://www.maslow.com/&lt;/li&gt;
 &lt;/ul&gt;
-<<<<<<< Updated upstream
 </content>
  </entry>
  
@@ -1476,36 +1355,6 @@ Options: In private practice, in a firm with less than 5 lawyers; In private pra
    <link href="http://llord1.github.io/2020/07/08/AssetsTourism"/>
    <updated>2020-07-08T00:00:00-04:00</updated>
    <id>http://llord1.github.io/2020/07/08/AssetsTourism</id>
-=======
-</content>
- </entry>
- 
- <entry>
-   <title>Self-actualization needs: topics related to Awareness</title>
-   <link href="http://llord1.github.io/2020/07/08/Awareness"/>
-   <updated>2020-07-08T00:00:00-04:00</updated>
-   <id>http://llord1.github.io/2020/07/08/Awareness</id>
-   <content type="html">
-&lt;h2 id=&quot;self-actualization-needs-can-be-explored-as-topics-related-to-awareness&quot;&gt;&lt;strong&gt;&lt;em&gt;Self-actualization needs&lt;/em&gt;&lt;/strong&gt; can be explored as topics related to &lt;strong&gt;&lt;em&gt;Awareness&lt;/em&gt;&lt;/strong&gt;.&lt;/h2&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Self-esteem needs: topics related to Attitudes</title>
-   <link href="http://llord1.github.io/2020/07/08/Attitudes"/>
-   <updated>2020-07-08T00:00:00-04:00</updated>
-   <id>http://llord1.github.io/2020/07/08/Attitudes</id>
-   <content type="html">
-&lt;h2 id=&quot;self-esteem-needs-can-be-explored-as-topics-related-to-attitudes&quot;&gt;&lt;strong&gt;&lt;em&gt;Self-esteem needs&lt;/em&gt;&lt;/strong&gt; can be explored as topics related to &lt;strong&gt;&lt;em&gt;Attitudes&lt;/em&gt;&lt;/strong&gt;.&lt;/h2&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Assets: Impact of tourism on Saint Lucian Kwéyòl language vitality</title>
-   <link href="http://llord1.github.io/2020/07/08/AssetsTourism"/>
-   <updated>2020-07-08T00:00:00-04:00</updated>
-   <id>http://llord1.github.io/2020/07/08/AssetsTourism</id>
->>>>>>> Stashed changes
    <content type="html">
 &lt;h3 id=&quot;safety-and-security-needs-can-be-explored-as-topics-related-to-assets&quot;&gt;&lt;strong&gt;&lt;em&gt;Safety and security needs&lt;/em&gt;&lt;/strong&gt; can be explored as topics related to &lt;strong&gt;&lt;em&gt;Assets&lt;/em&gt;&lt;/strong&gt;.&lt;/h3&gt;
 
@@ -1539,7 +1388,6 @@ Options: In private practice, in a firm with less than 5 lawyers; In private pra
 
 &lt;p&gt;&lt;a href=&quot;https://llord1.github.io/2020/07/08/Assets&quot;&gt;Back to: Safety and security needs: Assets&lt;/a&gt;&lt;/p&gt;
 
-<<<<<<< Updated upstream
 </content>
  </entry>
  
@@ -1548,16 +1396,6 @@ Options: In private practice, in a firm with less than 5 lawyers; In private pra
    <link href="http://llord1.github.io/2020/07/08/Assets"/>
    <updated>2020-07-08T00:00:00-04:00</updated>
    <id>http://llord1.github.io/2020/07/08/Assets</id>
-=======
-</content>
- </entry>
- 
- <entry>
-   <title>Safety and security needs: topics related to Assets</title>
-   <link href="http://llord1.github.io/2020/07/08/Assets"/>
-   <updated>2020-07-08T00:00:00-04:00</updated>
-   <id>http://llord1.github.io/2020/07/08/Assets</id>
->>>>>>> Stashed changes
    <content type="html">
 &lt;h2 id=&quot;safety-and-security-needs-can-be-explored-as-topics-related-to-assets&quot;&gt;&lt;strong&gt;&lt;em&gt;Safety and security needs&lt;/em&gt;&lt;/strong&gt; can be explored as topics related to &lt;strong&gt;&lt;em&gt;Assets&lt;/em&gt;&lt;/strong&gt;.&lt;/h2&gt;
 
@@ -1572,7 +1410,6 @@ Options: In private practice, in a firm with less than 5 lawyers; In private pra
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://llord1.github.io/2020/07/08/AssetsTourism&quot;&gt;Tourism’s impact on Saint Lucian languages&lt;/a&gt;&lt;/p&gt;
-<<<<<<< Updated upstream
 </content>
  </entry>
  
@@ -1581,16 +1418,6 @@ Options: In private practice, in a firm with less than 5 lawyers; In private pra
    <link href="http://llord1.github.io/2020/06/08/AnalysisMnemonic"/>
    <updated>2020-06-08T00:00:00-04:00</updated>
    <id>http://llord1.github.io/2020/06/08/AnalysisMnemonic</id>
-=======
-</content>
- </entry>
- 
- <entry>
-   <title>Analysis: Spanish Mnemonic Tools </title>
-   <link href="http://llord1.github.io/2020/06/08/AnalysisMnemonic"/>
-   <updated>2020-06-08T00:00:00-04:00</updated>
-   <id>http://llord1.github.io/2020/06/08/AnalysisMnemonic</id>
->>>>>>> Stashed changes
    <content type="html">
 &lt;h2 id=&quot;cognitive-needs-can-be-explored-as-topics-related-to-analysis&quot;&gt;&lt;strong&gt;&lt;em&gt;Cognitive needs&lt;/em&gt;&lt;/strong&gt; can be explored as topics related to &lt;strong&gt;&lt;em&gt;Analysis&lt;/em&gt;&lt;/strong&gt;.&lt;/h2&gt;
 
@@ -1648,7 +1475,6 @@ Recently, it had been suggested this hand mnemonic device could be adapted to in
 
 [Back to: Cognitive needs: Analysis](https://llord1.github.io/2020/06/08/Analysis)
 &lt;/div&gt;
-<<<<<<< Updated upstream
 </content>
  </entry>
  
@@ -1657,21 +1483,10 @@ Recently, it had been suggested this hand mnemonic device could be adapted to in
    <link href="http://llord1.github.io/2020/06/08/Analysis"/>
    <updated>2020-06-08T00:00:00-04:00</updated>
    <id>http://llord1.github.io/2020/06/08/Analysis</id>
-=======
-</content>
- </entry>
- 
- <entry>
-   <title>Cognitive needs: topics related to Analysis</title>
-   <link href="http://llord1.github.io/2020/06/08/Analysis"/>
-   <updated>2020-06-08T00:00:00-04:00</updated>
-   <id>http://llord1.github.io/2020/06/08/Analysis</id>
->>>>>>> Stashed changes
    <content type="html">
 &lt;h2 id=&quot;cognitive-needs-can-be-explored-as-topics-related-to-analysis&quot;&gt;&lt;strong&gt;&lt;em&gt;Cognitive needs&lt;/em&gt;&lt;/strong&gt; can be explored as topics related to &lt;strong&gt;&lt;em&gt;Analysis&lt;/em&gt;&lt;/strong&gt;.&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://llord1.github.io/2020/06/08/AnalysisMnemonic&quot;&gt;Back to: Cognitive needs: Analysis&lt;/a&gt;&lt;/p&gt;
-<<<<<<< Updated upstream
 </content>
  </entry>
  
@@ -1691,27 +1506,6 @@ Recently, it had been suggested this hand mnemonic device could be adapted to in
    <link href="http://llord1.github.io/2020/04/08/Altruism"/>
    <updated>2020-04-08T00:00:00-04:00</updated>
    <id>http://llord1.github.io/2020/04/08/Altruism</id>
-=======
-</content>
- </entry>
- 
- <entry>
-   <title>Biological and physiological needs: topics related to Ambience</title>
-   <link href="http://llord1.github.io/2020/05/08/Ambience"/>
-   <updated>2020-05-08T00:00:00-04:00</updated>
-   <id>http://llord1.github.io/2020/05/08/Ambience</id>
-   <content type="html">
-&lt;h2 id=&quot;biological-and-physiological-needs--can-be-explored-as-topics-related-to-ambience&quot;&gt;&lt;strong&gt;&lt;em&gt;Biological and physiological needs&lt;/em&gt;&lt;/strong&gt;  can be explored as topics related to &lt;strong&gt;&lt;em&gt;Ambience&lt;/em&gt;&lt;/strong&gt;.&lt;/h2&gt;
-
-</content>
- </entry>
- 
- <entry>
-   <title>Transcendence needs: topics related to Altruism</title>
-   <link href="http://llord1.github.io/2020/04/08/Altruism"/>
-   <updated>2020-04-08T00:00:00-04:00</updated>
-   <id>http://llord1.github.io/2020/04/08/Altruism</id>
->>>>>>> Stashed changes
    <content type="html">
 &lt;h2 id=&quot;transcendence-needs-can-be-explored-as-topics-related-to-altruism&quot;&gt;&lt;strong&gt;&lt;em&gt;Transcendence needs&lt;/em&gt;&lt;/strong&gt; can be explored as topics related to &lt;strong&gt;&lt;em&gt;Altruism&lt;/em&gt;&lt;/strong&gt;.&lt;/h2&gt;
 
@@ -1771,7 +1565,6 @@ and making homophonous lexemes two or more separate entries; polysemous terms ca
  &lt;em&gt;“… for all practical purposes Creole remains an unwritten language for the majority of the population, which remains unaware of the books published in Creole. Attempts to teach Creole literacy have not met with much success because of lack of interest. Motivation is the most important factor in the success of any literacy program, and having something people want to read is the most important motivating factor”&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;This ultimately leaves one to wonder if it is logical and possible to merge an official online static dictionary with a dynamic slang dictionary to increase fluency of an endangered language? Such as system would require access to an existing dictionary, as well as opportunities for dictionary contributions. The creation of an interactive dictionary may assist with reinvigorating the usage of the language through active use and contributions to this resource, but also offer opportunities to actively discuss and clarify words and concepts associated with creole.&lt;/p&gt;
-<<<<<<< Updated upstream
 </content>
  </entry>
  
@@ -1780,16 +1573,6 @@ and making homophonous lexemes two or more separate entries; polysemous terms ca
    <link href="http://llord1.github.io/2020/03/08/Affiliation"/>
    <updated>2020-03-08T00:00:00-05:00</updated>
    <id>http://llord1.github.io/2020/03/08/Affiliation</id>
-=======
-</content>
- </entry>
- 
- <entry>
-   <title>Love and belonging needs can be explored as topics related to Affiliation</title>
-   <link href="http://llord1.github.io/2020/03/08/Affiliation"/>
-   <updated>2020-03-08T00:00:00-05:00</updated>
-   <id>http://llord1.github.io/2020/03/08/Affiliation</id>
->>>>>>> Stashed changes
    <content type="html">&lt;h2 id=&quot;affiliation-through-language&quot;&gt;Affiliation through Language:&lt;/h2&gt;
 
 &lt;p&gt;How effective has the vocabulary of Indian origin been in its contribution to St. Lucian Creole Vocabulary? Are the words strictly isolated to food, and a few racial descriptors?&lt;/p&gt;
@@ -1808,7 +1591,6 @@ and making homophonous lexemes two or more separate entries; polysemous terms ca
 
 &lt;p&gt;One may find data to support this experiment as Trinidad has a high Indian population of creole speakers, and Antillean creole shares some vocabulary (can check Wiwords for similarities).&lt;/p&gt;
 
-<<<<<<< Updated upstream
 </content>
  </entry>
  
@@ -1824,20 +1606,3 @@ and making homophonous lexemes two or more separate entries; polysemous terms ca
  
  
 </feed>
-=======
-</content>
- </entry>
- 
- <entry>
-   <title>Aesthetic needs: topics related to Artistry</title>
-   <link href="http://llord1.github.io/2020/02/08/Aesthetic"/>
-   <updated>2020-02-08T00:00:00-05:00</updated>
-   <id>http://llord1.github.io/2020/02/08/Aesthetic</id>
-   <content type="html">
-&lt;h2 id=&quot;aesthetic-needs-can-be-explored-as-topics-related-to-artistry&quot;&gt;&lt;strong&gt;&lt;em&gt;Aesthetic needs&lt;/em&gt;&lt;/strong&gt; can be explored as topics related to &lt;strong&gt;&lt;em&gt;Artistry&lt;/em&gt;&lt;/strong&gt;.&lt;/h2&gt;
-</content>
- </entry>
- 
- 
-</feed>
->>>>>>> Stashed changes
