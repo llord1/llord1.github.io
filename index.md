@@ -24,7 +24,7 @@ tagline: Supporting tagline
 
 **Current Committee Chair:**
 
-    - TBD
+- TBD
 
 **Possible Committee Members:**  
 
