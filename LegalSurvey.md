@@ -49,50 +49,50 @@ May attempt using the Chi-square test of independence for the following survey q
 
 *Survey question design*
 
-1.  Please indicate which of the following best describe (s) you. 
 
+1.  Please indicate which of the following best describe (s) you. 
 
     1. Age:
 
-Less than 18
+    Less than 18
+    
+    18-24
 
-18-24
+    25-29
 
-25-29
+    30-34
 
-30-34
+    35-39
 
-35-39
+    40-44
 
-40-44
+    45-49
 
-45-49
+    50-54
 
-50-54
-
-55-59
+    55-59
  
-60-64
+    60-64
 
-65-69 
+    65-69 
 
-70 -74
+    70 -74
 
-75 or older
+    75 or older
 
-Prefer not to respond
+    Prefer not to respond
 
-The age range (multiple choice) was based on the ABA data that indicates lawyers typically obtain higher education levels beyond high school and remain in practice past the age of 65 [source]; the median age of all U.S. workers was 42.3 years old, yet very few lawyers are younger than 25 and the median age for U.S. lawyers in 2019 was 47.5 years old. This question is posed as a standard demographic question, yet it is also important as speaks to the current and future state of the legal linguistic environment. Noting age may highlight multilingualism trends among age groups. For example, if multilingualism is more prominent in the younger lawyers, then multilingual representation may have a positive projection. However, if multilingual tendencies cluster among older lawyers, this study may highlight the need to improve the legal system in an increasingly multilingual society. 
+    The age range (multiple choice) was based on the ABA data that indicates lawyers typically obtain higher education levels beyond high school and remain in practice past the age of 65 [source]; the median age of all U.S. workers was 42.3 years old, yet very few lawyers are younger than 25 and the median age for U.S. lawyers in 2019 was 47.5 years old. This question is posed as a standard demographic question, yet it is also important as speaks to the current and future state of the legal linguistic environment. Noting age may highlight multilingualism trends among age groups. For example, if multilingualism is more prominent in the younger lawyers, then multilingual representation may have a positive projection. However, if multilingual tendencies cluster among older lawyers, this study may highlight the need to improve the legal system in an increasingly multilingual society. 
 
     2. Gender:
 
-Man
+    Man
 
-Woman
+    Woman
 
-Prefer not to respond
+    Prefer not to respond
 
-Gender identification is another standard (multiple choice) demographic question. However, it is valuable to gather this data to check whether the August 2020 American trend of men outnumbering women (especially in leadership), is replicated in and persistent in the Caribbean country of Saint Lucia {%cite ABA2020Profile clio_2020 AttorneyAtWork_2019 %}. There may also be a need to highlight if there are any differences in linguistics interests among the lawyers. Females are often believed to be more capable of and interested in linguistic acquisition and practice. Data gathered could confirm or dispute this assumption.
+    Gender identification is another standard (multiple choice) demographic question. However, it is valuable to gather this data to check whether the August 2020 American trend of men outnumbering women (especially in leadership), is replicated in and persistent in the Caribbean country of Saint Lucia {%cite ABA2020Profile clio_2020 AttorneyAtWork_2019 %}. There may also be a need to highlight if there are any differences in linguistics interests among the lawyers. Females are often believed to be more capable of and interested in linguistic acquisition and practice. Data gathered could confirm or dispute this assumption.
 
     3. Citizenship:
 
@@ -141,51 +141,51 @@ Additionally, household settings and upbringing may shape or influence individua
 
 2.  Please indicate the number of years you have been in practice (number of years since your first call to the bar in the Common-Wealth etc.)
 
-Less than 1
+    Less than 1
+    
+    1-5
 
-1-5
+    6-10
 
-6-10
+    11-15
 
-11-15
+    16-20
 
-16-20
+    21-25
 
-21-25
+    26-30
 
-26-30
+    31 or more
 
-31 or more
-
-Prefer not to respond
+    Prefer not to respond
 
 
 3.  Please indicate the option(s) that best describes your current working environment; please check all that apply. 
 
 
-In private practice, in a firm with less than 5 lawyers
+    In private practice, in a firm with less than 5 lawyers
 
-In private practice, in a firm with 5-15 lawyers
+    In private practice, in a firm with 5-15 lawyers
 
-In private practice, in a firm with 16-25 lawyers
+    In private practice, in a firm with 16-25 lawyers
 
-In private practice, in a firm with 26-50 lawyers
+    In private practice, in a firm with 26-50 lawyers
 
-In private practice, in a firm with 51 or more lawyers
+    In private practice, in a firm with 51 or more lawyers
 
-Public service (work with government agencies and officials, etc.)
+    Public service (work with government agencies and officials, etc.)
 
-Public interest (legal aid, legal services, public defender, etc.)
+    Public interest (legal aid, legal services, public defender, etc.)
 
-In a not for profit organization
+    In a not for profit organization
 
-In an academic institution
+    In an academic institution
 
-Prefer not to respond
+    Prefer not to respond
 
-Other
+    Other
 
-Lawyers may choose different working environments, and such a choice would influence the type of clientele typically encountered. Inquiring into Saint Lucian lawyer work environments can provide additional insight into the language needs of the legal system. 
+    Lawyers may choose different working environments, and such a choice would influence the type of clientele typically encountered. Inquiring into Saint Lucian lawyer work environments can provide additional insight into the language needs of the legal system. 
 
 
 4.  Please indicate your area(s) of practice; please check all that apply. 
