@@ -49,7 +49,6 @@ May attempt using the Chi-square test of independence for the following survey q
 
 *Survey question design*
 
-
 1.  Please indicate which of the following best describe (s) you. 
 
 
