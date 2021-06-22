@@ -53,7 +53,7 @@ May attempt using the Chi-square test of independence for the following survey q
 1.  Please indicate which of the following best describe (s) you. 
 
 
-a. Age:
+    1. Age:
 
 Less than 18
 
@@ -85,7 +85,7 @@ Prefer not to respond
 
 The age range (multiple choice) was based on the ABA data that indicates lawyers typically obtain higher education levels beyond high school and remain in practice past the age of 65 [source]; the median age of all U.S. workers was 42.3 years old, yet very few lawyers are younger than 25 and the median age for U.S. lawyers in 2019 was 47.5 years old. This question is posed as a standard demographic question, yet it is also important as speaks to the current and future state of the legal linguistic environment. Noting age may highlight multilingualism trends among age groups. For example, if multilingualism is more prominent in the younger lawyers, then multilingual representation may have a positive projection. However, if multilingual tendencies cluster among older lawyers, this study may highlight the need to improve the legal system in an increasingly multilingual society. 
 
- b. Gender:
+    2. Gender:
 
 Man
 
@@ -95,7 +95,7 @@ Prefer not to respond
 
 Gender identification is another standard (multiple choice) demographic question. However, it is valuable to gather this data to check whether the August 2020 American trend of men outnumbering women (especially in leadership), is replicated in and persistent in the Caribbean country of Saint Lucia {%cite ABA2020Profile clio_2020 AttorneyAtWork_2019 %}. There may also be a need to highlight if there are any differences in linguistics interests among the lawyers. Females are often believed to be more capable of and interested in linguistic acquisition and practice. Data gathered could confirm or dispute this assumption.
 
-c. Citizenship:
+    3. Citizenship:
 
 Jus sanguinis (right of blood)
 
@@ -109,8 +109,7 @@ Prefer not to respond
 
 Citizenship status might indicate a history or lineage of commitment to, and familiarity with, the culture, language, people, and overall development of the country. At the very least it may indicate a legal tie to their practice's environment.
 
-
-d. Ethnicity/race:
+    4. Ethnicity/race:
 
 American Indian/Alaska Native
 
@@ -192,7 +191,6 @@ Lawyers may choose different working environments, and such a choice would influ
 
 4.  Please indicate your area(s) of practice; please check all that apply. 
 
-
 Alternative dispute resolution (ADR)
 
 Banking and Finance law
@@ -251,7 +249,6 @@ An additional means of narrowing down the underlying multilinguistic tendencies 
 
 
 5.  Please indicate your average annual income.
-
 
 Below 36,000 XCD
 
@@ -370,7 +367,7 @@ This question seeks to understand the current and demand for multilingualism in 
 
 10.  Please rank the languages you use most often to communicate and your proficiency. 
 
-a. Note: Selecting only "listen (understand)" encompasses scenarios where one can comprehend but not converse in a language.
+    1. Note: Selecting only "listen (understand)" encompasses scenarios where one can comprehend but not converse in a language.
 
 Row categories: First Language (most often used at home); Second Language (2nd most often used at home & elsewhere); Third Language
 (3rd most often used at home & elsewhere)
@@ -448,7 +445,8 @@ Not applicable
 
 Understanding where and how one engages in language learning might highlight environments that foster multilingualism in lawyers. The learning of languages may take place in formal and informal settings. In Saint Lucia, most language education is likely to be done in a school setting. Overall, Saint Lucian Kwéyòl, a national heritage language, would typically be learned informally. Formal education of this language only recently began with young children (between the ages of 6-12) in less than a handful of schools and adult learners; however, since the major fire at the National Folk Resource Center, most classes have reverted to more private sessions. Renewed attention to the national language policy has redirected efforts to formal education of the language. However, enforcement of this policy appears to be challenging.
 
-b. Please indicate which technique best describes how you came to learn each of the aforementioned languages; please select all that apply.
+
+    2. Please indicate which technique best describes how you came to learn each of the aforementioned languages; please select all that apply.
 
 Column categories:
 Formal education (requirement/ elective); Informal education
