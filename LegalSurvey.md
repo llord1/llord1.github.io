@@ -52,47 +52,52 @@ May attempt using the Chi-square test of independence for the following survey q
 
 1.  Please indicate which of the following best describe (s) you. 
 
-    1. Age:
 
-    Less than 18
+1. Age:
+
+Less than 18
     
-    18-24
+18-24
 
-    25-29
+25-29
 
-    30-34
+30-34
 
-    35-39
+35-39
 
-    40-44
+40-44
 
-    45-49
+45-49
 
-    50-54
+50-54
 
-    55-59
+55-59
  
-    60-64
+60-64
 
-    65-69 
+65-69 
 
-    70 -74
+70 -74
 
-    75 or older
+75 or older
 
-    Prefer not to respond
+Prefer not to respond
 
-    The age range (multiple choice) was based on the ABA data that indicates lawyers typically obtain higher education levels beyond high school and remain in practice past the age of 65 [source]; the median age of all U.S. workers was 42.3 years old, yet very few lawyers are younger than 25 and the median age for U.S. lawyers in 2019 was 47.5 years old. This question is posed as a standard demographic question, yet it is also important as speaks to the current and future state of the legal linguistic environment. Noting age may highlight multilingualism trends among age groups. For example, if multilingualism is more prominent in the younger lawyers, then multilingual representation may have a positive projection. However, if multilingual tendencies cluster among older lawyers, this study may highlight the need to improve the legal system in an increasingly multilingual society. 
+The age range (multiple choice) was based on the ABA data that indicates lawyers typically obtain higher education levels beyond high school and remain in practice past the age of 65 {% cite gaille_2017 %}; the median age of all U.S. workers was 42.3 years old, yet very few lawyers are younger than 25 and the median age for U.S. lawyers in 2019 was 47.5 years old. This question is a standard demographic question; it speaks to the current and future state of the legal linguistic environment. The generalizing effect of age range use is intentional. Requiring one's date of birth and other precise personal details may cause hesitation in a culture that is still aware of and practices {% cite haines_1972 %}.
+
+Noting age may highlight multilingualism trends among age groups. For example, if multilingualism is more prominent in the younger lawyers, then multilingual representation may have a positive projection. However, if multilingual tendencies cluster among older lawyers, this study may highlight the need to improve the legal system in an increasingly multilingual society. 
+
 
     2. Gender:
 
-    Man
+Man
 
-    Woman
+Woman
 
-    Prefer not to respond
+Prefer not to respond
 
-    Gender identification is another standard (multiple choice) demographic question. However, it is valuable to gather this data to check whether the August 2020 American trend of men outnumbering women (especially in leadership), is replicated in and persistent in the Caribbean country of Saint Lucia {%cite ABA2020Profile clio_2020 AttorneyAtWork_2019 %}. There may also be a need to highlight if there are any differences in linguistics interests among the lawyers. Females are often believed to be more capable of and interested in linguistic acquisition and practice. Data gathered could confirm or dispute this assumption.
+Gender identification is another standard (multiple choice) demographic question. However, it is valuable to gather this data to check whether the August 2020 American trend of men outnumbering women (especially in leadership), is replicated in and persistent in the Caribbean country of Saint Lucia {%cite ABA2020Profile clio_2020 AttorneyAtWork_2019 %}. There may also be a need to highlight if there are any differences in linguistics interests among the lawyers. Females are often believed to be more capable of and interested in linguistic acquisition and practice. Data gathered could confirm or dispute this assumption.
+
 
     3. Citizenship:
 
@@ -107,6 +112,7 @@ Non-citizen
 Prefer not to respond
 
 Citizenship status might indicate a history or lineage of commitment to, and familiarity with, the culture, language, people, and overall development of the country. At the very least it may indicate a legal tie to their practice's environment.
+
 
     4. Ethnicity/race:
 
@@ -141,54 +147,54 @@ Additionally, household settings and upbringing may shape or influence individua
 
 2.  Please indicate the number of years you have been in practice (number of years since your first call to the bar in the Common-Wealth etc.)
 
-    Less than 1
+Less than 1
     
-    1-5
+1-5
 
-    6-10
+6-10
 
-    11-15
+11-15
 
-    16-20
+16-20
 
-    21-25
+21-25
 
-    26-30
+26-30
 
-    31 or more
+31 or more
 
-    Prefer not to respond
+Prefer not to respond
 
 
 3.  Please indicate the option(s) that best describes your current working environment; please check all that apply. 
 
+In private practice, in a firm with less than 5 lawyers
 
-    In private practice, in a firm with less than 5 lawyers
+In private practice, in a firm with 5-15 lawyers
 
-    In private practice, in a firm with 5-15 lawyers
+In private practice, in a firm with 16-25 lawyers
 
-    In private practice, in a firm with 16-25 lawyers
+In private practice, in a firm with 26-50 lawyers
 
-    In private practice, in a firm with 26-50 lawyers
+In private practice, in a firm with 51 or more lawyers
 
-    In private practice, in a firm with 51 or more lawyers
+Public service (work with government agencies and officials, etc.)
 
-    Public service (work with government agencies and officials, etc.)
+Public interest (legal aid, legal services, public defender, etc.)
 
-    Public interest (legal aid, legal services, public defender, etc.)
+In a not for profit organization
 
-    In a not for profit organization
+In an academic institution
 
-    In an academic institution
+Prefer not to respond
 
-    Prefer not to respond
+Other
 
-    Other
-
-    Lawyers may choose different working environments, and such a choice would influence the type of clientele typically encountered. Inquiring into Saint Lucian lawyer work environments can provide additional insight into the language needs of the legal system. 
+Lawyers may choose different working environments, and such a choice would influence the type of clientele typically encountered. Inquiring into Saint Lucian lawyer work environments can provide additional insight into the language needs of the legal system. 
 
 
 4.  Please indicate your area(s) of practice; please check all that apply. 
+
 
 Alternative dispute resolution (ADR)
 
@@ -249,6 +255,7 @@ An additional means of narrowing down the underlying multilinguistic tendencies 
 
 5.  Please indicate your average annual income.
 
+
 Below 36,000 XCD
 
 36,001 XCD - 46,000 XCD
@@ -273,6 +280,7 @@ There could be an argument for the economic reinforcement of certain linguistic 
 
 
 6.  Please indicate your current student debt level.
+
 
 None
 
@@ -366,6 +374,7 @@ This question seeks to understand the current and demand for multilingualism in 
 
 10.  Please rank the languages you use most often to communicate and your proficiency. 
 
+
     1. Note: Selecting only "listen (understand)" encompasses scenarios where one can comprehend but not converse in a language.
 
 Row categories: First Language (most often used at home); Second Language (2nd most often used at home & elsewhere); Third Language
@@ -426,22 +435,6 @@ Prefer not to respond
 Not applicable
 
 
-Overall Fluency dropdowns:
-
-Highly fluent
-
-Fluent	
-
-Some mastery	
-
-A little mastery	
-
-Not at all	
-
-Prefer not to respond
-
-Not applicable
-
 Understanding where and how one engages in language learning might highlight environments that foster multilingualism in lawyers. The learning of languages may take place in formal and informal settings. In Saint Lucia, most language education is likely to be done in a school setting. Overall, Saint Lucian Kwéyòl, a national heritage language, would typically be learned informally. Formal education of this language only recently began with young children (between the ages of 6-12) in less than a handful of schools and adult learners; however, since the major fire at the National Folk Resource Center, most classes have reverted to more private sessions. Renewed attention to the national language policy has redirected efforts to formal education of the language. However, enforcement of this policy appears to be challenging.
 
 
@@ -449,9 +442,17 @@ Understanding where and how one engages in language learning might highlight env
 
 Column categories:
 Formal education (requirement/ elective); Informal education
-(hobby); Informal education (from family & friends); Not applicable; Prefer not to respond
+(hobby); Informal education (from family & friends); Not applicable
 
-Row categories: First Language, Second Language, Third Language
+Row categories: First Language.
+
+    3. Please indicate which technique best describes how you came to learn each of the aforementioned languages; please select all that apply.
+
+Column categories:
+Formal education (requirement/ elective); Informal education
+(hobby); Informal education (from family & friends); Not applicable
+
+Row categories: Second Language, Third Language
 
 This question is one of the most crucial to this study. Saint Lucia is an actively changing multilingual environment. The setting is dynamically developing due to evolving political and legal policies (such as Citizenship by Investment (CIP) {% cite bayat_2020 gis_CIP_2017 slu_cip_2020 capital_CIP_2020 harvey_2020 investvisa_2016 %}. English is listed as it is the official language spoken (a prestige language) in Saint Lucia. Apart from modern English, legal (and medical) professionals can claim to be multilingual based on their foundational Latin studies; noting this detail acknowledges this inherent field facet. Saint Lucian Kwéyòl (Antillean Creole/Patios) is inquired about, as it is the heritage language of the island. French and Spanish are listed as they are typical language offerings at all high schools on the island. Dutch, and Portuguese, and to a lesser extent Arabic, Hindi, and Gaelige/Irish are other common languages to the rest of the Caribbean due to colonialization, indentured labor, and the ease of immigration among Caribbean islands. Japanese has been taught in Saint Lucia by humanitarian volunteers as part of their Japan International Cooperation Agency (JICA) work {% cite kobayashi_2020 %}. There also appears to be a rapidly growing Mandarin-speaking population in the Caribbean. It is important to ensure that the legal system can support the increasing numbers of Mandarin-speaking immigrants of various backgrounds (including investors, tourists, CIP purchasers, and foreign officials (for various joint government projects).
 
@@ -460,7 +461,7 @@ The column category "understand" was added to account for the possible occurrenc
 
 11.  Please indicate which language frequency category best reflects your typical client interactions. This question only requires one response per row.
 
-Column categories: Very Frequently; Frequently; Occasionally; Rarely; Very Rarely; Never; Prefer not to respond
+Column categories: Very Frequently; Frequently; Occasionally; Rarely; Very Rarely; Never.
 
 Row categories:
 Any form of sign language
