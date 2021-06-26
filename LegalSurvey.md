@@ -53,7 +53,7 @@ May attempt using the Chi-square test of independence for the following survey q
 1.  Please indicate which of the following best describe (s) you. 
 
 
-1. Age:
+    1. Age:
 
 Less than 18
     
@@ -372,19 +372,16 @@ Prefer not to respond
 This question seeks to understand the current and demand for multilingualism in lawyering, based on past demand. These details may reveal sufficiencies as well as insufficiencies concerning the adequate legal representation of  Saint Lucian clients. Saint Lucia is a multilingual country, and a lawyer with multiple languages may stand a better chance of not only attracting a diverse and numerous clientele base; reduced language barriers would allow lawyers to better relay facts, arguments, and sentiments of clients with diverse backgrounds.
 
 
-10.  Please rank the languages you use most often to communicate and your proficiency. 
+10. Please indicate the language you use most often to communicate and your proficiency.
 
 
     1. Note: Selecting only "listen (understand)" encompasses scenarios where one can comprehend but not converse in a language.
 
-Row categories: First Language (most often used at home); Second Language (2nd most often used at home & elsewhere); Third Language
-(3rd most often used at home & elsewhere)
+Row categories: First Language (most often used at home)
 
-Column categories: Language; Speak/Sign; Read; Write; Listen/Understand; Overall Fluency
+Column categories: Language; Speak/Sign; Read; Write; Listen/Understand
 
 Language dropdowns:
-
-Not applicable
 
 Any form of sign language
 
@@ -418,8 +415,6 @@ Japanese
 
 Mandarin
 
-Prefer not to respond
-
 "Speak/Sign", "Read", "Write," and "Listen/Understand" dropdowns:
 
 Very well
@@ -430,15 +425,8 @@ Not well
 
 Not at all	
 
-Prefer not to respond
 
-Not applicable
-
-
-Understanding where and how one engages in language learning might highlight environments that foster multilingualism in lawyers. The learning of languages may take place in formal and informal settings. In Saint Lucia, most language education is likely to be done in a school setting. Overall, Saint Lucian Kwéyòl, a national heritage language, would typically be learned informally. Formal education of this language only recently began with young children (between the ages of 6-12) in less than a handful of schools and adult learners; however, since the major fire at the National Folk Resource Center, most classes have reverted to more private sessions. Renewed attention to the national language policy has redirected efforts to formal education of the language. However, enforcement of this policy appears to be challenging.
-
-
-    2. Please indicate which technique best describes how you came to learn each of the aforementioned languages; please select all that apply.
+    2.  Please indicate which technique best describes how you came to learn the aforementioned language; please select all that apply. 
 
 Column categories:
 Formal education (requirement/ elective); Informal education
@@ -446,7 +434,21 @@ Formal education (requirement/ elective); Informal education
 
 Row categories: First Language.
 
-    3. Please indicate which technique best describes how you came to learn each of the aforementioned languages; please select all that apply.
+The first half of this question is one of the most crucial to this study. Saint Lucia is an actively changing multilingual environment. The setting is dynamically developing due to evolving political and legal policies (such as Citizenship by Investment (CIP) {% cite bayat_2020 gis_CIP_2017 slu_cip_2020 capital_CIP_2020 harvey_2020 investvisa_2016 %}. English is listed as it is the official language spoken (a prestige language) in Saint Lucia. Apart from modern English, legal (and medical) professionals can claim to be multilingual based on their foundational Latin studies; noting this detail acknowledges this inherent field facet. Saint Lucian Kwéyòl (Antillean Creole/Patios) is inquired about, as it is the heritage language of the island. French and Spanish are listed as they are typical language offerings at all high schools on the island. Dutch, and Portuguese, and to a lesser extent Arabic, Hindi, and Gaelige/Irish are other common languages to the rest of the Caribbean due to colonialization, indentured labor, and the ease of immigration among Caribbean islands. Japanese has been taught in Saint Lucia by humanitarian volunteers as part of their Japan International Cooperation Agency (JICA) work {% cite kobayashi_2020 %}. There also appears to be a rapidly growing Mandarin-speaking population in the Caribbean. It is important to ensure that the legal system can support the increasing numbers of Mandarin-speaking immigrants of various backgrounds (including investors, tourists, CIP purchasers, and foreign officials (for various joint government projects).
+
+The column category "understand" was added to account for the possible occurrence of receptive bilingualism among lawyers in the Caribbean. This consideration is valid as multilingualism is prevalent in this region. Persons here may encounter various languages yet be unable to respond effectively. The presence of a "prestige" language, such as English, may draw speakers away from heritage languages. These heritage languages can suffer from dropping numbers of speakers when receptive bilingualism is left undeveloped.
+
+The second half of this question is related to exploring where and how one engages in language learning and might highlight environments that foster multilingualism in lawyers. The learning of languages may take place in formal and informal settings. In Saint Lucia, most language education is likely to be done in a school setting. Overall, Saint Lucian Kwéyòl, a national heritage language, would typically be learned informally. Formal education of this language only recently began with young children (between the ages of 6-12) in less than a handful of schools and adult learners; however, since the major fire at the National Folk Resource Center, most classes have reverted to more private sessions. Renewed attention to the national language policy has redirected efforts to formal education of the language. However, enforcement of this policy appears to be challenging.
+
+11. Please rank any secondary languages you use most often to communicate and your proficiency. 
+
+    1.  Note: Selecting only "listen (understand)" encompasses scenarios where one can comprehend but not converse in a language.
+
+Row categories: Second Language (2nd most often used at home & elsewhere); Third Language (3rd most often used at home & elsewhere)
+
+Column categories: Language; Speak/Sign; Read; Write; Listen/Understand
+
+    2.  Please indicate which technique best describes how you came to learn each of the aforementioned languages; please select all that apply.
 
 Column categories:
 Formal education (requirement/ elective); Informal education
@@ -454,12 +456,9 @@ Formal education (requirement/ elective); Informal education
 
 Row categories: Second Language, Third Language
 
-This question is one of the most crucial to this study. Saint Lucia is an actively changing multilingual environment. The setting is dynamically developing due to evolving political and legal policies (such as Citizenship by Investment (CIP) {% cite bayat_2020 gis_CIP_2017 slu_cip_2020 capital_CIP_2020 harvey_2020 investvisa_2016 %}. English is listed as it is the official language spoken (a prestige language) in Saint Lucia. Apart from modern English, legal (and medical) professionals can claim to be multilingual based on their foundational Latin studies; noting this detail acknowledges this inherent field facet. Saint Lucian Kwéyòl (Antillean Creole/Patios) is inquired about, as it is the heritage language of the island. French and Spanish are listed as they are typical language offerings at all high schools on the island. Dutch, and Portuguese, and to a lesser extent Arabic, Hindi, and Gaelige/Irish are other common languages to the rest of the Caribbean due to colonialization, indentured labor, and the ease of immigration among Caribbean islands. Japanese has been taught in Saint Lucia by humanitarian volunteers as part of their Japan International Cooperation Agency (JICA) work {% cite kobayashi_2020 %}. There also appears to be a rapidly growing Mandarin-speaking population in the Caribbean. It is important to ensure that the legal system can support the increasing numbers of Mandarin-speaking immigrants of various backgrounds (including investors, tourists, CIP purchasers, and foreign officials (for various joint government projects).
+The first and second parts of this question are related to the previous question on language acquisition environments. However, these questions delve deeper into the presence of multilinguals in this profession, rather than the prior question's focus on identifying the details of one's primary language. The parameters of the prior question are used here, yet answering is optional.
 
-The column category "understand" was added to account for the possible occurrence of receptive bilingualism among lawyers in the Caribbean. This consideration is valid as multilingualism is prevalent in this region. Persons here may encounter various languages yet be unable to respond effectively. The presence of a "prestige" language, such as English, may draw speakers away from heritage languages. These heritage languages can suffer from dropping numbers of speakers when receptive bilingualism is left undeveloped.
-
-
-11.  Please indicate which language frequency category best reflects your typical client interactions. This question only requires one response per row.
+12.  Please indicate which language frequency category best reflects your typical client interactions. This question only requires one response per row.
 
 Column categories: Very Frequently; Frequently; Occasionally; Rarely; Very Rarely; Never.
 
