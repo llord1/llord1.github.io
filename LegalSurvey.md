@@ -480,7 +480,7 @@ Russian (or any Eurasian language not mentioned)
 Japanese
 Mandarin
 
-Since this survey cannot acquire data from past clients, this question aims to address the languages that lawyers commonly encounter. The language one speaks is not guaranteed to be what one will encounter. It will be interesting to note where the client and lawyer languages overlap and where they do not.
+Since this survey cannot acquire data from past clients, this question aims to address the languages that lawyers commonly encounter. The language one speaks is not guaranteed to be what one will encounter. It will be interesting to note where the client and lawyer languages overlap and where they do not. Answering is not optional here as this information is crucial to the survey.
 
 ### References:
 
