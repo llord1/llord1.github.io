@@ -49,8 +49,14 @@ May attempt using the Chi-square test of independence for the following survey q
 
 *Survey question design*
 
+1.  Sample first item.
 
-1.  Continuing the list
+    * sub-bullet one
+    * sub-bullet two
+
+2.  Continuing the list
 
     1. sub-list numbered one
     2. sub-list numbered two
+
+3.  Another list item.
