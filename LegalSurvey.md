@@ -51,8 +51,7 @@ May attempt using the Chi-square test of independence for the following survey q
 
 1.  Please indicate which of the following best describe (s) you. 
 
-    * sub-bullet one
-    * Age:
+    * *Age:
 
 Less than 18
     
@@ -84,11 +83,12 @@ Prefer not to respond
 
 The age range (multiple choice) was based on the ABA data that indicates lawyers typically obtain higher education levels beyond high school and remain in practice past the age of 65 {% cite gaille_2017 %}; the median age of all U.S. workers was 42.3 years old, yet very few lawyers are younger than 25 and the median age for U.S. lawyers in 2019 was 47.5 years old. This question is a standard demographic question; it speaks to the current and future state of the legal linguistic environment. The generalizing effect of age range use is intentional. Requiring one's date of birth and other precise personal details may cause hesitation in a culture that is still aware of and practices {% cite haines_1972 %}.
 
-Noting age may highlight multilingualism trends among age groups. For example, if multilingualism is more prominent in the younger lawyers, then multilingual representation may have a positive projection. However, if multilingual tendencies cluster among older lawyers, this study may highlight the need to improve the legal system in an increasingly multilingual society. 
+Noting age may highlight multilingualism trends among age groups. For example, if multilingualism is more prominent in the younger lawyers, then multilingual representation may have a positive projection. However, if multilingual tendencies cluster among older lawyers, this study may highlight the need to improve the legal system in an increasingly multilingual society. *
 
 2.  Continuing the list
 
-    1. sub-list numbered one
-    2. sub-list numbered two
-
 3.  Another list item.
+
+    * *1. Age:
+
+    * *2 Age:
