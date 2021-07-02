@@ -358,9 +358,7 @@ No
 This question seeks to understand the current and future demand for multilingualism in lawyering, based on past lawyering experiences. These details may reveal sufficiencies as well as insufficiencies concerning the adequate legal representation of  Saint Lucian clients. Saint Lucia is a multilingual country, and a lawyer with multiple languages may stand a better chance of not only attracting a diverse and numerous clientele base; reduced language barriers would allow lawyers to better relay facts, arguments, and sentiments of clients with diverse backgrounds.
 
 
-10) Please indicate the language you use most often to communicate and your proficiency.
-
-a) Note: Selecting only "listen (understand)" encompasses scenarios where one can comprehend but not converse in a language.
+10a) Please indicate the language you use most often to communicate and your proficiency. Note: Selecting only "listen (understand)" encompasses scenarios where one can comprehend but not converse in a language.
 
 Row categories: First Language (most often used at home).
 
@@ -427,9 +425,7 @@ The column category "understand" was added to account for the possible occurrenc
 The second half of this question is related to exploring where and how one engages in language learning and might highlight environments that foster multilingualism in lawyers. The learning of languages may take place in formal and informal settings. In Saint Lucia, most language education is likely to be done in a school setting. Overall, Saint Lucian Kwéyòl, a national heritage language, would typically be learned informally. Formal education of this language only recently began with young children (between the ages of 6-12) in less than a handful of schools and adult learners; however, since the major fire at the National Folk Resource Center, most classes have reverted to more private sessions. Renewed attention to the national language policy has redirected efforts to formal education of the language. However, enforcement of this policy appears to be challenging.
 
 
-11) Please rank any secondary languages you use most often to communicate and your proficiency. 
-
-a) Note: Selecting only "listen (understand)" encompasses scenarios where one can comprehend but not converse in a language.
+11a) Please rank any secondary languages you use most often to communicate and your proficiency. Note: Selecting only "listen (understand)" encompasses scenarios where one can comprehend but not converse in a language.
 
 Any form of sign language
 
