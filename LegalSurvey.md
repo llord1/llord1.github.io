@@ -48,8 +48,9 @@ The Legal profession currently heavily uses internet-accessible communication de
 May attempt using the Chi-square test of independence for the following survey questions.
 
 *Survey question design*
+### Ideas for Ph.D.:
 
-1.   Please indicate which of the following best describe (s) you. 
+1.  ~~Please indicate which of the following best describe (s) you.~~
 
     * *Age:*
 
