@@ -51,7 +51,7 @@ May attempt using the Chi-square test of independence for the following survey q
 
 1) Please indicate which of the following best describe (s) you. 
 
-    a) Age:
+	a) Age:
 
 Less than 18
     
@@ -85,7 +85,7 @@ All of the items of this four part-question are mandatory as they serve as the b
 
 Noting age may highlight multilingualism trends among age groups. For example, if multilingualism is more prominent in the younger lawyers, then multilingual representation may have a positive projection. However, if multilingual tendencies cluster among older lawyers, this study may highlight the need to improve the legal system in an increasingly multilingual society. 
 
-    b) Gender:
+	b) Gender:
 
 Man
 
@@ -95,7 +95,7 @@ Prefer not to respond
 
 Gender identification is another standard (multiple choice) demographic question. However, it is valuable to gather this data to check whether the August 2020 American trend of men outnumbering women (especially in leadership), is replicated in and persistent in the Caribbean country of Saint Lucia {%cite ABA2020Profile clio_2020 AttorneyAtWork_2019 %}. There may also be a need to highlight if there are any differences in linguistics interests among the lawyers. Females are often believed to be more capable of and interested in linguistic acquisition and practice. Data gathered could confirm or dispute this assumption.
 
-    c) Citizenship:
+	c) Citizenship:
 
 Jus sanguinis (right of blood)
 
@@ -109,7 +109,7 @@ Prefer not to respond
 
 Citizenship status might indicate a history or lineage of commitment to, and familiarity with, the culture, language, people, and overall development of the country. At the very least it may indicate a legal tie to their practice's environment.
 
-    d) Ethnicity/race:
+d) Ethnicity/race:
 
 American Indian/Alaska Native
 
@@ -360,7 +360,7 @@ This question seeks to understand the current and future demand for multilingual
 
 10) Please indicate the language you use most often to communicate and your proficiency.
 
-    a) Note: Selecting only "listen (understand)" encompasses scenarios where one can comprehend but not converse in a language.
+	a) Note: Selecting only "listen (understand)" encompasses scenarios where one can comprehend but not converse in a language.
 
 Row categories: First Language (most often used at home).
 
@@ -411,7 +411,7 @@ Not well
 
 Not at all	
 
-    b) Please indicate which technique best describes how you came to learn the aforementioned language; please select all that apply. 
+	b) Please indicate which technique best describes how you came to learn the aforementioned language; please select all that apply. 
 
 
 Column categories:
@@ -429,7 +429,7 @@ The second half of this question is related to exploring where and how one engag
 
 11) Please rank any secondary languages you use most often to communicate and your proficiency. 
 
-    a) Note: Selecting only "listen (understand)" encompasses scenarios where one can comprehend but not converse in a language.
+	a) Note: Selecting only "listen (understand)" encompasses scenarios where one can comprehend but not converse in a language.
 
 Any form of sign language
 
@@ -481,7 +481,7 @@ Not at all
 
 Not applicable
 
-    b) Please indicate which technique best describes how you came to learn each of the aforementioned languages; please select all that apply.
+	b) Please indicate which technique best describes how you came to learn each of the aforementioned languages; please select all that apply.
 
 Column categories:
 Formal education (requirement/ elective); Informal education
