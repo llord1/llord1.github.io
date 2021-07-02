@@ -81,7 +81,7 @@ Less than 18
 
 Prefer not to respond
 
-Overall, the items of the four part-question here are mandatory. They serve as the base of demographic details. The age range (multiple choice) was based on the ABA data that indicates lawyers typically obtain higher education levels beyond high school and remain in practice past the age of 65 {% cite gaille_2017 %}; the median age of all U.S. workers was 42.3 years old, yet very few lawyers are younger than 25 and the median age for U.S. lawyers in 2019 was 47.5 years old. This question is a standard demographic question; it speaks to the current and future state of the legal linguistic environment. The generalizing effect of age range use is intentional. Requiring one's date of birth and other precise personal details may cause hesitation in a culture that is still aware of and practices {% cite haines_1972 %}.
+All of the items of this four part-question are mandatory as they serve as the base of demographic details. The age range (multiple choice) was based on the ABA data that indicates lawyers typically obtain higher education levels beyond high school and remain in practice past the age of 65 {% cite gaille_2017 %}; the median age of all U.S. workers was 42.3 years old, yet very few lawyers are younger than 25 and the median age for U.S. lawyers in 2019 was 47.5 years old. This question is a standard demographic question; it speaks to the current and future state of the legal linguistic environment. The generalizing effect of age range use is intentional. Requiring one's date of birth and other precise personal details may cause hesitation in a culture that is still aware of and practices {% cite haines_1972 %}.
 
 Noting age may highlight multilingualism trends among age groups. For example, if multilingualism is more prominent in the younger lawyers, then multilingual representation may have a positive projection. However, if multilingual tendencies cluster among older lawyers, this study may highlight the need to improve the legal system in an increasingly multilingual society. 
 
@@ -513,7 +513,7 @@ Russian (or any Eurasian language not mentioned)
 Japanese
 Mandarin
 
-Since this survey cannot acquire data from past clients, this question aims to address the languages that lawyers commonly encounter. The language one speaks is not guaranteed to be what one will encounter. It will be interesting to note where the client and lawyer languages overlap and where they do not. Answering is not optional here as this information is crucial to the survey.
+While this survey cannot acquire data from past clients, this question aims to collect data on the languages that lawyers commonly encounter. The language one speaks is not guaranteed to be what one will encounter. It will be interesting to note where the client and lawyer languages overlap and where they do not. Answering is not optional here as this information is crucial to the survey.
 
 ### References:
 
