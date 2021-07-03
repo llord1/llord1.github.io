@@ -276,7 +276,7 @@ Tort Law
 
 Other
 
-An additional means of narrowing down the underlying multilinguistic tendencies in this field involves inquiring into the specialization areas of lawyers. This focus will highlight which practices may be associated with a need to speak multiple languages; more specifically, which law topics are likely to require an understanding of the Saint Lucian Kwéyòl language. Saint Lucia is a sovereign island nation in the Commonwealth of Nations but, because Saint Lucia was both a French and English colony before it gained independence on the 22nd of February, 1979, the legal system has been a mix of civil and English common law {% cite specialitysmith_2020 %}. Options for this list were developed from course offerings at Caribbean law schools {% cite uwi2020 %}.
+An additional means of narrowing down the underlying multilinguistic tendencies in this field involves inquiring into the specialization areas of lawyers. This focus will highlight which practices may be associated with a need to speak multiple languages; more specifically, which law topics are likely to require an understanding of the Saint Lucian Kwéyòl language. Saint Lucia is a sovereign island nation in the Commonwealth of Nations but, because Saint Lucia was both a French and English colony before it gained independence on the 22nd of February, 1979, the legal system has been a mix of civil and English common law {% cite specialitysmith_2020 %}. Options for this list were developed from course offerings at Caribbean law schools {% cite uwi2020 stetson_university %}.
 
 
 6) Please indicate the option(s) that best describes your current working environment; please check all that apply. 
