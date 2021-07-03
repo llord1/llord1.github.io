@@ -213,62 +213,70 @@ This question, concerning student debt, is typical of the ABA but adjusted for a
 
 5) Please indicate your area(s) of practice; please check all that apply. 
 
+Administrative Law
 
-Alternative dispute resolution (ADR)
+Alternative Dispute Resolution (ADR)
 
-Banking and Finance law
+Banking and Finance Law
 
-Citizenship by investment
+Citizenship by Investment
 
-Commercial law
+Commercial Law
 
-Constitutional law
+Constitutional Law
 
-Construction law
+Construction Law
 
-Contract law
+Contract Law
 
-Corporate law
+Corporate Law (including Corporate Finance and Insolvency Law)
 
-Criminal law
+Criminal Law
 
-Employment law
+Employment Law
 
-Environmental law
+Environmental Law
 
-Equity and trusts
+Equity and Trusts/ Equitable Remedies 
 
-EU law*
+EU Law
 
-Family law
+Family Law
 
-Human rights law
+Human Rights Law/ Commonwealth Caribbean Human Rights Law
 
-Insurance law
+Industrial Relations/Trade Unions
 
-Intellectual property (IP) law
+Insurance Law
 
-Land law
+Intellectual Property (IP) Law
+
+Land Law
 
 Litigation
 
-Media law
+Media Law
 
-Private client law
+Private Client Law
 
-Property law
+Property Law/ Law of Real Property 
 
-Public law
+Public/ International Law
 
-Shipping law
+Shipping Law
 
-Sports law
+Sports Law
 
-Tax law
+Tax/ Revenue Law
 
-Tort law
+Teaching Law (including Law & Legal Systems, Jurisprudence, 
+International Mooting, etc.)
 
-An additional means of narrowing down the underlying multilinguistic tendencies in this field involves inquiring into the specialization areas of lawyers. This focus will highlight which practices may be associated with a need to speak multiple languages; more specifically, which law topics are likely to require an understanding of the Saint Lucian Kwéyòl language. Saint Lucia is a sovereign island nation in the Commonwealth of Nations but, because Saint Lucia was both a French and English colony before it gained independence on the 22nd of February, 1979, the legal system has been a mix of civil and English common law {% cite specialitysmith_2020 %}. 
+Tort Law
+
+Other
+
+An additional means of narrowing down the underlying multilinguistic tendencies in this field involves inquiring into the specialization areas of lawyers. This focus will highlight which practices may be associated with a need to speak multiple languages; more specifically, which law topics are likely to require an understanding of the Saint Lucian Kwéyòl language. Saint Lucia is a sovereign island nation in the Commonwealth of Nations but, because Saint Lucia was both a French and English colony before it gained independence on the 22nd of February, 1979, the legal system has been a mix of civil and English common law {% cite specialitysmith_2020 %}. Options for this list were developed from course offerings at Caribbean law schools {% cite uwi2020 %}.
 
 
 6) Please indicate the option(s) that best describes your current working environment; please check all that apply. 
@@ -382,8 +390,6 @@ Portuguese
 
 Dutch
 
-Any form of sign language
-
 Hindi (or any Indian subcontinental language not mentioned)
 
 Arabic (or any Mediterranean language not mentioned)
@@ -445,8 +451,6 @@ Portuguese
 
 Dutch
 
-Any form of sign language
-
 Hindi (or any Indian subcontinental language not mentioned)
 
 Arabic (or any Mediterranean language not mentioned)
@@ -492,21 +496,35 @@ The first and second parts of this question are related to the previous question
 Column categories: Very Frequently; Frequently; Occasionally; Rarely; Very Rarely; Never.
 
 Row categories:
+
 Any form of sign language
+
 English
+
 Saint Lucian Kwéyòl (Antillean Creole/Patios)
+
 Haitian Creole
+
 French
+
 Spanish
+
 Papiamento
+
 Portuguese
+
 Dutch
-Any form of sign language
+
 Hindi (or any Indian subcontinental language not mentioned)
+
 Arabic (or any Mediterranean language not mentioned)
+
 Swahili (or any African language not mentioned)
-Russian (or any Eurasian language not mentioned)
+
+Russian (or any Eurasianlanguage not mentioned)
+
 Japanese
+
 Mandarin
 
 While this survey cannot acquire data from past clients, this question aims to collect data on the languages that lawyers commonly encounter. The language one speaks is not guaranteed to be what one will encounter. It will be interesting to note where the client and lawyer languages overlap and where they do not. Answering is not optional here as this information is crucial to the survey.
