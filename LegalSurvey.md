@@ -269,8 +269,7 @@ Sports Law
 
 Tax/ Revenue Law
 
-Teaching Law (including Law & Legal Systems, Jurisprudence, 
-International Mooting, etc.)
+Teaching Law (including Jurisprudence, International Mooting, etc.)
 
 Tort Law
 
