@@ -39,8 +39,10 @@ Thus far between four and eleven words were found to overlap in spelling and hav
 
 >![Table1](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/ht_translationtable.PNG)<-
 Overall, it should be noted that there were some inconsistencies between the output of the two Google language detection tools. For example, it did appear that some words were detected as Belarusian via the Google Spreadsheet, yet Finnish via GoogleTranslate. This also occurred with Bengali (with the former) and  Bangla (with the latter). Other words were detected as English via the Google Spreadsheet, yet Swedish with GoogleTranslate, or viewed as Hungarian with the former, yet English or Dutch with the latter. 
+
 Detection of such as 'las', 'pijé', 'tan', 'taza', and 'waz', appeared to be the most problematic. Google Spreadsheet struggled to provide a singular suggestion, and so provided the non-standard language code 'it is', which could be interpreted as bearing Italian and Icelandic options. However, GoogleTranslate detected most of those words as either Italian, Spanish, or English. 
-In fact, Google Spreadsheet produced random codes for languages that GoogleTranslate appeared to handle seamlessly. For example, some words that GoogleTranslate detected as Catalan, Google Spreadsheet provided a non-standard language code of 'that'. Additionally, Sundanese words were noted as 'its', Esperanto as 'it's the', Corsican as 'What', Arabic as 'With', Turkish as 'trick', Vietnamese as 'we', and Nyanja as 'new'.
+
+Moreover, Google Spreadsheet produced random codes for languages that GoogleTranslate appeared to handle better. For example, some words that GoogleTranslate detected as Catalan, Google Spreadsheet provided a non-standard language code of 'that'. Other instances included Sundanese words noted as 'its', Esperanto as 'it's the', Corsican as 'What', Arabic as 'With', Japanese (and Estonian) as 'and', Turkish as 'trick', Vietnamese as 'we', and Nyanja as 'new'.
 
 
 ### References:
