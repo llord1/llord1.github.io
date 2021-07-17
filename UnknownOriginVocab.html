@@ -1,0 +1,179 @@
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7 ie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8 ie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9 ie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<title>Vocabulary of Unknown Origin</title>
+	<meta name="author" content="Laurel Lord">
+	<link href='/assets/themes/the-program/css/style.css' rel="stylesheet" media="all">
+	<link href="http://feeds.feedburner.com/" rel="alternate" title="Vocabulary of Unknown Origin" type="application/atom+xml">
+	<script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.0.6/modernizr.min.js"></script>
+</head>
+<body>
+
+<div id="page" class="hentry">
+	<header class="the-header">
+		<div class="unit-head">
+			<div class="unit-inner unit-head-inner">
+				<nav class="nav-global">
+					<ul>
+						<li class="logo"><a href="/">Laurel's Works in Progress</a></li>
+						<li class="archive"><a href="/archive.html">archive</a></li>
+						<li class="page"><a href="/pages.html">pages</a></li>
+						<li class="category"><a href="/categories.html">categories</a></li>
+						<li class="tag"><a href="/tags.html">tags</a></li>
+						<li class="forkme"><div><iframe src="http://markdotto.github.com/github-buttons/github-btn.html?user=plusjade&repo=jekyll-bootstrap&type=fork&count=true"
+									allowtransparency="true" frameborder="0" scrolling="0" width="95px" height="20px"></iframe></div></li>
+					</ul>
+				</nav>
+			</div><!-- unit-inner -->
+		</div><!-- unit-head -->
+	</header>
+	<div class="body" role="main">
+		<div class="unit-body">
+			<div class="unit-inner unit-body-inner">
+				<div class="entry-content">
+					
+
+<article class="unit-article layout-page">
+	<div class="unit-inner unit-article-inner">
+		<div class="content">
+			<header>
+				<div class="unit-head">
+					<div class="unit-inner unit-head-inner">
+						<h1 class="h2 entry-title">Vocabulary of Unknown Origin</h1>
+					</div><!-- unit-inner -->
+				</div><!-- unit-head -->
+			</header>
+
+			<div class="bd">
+				<div class="entry-content">
+					
+<h3 id="overview">Overview:</h3>
+
+<p>The complexity of creoles can demonstrate a unique symbiotic relationship with current language detection tools; for example, the mysteries of a low-resource creole language can be explored, while simultaneously challenging current language identification tools.</p>
+
+<p>This is work serves as a first stage of using modern data science tools to investigate the etymological mysteries that David Frank highlighted in his 2007 work <a href="http://saintluciancreole.dbfrank.net/workpapers/sources_of_vocabulary.pdf">“Sources of St. Lucian Creole Vocabulary’</a> <a class="citation" href="#frank2007sources">(Frank, 2007)</a>. With the resources available to him at that time, Frank was able to identify Saint Lucian Kwéyòl (ACF) Vocabulary of French, English, Indian,  African, Amerindian, and Spanish or Portuguese origin <a class="citation" href="#frank2007sources">(Frank, 2007)</a>. And yet, one of the last sections of that work highlighted that almost twelve percent of his language dataset consisted of ‘Vocabulary of Unknown Origin’ <a class="citation" href="#frank2007sources">(Frank, 2007)</a>. That vocabulary list will be the focus of this investigation.</p>
+
+<p>It should be noted that Frank did include a few of his attempts at addressing the issues of the vocabulary list. He suggested that some of these could indeed have a French source, but that he could not provide a precise French form that adequately matched up with the Kwéyòl equivalent. While not all words of this list would have links to the French language, ‘ankléwant’, ‘finisman’, ‘hayisans’, and ‘kléwé’, were noted as possibly having French sources. Thus the existing hypothesis is that most of the unknown words may have French sources that are yet to be revealed.</p>
+
+<ul>
+  <li>
+    <p><em>need to include literature review details on other currently available language detection/identification software/tools</em></p>
+  </li>
+  <li>
+    <p>*need to include other details concerning exploration of words by dimensions matrix</p>
+  </li>
+</ul>
+
+<h3 id="methodology">Methodology:</h3>
+
+<p>Current modern tools do not currently accommodate the Saint Lucian Kwéyòl language. However, attempts were made to explore their current capabilities. One can hypothesize that while these tools would not accurately translate the list of Saint Lucian Kwéyòl language words of unknown etymology, underlying etymological links could be drawn from languages detected and their output. Therefore, it was speculated that if similarities were uncovered, the languages’ dictionaries could serve as a more direct unveiling of the shared etymology <a class="citation" href="#frank2001kweyol">(Crosbie et al., 2001)</a>. The output could then be clustered for ease of viewing and analysis. Further exploration would include a quantifiable check on the word similarities; particularly, on the manually annotated and highlighted instances. Ultimately, creating a code to automate and link these tasks could improve future efforts at using data science to decipher details of other creole languages.</p>
+
+<p>*Explain how words by dimensions matrix will be used here</p>
+
+<h3 id="tools">Tools:</h3>
+
+<p>The word list would be run through two free language detection tools offered by Google. These being GoogleTranslate web application (translate.google.com) and the Google Spreadsheet function  (=GOOGLETRANSLATE(DETECTLANGUAGE(X)) via a personal docs.google.com/spreadsheets account). Both were used as a means of confirming or clarifying details for a more comprehensive final output. 
+For example, the results of the GoogleTranslate application can suggest alternative spellings or other possible languages with tweaking of characters or context. However, it only has the exact name of the detected language, but no language code. The Google Spreadsheet can suggest a language code and thus detect a language, however, it is a flawed tool. Some codes appear to be outside of the established ‘Codes for the Representation of Names of Languages’ <a class="citation" href="#loc_2013">(of Congress, 2013)</a>, and thus appear to incorrectly detect some languages. While issues, such as detections of English words being recognized as ‘on’ rather than the standard ‘en’ can be present, this tool’s output can be used to confirm those of GoogleTranslate. However, occasionally, the output can indeed diverge from GoogleTranslate. These instances can, however, be viewed as useful to the refining of overall language comparison options. Notes were made on such observations.</p>
+
+<h3 id="results-and-discussion-thus-far">Results and Discussion <em>thus far</em>:</h3>
+
+<p>*So far I have created a <a href="https://docs.google.com/spreadsheets/d/1eQUGn4ctRv5oCrpVZf_GCJQ8WL9hmrON4sMsudlnMx8/edit?usp=sharing">Google spreadsheet</a> to note the results of both tools when compared to the definitions of Frank’s ACF dictionary.</p>
+
+<p>Manual annotations noted some possible similarities in scattered among several languages. For example, “awa”  (meaning ‘No! Oh no!’; typically used to express pity, surprise, or disbelief) was translated as “pity” in the Cebuano language (Ceb). Additionally, “chwichwi” (meaning ‘to whisper’) was translated as “squeak” in Welsh. Notably, these similarities appear to be linked to sounds and possible onomatopoeia.</p>
+
+<p>The majority of the source vocabulary list was unsurprisingly detected as being Haitian Creole - another creole language within the same region.  While about 26 instances of French were detected, at least 127 instances of Haitian creole were detected. However, the majority of those words that were detected as Haitian Creole did not share meanings with Saint Lucian Kwéyòl. Nonetheless, Haitian Creole did have the most instances of possible vocabulary overlap.</p>
+
+<p>Yet, this was not without confusion. For instance, while both languages share the word ‘fòs’, meaning ‘force, strength’. However, Saint Lucian Kwéyòl assigns an additional meaning to the word. The etymological mystery lies with its use as ‘furrow, mound, heap, hillock, knoll for planting’. This issue also occurred with the word ‘manm’. Both share the meaning of ‘member’ (of a group), however, the etymological mystery lies with its use as ‘muscle’. The word ‘Mèyè’ also experiences this confusion. Both words can be used as the adjective ‘better’, yet the details of the additional use as the title of ‘Mistress’ is unknown.</p>
+
+<p>The scope had to be narrowed for drawing similarities with manual annotation to reduce possible interpreter bias and subjectivity. For example, one could make the case for similarities in the meaning and application of the word ‘galè’ While this is yet another word with multiple meanings in Saint Lucian Kwéyòl, its reference to woodwork ‘plane’ may be associated with Haitian Creole’s use as ‘galley’; both relate to carpentry.</p>
+
+<p>Thus far, between four and eleven words were found to overlap in spelling and have matching or similar meanings. The results are in Table 1. For example, the word ‘fanmchay’ is recognized as ‘midwife’ in both languages.</p>
+
+<p><a href="https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/ht_translationtable.PNG" width="600">Table1</a></p>
+
+<p>As noted before, Frank did attempt to address the issues of the vocabulary list by suggesting that most of these words might have French sources. However, only a few words in this dataset aligned with his French suggestion and were indeed detected as French. For example, the word ‘ankléwant’ (shiny) was suggested to have a French source. This assumption was supported by both Google tools. The strongest connection appears to have been with Frank’s annotation that the French’s ‘soeur’ had a direct connection with ACF’s ‘sésé’ (sister). This assumption was supported by both Google tools.</p>
+
+<p>Overall, it should be noted that there were some inconsistencies between the output of the two Google language detection tools. For example, it did appear that some words were detected as Belarusian via the Google Spreadsheet, yet Finnish via GoogleTranslate. This also occurred with Bengali (with the former) and  Bangla (with the latter). Other words were detected as English via the Google Spreadsheet, yet Swedish with GoogleTranslate, or viewed as Hungarian with the former, yet English or Dutch with the latter.</p>
+
+<p>Detection of such as ‘las’, ‘pijé’, ‘tan’, ‘taza’, and ‘waz’, appeared to be the most problematic. Google Spreadsheet struggled to provide a singular suggestion, and so provided the non-standard language code ‘it is’, which could be interpreted as bearing Italian and Icelandic options. However, GoogleTranslate detected most of those words as either Italian, Spanish, or English.</p>
+
+<p>Moreover, Google Spreadsheet produced random codes for languages that GoogleTranslate appeared to handle better. For example, some words that GoogleTranslate detected as Catalan, Google Spreadsheet provided a non-standard language code of ‘that’. Other instances included Sundanese words noted as ‘its’, Esperanto as ‘it’s the’, Corsican as ‘What’, Arabic as ‘With’, Japanese (and Estonian) as ‘and’, Turkish as ‘trick’, Vietnamese as ‘we’, and Nyanja as ‘new’.</p>
+
+<h3 id="references">References:</h3>
+
+<ol class="bibliography"><li><span id="frank2007sources">Frank, D. B. (2007). <i>Sources of St. Lucian Creole Vocabulary</i>. http://www.saintluciancreole.dbfrank.net/workpapers/sources_of_vocabulary.pdf</span></li>
+<li><span id="frank2001kweyol">Crosbie, P., Frank, D., Leon, E., Samuel, P., &amp; Castries, S. L. (2001). Kwéyòl dictionary. <i>Castries, Government of Saint Lucia, Ministry of Education</i>. http://www.saintluciancreole.dbfrank.net/dictionary/KweyolDictionary.pdf</span></li>
+<li><span id="loc_2013">of Congress, L. (2013). Codes for the Representation of Names of Languages. In <i>ISO 639-2 Language Code List - Codes for the representation of names of languages (Library of Congress)</i>. Library of Congress. https://www.loc.gov/standards/iso639-2/php/code_list.php</span></li></ol>
+
+
+				</div><!-- entry-content -->
+			</div><!-- bd -->
+
+			<footer class="unit-foot">
+				<div class="unit-inner unit-foot-inner">
+					<p class="gotop">
+						<a href="#page">Back to Top</a>
+					</p>
+				</div>
+			</footer>
+
+		</div><!-- content -->
+	</div><!-- unit-inner -->
+</article>
+
+
+				</div>
+			</div><!-- unit-inner -->
+		</div><!-- unit-body -->
+	</div><!-- body -->
+	<footer class="the-footer">
+		<div class="unit-foot">
+			<div class="unit-inner unit-foot-inner">
+				<div class="misc vcard">
+					<h4>about</h4>
+					<ul>
+						<li class="contact"><address><span class="author fn n">Laurel Lord</span> - <span class="fn email">lalord@my.harrisburgu.edu</span></address></li>
+						<li class="github"><a href="http://github.com/llord1/" rel="me">github.com/llord1</a></li>
+						<li class="twitter"><a href="http://twitter.com//" rel="me">twitter.com/</a></li>
+						<li class="rss"><a href="http://feeds.feedburner.com/">Subscribe to RSS Feed</a></li>
+					</ul>
+				</div><!-- misc -->
+				<p class="licence">
+					Theme: <a href="http://layouts-the.me">the_minimum</a> based on <a href="http://jekyllbootstrap.com/">Jekyll-bootstrap</a>.<br>
+					Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a>.
+				</p>
+			</div><!-- unit-foot-inner -->
+		</div><!-- unit-foot -->
+	</footer>
+</div><!-- page -->
+<script>
+	(function(d, s) {
+		var js, fjs = d.getElementsByTagName(s)[0], load = function(url, id) {
+		if (d.getElementById(id)) {return;}
+		js = d.createElement(s); js.src = url; js.id = id;
+		fjs.parentNode.insertBefore(js, fjs);
+		};
+	load('//platform.twitter.com/widgets.js', 'tweetjs');
+	// load('https://apis.google.com/js/plusone.js', 'gplus1js'); // Checkout http://j.mp/ApDgMr for usage html for this is <div class="g-plusone" data-size="medium"></div>
+	// load('//connect.facebook.net/en_US/all.js#xfbml=1', 'fbjssdk'); // Checkout http://j.mp/wZw2xR for using open graph protorol html for this is <div class="fb-like" data-href="/UnknownOriginVocab" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false" data-font="verdana"></div>
+	}(document, 'script'));
+</script>
+<script>
+/*! A fix for the iOS orientationchange zoom bug.Script by @scottjehl, rebound by @wilto. MIT License.*/
+(function(j){var i=j.document;if(!i.querySelectorAll){return}var l=i.querySelectorAll("meta[name=viewport]")[0],a=l&&l.getAttribute("content"),h=a+", maximum-scale=1.0",d=a+", maximum-scale=10.0",g=true,c=j.orientation,k=0;if(!l){return}function f(){l.setAttribute("content",d);g=true}function b(){l.setAttribute("content",h);g=false}function e(m){c=Math.abs(j.orientation);k=Math.abs(m.gamma);if(k>8&&c===0){if(g){b()}}else{if(!g){f()}}}j.addEventListener("orientationchange",f,false);j.addEventListener("deviceorientation",e,false)})(this);
+</script>
+  
+  
+
+
+
+</body>
+</html>
+
