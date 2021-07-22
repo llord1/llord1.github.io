@@ -8,9 +8,11 @@ tags: [Assets]
 
 ### Overview:
 
-The complexity of creoles can demonstrate a unique symbiotic relationship with current language detection tools; for example, the mysteries of a low-resource creole language can be explored, while simultaneously challenging current language identification tools.
+The complexity of creoles can demonstrate a unique symbiotic relationship with current language detection tools; for example, the mysteries of a low-resource creole language can be explored, while simultaneously challenging current language detection/ identification tools.
 
-This is work serves as a first stage of using modern data science tools to investigate the etymological mysteries that David Frank highlighted in his 2007 work ['Sources of St. Lucian Creole Vocabulary'](http://saintluciancreole.dbfrank.net/workpapers/sources_of_vocabulary.pdf) {% cite frank2007sources %}. With the resources available to him at that time, Frank was able to identify Saint Lucian Kwéyòl Vocabulary of French, English, Indian,  African, Amerindian, and Spanish or Portuguese origin {% cite frank2007sources %}. And yet, one of the last sections of that work highlighted that almost twelve percent of his language dataset consisted of 'Vocabulary of Unknown Origin' {% cite frank2007sources %}. That Kwéyòl (language code ACF) vocabulary list will be the focus of this investigation. 
+This work will first explore various modern data science tools to investigate the etymological mysteries that David Frank manually annotated in his 2007 work ['Sources of St. Lucian Creole Vocabulary'](http://saintluciancreole.dbfrank.net/workpapers/sources_of_vocabulary.pdf) {% cite frank2007sources %}. With the resources available to him at that time, Frank was able to identify Saint Lucian Kwéyòl Vocabulary of French, English, Indian,  African, Amerindian, and Spanish or Portuguese origin {% cite frank2007sources %}. 
+
+And yet, one of the last sections of that work highlighted that almost twelve percent of his language dataset consisted of 'Vocabulary of Unknown Origin' {% cite frank2007sources %}. That Kwéyòl (language code ACF) vocabulary list will be the focus of this investigation. 
 
 It should be noted that Frank did include a few of his attempts at addressing the issues of the vocabulary list. He suggested that some of these could indeed have a French source, but that he could not provide a precise French form that adequately matched up with the Kwéyòl equivalent. While not all words of this list would have links to the French language, 'ankléwant', 'finisman', 'hayisans', and 'kléwé', were noted as possibly having French sources. Thus the existing hypothesis is that most of the unknown words may have French sources that are yet to be revealed.
 
@@ -55,6 +57,7 @@ Overall, it should be noted that there were some inconsistencies between the out
 Detection of such words as 'las', 'pijé', 'tan', 'taza', and 'waz', appeared to be the most problematic. Google Spreadsheet struggled to provide a singular suggestion, and so provided the non-standard language code 'it is', which could be interpreted as bearing Italian and Icelandic options. However, GoogleTranslate detected most of those words as either Italian, Spanish, or English. This could be due to some word structures (stems, etc.) being shared or being to others within the same Romance language grouping; Spanish, Italian, Romanian, Portuguese, and French fall into this category, however, Spanish and Italian appear to be difficult to decipher.
 
 Moreover, Google Spreadsheet produced random codes for languages that GoogleTranslate appeared to handle better. For example, some words that GoogleTranslate detected as Catalan, Google Spreadsheet provided a non-standard language code of 'that'. Other instances included Sundanese words noted as 'its', Esperanto as 'it's the', Corsican as 'What', Arabic as 'With', Japanese (and Estonian) as 'and', Turkish as 'trick', Vietnamese as 'we', and Nyanja as 'new'.
+
 
 
 ### References:
