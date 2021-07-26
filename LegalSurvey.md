@@ -13,7 +13,7 @@ Effective communication can mean the difference between life and death in fields
 
 ### Literature Review:
 
-Lack of labor demographic and linguistic data in Saint Lucia:
+*Lack of labor demographic and linguistic data in Saint Lucia:*
 
 Thoughtful deliberation of linguistics, particularly consideration of language barriers, is increasing in the medical field. As recently as 2019, Sweden conducted a national study on health care professionals' communications through interpreters; this study occurred after noting that many parents utilizing neonatal care were foreign-born and unable to effectively communicate with the healthcare professionals in the local language {% cite patriksson2019health %}. In 2013, an investigation highlighted communications issues between physicians and Spanish-speaking Latin American women with pelvic floor disorders {% cite sevilla2013communication %}. That study highlighted that apart from a patient's lack of disease understanding, there was a lack of Spanish proficiency among the participating physicians. Another 2013 qualitative study (conducted on linguistics) centered around the perceptions of patient-provider communication in breast and cervical cancer-related care when dealing with low-income English and Spanish-speaking women {% cite simon2013perceptions %}. In 2009, there was similar work done on a competent peer support intervention for Spanish-speaking Latinas with breast cancer {% cite napoles2009developing %}. 
 
@@ -29,7 +29,7 @@ Saint Lucia's National Environmental Information System (NEIS)  has been one of 
 
 A need for additional data regarding lawyer demographics in Saint Lucia has been identified. To address this need, while following social distancing protocols, online surveying was selected as the tool of data collection. Ultimately, such a survey can be applied to lawyers, teachers, nurses, or police officers - any profession that requires direct extended interaction with a citizen to provide a sense of safety and security.
 
-The Saint Lucian digital environment and survey instruments:
+*The Saint Lucian digital environment and survey instruments:*
 
 Data collection via surveys is virtually challenging to conduct anywhere. However, in developing nations, limited access to various forms of infrastructure provides additional obstructions. One paper cited at least three major challenges to conducting surveys in the Caribbean {% cite tindigarukayo2001challenges %}. Firstly, it stated there were issues with meager sampling frames from which to select representative samples (especially when sampling noninstitutionalized populations). Secondly, administering various survey instruments was difficult; mailers were challenging due to unreliable postal systems, telephone interviews would be inherently biased due to limited access to telecommunication infrastructure and devices, and local pockets of crime made in-person interviews problematic. Thirdly, effectively surveying these areas of much inherent cultural and linguistic diversity would be challenging.
 
@@ -42,7 +42,22 @@ Overall, this work aims to gather general demographic data of lawyers and identi
 
 ### Methodology: 
 
-The legal profession currently heavily uses internet-accessible communication devices provides an apt setting for digital surveys. Jotform.com hosts the online survey as other generic online forms, such as Google Forms or Surveymonkey, had fewer customization offerings. The president of the Saint Lucia Bar Association will facilitate its distribution within the organization. Advertisements with local news and radio stations will not be necessary for promotion.
+The legal profession currently heavily uses internet-accessible communication devices provides an apt setting for digital surveys. Jotform.com was chosen to host this online survey as other generic online forms, such as Google Forms or Surveymonkey, had fewer customization offerings. 
+
+This demographic and linguistic research study has been approved by the Institutional Review Board (IRB) of Harrisburg University of Science and Technology (HU). This research study is led by Laurel Lord, a Ph. D. candidate in Data Science Department at HU. The faculty advisors for this study are Dr. Kayla Jordan, Assistant Professor of Social Analytics, and Mark Newman, Corporate Faculty of Analytics.
+
+This study is being conducted in compliance with the standards and guidelines given by the HU IRB. The Collaborative Institution Training Initiative (CITI) Program has certified the researcher, Laurel Lord, for human-subject research.
+
+Each participant is asked to fill out an online survey to provide their basic demographic details, statements on their multilingual capacities, and statements on the current linguistic legal environment. The form contains twelve questions that each participant should be able to complete in less than twenty minutes.
+
+There is no compensation for participation as the president of the Saint Lucia Bar Association will facilitate its distribution within the organization. Moreover, since this is an internal survey, there will be no need for promotion via advertisements with local news and radio stations.
+
+Survey participation is voluntary, and individuals may choose not to participate if uncomfortable with answering any of the questions after signing the consent form; this can be done by withdrawing from the survey at any time without penalty. To withdraw, close the form window without hitting the "Submit" button.
+
+There is no anticipated risk for the participant in this research. All information will be protected, and the confidentiality of the data will be maintained throughout this research. All data collected will be saved in a standard hard drive for three years before deletion; non-identifiable data, and a report, will be submitted to the Bar Association of Saint Lucia and The Central Statistical Office of Saint Lucia. The data collected will be saved in a standard hard drive for three years; non-identifiable data, and a report, will be submitted to the Bar Association of Saint Lucia and The Central Statistical Office of Saint Lucia.
+
+Any questions may be directed to Laurel Lord at lalord@my.harrisburgu.edu. Questions or concerns regarding your rights as a subject in this study may be directed to HU IRB via 717-901-5100 or their website at harrisburgu.edu/irb.
+
 [See draft online form](https://form.jotform.com/203134599286160).
 
 May attempt using the Chi-square test of independence for the following survey questions.
@@ -415,7 +430,6 @@ Not well
 Not at all	
 
 b) Please indicate which technique best describes how you came to learn the aforementioned language; please select all that apply. 
-
 
 Column categories:
 Formal education (requirement/ elective); Informal education
