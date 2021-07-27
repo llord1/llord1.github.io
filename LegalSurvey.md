@@ -46,15 +46,15 @@ The legal profession currently heavily uses internet-accessible communication de
 
 This demographic and linguistic research study has been approved by the Institutional Review Board (IRB) of Harrisburg University of Science and Technology (HU). This research study is led by Laurel Lord, a Ph. D. candidate in Data Science Department at HU. The faculty advisors for this study are Dr. Kayla Jordan, Assistant Professor of Social Analytics, and Mark Newman, Corporate Faculty of Analytics.
 
-This study is being conducted in compliance with the standards and guidelines given by the HU IRB. The Collaborative Institution Training Initiative (CITI) Program has certified the researcher, Laurel Lord, for human-subject research.
+This study is conducted in compliance with the standards and guidelines given by the HU IRB. The Collaborative Institution Training Initiative (CITI) Program has certified the researcher, Laurel Lord, for human-subject research.
 
 Each participant is asked to fill out an online survey to provide their basic demographic details, statements on their multilingual capacities, and statements on the current linguistic legal environment. The form contains twelve questions that each participant should be able to complete in less than twenty minutes.
 
-There is no compensation for participation as the president of the Saint Lucia Bar Association will facilitate its distribution within the organization. Moreover, since this is an internal survey, there will be no need for promotion via advertisements with local news and radio stations.
+There is no compensation for participation as the president of the Saint Lucia Bar Association will facilitate its distribution within the organization. Moreover, since this is an internal survey, there will be no need for promotion via local news and radio station advertisements.
 
 Survey participation is voluntary, and individuals may choose not to participate if uncomfortable with answering any of the questions after signing the consent form; this can be done by withdrawing from the survey at any time without penalty. To withdraw, close the form window without hitting the "Submit" button.
 
-There is no anticipated risk for the participant in this research. All information will be protected, and the confidentiality of the data will be maintained throughout this research. All data collected will be saved in a standard hard drive for three years before deletion; non-identifiable data, and a report, will be submitted to the Bar Association of Saint Lucia and The Central Statistical Office of Saint Lucia. The data collected will be saved in a standard hard drive for three years; non-identifiable data, and a report, will be submitted to the Bar Association of Saint Lucia and The Central Statistical Office of Saint Lucia.
+There is no anticipated risk to the participant in this research. All information will be protected, and the confidentiality of the data will be maintained throughout this research. All data collected will be saved in a standard hard drive for three years before deletion; non-identifiable data, and a report, will be submitted to the Bar Association of Saint Lucia and The Central Statistical Office of Saint Lucia. The data collected will be saved in a standard hard drive for three years; non-identifiable data, and a report, will be submitted to the Bar Association of Saint Lucia and The Central Statistical Office of Saint Lucia.
 
 Any questions may be directed to Laurel Lord at lalord@my.harrisburgu.edu. Questions or concerns regarding your rights as a subject in this study may be directed to HU IRB via 717-901-5100 or their website at harrisburgu.edu/irb.
 
