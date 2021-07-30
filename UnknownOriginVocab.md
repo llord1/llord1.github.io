@@ -2,9 +2,9 @@
 layout: page
 title: "Vocabulary of Unknown Origin"
 description: "Vocabulary of Unknown Origin"
-tags: [Assets]
 ---
 {% include JB/setup %}
+
 
 ### Overview:
 
@@ -119,6 +119,7 @@ Ultimately, one could state that some of the unknown vocabulary words may indeed
 
 
 
+
 #### Other tool discussion:
 
 #### General discussion:
@@ -129,3 +130,4 @@ Ultimately, one could state that some of the unknown vocabulary words may indeed
 {% bibliography --cited %}
 
 {% include JB/setup %}
+

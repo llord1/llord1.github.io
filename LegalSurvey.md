@@ -52,7 +52,7 @@ This demographic and linguistic research study has been approved by the Institut
 
 This study is conducted in compliance with the standards and guidelines given by the HU IRB. The Collaborative Institution Training Initiative (CITI) Program has certified the researcher, Laurel Lord, for human-subject research.
 
-Each participant is asked to fill out an online survey to provide their basic demographic details, statements on their multilingual capacities, and statements on the current linguistic legal environment. The form contains twelve questions that each participant should be able to complete in less than twenty minutes.
+Each participant is asked to fill out an anonymous online survey to provide their basic demographic details, statements on their multilingual capacities, and statements on the current linguistic legal environment. The form contains twelve questions that each participant should be able to complete in less than twenty minutes.
 
 There is no compensation for participation as the president of the Saint Lucia Bar Association will facilitate its distribution within the organization. Moreover, since this is an internal survey, there will be no need for promotion via local news and radio station advertisements.
 
