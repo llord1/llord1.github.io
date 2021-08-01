@@ -4,8 +4,6 @@ title: "Vocabulary of Unknown Origin"
 description: "Vocabulary of Unknown Origin"
 ---
 {% include JB/setup %}
-
-
 ### Overview:
 
 Modern communication and educational tools can facilitate the ease of creation of new languages as well as the study and preservation of others. The complexity of creoles can demonstrate a unique symbiotic relationship with current language detection tools; for example, the mysteries of a low-resource creole language can be explored, while simultaneously challenging current language detection/ identification tools. For example, within the Caribbean, several creoles exist; many of which are intrinsically linked due to their different yet shared histories of colonization. This work aims to explore the outputs of various modern language detection/ tools when encountering a language that is not included in their knowledge banks and addresses lingering etymological concerns.
@@ -84,7 +82,7 @@ On the other hand, there were instances where words did not visually appear to h
 
 In fact, at least seventeen (17) items were detected as Sundanese, and at least one more word was originally annotated as French.  Frank noted 'wépantisman' (repentance)	as having a connection to the French word 'répentir' (repentance), yet the Google tools detected it as Sundanese. In observing this confusion, one could assume that ACF appears to, at times, replace 'r' sounds with 'w' sounds, thus causing issues for the detection tools. The question then would be why does this occur, and if it occurs in other languages; if so, perhaps those languages might provide additional helpful information. *Perhaps all the words detected as Sundanese might need to be run through a French translator to see if any other underlying connections could be revealed. *
 
-Overall, the majority of the source vocabulary list was, in fact, detected as being Haitian Creole - another creole language within the same region.   While about 26 instances of French were detected, at least 127 instances of Haitian creole were detected during the initial exploratory phase. However, the majority of words detected as Haitian Creole did not appear to share meanings with Saint Lucian Kwéyòl during that phase. This, therefore, made attempts at etymological associations difficult to justify without additional exploration.
+The majority of the source vocabulary list was actually detected as being Haitian Creole - another creole language within the same region.   While about 26 instances of French were detected, at least 127 instances of Haitian creole were detected during the initial exploratory phase. However, the majority of words detected as Haitian Creole did not appear to share meanings with Saint Lucian Kwéyòl during that phase. This, therefore, made attempts at etymological associations difficult to justify without additional exploration.
 
 However, it should be noted that upon a second passing, the number of similarities increased. It does appear that both HC and ACF have high levels of polysemy. When consulting multiple actual Haitian dictionaries, the second available definition was often the one that was actually shared. It appeared that in those cases, Google's tools failed to display the option most relevant to this study. 
 
@@ -115,7 +113,7 @@ Moreover, Google Spreadsheet produced random codes for languages that GoogleTran
 
 At this point, one could state that, overall, Google's language detection tools are less accurate than their translation offerings when dealing with creole languages not included in their knowledge base. There were several detection issues, however, directly pairing the words with specific language and checking their translations did appear to be beneficial. While the translation tools were often incorrect due to underlying language complications (such as polysemy, hypernymy, hyponymy, and part meronomy), they were useful in the initial exploratory stage.
 
-Ultimately, one could state that some of the unknown vocabulary words may indeed have French origins, however, they may be based on 'Old French' (and possibly Germanic). In fact, these particular words may be hybrids, a mix of Old French with a few influences of other languages (thus spellings being off by a few characters). For example, the ACF word 'gwaté (to scratch, to scrape), was excluded from this problematic vocabulary list as it was definitively associated with the modern French term 'gratter' (to scratch) {% cite frank2001kweyol frank2007sources %}. However, while 'gwajé' (to grate) is detected as Sundanese (with no translation) the etymology of 'grate' is generally accepted as being from Old French grater (and of Germanic origin as 'kratzen  means ‘to scratch’.) {% cite frank2007sources %}. Modern French uses 'râper'. *There may be an additional language influence from one that replaces the sound 'te' or 'té' with 'j'.*
+Ultimately, one could state that some of the unknown vocabulary words may indeed have French origins, however, they may be based on 'Old French' (and possibly Germanic). In fact, these particular words may be hybrids, a mix of Old French with a few influences of other languages (thus spellings being off by a few characters). For example, the ACF word 'gwaté (to scratch, to scrape), was excluded from this problematic vocabulary list as it was definitively associated with the modern French term 'gratter' (to scratch) {% cite frank2001kweyol frank2007sources %}. However, while 'gwajé' (to grate) is detected as Sundanese (with no translation) the etymology of 'grate' is generally accepted as being from Old French grater (and of Germanic origin as 'kratzen means ‘to scratch’.) {% cite frank2007sources %}. Modern French uses 'râper'. *There may be an additional language influence from one that replaces the sound 'te' or 'té' with 'j'.*
 
 
 
@@ -130,4 +128,3 @@ Ultimately, one could state that some of the unknown vocabulary words may indeed
 {% bibliography --cited %}
 
 {% include JB/setup %}
-
