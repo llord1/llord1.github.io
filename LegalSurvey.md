@@ -510,7 +510,7 @@ Formal education (requirement/ elective); Informal education
 
 Row categories: Second Language, Third Language
 
-The first and second parts of this question are related to the previous question on language acquisition environments. However, these questions delve deeper into the presence of multilinguals in this profession, rather than the prior question's focus on identifying the details of one's primary language. The parameters of the prior question are used here, yet answering is optional.
+The first and second parts of this question are related to the previous question on language acquisition environments. However, these questions delve deeper into the presence of multilinguals in this profession, rather than the prior question's focus on identifying the details of one's primary language. The parameters of the prior question are used here, yet answering is optional. Only two additional options were made available as a means confirming or disproving whether Saint Lucian creole is indeed the second most dominant language in the country.
 
 12) Please indicate which language frequency category best reflects your typical client interactions. This question only requires one response per row.
 
