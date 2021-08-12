@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Linguistic Legal Representation"
-description: "Linguistic Legal Representation Survey"
+title: "Introduction to  Foundational Surveys"
+description: "Introduction to  Foundational Surveys"
 tags: [Assets]
 ---
 {% include JB/setup %}
