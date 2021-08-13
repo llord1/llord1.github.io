@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Path to Ph.D." 
-description: "Path to Ph.D."
+title: "10. Path to Ph.D." 
+description: "10. Path to Ph.D."
 ---
 {% include JB/setup %}
 

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Vocabulary of Unknown Origin"
-description: "Vocabulary of Unknown Origin"
+title: "7. Vocabulary of Unknown Origin"
+description: "7. Vocabulary of Unknown Origin"
 ---
 {% include JB/setup %}
 

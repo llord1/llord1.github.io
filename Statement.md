@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Statement of Research Questions or Hypothesis"
-description: "A statement of research question(s) and/or the hypothesis(es) to be tested."
+title: "3. Statement of Research Questions or Hypothesis"
+description: "3. A statement of research question(s) and/or the hypothesis(es) to be tested."
 ---
 
 ### Brief Introduction: 

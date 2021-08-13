@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Brief Introduction: Low-resource Cross-lingual Framework"
-description: "Introduction to Low-resource Cross-lingual Framework"
+title: "1. Brief Introduction: Low-resource Cross-lingual Framework"
+description: "1. Introduction to Low-resource Cross-lingual Framework"
 ---
 {% include JB/setup %}
 
