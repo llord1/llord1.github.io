@@ -1,17 +1,68 @@
 ---
 layout: page
-title: "1. Brief Introduction: Low-resource Cross-lingual Framework"
-description: "1. Introduction to Low-resource Cross-lingual Framework"
+title: "1.  Novel natural language processing (NLP) strategies to promote the revitalization and preservation of low-resource languages"
+description: "1. Novel natural language processing (NLP) strategies to promote the revitalization and preservation of low-resource languages"
+tags: [Assets]
 ---
 {% include JB/setup %}
 
+
+### Introduction:
+
+My dissertation proposes novel natural language processing (NLP) strategies to promote the revitalization and preservation of low-resource languages. Most current language models do not focus on or have difficultly with handling low-resource languages - particularly creoles. Ultimately, I shall review the current state of the vitality of an assumed low-resource language and introduce models for tackling the various complications associated with digitizing such complex languages as a creole.
+
+Saint Lucian Kwéyòl (also known as Antillean Creole French - ACF) serves as my base creole lens I will utilize to explore select data science models, concepts, and surveys of this supposed low-resource creole language. Without first reviewing its current status, one cannot claim to have successfully aided in the revitalization or preservation of a language. However, in my research, I found a lack of definitive information on the current status of the Kwéyòl language. Thus this lack of Kwéyòl language information presented a unique opportunity to bolster my dissertation by pairing the NLP exploration of a low-resource language with an investigation of the vitality of an assumed low-resource language. 
+
+
 #### __Working Title:__
 
-Data science investigations into Saint Lucian Creole; preserving a low resource creole language through compiling, deciphering, and understanding creole data.
+ Novel natural language processing (NLP) strategies to promote the revitalization and preservation of low-resource creole languages through compiling, deciphering, and understanding creole data.
 
 #### __Working Statement of Problem:__
 
 What are the factors associated with Saint Lucian Creole's exclusion from most modern machine translation platforms, and how can this exclusion be addressed through Data Science tools and techniques? Can the  Kwéyòl language be effectively served through the exploration of the two linguistic structures of Dependency and Phrase Structure?
+
+
+#### __Draft Hypotheses:__
+
+- *Initial Hypothesis for Foundational Surveys:*  Since no language survey has been conducted after the 1970s only assumptions can be made about the current status of the language's vitality. As of that time, about 90 percent of the population was believed to be capable of communicating in creole, however, the degree of fluency of several newer generations is unknown. Therefore, several survey results may approve or disprove this belief, while simultaneously bringing attention to the preservation needs of the language.
+
+ - *Hypothesis:* One could fine-tune parts of speech/name tagging for a low-resource creole language using annotations from related languages (other established creole languages and other established target languages such as French, English, and Spanish). This would be achieved through a process like "Cross-lingual Multi-Level Adversarial Transfer to Enhance Low-Resource Name Tagging".
+
+- *Hypothesis:* One could fine-tune current language detection tools and techniques since they are incapable of effectively detecting the etymology of words not present in their data bank, thus limiting the potential for the expansion of linguistic resources for low-resource languages (such as creoles). Ultimately, dimensions matrix models (customized semantic similarity multilingual models) were assumed to be more adept in exploring and identifying language similarities and etymology details, than utilizing less customizable publicly available tools and techniques, such as Google’s language detection tools paired with manual annotation. It was also expected that due to the fair degree of polysemy present, the output may bear multiple synsets.
+
+This study also sought to simultaneously approve or disprove David Frank’s hypothesis that most of the unknown Kwéyòl vocabulary is likely to have French origins. While English is the current prestige/official language of Saint Lucia, and French is the main lexifier language of "Kwéyòl, the origins of the unknown vocabulary may be from the lesser linked lexifier languages (such as arw, car, sp, Indian, and African).  
+
+
+- *Hypothesis:*  Exploring the semantic similarity of corpus related to, yet better documented than, creole (such as Haitian Creole and Guadeloupean Creole French), may assist with unsupervised statistical machine translation testing. This can be paired with a novel CNN-based semantic indexing method, and applied to multilingual data, to create semantic domain vocabulary lists. This can be used with NLP tools for enhancing language learning tools (and should ease/improve language translation outcomes on Kwéyòl data); for example, lists associated with folklore/folktales, flora, fauna, entertainment, health/emergencies, business, politics, and science where possible, can be created.
+
+
+- *Hypothesis:* Exploration of word phrases and word frequencies can aid in addressing issues of polysemy and word sense disambiguation in creole languages. Alpha and beta phrase parsers (Tumbling frequency parser) can reduce issues of polysemy and word sense disambiguation in ACF. 
+
+Additional papers to indicate its utility: 
+Attempts can be made to use the phrase parser in combination with a language generator model to create new folktales based on set character entities, a moral theme, and base story samples. For example, one can Hypothesize that a good generator would be able to end stories with the typical cultural phrase "kwik kwak" and should include story characters like Konpè Lapen, Konpè Mouton, Konpè Kabwit, and Konpè Kochon.
+
+
+
+- *Hypothesis:* Facebook appears to be an online playground with increasing instances of written Kwéyòl, and vocabulary terms that may not have been captured by the current edition of the dictionary. Careful observation of social media texts can aid in building the corpus of a low-resource language, and reducing issues of polysemy and word sense disambiguation, thus improving areas such as sentiment analysis.
+
+- *Hypothesis:* The natural annotation of crowdsourced online dictionaries can be useful for building the corpus of a low-resource language, and reducing issues of polysemy and word sense disambiguation; this will be useful for building and updating vocabulary lists of current dictionaries that are not quite comprehensive. It may be useful to explore a future possibility of leveraging the natural annotation provided by crowdsourced online dictionaries related to low-resource languages, such as [Wiwords](http://wiwords.com/).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### __Literature Review__
+
 
 #### __Introduction and Justification of the Problem:__
 
@@ -21,7 +72,7 @@ When exploring the matter of Multilingual Natural Language Processing, Dr. Benja
 
 In the realm of cross-lingual or multilingual natural language processing (NLP), it does appear that some languages tend to garner more attention. Typically well-established languages, with a plethora of linguistic resources to build from, often thrive while low-resource creole languages are left to languish. Creoles are a particular challenge to the NLP community as these languages tend to arise from oftentimes frantic and urgent needs to establish harmony in communication within cacophonous settings. None the less improvement in the documentation, education, and communication in these languages benefit their societies. The development of resources could enhance communication across various social statuses, improve legal and political representation, reduce miscommunications with law-enforcement figures, and increase the reach of crucial information in worse-case scenarios.
 
-### The Problematic Nature of Saint Lucian French Creole (Kwéyòl\ Patwa\Patois):
+#### The Problematic Nature of Saint Lucian French Creole (Kwéyòl\ Patwa\Patois):
 
 In the Caribbean, creole languages emerged as a means of survival, and endured as a result of resilience; often speakers struggled to work within the bounds of a dominant prestige language while retaining unique traces of heritage languages or contact languages. The Caribbean has had a complicated past of trade, colonization, slavery, indentured labor, and more recently voluntary immigration. This, therefore, leads to a present setting of an actively multilingual environment, that is still dynamically changing due to evolving political and legal policies (such as Citizenship by Investment (CIP) {% cite bayat_2020 gis_CIP_2017 slu_cip_2020 capital_CIP_2020 harvey_2020 investvisa_2016 %}. The resilience of this language is currently being tested with the advent of the SARS-CoV-2 pandemic;  it created a situation where effective and timely communication is needed, while also threatening the lives of the older, more fluent, language-keepers. Therefore, the careful creation of tools and frameworks is needed to facilitate society's creole language needs. 
 
@@ -59,7 +110,6 @@ For example, avocado translates to zabòka[2](https://www.webonary.org/kweyol/gf
 
 A cursory search of Twitter revealed that the 'zaboca' spelling was just about as common as ' zaboka',  yet the accented spelling, 'zabòka', was not present. One could say that Wiwords did indeed reflect the term's typical informal (social media) form. While Wiwords does not list the official spelling or all other alternative spellings, it does assist with understanding instances of the presence or absence of diacritical marks and providing needed context to improving the word sense disambiguation.
 
-
 A major challenge of lexical semantics is creating training data and algorithms that facilitate downstream tasks. Furthermore, it has also been said that while there is a lingering 'bias towards contemporary Indo-European languages', treebanks for other language families and treebanks for classical languages are on the rise {% cite nivre2016universal %}. Yet, there are multiple reasons to explore NLP topics on creole data. The increasing popularity of opinion-rich resources such as blogs {% cite kweyol_works_joseph %}, shopping websites, review portals, and social media platforms {% cite kweyol_fb_joseph %} are rapidly attracting business people, governments, and researchers alike. 
 
 Additionally, sentiment analysis often garners high interest from businesses. Effective language detection and translation models for creole may address topics on word sense disambiguation; particularly the problems polysemy poses to sentiment analysis and how that impacts machine translation in low-resource languages. Phrase-based parsing techniques may also impact the model's accuracy(adequacy and fluency of translation). 
@@ -93,205 +143,14 @@ Currently, Creole primarily refers to one's linguistic heritage as the main sour
 
 Polysemy may indeed present an issue when attempting to study a language or dialects, however, these complications are in fact, often viewed positively in the cultures where creole is spoken; they are often the premise and appeal of much literature in these creole languages. Calypso, and most other endemic forms of music, may celebrate this ability to utilize words or phrases bearing double meanings to indirectly discuss topics that are often crude {% cite stephens2013imagining %}. Philips suggested that Calypsos can engage this method via ‘lamina lyrics’. *Much like an onion, these Calypsos have a number of different levels of meaning, concealed one underneath the other. Achieving this phenomenon, Calypsonians use frames and masks that manifest in Calypsos as a metaphor, metonym, polysemy, irony, and satire* {% cite phillips2006recognising %}. 
 
-**Summary of Challenges:**
 
-- It should be noted, however, that when the size of annotated resources is imbalanced, the encoder can be anticipated as being biased toward the resource-dominant language. 
-- As the number of N-grams increase, more data is required.
-- The official Saint Lucian Kwéyòl dictionary is a work in progress; not fully comprehensive (it does not even have a word for the color pink).
-- The largest possible parallel dataset among most of the languages being examined would be the bible; therefore, semantic domain challenges may arise.
-- While there may be several sources of creole text data, not all have parallel data.
-- Attempts to translate sample sentences from the creole dictionary into lexifier languages may be challenging due to the words endemic to the creole's setting; a tropical Caribbean island. 
-- Not all languages have a separate word for an indefinite article or definite article, some have multiple words.
-- The other contributing languages, (hat, gcf, car, arw, etc.), have varying degrees of available resources; yet most are low in resources.
-- The LIWC does not currently factor in all recent Unicode emojis, thus may be a flawed system in detecting the full context of modern social media discussions.
-- Phrase structure can be viewed as difficult to define in languages with free word order.
 
-**Assumptions:**
 
-- Linguistic universals can exist; all languages typically have vowels and consonants, and typically languages distinguish between nouns and verbs.
-- An understanding and focus on cognates can be important to the cross-lingual or multilingual NLP techniques associated with language translation and detection.
-- Identification of deictic pronouns is important to determining context.
-- Saint Lucian Kwéyòl is a low resource language.
-- French (fr) is the main lexifier language of "Kwéyòl; it is a former prestige language of Saint Lucia.
-- The official French dictionary is adequately comprehensive.
-- English (en) is the current prestige language of Saint Lucia; it is currently the only official language of Saint Lucia.
-- The official English dictionary is adequately comprehensive.
-- Lexifiers can be assigned ranks based on an established assumed similarity to the target language.
-- Additional confirmed contributor languages: Guadeloupean Creole French (gcf), Haitian Creole (hat), Spanish/Portuguese (sp/pt), Amerindian (Carib -car, Arawak -arw,), Indian (Hindi-hi, Tamil-ta), African (Yoruba-yor, Fulani-ful, Bantu-bnt, Igbo-ibo, Kikongo-kon, Mende-men).
-- Exploring and categorizing the semantic domains of the vocabulary of unknown origin, may assist with word-sense disambiguation issues with other languages. 
 
-**Example of "Kwéyòl language rules according to David Frank {% cite  frank2001writing %}:**
 
-The relevant diacritics/ written accents for "Kwéyòl are à, é, è, and ò;  the "à" does not appear very often, but when it does it would most likely appear before an n (as in "pàn" - bread).
+My foundational works seek to create quantifiable data on the current status of the language through studying various critical members of the Saint Lucian labor force. The work of teachers, medical workers (in the realms of both physical and mental health), lawyers, and law enforcement, typically encompasses frequent interactions with people of varying backgrounds in Saint Lucia. Due to the increasingly multilingual landscape, effective communication on the island increasingly may involve applying various language skills to meet each situation. By exploring the linguistic capabilities of select professions, one may gain a better sense of a language's recognition within society. Without such an inquiry, it may be questionable to deem a language as 'low-resource' if its teaching and comprehension are integral to the culture of critical community services. 
 
-"While the vowels a, e, and o combine with an n to form a digraph in which the n is not to be pronounced as a consonant, the same is not true for the vowels i, é, è, ou, and ò, which are never combined with n as a digraph. So any time the reader sees one of these latter vowel symbols followed by an n, he should interpret it as the combination of a vowel plus a consonant rather than as a single nasal vowel sound. In cases where a true n sound is preceded by a nasal vowel, two ns have to be written. Note the spellings of the following words:"
-
-- lapé = l + a + p + é  = ‘peace’
-- lapen  = l + a + p + en  = ‘rabbit’
-- lapenn  = l + a + p + en + n  = ‘sorrow
-
-"Most punctuation works the same way in St. Lucian Creole as in English. However, special attention must be given to the uses of the hyphen and the apostrophe."
-
-"*Hyphen:* The definite article (that is, the Creole equivalent of English ‘the’) is attached to the preceding word with a hyphen. The Creole definite article can take four forms, depending on the context: -a, -la, -an, and -lan. Here are some examples:"
-
-- latè-a  = ‘the earth’
-- tab-la  = ‘the table’
-- tan-an =  ‘the time/weather’
-- lanp-lan =  ‘the lamp’
-- Mwen kouté listwa-a i wakonté-a. ‘I listened to the story he told.’
-
-
-*Apostrophe:* As in English, there are some words in Creole that are commonly contracted, and the contraction of two words is marked with an apostrophe.
-
-Here are some examples:
-
-- mwen + pa = m’a
-- mwen + ka = ng’a (or n’a)
-- mwen + kay = ng’ay (or n’ay)
-- si + ou = s’ou
-- pa + ankò = p’òkò
-
-When the pronouns i (‘he’ or ‘she’) and ou (‘you’) follow a word that ends with a vowel sound, they are sometimes converted to ’y and ’w respectively and attached to the preceding word, as in the following examples:
-- *Mwen kay pwédyé ba ou.* becomes *Mwen kay pwédyé ba’w.* 
-- *Tifi i bo i.* becomes *Tifi’y bo’y.*
-
- Note: Words that begin with the letter "r" are only used in words borrowed from English like "radyo" (radio).
-
-
-#### __Draft Hypotheses:__
-
-- *Hypothesis:* While English is the current prestige/official language of Saint Lucia, and French is the main lexifier language of "Kwéyòl, the origins of the unknown vocabulary are mostly composed of roots from the lesser linked languages (arw, car, sp, Indian, and African) are most likely to hold the remaining details; due to their continual depletion, ties may originally have been difficult to confirm. Particularly Indian languages might have more of an influence than the previously suggested .4%.
-
-- *Hypothesis:* Since the dictionary is not comprehensive it may be possible to explore the current Kwéyòl corpora towards the creation of word lists based on the semantic similarity (or any other techniques) that can reveal vocabulary terms that are missing from the dictionary); through these term associations, it may be possible to create word lists for various semantic domains (not just finance). And perhaps the output terms could be added to an online annotated dictionary. (It's kinda like when Ford does the iterations of his phrase parser; gradually discovering information, and adding terms as they come up. Ultimately I want to run through as much text as possible to extract vocabulary not present in the current dictionary and log them so that their definitions can be expanded on by official linguists etc.)
-
-- *Hypothesis:* Exploration of word phrases and word frequencies can aid in addressing issues of polysemy and word sense disambiguation in creole languages. Alpha and beta phrase parsers (Tumbling frequency parser) can reduce issues of polysemy and word sense disambiguation in ACF. 
-
-Additional papers to indicate its utility: 
-Attempts can be made to use the phrase parser in combination with a language generator model to create new folktales based on set character entities, a moral theme, and base story samples. For example, one can Hypothesize that a good generator would be able to end stories with the typical cultural phrase "kwik kwak" and should include story characters like Konpè Lapen, Konpè Mouton, Konpè Kabwit, and Konpè Kochon.
-
-- *Hypothesis:* Exploring the semantic similarity of corpus related to, yet better documented than, creole (such as Haitian Creole and Guadeloupean Creole French), may assist with unsupervised statistical machine translation testing.
-
-- *Hypothesis:* Facebook appears to be an online playground with increasing instances of written Kwéyòl, and vocabulary terms that may not have been captured by the current edition of the dictionary. Careful observation of social media texts can aid in building the corpus of a low-resource language, and reducing issues of polysemy and word sense disambiguation, thus improving areas such as sentiment analysis.
-
-- *Hypothesis:* The natural annotation of crowdsourced online dictionaries can be useful for building the corpus of a low-resource language, and reducing issues of polysemy and word sense disambiguation; this will be useful for building and updating vocabulary lists of current dictionaries that are not quite comprehensive. It may be useful to explore a future possibility of leveraging the natural annotation provided by crowdsourced online dictionaries related to low-resource languages, such as [Wiwords](http://wiwords.com/).
-
-- *Hypothesis:* In exploring the depth of the current Kwéyòl corpora, it may be possible to better gauge the nature of the semantic domains present; the hope is that various domains are fairly balanced, however, some may have a greater presence than others. For example, it is believed that the majority of the vocabulary words have links to biocultural diversity, rather than business; that since most creole words were created for survival, the vocabulary is simplistic, and mostly related to nature, food, and relationships. Therefore the results may confirm or disprove this belief.
-
-- *Hypothesis:*  Since no language survey has been conducted after the 1970s only assumptions can be made about the current status of the language's vitality. As of that time, about 90 percent of the population was believed to be capable of communicating in creole, however, the degree of fluency of several newer generations is unknown. Therefore, survey results may confirm or disprove this belief, while simultaneously bringing attention to the preservation needs of the language.
-
-- *Hypothesis:* Since there is a notable difference between the Saint Lucian English Creole present in the current trilingual acf dictionary, and Standard English, Zero-shot machine translation can be used, with the French language as a base, for the better English translation of the final product. 
-
- - *Hypothesis:* Improving name tagging for a low-resource creole language using annotations from related languages (other established creole languages and other established target languages such as French, English, and Spanish). This would be achieved through a process like "Cross-lingual Multi-Level Adversarial Transfer to Enhance Low-Resource Name Tagging".
-
-- *Hypothesis:* A novel CNN-based semantic indexing method can be applied to multilingual data. Semantic domain vocabulary lists can be used with NLP tools for enhancing language learning tools (and should ease/improve language translation outcomes on Kwéyòl data); for example, lists associated with folklore/folktales, flora, fauna, entertainment, health/emergencies, business, politics, and science where possible, can be created.
-
-- *Hypothesis:* Since the language is mostly orally passed on and spelled phonetically (though inconsistently), it may be possible to find the origin of the words, not only through text analysis but through cross-lingual acoustic models. The mystery words will not only be compared to words of similar text cognates etc. but also compared with vocal sound files from nearby languages.
-
-Additional papers to indicate its utility: 
-Use the phrase parser in combination with a language generator model to create new folktales based on set character entities, a moral theme, and base story examples.  "kwik kwak" at the end of stories, and should include characters like konpe lapen.
-
-#### __Draft methodology:__
-
-In summary, Creole is complex as it is an amalgamation of different languages adapted for survival and solidified through generations of oral and written communication. David Frank's paper on *Sources of St. Lucian Creole Vocabulary* piqued my interest, particularly the section on *Vocabulary of Unknown Origin*. I became intrigued by the complexity and mysteries within Saint Lucian creole / "Kwéyòl" and hoped to preserve and explore the creole language through modern data science tools, and possibly create a more accurate modern dictionary; ultimately producing a comprehensively compiled creole corpora to the public, and introducing instances of its utilization to address language weaknesses (such as lacking vocabulary lists, and polysemy/word sense disambiguation).
-
-Currently, I am leaning towards using multilingual NLP to combat the challenges of creole conservation; to create a language detection and translation model capable of tracing the origin of Saint Lucian creole "Kwéyòl", via supervised and unsupervised statistical machine translation. For instance, I would want to address the words of unknown etymology by exploring other target languages; possibly comparing the differences in word frequencies to other similar creole languages. However, to do so, I must explore and understand the underlying language structures, such as dependency parsing, treebanks, and sentiment semantic indexing on multilingual data. For example, of the two types of linguistic structures, dependency parsing can be viewed as more applicable to multilinguality, as it demonstrates the relationships between words in a straightforward way. Phrase structure can be viewed as difficult to define in languages with free word order. I may need to explore zero-shot machine translation and cross-lingual multi-level adversarial transfer.
-
-Ultimately, outcomes of this endeavor will include, contributions of new and/ or improved Saint Lucian "Kwéyòl corpora for future analysis, and new techniques and tools for exploring NLP in low resource languages.  I want to use cross-lingual machine translation to find the unknown origins of vocabulary words. To properly explore this topic, I will need to search for and prepare the sample Saint Lucian "Kwéyòl corpora; locating as much parallel data as I can find. 
-
-![nlp_overview](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/nlp_overview.PNG){: width="600" }
-
-![types_of_ling_structure_dep_n_phrase.PNG](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/types_of_ling_structure_dep_n_phrase.PNG){: width="600" }
-
-![model_ex_unsup_n_sup](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/model_ex_unsup_n_sup.PNG){: width="600" }
-
-
-**Data sources:**
-
-In terms of creole data, I currently have access to a partially labeled XML version of the Saint Lucian Kwéyòl dictionary dataset; it has parallel data but no sentiment tags {% cite frank2001kweyol %}. There are, however, numerical indicators to signify the differences between homonyms, and according to the dictionary's creator
-
-*'the set of parts of speech, or word classes, used in this dictionary is as follows: N (noun), PRO (pronoun), ADJ (adjective), ART (article), V (verb), ADV (adverb), PREP (preposition), CONJ (conjunction), and INTERJ (interjection). These are only broad categories. In a more complete grammatical description of Kwéyòl, these broad categories could and should be further broken down into subcategories'* {% cite frank2001kweyol %}. 
-
-Digital versions of a bible (new testament) {% cite SLUnewtestament_1999 bibleproject_2004 BibleSocieties_2020 %}, an audio version of the bible {% cite audiobible2020 %}, a few documents from the government such as the Saint Lucian national anthem {% cite anthem_2016 %}, governmental speeches bearing Kwéyòl dialogue  {% cite louisy_govt_2004 %},  and works for ministries focused on Kwéyòl activities  {% cite sluFRC_FB_2020 %} are also accessible. I also have access to traditional folk songs {% cite joseph_songs_2020 SLU_song_yannucci_2020 %}, discourses {% cite weekes2014bodies frank_1990 %}, and stories {% cite sil_folktale_1985 sil_readingbook_1989 %}. Public social media data are also useful, particularly the postings by verified Saint Lucian Kwéyòl writers {% cite kweyol_fb_joseph kweyol_works_joseph kweyol_playlists_joseph%}. There are also Kwéyòl financial document excerpts in the form of Annual Reports from the Saint Lucian National Bank. In 1993 a document entitled "Dances and Songs from a Caribbean Island" was created and in 1996 one named "Select Bibliography of the Literature of the English-speaking West Indies" was also created; if the documents above are insufficient, I will consult these two anthological works for additional data {% cite islandsongs_1993 creolelitlist1996 %}. There are few more books but they are mostly physical documents (I need to finish looking into their digital versions). 
-
-**These 6 papers are my current basis**
-
-- 1 [Cross-Lingual Bridges with Models of Lexical Borrowing](https://www.cs.cmu.edu/~ytsvetko/papers/loanwords-jair.pdf) {% cite tsvetkov2016cross %}
-- 2 [Metaphor Detection with Cross-Lingual Model Transfer](https://www.aclweb.org/anthology/P14-1024.pdf) {% cite tsvetkov2014metaphor%}
-- 3 [Cross-lingual Multi-Level Adversarial Transfer to Enhance Low-Resource Name Tagging](https://www.aclweb.org/anthology/N19-1383.pdf) {% cite huang2019cross
- %}
-- 4 [Language Identification of Guadeloupean Creole](https://www.aclweb.org/anthology/N19-1383.pdf) {% cite soto2020language %}
-- 5 [Zero-shot Neural Transfer for Cross-lingual Entity Linking](https://www.aclweb.org/anthology/N19-1383.pdf) {% cite rijhwani2019zero %}
-- 6 [From Genesis to Creole Language: Transfer Learning for Singlish Universal Dependencies Parsing and POS Tagging](https://dl.acm.org/doi/fullHtml/10.1145/3321128) {% cite Wang2020FromGT %}
-
-**Draft modeling:**
-
-**Complex Supervised and Unsupervised Statistical Machine Translation for Saint Lucian Creole/ Kwéyòl:**
-
-![dep_crossling_structure](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/dep_crossling_structure.PNG){: width="600" }
-
-
-![morphogen](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/morphogen.PNG){: width="600" }
-
-
-![sing_dia](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/Singlish_diagram.PNG){: width="600" }
-
-
-![sing_tab](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/Singlish_table.PNG){: width="600" }
-
-
-![sing_arc](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/Singlish_arcs.PNG){: width="600" }
-
-
-![tat_cre](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/tatoeba_creole.PNG){: width="600" }
-
-
-### Draft of one possible model:
-
-Using back-translation to augment or to create pseudo-parallel data from a source language to the target language, and then back from the target language to the source language. Since creole has more than one influence, it may require multiple source languages for back-translation. Our main lexifier language (French), and would, therefore, be more dominant/strong than the other lexifiers being used. The semantic similarity may also be visually explored through grouping related languages like French, Guadeloupean Creole French, Haitian Creole, and English.
-
-![unsupervised_statistical_mt](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/unsupervised_statistical_mt.PNG){: width="600" }
-
-
-![distillation](https://raw.githubusercontent.com/llord1/llord1.github.io/master/resources/pictures/distillation.PNG){: width="600" }
-
-
-**Dominant/stronger lexifier/source language clusters:**
-
-- French: fr → acf    acf →fr
-- Guadeloupean Creole French: gcf →  acf    acf →gcf
-- Haitian, Haitian Creole: hat → acf    acf →
-- English: en → acf    acf → en  en →  acf    acf → en
-
-**Non-dominant/Weaker clusters lexifier/source language clusters:**
-
-- Spanish: sp → acf    acf → sp
-- Portuguese: pt → acf    acf → pt
-- Amerindian: 
- - Arawak language (Lokono) arw → acf    acf → arw
- - Carib language (Kali'na):  car → acf    acf → car
-- Indian:
- - Hindi: hi → acf    acf → hi
- - Tamil: ta → acf    acf → ta
-- African:
- - Yoruba: yor → acf    acf → yor
- - Fulani: ful → acf    acf → ful
- - Bantu: bnt → acf    acf → bnt
- - Igbo: ibo → acf    acf →ibo
- - Kikongo: kon → acf    acf → kon
- - Mende: men  → acf    acf → men
-
-Once a phrase machine translation model is trained in both directions (back and forth), do back translation to augment or to create pseudo-parallel data from those languages (using the phrase-based model that was just built) in an attempt to create iterative refinement on the validation set.
-
-#### Execution Obstacles:
-
-Data Science is an actively developing field; due to program lengths for Ph.D. programs, it may be very difficult to create a timely yet thorough compilation of all available topics, techniques, and technologies. This endeavor is quite a complicated undertaking to publish as a single contributor. Co-authorship on works may be sought to competently manage the workload of research, and the coding of these tools. Ultimately, the intention is not to compile a comprehensive list of all possible avenues of exploring creole via data science's NLP tools. It is to encourage interest in the field and provide starting points for possible future expansion of these topics.
-
-#### The Tools:
-
-The tools may focus on open source and low-cost resources such as R Studio, Python, Pytorch, fastText, LIWC, Github, Tensorflow, and other available Google tools available. 
-
-- Google Colab can be described as a Python development environment that runs in the browser using Google Cloud; it is completely free of charge, and even offers access to their GPU is free of charge for some hours of usage every day. 
-
+These initial works would encompass data collection and the establishment of metrics on various workforce's linguistics skills; this entails investigating what percentage of the workforce currently consider themselves fluent in Kwéyòl (or other languages) and note their frequency of utilization of their multilingual skills when interacting with civilians. Ultimately, these initial activities will focus on avoiding miscarriages of justice, education, or health, due to miscommunication, while simultaneously bolstering the vitality (and recognition) of Kwéyòl. Their purpose is to encourage the mandatory education and monitoring of the local heritage language in critical institutions. The intertwining of language education with crucial institutions would elevate Kwéyòl's status (among the "elite") and improve the justice system and other critical institutions.
 
 
 ### References:
