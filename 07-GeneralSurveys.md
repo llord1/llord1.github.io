@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "6. Introduction to  Foundational Surveys"
-description: "6. Introduction to  Foundational Surveys"
+title: "7. Introduction to  Foundational Surveys"
+description: "7. Introduction to  Foundational Surveys"
 tags: [Assets]
 ---
 {% include JB/setup %}
