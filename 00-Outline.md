@@ -48,8 +48,7 @@ Data:
 4. Survey of Saint Lucian healthcare workers and emergency services (drafted and in discussions with the St. Lucia Medical and Dental Association). 
 5. Survey of Saint Lucian public (vitality survey) (drafted and in discussions with the Saint Lucia Folk Research Center, Ministry of Education, The Central Statistical Office of Saint Lucia, and the Ministry of Tourism Information, Broadcasting, Culture & Creative Industries). 
  
-*Note: Not all surveys may be completed by the estimated December 2021 dissertation completion, however, distribution for all is expected by October 31st; at least three out of the five are expected to have a report produced by December 2021. 
- 
+
  
 ### Initiative 2: Data modeling and tool creation 
  
