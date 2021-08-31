@@ -34,11 +34,3 @@ The distribution of surveys has begun. The Bar Association of Saint Lucia assist
 {% bibliography --cited %}
 
 {% include JB/setup %}
-
-
-### References:
-
-
-{% bibliography --cited %}
-
-{% include JB/setup %}
