@@ -4,7 +4,6 @@ title: "6. Publication Plan"
 description: "6. Publication Plan."
 ---
 
-
 #### __Publication Plan__
 
 The publication process can be viewed as an essential part of one's Ph.D. solidification in the field. While publications before graduation from a program can at times be difficult, it may be advantageous to attempt this as part of one's ultimate success in the field. A publication plan allows one to market their results to places that are more apt to appreciate one's works; this allows one to ensure that their contributions are better recognized by industry professionals. Some have viewed such publications as providing a powerful and significant indicator for 'scientific career advancement' {% cite giebel_2019 %}; this is particularly important in a highly competitive field.
