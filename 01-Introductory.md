@@ -6,7 +6,6 @@ tags: [Assets]
 ---
 {% include JB/setup %}
 
-
 ### Introduction:
 
 My dissertation proposes novel natural language processing (NLP) strategies to promote the revitalization and preservation of low-resource languages. Most current language models do not focus on or have difficultly with handling low-resource languages - particularly creoles. Ultimately, I shall review the current state of the vitality of an assumed low-resource language and introduce models for tackling the various complications associated with digitizing such complex languages as a creole.
