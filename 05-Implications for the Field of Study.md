@@ -6,7 +6,6 @@ tags: [Assets]
 ---
 {% include JB/setup %}
 
-
 #### __Implications for the Field of Study__
 
 To summarize, I will publish my foundational works in the form of survey reports on the subject language of this NLP dissertation. My major works will be published and noted as chapters one through four (with the inclusion of a publication of the complied language data of the dissertation).

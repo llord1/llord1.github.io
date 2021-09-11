@@ -6,7 +6,6 @@ tags: [Assets]
 ---
 {% include JB/setup %}
 
-
 ### Introduction:
 
 Effective communication can mean the difference between life and death in fields of practice such as medicine and law. These include police forces, judges, and lawyers, among others. Several careers in society can contribute to the general sense of safety and security that Maslow has referred to in his well-known hierarchy of needs. Therefore, thoughtful data collection and monitoring of these critical services can enhance and optimize their performance. 
