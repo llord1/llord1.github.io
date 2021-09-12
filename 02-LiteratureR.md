@@ -11,7 +11,6 @@ description: "2. Work in progress"
 
 #### __Brief Introduction:__
 
-
 When exploring the matter of Multilingual NLP, Dr. Benjamin Elson's 1987 *Linguistic Creed* comes to mind.
 
 *“As the most uniquely human characteristic a person has, a person's language is associated with his self-image. Interest in and appreciation of a person's language is tantamount to interest in and appreciation of the person himself. All languages are worthy of preservation in written form by means of grammars, dictionaries, and written texts. This should be done as part of the heritage of the human race."*
