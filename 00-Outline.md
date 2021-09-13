@@ -10,7 +10,9 @@ tags: [Assets]
  
 'Novel natural language processing (NLP) model approaches for the exploration and preservation of low-resource creole languages'. 
  
-### Brief: 
+### Brief:
+
+
  
 Practical applications of natural language processing (NLP) can be demanding, particularly for low-resource languages such as most of the world's creoles. Research of this nature is often pursued in select popular languages, and models tend to depend on supervised machine learning and demand substantial quantities of annotated data for the subsequent resources to be widely distributed and used. Additional textual challenges are associated with low-resource creole languages as one has to contend with multilingual code-switching, and plentiful word-sense disambiguation issues due to high levels of polysemy and inconsistent adherence to writing systems (especially in instances where the language is mostly orally passed on and diacritic utilization is inconsistent). Analysis issues are exacerbated by the lack of text samples across varied semantic domains/topics. There are somewhat contradictory public assumptions about the language; that while most do not have definitive facts, they believe its status to be 'actively thriving' while acknowledging it as 'low-resource language'. These declarations are accepted without any comprehensive data analysis on the availability of text resources or the vitality of the langauge among the current population. 
  
