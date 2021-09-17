@@ -3,12 +3,12 @@ layout: page
 title: "6. Publication Plan"
 description: "6. Publication Plan."
 ---
+
 #### __Publication Plan__
 
 The publication process can be viewed as an essential part of one's Ph.D. solidification in the field. While publications before graduation from a program can at times be difficult, it may be advantageous to attempt this as part of one's ultimate success in the field. A publication plan allows one to market their results to places that are more apt to appreciate one's works; this allows one to ensure that their contributions are better recognized by industry professionals. Some have viewed such publications as providing a powerful and significant indicator for 'scientific career advancement' {% cite giebel_2019 %}; this is particularly important in a highly competitive field.
 
-My works will focus on natural language processing with low-resource languages, with a focus on creoles (particularly Saint Lucian Kwéyòl).
-To summarize, I wish to publish my foundational works in the form of survey reports on the subject language of this NLP dissertation in Chapter One of my dissertation. My major computational works will be published and noted as Chapters Two through Four (with the inclusion of a publication of the complied language data of the dissertation).
+To summarize, my works will focus on natural language processing (NLP) with low-resource languages, with a focus on creoles (particularly Saint Lucian Kwéyòl). Chapter One will serve as an introduction to the NLP setting, scope, and foundational surveys. However, in terms of publication, I hope to publish the overall methodology of these foundational linguistic research surveys; the survey reports, that are presented to local Saint Lucian authorities, assist with understanding the setting of the subsequent computational works. The major computational works will be published and noted as Chapters Two through Four (with the inclusion of a publication of the complied language data of the dissertation).
 
 The Association for Computational Linguistics will be targeted as the main publisher of my works as the theme for the upcoming 60th Annual Meeting suitably supports most, if not all, of my research efforts; “Language Diversity: from Low-Resource to Endangered Languages. 
 
@@ -39,7 +39,7 @@ Additionally, Easychair claims to support "a large number of conference models a
 
 Ultimately, in addition to publishing survey reports, and computational papers, I also hope to publish my collection of complied Kwéyòl language samples. Currently, I am in discussions with several committees of the Saint Lucian government that are considering hosting and publishing the reports, as well as the complied Kwéyòl text data. However, I publishers of this data may also include the aforementioned JPCL and the SCL.
 
-I am indeed collecting multilingual corpora for a low-resource language as part of my ongoing dissertation work. These range from national documents such as the Saint Lucian national anthem {% cite anthem_2016 %}, speeches from government officials' published press releases bearing Kwéyòl dialogue {% cite louisy_govt_2004 knowledgewalkinstitute_2021 %}, {% cite louisy_govt_2004 knowledgewalkinstitute_2021 %}, Kwéyòl financial document excerpts from the Saint Lucian National Bank's annual reports {% cite national_bank_of_st. lucia_2020 %}, poems from national poetry competitions, and local folktales published through collaborative efforts of the local government and SIL International,  {% cite sil_folktale_1985 sil_readingbook_1989 %}. The collection also includes public data on open forum Kwéyòl mentions on social media; particularly the postings by verified fluent Saint Lucian Kwéyòl writers {% cite kweyol_fb_joseph kweyol_works_joseph kweyol_playlists_joseph%}. 
+I am indeed collecting multilingual corpora for a low-resource language as part of my ongoing dissertation work. These range from national documents such as the Saint Lucian national anthem {% cite anthem_2016 %}, speeches from government officials' published press releases bearing Kwéyòl dialogue {% cite louisy_govt_2004 knowledgewalkinstitute_2021 %}, {% cite louisy_govt_2004 knowledgewalkinstitute_2021 %}, Kwéyòl financial document excerpts from the Saint Lucian National Bank's annual reports {% cite national_bank_of_SLU_2020 %}, poems from national poetry competitions, and local folktales published through collaborative efforts of the local government and SIL International  {% cite sil_folktale_1985 sil_readingbook_1989 %}. The collection also includes public data on open forum Kwéyòl mentions on social media; particularly the postings by verified fluent Saint Lucian Kwéyòl writers {% cite kweyol_fb_joseph kweyol_works_joseph kweyol_playlists_joseph %}. 
 
 I believe this data would be a unique submission as I would compiling all these far-flung works of differing semantic domains and converting them from their various publication formats into analyzable text files.
 
@@ -49,7 +49,6 @@ Please see below for details on publications currently being considered:
  - **The Association for Computational Linguistics:**
 
 https://www.jbe-platform.com/content/journals/15699870
-
 
 
  - **Journal of Pidgin and Creole Languages:**
@@ -78,6 +77,11 @@ https://www.mdpi.com/
 - **Language & Communication: An Interdisciplinary Journal:**
 
 https://www.journals.elsevier.com/language-and-communication
+
+
+- **Sustainability — Open Access Journal:**
+
+https://www.mdpi.com/journal/sustainability
 
 
 - **Lingua: An International Review of General Linguistics:**
@@ -122,11 +126,6 @@ https://www.elsevier.com/social-sciences-and-humanities/linguistics-and-language
 - **Journal of Marine and Island Cultures:**
 
 https://jmic.online/
-
-
-- **Sustainability — Open Access Journal:**
-
-https://www.mdpi.com/journal/sustainability
 
 
 
