@@ -139,3 +139,5 @@ JB :
 # jekyll-scholar config
 scholar:
         style: apa 
+gems:
+  - jekyll-pdf
