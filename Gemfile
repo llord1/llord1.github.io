@@ -5,3 +5,4 @@ gem "jekyll-sitemap"
 gem "pygments.rb"
 gem "jekyll-scholar", group: :jekyll_plugins
 gem "kramdown-parser-gfm"
+gem "jekyll-pdf"
