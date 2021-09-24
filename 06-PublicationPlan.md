@@ -48,7 +48,7 @@ Please see below for details on publications currently being considered:
 
  - **The Association for Computational Linguistics:**
 
-https://www.jbe-platform.com/content/journals/15699870
+https://www.2022.aclweb.org/callpapers
 
 
  - **Journal of Pidgin and Creole Languages:**
