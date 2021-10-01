@@ -128,13 +128,21 @@ Gender identification is another standard (multiple choice) demographic question
 c) Citizenship:
  
 By birth (birthplace of Saint Lucia)
+
 By birth (parents)
+
 By birth (other)
+
 By naturalisation (ordinary)
+
 By registration (citizenship by investment)
+
 By registration (adoption, marriage, parental legacy, residency status, administrative discretion)
+
 Non-citizen (OECS national)
+
 Non-citizen (other)
+
 Prefer not to respond
  
 Citizenship status might indicate a history or lineage of commitment to, and familiarity with, the culture, language, people, and overall development of the country {% cite belton2020comparative hansen1999politics %}. At the very least it may indicate a legal tie to a lawyer's practice environment. OECS agreements grant all OECS nationals the right to move, find employment, and access services (including education and healthcare) in the same way nationals of the relevant country do;  this allows for ease of employment of regional professionals {% cite oecs_faq_2020 refugees_refworld_2017 iom_free_2020 james_brathwaite_2021 %}. This, therefore, increases the likelihood of increased language diversity at legal firms, and an increased likelihood of different first languages.
@@ -324,65 +332,113 @@ This question would confirm the presence of legal aid in Saint Lucia. It would s
  
 No 
 Yes, they used a form of sign language
+
 Yes, they used English
+
 Yes, they used Saint Lucian Kwéyòl (Antillean Creole/Patios)
+
 Yes, they used Haitian Creole
+
 Yes, they used Guadeloupean Creole
+
 Yes, they used French
+
 Yes, they used Spanish
+
 Yes, they used Japanese
+
 Yes, they used Korean
+
 Yes, they used Papiamento
+
 Yes, they used Dutch (including Afrikaans)
+
 Yes, they used Indigenous (including Arawakan, Cariban, of the Americas, & Australia)
+
 Yes, they used Portuguese (or any Romance language not mentioned)
+
 Yes, they used Irish (or any Celtic language not mentioned)
+
 Yes, they used Arabic (or any Afro-Asiatic language not mentioned)
+
 Yes, they used Swahili (or any Niger-Congo/ African language not mentioned)
+
 Yes, they used Hindi (or any Indo-Iranian/ Dravidian language not mentioned)
+
 Yes, they used Swedish (or any North Germanic/ Uralic language not mentioned)
+
 Yes, they used German (or any West Germanic language not mentioned)
+
 Yes, they used Russian (Armenian or any Balto-Slavic language not mentioned)
+
 Yes, they used Turkish (or any Turkic/ Altaic language not mentioned)
+
 Yes, they used Greek (or any Hellenic/ Armenian/ Albanian language not mentioned)
+
 Yes, they used Mandarin (or any Sino-Tibetan language not mentioned)
+
 Yes, they used Indonesian (or any Austronesian/ Austroasiatic/ Kra-Dai language not mentioned)
+
 
 This question seeks to explore the personal linguistic limitations of lawyers in a multilingual environment. It may reinforce the perceived need for lawyers to acquire additional languages. 
 
 
  8a) Please indicate the language you use most often to communicate and your proficiency. Note: Selecting only "listen (understand)" encompasses scenarios where one can comprehend but not converse in a language.
  
-Row categories: First Language (most often used at home).
+*Row categories: First Language (most often used at home).*
  
 Language dropdowns:
  
- Any form of sign language
+Any form of sign language
+
 English
+
 Saint Lucian Kwéyòl (Antillean Creole/Patios)
+
 Haitian Creole
+
 Guadeloupean Creole
+
 French
+
 Spanish
+
 Japanese
+
 Korean
+
 Papiamento
+
 Dutch (including Afrikaans)
+
 Indigenous (including Arawakan, Cariban, of the Americas, & Australia)
+
 Portuguese (or any Romance language not mentioned)
+
 Irish (or any Celtic language not mentioned)
+
 Arabic (or any Afro-Asiatic language not mentioned)
+
 Swahili (or any Niger-Congo/ African language not mentioned)
+
 Hindi (or any Indo-Iranian/ Dravidian language not mentioned)
+
 Swedish (or any North Germanic/ Uralic language not mentioned)
+
 German (or any West Germanic language not mentioned)
+
 Russian (Armenian or any Balto-Slavic language not mentioned)
+
 Turkish (or any Turkic/ Altaic language not mentioned)
+
 Greek (or any Hellenic/ Armenian/ Albanian language not mentioned)
+
 Mandarin (or any Sino-Tibetan language not mentioned)
+
 Indonesian (or any Austronesian/ Austroasiatic/ Kra-Dai language not mentioned)
+
 Another language not represented
- 
+
  
 Other column categories "Language; Speak/Sign; Read; Write; Listen/Understand", offered the same dropdown options:
  
@@ -410,34 +466,61 @@ The second half of this question is related to exploring where and how one engag
  9) Please indicate any secondary languages you use to communicate and your proficiency. Note: Selecting only "listen (understand)" encompasses scenarios where one can comprehend but not converse in a language.
  
  I do not speak additional languages
+
 I do not speak a third language
+
 Any form of sign language
+
 English
+
 Saint Lucian Kwéyòl (Antillean Creole/Patios)
+
 Haitian Creole
+
 Guadeloupean Creole
+
 French
+
 Spanish
+
 Japanese
+
 Korean
+
 Papiamento
+
 Dutch (including Afrikaans)
+
 Indigenous (including Arawakan, Cariban, of the Americas, & Australia)
+
 Portuguese (or any Romance language not mentioned)
+
 Irish (or any Celtic language not mentioned)
+
 Arabic (or any Afro-Asiatic language not mentioned)
+
 Swahili (or any Niger-Congo/ African language not mentioned)
+
 Hindi (or any Indo-Iranian/ Dravidian language not mentioned)
+
 Swedish (or any North Germanic/ Uralic language not mentioned)
+
 German (or any West Germanic language not mentioned)
+
 Russian (Armenian or any Balto-Slavic language not mentioned)
+
 Turkish (or any Turkic/ Altaic language not mentioned)
+
 Greek (or any Hellenic/ Armenian/ Albanian language not mentioned)
+
 Mandarin (or any Sino-Tibetan language not mentioned)
+
 Indonesian (or any Austronesian/ Austroasiatic/ Kra-Dai language not mentioned)
+
 Another language not represented
 
-Row categories: Second Language (2nd most often used at home & elsewhere); Third Language (3rd most often used at home & elsewhere).
+
+*Row categories: Second Language (2nd most often used at home & elsewhere); Third Language (3rd most often used at home & elsewhere).*
  
 Other column categories "Language; Speak/Sign; Read; Write; Listen/Understand", offered the same dropdown options:
  
@@ -477,31 +560,54 @@ This question seeks to understand the current and future demand for multilingual
  
 Column categories: Very Frequently; Frequently; Occasionally; Rarely; Very Rarely; Never.
  
-Row categories:
+*Row categories:*
  
- Any form of sign language
+Any form of sign language
+
 English
+
 Saint Lucian Kwéyòl (Antillean Creole/Patios)
+
 Haitian Creole
+
 Guadeloupean Creole
+
 French
+
 Spanish
+
 Japanese
+
 Korean
+
 Papiamento
+
 Dutch (including Afrikaans)
+
 Indigenous (including Arawakan, Cariban, of the Americas, & Australia)
+
 Portuguese (or any Romance language not mentioned)
+
 Irish (or any Celtic language not mentioned)
+
 Arabic (or any Afro-Asiatic language not mentioned)
+
 Swahili (or any Niger-Congo/ African language not mentioned)
+
 Hindi (or any Indo-Iranian/ Dravidian language not mentioned)
+
 Swedish (or any North Germanic/ Uralic language not mentioned)
+
 German (or any West Germanic language not mentioned)
+
 Russian (Armenian or any Balto-Slavic language not mentioned)
+
 Turkish (or any Turkic/ Altaic language not mentioned)
+
 Greek (or any Hellenic/ Armenian/ Albanian language not mentioned)
+
 Mandarin (or any Sino-Tibetan language not mentioned)
+
 Indonesian (or any Austronesian/ Austroasiatic/ Kra-Dai language not mentioned) 
  
 While this survey cannot acquire data from past clients, this question aims to collect data on the languages that lawyers commonly encounter. One's first language is not guaranteed to be what one will encounter when interacting with clients. It will be interesting to note where the client and lawyer languages overlap and where they do not. Answering is not optional as this information is crucial to the survey.
