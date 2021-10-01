@@ -130,7 +130,7 @@ c) Citizenship:
 By birth (birthplace of Saint Lucia)
 By birth (parents)
 By birth (other)
-By naturalization (ordinary)
+By naturalisation (ordinary)
 By registration (citizenship by investment)
 By registration (adoption, marriage, parental legacy, residency status, administrative discretion)
 Non-citizen (OECS national)
@@ -309,7 +309,7 @@ Above 106,001 XCD
  There could be an argument for the economic reinforcement of certain linguistic standards based on what a lawyer earns. It may be interesting to note if a multilingual can request and acquire more money due to their linguistic abilities. The Average Attorney Salary of a lawyer located in the sister island country of Dominica is around 2,950 XCD per month {% cite DOMsalary %}. Salaries there range from 1,360 XCD (lowest) to 4,680 XCD (highest). Yet, according to salaryexplorer.com, a Saint Lucian  Attorney typically earns around 5,500 XCD per month;  this is with salaries ranging from 2,530 XCD (lowest) to 8,750 XCD (highest). The minimum wage rate in Saint Lucia last changed at the beginning of 2013, yet it currently stands at XCD 300 a month for office clerks, XCD 200 for shop assistants, and XCD 160 for messengers, according to minimum-wage.org {% cite SLU2020wages %}.
  
 
- 6) Please indicate if your workplace offers any foreign or heritage language assistance programs to clients. For example, your workplace has dedicated in-house resources for languages other than English.
+ 6) Please indicate if your workplace offers any foreign or heritage language assistance programmes to clients. For example, your workplace has dedicated in-house resources for languages other than English.
  
 Yes, an internal service is available to clients.
  
