@@ -130,11 +130,12 @@ By birth (other)
 By naturalization (ordinary)
 By registration (citizenship by investment)
 By registration (adoption, marriage, parental legacy, residency status, administrative discretion)
-Non-citizen (OECS member state citizen)
+Non-citizen (OECS national)
 Non-citizen (other)
 Prefer not to respond
  
-Citizenship status might indicate a history or lineage of commitment to, and familiarity with, the culture, language, people, and overall development of the country {% cite belton2020comparative hansen1999politics %}. At the very least it may indicate a legal tie to a lawyer's practice environment. The OECS agreement allows regional professionals ease of employment in neighboring countries {% cite james _brathwaite_2021 %}. This, therefore, increases the likelihood of increased language diversity at legal firms, and an increased likelihood of different first languages.
+Citizenship status might indicate a history or lineage of commitment to, and familiarity with, the culture, language, people, and overall development of the country {% cite belton2020comparative hansen1999politics %}. At the very least it may indicate a legal tie to a lawyer's practice environment. OECS agreements grant all OECS nationals the right to move, find employment, and access services (including education and healthcare) in the same way nationals of the relevant country do;  this allows for ease of employment of regional professionals {% cite oecs_faq_2020 refugees_refworld_2017 iom_free_2020 james_brathwaite_2021 %}. This, therefore, increases the likelihood of increased language diversity at legal firms, and an increased likelihood of different first languages.
+
 
 d) Ethnicity/race:
  
