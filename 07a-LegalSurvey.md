@@ -335,7 +335,7 @@ Yes, they used a form of sign language
 
 Yes, they used English
 
-Yes, they used Saint Lucian Kwéyòl (Antillean Creole/Patios)
+Yes, they used Saint Lucian Kwéyòl (Antillean Creole/ Patois)
 
 Yes, they used Haitian Creole
 
@@ -393,7 +393,7 @@ Any form of sign language
 
 English
 
-Saint Lucian Kwéyòl (Antillean Creole/Patios)
+Saint Lucian Kwéyòl (Antillean Creole/ Patois)
 
 Haitian Creole
 
@@ -456,7 +456,7 @@ Column categories:
 Formal education (requirement/ elective); Informal education
 (hobby); Informal education (from family & friends); Not applicable
  
-The first half of this question is one of the most crucial to this study. Saint Lucia is an actively changing multilingual environment. The setting is dynamically developing due to evolving political and legal policies (such as Citizenship by Investment (CIP) {% cite bayat_2020 gis_CIP_2017 slu_cip_2020 capital_CIP_2020 harvey_2020 investvisa_2016 %}. English is listed as it is the official language spoken (a prestige language) in Saint Lucia. Apart from modern English, legal (and medical) professionals can claim to be multilingual based on their foundational Latin studies; noting this detail acknowledges this inherent field facet. Saint Lucian Kwéyòl (Antillean Creole/Patios) is inquired about, as it is the heritage language of the island. French and Spanish are listed as they are typical language offerings at all high schools on the island. Dutch, and Portuguese, and to a lesser extent Arabic, Hindi, and Gaelige/Irish are other common languages to the rest of the Caribbean due to colonialization, indentured labor, and the ease of immigration among Caribbean islands. Japanese has been taught in Saint Lucia by humanitarian volunteers as part of their Japan International Cooperation Agency (JICA) work {% cite kobayashi_2020 %}. There also appears to be a rapidly growing Mandarin-speaking population in the Caribbean. It is important to ensure that the legal system can support the increasing numbers of Mandarin-speaking immigrants of various backgrounds (including investors, tourists, CIP purchasers, and foreign officials (for various joint government projects).
+The first half of this question is one of the most crucial to this study. Saint Lucia is an actively changing multilingual environment. The setting is dynamically developing due to evolving political and legal policies (such as Citizenship by Investment (CIP) {% cite bayat_2020 gis_CIP_2017 slu_cip_2020 capital_CIP_2020 harvey_2020 investvisa_2016 %}. English is listed as it is the official language spoken (a prestige language) in Saint Lucia. Apart from modern English, legal (and medical) professionals can claim to be multilingual based on their foundational Latin studies; noting this detail acknowledges this inherent field facet. Saint Lucian Kwéyòl (Antillean Creole/ Patois) is inquired about, as it is the heritage language of the island. French and Spanish are listed as they are typical language offerings at all high schools on the island. Dutch, and Portuguese, and to a lesser extent Arabic, Hindi, and Gaelige/Irish are other common languages to the rest of the Caribbean due to colonialization, indentured labor, and the ease of immigration among Caribbean islands. Japanese has been taught in Saint Lucia by humanitarian volunteers as part of their Japan International Cooperation Agency (JICA) work {% cite kobayashi_2020 %}. There also appears to be a rapidly growing Mandarin-speaking population in the Caribbean. It is important to ensure that the legal system can support the increasing numbers of Mandarin-speaking immigrants of various backgrounds (including investors, tourists, CIP purchasers, and foreign officials (for various joint government projects).
 
 Selecting only 'listen (understand)' encompasses scenarios where one can comprehend but not converse in a language. The column category "understand" was added to account for the possible occurrence of receptive bilingualism among lawyers in the Caribbean [% cite sherkina2020classification %}. This consideration is valid as multilingualism is prevalent in this region. Persons here may encounter various languages yet be unable to respond effectively. The presence of a "prestige" language, such as English, may draw speakers away from heritage languages. These heritage languages can suffer from dropping numbers of speakers when receptive bilingualism is left undeveloped. 
 
@@ -473,7 +473,7 @@ Any form of sign language
 
 English
 
-Saint Lucian Kwéyòl (Antillean Creole/Patios)
+Saint Lucian Kwéyòl (Antillean Creole/ Patois)
 
 Haitian Creole
 
@@ -566,7 +566,7 @@ Any form of sign language
 
 English
 
-Saint Lucian Kwéyòl (Antillean Creole/Patios)
+Saint Lucian Kwéyòl (Antillean Creole/ Patois)
 
 Haitian Creole
 
