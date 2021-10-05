@@ -4,7 +4,9 @@ title: "7. Introduction to  Foundational Surveys"
 description: "7. Introduction to  Foundational Surveys"
 tags: [Assets]
 ---
-{% include JB/setup %
+{% include JB/setup %}
+
+### Introduction to Surveys
 
 While employing various data science techniques to analyze the current vitality of a low-resource language may provide useful information, on its own, this application of data science would provide an incomplete perspective of a language that arose from purely oral communication. Linguistic surveys may be the best way to assess the vitality of a low-resource language. I have attempted to utilize surveys to establish foundational truths about the current vitality status of the Saint Lucian Kwéyòl language.  
 
