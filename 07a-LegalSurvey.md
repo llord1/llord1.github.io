@@ -148,32 +148,34 @@ Prefer not to respond
 Citizenship status might indicate a history or lineage of commitment to, and familiarity with, the culture, language, people, and overall development of the country {% cite belton2020comparative hansen1999politics %}. At the very least it may indicate a legal tie to a lawyer's practice environment. OECS agreements grant all OECS nationals the right to move, find employment, and access services (including education and healthcare) in the same way nationals of the relevant country do;  this allows for ease of employment of regional professionals {% cite oecs_faq_2020 refugees_refworld_2017 iom_free_2020 james_brathwaite_2021 %}. This, therefore, increases the likelihood of increased language diversity at legal firms, and an increased likelihood of different first languages.
 
 
-d) Ethnicity/race:
+d) Ethnicity/ Race:
  
-American Indian/Alaska Native
+American Indian/ Alaska Native (Aztec, Mayan, Navajo Nation, etc.)
 
-Amerindian (Arawak/Taino, Carib, etc.)
- 
-Black/African/Afro-Caribbean
- 
+Amerindian (Arawak/ Taino, Carib, etc.)
+
+Black (African, Afro-Caribbean, etc.)
+
 East Asian (Chinese, Japanese, Korean, Okinawan, Taiwanese, Tibetan, etc.)
- 
-Hispanic/Latino/Spanish Origin (Portuguese, Mexican, Central or South American, Cuban, Puerto Rican, etc.)
- 
-Indian Subcontinent/South Asia (Afghan, Bangladeshis, Bhutanese, Indian, Maldivians, Nepali, Pakistani, and Sri Lankan, etc.)
- 
-Middle Eastern and North African (Algerian, Bahrain, Lebanese, Arab, Moroccan, Syrian, Yemeni, etc.)
- 
+
+Hispanic/ Latino/ Spanish Origin (Cuban, Puerto Rican, Mexican, Central/ South American, etc.)
+
+Indian Subcontinent/ South Asia (Afghan, Bangladeshi, Indian, Nepali, Pakistani, Sri Lankan, etc.)
+
+Middle Eastern/ North African (Algerian, Bahraini, Lebanese, Arab, Moroccan, Syrian, Yemeni, etc.)
+
+Native Hawaiian/ Other Pacific Islander (Native Hawaiian, Samoan, Chamorro, Fijian, Tongan, Marshallese, etc.)
+
+Southeast Asian (Burmese, Cambodian, Filipino, Hmong, Indonesian, Laotian, Malaysian, Mien, Singaporean, Timorese, Thai, Vietnamese, etc.)
+
+White/ North European (Irish, English, German, Polish, French, etc.)
+
 Mixed Parentage (two or more races)
- 
-Native Hawaiian/ Other Pacific Islander (Native Hawaiian, Samoan, Guamanian or Chamorro, Fijian, Tongan, Marshallese, etc.)
- 
-Southeast Asian (Bruneian, Burmese, Cambodian, Filipino, Hmong, Indonesian, Laotian, Malaysian, Mien, Singaporean, Timorese, Thai, Vietnamese, etc.)
- 
-White/North European
- 
+
 Not known
- 
+
+Some other race, ethnicity, or origin (self-describe)
+
 Prefer not to respond
 
  While the ABA noted that "most state bars and state licensing agencies do not track race and ethnicity in the profession", in 2020, this type of data collection increased {%cite ABA2020Profile %}, {% cite clio_2020 %}, {% cite AttorneyAtWork_2019 %}. The 2010 data was able to reveal that 11.4% of all American lawyers were men and women of color, and this only rose to 14.1% in 2020 {%cite ABA2020Profile %}, {% cite clio_2020 %}, {% cite AttorneyAtWork_2019 %}. In developed countries, like America, it is said that minorities remain underrepresented in the legal profession; however, there is limited information on the legal environment of the Caribbean-an environment where the majority of the population would historically be non-white. As of the 2010 Saint Lucian census, the "ethnic group" of "African Descents" represented about 85.28 percent of the population (the highest); this was distantly followed by the "Mixed" category with 10.85 percent, and the "East Indian" at 2.16 percent {% cite CSO_SLU2010 %}.
@@ -610,7 +612,7 @@ Mandarin (or any Sino-Tibetan language not mentioned)
 
 Indonesian (or any Austronesian/ Austroasiatic/ Kra-Dai language not mentioned) 
  
-While this survey cannot acquire data from past clients, this question aims to collect data on the languages that lawyers commonly encounter. One's first language is not guaranteed to be what one will encounter when interacting with clients. It will be interesting to note where the client and lawyer languages overlap and where they do not. Answering is not optional as this information is crucial to the survey.
+One's first language is not guaranteed to be what one will encounter when interacting with clients. It will be interesting to note where the client and lawyer languages overlap and where they do not. Answering is not optional as this information is crucial to the survey.
 
 
 ### References:
