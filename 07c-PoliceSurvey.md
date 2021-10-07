@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "7.b Education and Language Diversity"
-description: "7.b Education and Language Diversity Survey"
+title: "7.b Law Enforcement and Language Diversity"
+description: "7.b Law Enforcement and Language Diversity Survey"
 tags: [Assets]
 ---
 {% include JB/setup %}
