@@ -15,9 +15,9 @@ Introducing the analysis of such data would not only provide valuable linguistic
 
 ### Literature Review (brief):
 
-According to Saint Lucia Citizenship by Investment Program (CIP) data {% cite pm_slu_citizenship_2015 imi_team_2021 slu_cip_2020 %} and tourism statistics {% cite cso_2021 %}, the Saint Lucian public is increasingly being exposed to persons of different nationalities and backgrounds. In order to protect civilians, both foreign and domestic in origin, police need to be able to effectively communicate in emergencies. As of October 2021, the Royal Saint Lucia Police Force (RSLPF) is estimated to have about 1200 members who navigate law enforcement tasks in an ever-increasing multilingual jurisdiction {% cite lord_camille_2021 %}. However, questions are being raised as to the Royal Saint Lucia Police Force's capacity to effectively navigate the multilingual environment as reports on their linguistic capabilities are not readily available. 
+According to Saint Lucia Citizenship by Investment Program (CIP) data {% cite pm_slu_citizenship_2015 imi_team_2021 slu_cip_2020 %} and tourism statistics {% cite gaillard_Finland_2021 cso_2021 %}, the Saint Lucian public is increasingly being exposed to persons of different nationalities and backgrounds. In order to protect civilians, both foreign and domestic in origin, police need to be able to effectively communicate in emergencies. As of October 2021, the Royal Saint Lucia Police Force (RSLPF) is estimated to have about 1200 members who navigate law enforcement tasks in an ever-increasing multilingual jurisdiction {% cite lord_camille_2021 %}. However, questions are being raised as to the Royal Saint Lucia Police Force's capacity to effectively navigate the multilingual environment as reports on their linguistic capabilities are not readily available. 
 
-Tensions with the civilians and the RSLPF were worsened during the SARS-CoV-2 pandemic. This presented a uniquely tense situation where some law enforcement individuals are required to effectively communicate with and protect civilians, while also exposing themselves to the dangerous virus. In an attempt to limit the spread of Covid-19, RSLPF members were encouraged to wear masks; however, introducing masks into situations where effective communication is key, created additional hurdles that the force needed to navigate. Law enforcement individuals were tasked with ensuring public safety by interacting with those not adhering to masking protocols {% cite slu_ccc_city_2020 slu_ccc_city_2020-1 slu_govt_adherence_2020 pm_slu_covid-19_2021 slu_govt_covid-19_2021-1 slu_govt_covid-19_2021 %}. Therefore, they were charged with encouraging civilians to wear the very masks that bear the potential to lead to instances of additional miscommunication among the public. More than ever, the ability to quickly convey essential information would be crucial to law enforcement as it would be a solution to reduced interaction/exposure times and reduce instances of miscommunication.
+Tensions with the civilians and the RSLPF were worsened during the SARS-CoV-2 pandemic. This presented a uniquely tense situation where some law enforcement individuals are required to effectively communicate with and protect civilians, while also exposing themselves to the dangerous virus. In an attempt to limit the spread of Covid-19, RSLPF members were encouraged to wear masks; however, introducing masks into situations where effective communication is key, created additional hurdles that the force needed to navigate. Law enforcement individuals were tasked with ensuring public safety by interacting with those not adhering to masking protocols {% cite slu_ccc_city_2020 slu_ccc_city_2020-1 slu_govt_adherence_2020 pm_slu_covid-19_2021 slu_govt_covid-19_2021-1 slu_govt_covid-19_2021 %}. COVID-19 protocols required interactions with persons that may not be locals and nor from English-speaking nations {% cite gaillard_Finland_2021 %}. Therefore, law enforcement was charged with encouraging civilians to wear the very masks that bear the potential to lead to instances of additional miscommunication among the public. More than ever, the ability to quickly convey essential information would be crucial to law enforcement as it would be a solution to reduced interaction/exposure times and reduce instances of miscommunication.
 
 To better cope with staff shortages, particularly when encouraging mask-wearing, several individuals were recently hired {% cite gis_police_2020  hts_st_lucia_covid19_2020 hts_news4orce_st_lucia_covid_2020 RSLPF_app2021 %}. During this time Special Reserve Police and Peace Officers were sworn in as Special Police Constables (SPCs); many were promoted from SPCs to Police Constables, and Wardens were sworn in as SPCs (with powers to arrest) {% cite dbstelevision_new_2021 hts_news4orce-arrest_st_lucia_covid_2020 hts_news4orce_st_lucia_special_2021 mbc_prime_news_-_saint_lucia_special-Constables_2021 %}. Officers' lives were threatened by invisible yet serious dangers {% cite gaillard_rslpf_2021 %}, yet there were also increasing concerns and allegations of physical abuse of citizens from the very ones charged with protecting them {% cite hts_news4orce_st_lucia_another_2021 hts_news4orce_st_lucia_covid-19_2021 noauthor_aaron_2021 noauthor_rslpf_2021 editorma_st_2020 admin_rslpf_2021 %}. 
 
@@ -42,6 +42,8 @@ Ultimately, this work aims to question if one can truly deem a language as being
 ### Methodology:
 
 *Participation Consent Agreement Design:*
+
+The details present on the form are as follows:
 
 By clicking the submit button, I agree to the terms & conditions:
 
@@ -91,29 +93,26 @@ Demographic questions included questions on Age, Gender (with the option to self
 
 Questions into the number of years as a member of the RSLPF and one's rank may reflect one's experiences and one's likelihood of exposure to multilingual situations; salary questions may speak to possible future incentives for utilizing or acquiring additional language skills. Location details on the current base station/ department/ unit of participants may also reveal details about language hotspots on the island; which locations might have high numbers of certain languages, as well as reflect the number of RSLPF capable of addressing those needs.
 
-Linguistic questions inquired into participant awareness of non-English language assistance programmes in their work environment if they have perceived language barriers while executing their required tasks; it is hoped that such data could lead to improved training of accessibility of currently available resources, or inspire directed resource allocation. 
+Linguistic questions inquired into participant awareness of non-English language assistance programmes in their work environment, if multilinguals' skills were ever a useful asset, and if they perceived language barriers while executing their required tasks; it is hoped that such data could lead to improved training on currently available resources, or inspire improved resource allocation towards language needs.
 
-The list of languages inquired
+Like the list of Ethnicity/Race options, language list options were inspired by historical settlement data specific to the region, and recent immigration and tourism data {% cite pm_slu_citizenship_2015 imi_team_2021 slu_cip_2020 %}. Options were included for survey participants that may have encountered various forms of sign language, languages that were not represented within the scope of the survey, and languages that they could not readily identify ('unrecognized languages').
 
-It should be noted that it is possible that survey participants may have encountered languages that they could not identify.
+Additionally, linguistic questions focused on gathering details on one's first language, and if they spoke additional languages. There was also a focus on the frequency with which one encountered various languages; this was an attempt to see if the current language environment truly reflected historical settlement, immigration, and tourism data. It is hoped that the information gathered from these questions may better enable the resource allocation to the language needs of works and the people they serve.
 
-Any form of sign language
+#### Future Works:
 
-Another language not represented 
-
-Unrecognized language(s)
-
-
+Ultimately, the survey may not be perfect and may have room for improvement in the future. It is hoped that these works will serve as a template for annual assessments moving forward. With the current iteration, the window for describing linguistic experiences was deliberately not rigid; it allowed participants to consider and comment on relevant linguistic experiences encountered throughout the entirety of their professional life. To avoid overlapping data points in the future, the next survey interval will need to be about a year from the last launch; this would allow better annual trend tracking of these professionals' experiences. Future studies may include the surveying of employees of other critical safety institutions and businesses; workers of the Saint Lucia Fire Service, the local prison, and local security firms may be considered.
 
 
 ### References:
+
+{% bibliography --cited %}
 
 ### Appendix:
 
 *Questions:*
 
 *1. Please indicate which of the following best describe (s) you.*
-
 
 *Age:*
 
@@ -375,11 +374,7 @@ WRIT Unit (South)
 
 *4. Please indicate the option(s) that best describes your current rank.*
 
-Below Constable (Special Police Constable, Apprentice, etc.)
-
-Constable
-
-Above Constable (Corporal, Sergeant, etc.)
+[Below Constable (Special Police Constable, Apprentice, etc.) ;Constable; Above Constable (Corporal, Sergeant, etc.)]
 
 *5. Please indicate your average annual income.*
 
@@ -411,9 +406,9 @@ Above 48,000 XCD
 
 *6. Please indicate if your workplace directly offers civilians any formal non-English language assistance programmes.*
 
-Yes, internal interpreter services are available to civilians.
+[Yes, internal interpreter services are available to civilians.]
 
-No, external interpreter services would be recommended.
+[No, external interpreter services would be recommended.]
 
 
 *7. Please indicate if a perceived language barrier has ever limited any of your law enforcement interactions.*
@@ -537,11 +532,9 @@ First Language [Formal education (requirement/elective);  Informal education (ho
 
 *9. Please indicate any additional languages you use to communicate and your proficiency. Note: Selecting only "listen (understand)" encompasses scenarios where one can comprehend but not converse in a language. (Very well, Well, Not well, Not at all, Not applicable)*
 
-Second Language (2nd most often used at home & elsewhere)
+[Second Language (2nd most often used at home & elsewhere)]
 
-Third Language (3rd most often used at home & elsewhere)
-
- 
+[Third Language (3rd most often used at home & elsewhere)]
 
 I do not speak additional languages
 	 
@@ -672,7 +665,5 @@ No
 	 
   Unrecognized language(s)
 	 
- 
-{% bibliography --cited %}
 
 {% include JB/setup %}
