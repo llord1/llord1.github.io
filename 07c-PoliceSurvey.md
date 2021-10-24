@@ -15,7 +15,7 @@ Introducing the analysis of such data would not only provide valuable linguistic
 
 ### Literature Review (brief):
 
-According to Saint Lucia Citizenship by Investment Program (CIP) data {% cite pm_slu_citizenship_2015 imi_team_2021 slu_cip_2020 %} and tourism statistics {% cite gaillard_Finland_2021 cso_2021 %}, the Saint Lucian public is increasingly being exposed to persons of different nationalities and backgrounds. In order to protect civilians, both foreign and domestic in origin, police need to be able to effectively communicate in emergencies. As of October 2021, the Royal Saint Lucia Police Force (RSLPF) is estimated to have about 1200 members who navigate law enforcement tasks in an ever-increasing multilingual jurisdiction {% cite lord_camille_2021 %}. However, questions are being raised as to the Royal Saint Lucia Police Force's capacity to effectively navigate the multilingual environment as reports on their linguistic capabilities are not readily available. 
+According to Saint Lucia Citizenship by Investment Programme (CIP) data {% cite pm_slu_citizenship_2015 imi_team_2021 slu_cip_2020 %} and tourism statistics {% cite gaillard_Finland_2021 cso_2021 %}, the Saint Lucian public is increasingly being exposed to persons of different nationalities and backgrounds. In order to protect civilians, both foreign and domestic in origin, police need to be able to effectively communicate in emergencies. As of October 2021, the Royal Saint Lucia Police Force (RSLPF) is estimated to have about 1200 members who navigate law enforcement tasks in an ever-increasing multilingual jurisdiction {% cite lord_camille_2021 %}. However, questions are being raised as to the Royal Saint Lucia Police Force's capacity to effectively navigate the multilingual environment as reports on their linguistic capabilities are not readily available. 
 
 Tensions with the civilians and the RSLPF were worsened during the SARS-CoV-2 pandemic. This presented a uniquely tense situation where some law enforcement individuals are required to effectively communicate with and protect civilians, while also exposing themselves to the dangerous virus. In an attempt to limit the spread of Covid-19, RSLPF members were encouraged to wear masks; however, introducing masks into situations where effective communication is key, created additional hurdles that the force needed to navigate. Law enforcement individuals were tasked with ensuring public safety by interacting with those not adhering to masking protocols {% cite slu_ccc_city_2020 slu_ccc_city_2020-1 slu_govt_adherence_2020 pm_slu_covid-19_2021 slu_govt_covid-19_2021-1 slu_govt_covid-19_2021 %}. COVID-19 protocols required interactions with persons that may not be locals and nor from English-speaking nations {% cite gaillard_Finland_2021 %}. Therefore, law enforcement was charged with encouraging civilians to wear the very masks that bear the potential to lead to instances of additional miscommunication among the public. More than ever, the ability to quickly convey essential information would be crucial to law enforcement as it would be a solution to reduced interaction/exposure times and reduce instances of miscommunication.
 
@@ -27,17 +27,17 @@ Despite its difficulties, it does appear that efforts have been made to observe 
 
 The 2021 publication of Dr. Sandra Evans in Journal of Pidgin and Creole Languages, Ou ni right-la pou remain silans’ The case for a standard Kwéyòl translation of the pre-trial right to silence', supports the academic merit of conducting surveys on language and law enforcement in Saint Lucia. That work focused on linguistics and the justice system in Saint Lucia, and the potential for miscarriages of justice due to inconsistent communication of civilian rights in Kwéyòl. While it is important that officers communicate key phrases in the heritage language of Saint Lucia, it appears that there is room for further linguistic research for these professionals; they may benefit from information gathered from a base assessment of the overall multilingual capabilities of the force, and the extent of their Kwéyòl's vitality in officer-civilian interactions. 
 
-Therefore, I am currently attempting to utilize surveys and data science tools to investigate and establish foundational truths about the linguistic environment in Saint Lucia, with particular attention to the vitality status of the local heritage language of Saint Lucian Creole (Kwéyòl, Patois, Patwa). These surveys will be executed with close consideration of the articles present in the 'Charter on Language Policy and Language Rights in the Creole-Speaking Caribbean' {% cite icclr_2011 harris_2011 pousada2011linguists %}. Conducting a series of surveys will not only aid my educational pursuits but will also serve to bolster the execution of the upcoming Saint Lucian national language policy {% cite camdu_st_lucia_national_2021 camdu_2018 edu_ministry_2017 satney_2021 harris_2011 mini_edu_2021 joseph_2021 %}. This survey will focus on the crucial providers of education in Saint Lucia. 
+Therefore, I am currently attempting to utilise surveys and data science tools to investigate and establish foundational truths about the linguistic environment in Saint Lucia, with particular attention to the vitality status of the local heritage language of Saint Lucian Creole (Kwéyòl, Patois, Patwa). These surveys will be executed with close consideration of the articles present in the 'Charter on Language Policy and Language Rights in the Creole-Speaking Caribbean' {% cite icclr_2011 harris_2011 pousada2011linguists %}. Conducting a series of surveys will not only aid my educational pursuits but will also serve to bolster the execution of the upcoming Saint Lucian national language policy {% cite camdu_st_lucia_national_2021 camdu_2018 edu_ministry_2017 satney_2021 harris_2011 mini_edu_2021 joseph_2021 %}. This survey will focus on the crucial providers of education in Saint Lucia. 
 
-The importance of language diversity and heritage language vitality in Saint Lucian society was the recent focus of 2021's International Mother Language Day. The theme for this annual UNESCO celebration (typically held on February 21st) was “Fostering Multilingualism for Inclusion in Education And Society” {% cite joseph_2021 %}. It focused on the significance of an 'individual’s first language, indigenous language, native language emphasizing that instruction of such languages should begin in the early years". This theme was said to be the impetus for further development of the Saint Lucian Nation Language Policy, and can also support efforts to monitor, preserve, and examine this language {% cite joseph_2021 %}. 
+The importance of language diversity and heritage language vitality in Saint Lucian society was the recent focus of 2021's International Mother Language Day. The theme for this annual UNESCO celebration (typically held on February 21st) was “Fostering Multilingualism for Inclusion in Education And Society” {% cite joseph_2021 %}. It focused on the significance of an 'individual’s first language, indigenous language, native language emphasising that instruction of such languages should begin in the early years". This theme was said to be the impetus for further development of the Saint Lucian Nation Language Policy, and can also support efforts to monitor, preserve, and examine this language {% cite joseph_2021 %}. 
 
-Integrating multilingual assessment and education as parts of basic training for the police force could improve police-civilian interactions. Special attention could be devoted to the heritage language of the country; the native language could best be preserved if taught to and understood by key institutions in society, such as the police force. A language's status could be elevated if practiced by essential pillars of the community.
+Integrating multilingual assessment and education as parts of basic training for the police force could improve police-civilian interactions. Special attention could be devoted to the heritage language of the country; the native language could best be preserved if taught to and understood by key institutions in society, such as the police force. A language's status could be elevated if practised by essential pillars of the community.
 
-An investigation into the linguistic capabilities of the RSLPF may provide needed data on creating standard monitoring practices of unit linguistics to ensure continuous improvement in civilian communications. Public distribution of these reports may also reassure individuals of various nationalities and backgrounds that instances miscommunication of with the RSLPF are actively being addressed. Demonstration of positive interactions with law enforcement would not only improve local community relations but may also have a positive impact on tourism.
+An investigation into the linguistic capabilities of the RSLPF may provide needed data on creating standard monitoring practises of unit linguistics to ensure continuous improvement in civilian communications. Public distribution of these reports may also reassure individuals of various nationalities and backgrounds that instances miscommunication of with the RSLPF are actively being addressed. Demonstration of positive interactions with law enforcement would not only improve local community relations but may also have a positive impact on tourism.
 
-This survey will focus on law enforcement as they (like lawyers) are all employed in critical services that require effective communication in an increasingly multilingual setting. Dr. Sandra Evans paper appears to have focused on the potential for miscarriages of justice due to miscommunication of key phrases (individual rights) in the local heritage language {% cite evans2021ni %}; this work differs by focusing on the assessment of the language environment and questioning the skills of officers that operate within this space. The survey would not focus on keywords (like Dr. Sandra Evans) rather on data collection and the establishment of metrics on this workforce's linguistics skills. This would encompass investigating what percentage of officers currently consider themselves fluent in Kwéyòl (or other languages) and note their frequency of utilization of their multilingual skills when interacting with civilians.
+This survey will focus on law enforcement as they (like lawyers) are all employed in critical services that require effective communication in an increasingly multilingual setting. Dr. Sandra Evans paper appears to have focused on the potential for miscarriages of justice due to miscommunication of key phrases (individual rights) in the local heritage language {% cite evans2021ni %}; this work differs by focusing on the assessment of the language environment and questioning the skills of officers that operate within this space. The survey would not focus on keywords (like Dr. Sandra Evans) rather on data collection and the establishment of metrics on this workforce's linguistics skills. This would encompass investigating what percentage of officers currently consider themselves fluent in Kwéyòl (or other languages) and note their frequency of utilisation of their multilingual skills when interacting with civilians.
 
-Ultimately, this work aims to question if one can truly deem a language as being low-resource if its teaching and comprehension are integrated into the culture of key community services. This survey will simultaneously bolster the vitality (and recognition) of Kwéyòl, by encouraging mandatory education and monitoring of the local heritage language in critical institutions. The intertwining of language education with crucial institutions would elevate Kwéyòl's status (among the "elite") and improve the justice system. Such efforts could help Kwéyòl be recognized as a true asset of communication in Saint Lucia. 
+Ultimately, this work aims to question if one can truly deem a language as being low-resource if its teaching and comprehension are integrated into the culture of key community services. This survey will simultaneously bolster the vitality (and recognition) of Kwéyòl, by encouraging mandatory education and monitoring of the local heritage language in critical institutions. The intertwining of language education with crucial institutions would elevate Kwéyòl's status (among the "elite") and improve the justice system. Such efforts could help Kwéyòl be recognised as a true asset of communication in Saint Lucia. 
 
 ### Methodology:
 
@@ -89,13 +89,13 @@ Any questions may be directed to Laurel Lord at lalord@my.harrisburgu.edu. Quest
 
 *Question Design:*
 
-Demographic questions included questions on Age, Gender (with the option to self-describe), Ethnicity/Race (with the option to self-describe), and Highest Level of Education as those may add additional context to one's linguistic background; the list of Ethnicity/Race options was inspired by historical settlement data specific to the region, as well as recent immigration data {% cite pm_slu_citizenship_2015 imi_team_2021 slu_cip_2020 %}. An inquiry is also made about one's Citizenship, as this may give additional details as to whether locals or foreign nationals are more likely to be exposed to diverse linguistic backgrounds that benefit the force. 
+Demographic questions included questions on Age, Gender (with the option to self-describe), Ethnicity/Race (with the option to self-describe), and Highest Level of Education as those may add additional context to one's linguistic background; the list of Ethnicity/Race options was inspired by historical settlement data specific to the region, as well as recent immigration data {% cite pm_slu_citizenship_2015 imi_team_2021 slu_cip_2020 %}. An enquiry is also made about one's Citizenship, as this may give additional details as to whether locals or foreign nationals are more likely to be exposed to diverse linguistic backgrounds that benefit the force. 
 
-Questions into the number of years as a member of the RSLPF and one's rank may reflect one's experiences and one's likelihood of exposure to multilingual situations; salary questions may speak to possible future incentives for utilizing or acquiring additional language skills. Location details on the current base station/ department/ unit of participants may also reveal details about language hotspots on the island; which locations might have high numbers of certain languages, as well as reflect the number of RSLPF capable of addressing those needs.
+Questions into the number of years as a member of the RSLPF and one's rank may reflect one's experiences and one's likelihood of exposure to multilingual situations; salary questions may speak to possible future incentives for utilising or acquiring additional language skills. Location details on the current base station/ department/ unit of participants may also reveal details about language hotspots on the island; which locations might have high numbers of certain languages, as well as reflect the number of RSLPF capable of addressing those needs.
 
-Linguistic questions inquired into participant awareness of non-English language assistance programmes in their work environment, if multilinguals' skills were ever a useful asset, and if they perceived language barriers while executing their required tasks; it is hoped that such data could lead to improved training on currently available resources, or inspire improved resource allocation towards language needs.
+Linguistic questions enquired into participant awareness of non-English language assistance programmes in their work environment, if multilinguals' skills were ever a useful asset, and if they perceived language barriers while executing their required tasks; it is hoped that such data could lead to improved training on currently available resources, or inspire improved resource allocation towards language needs.
 
-Like the list of Ethnicity/Race options, language list options were inspired by historical settlement data specific to the region, and recent immigration and tourism data {% cite pm_slu_citizenship_2015 imi_team_2021 slu_cip_2020 %}. Options were included for survey participants that may have encountered various forms of sign language, languages that were not represented within the scope of the survey, and languages that they could not readily identify ('unrecognized languages').
+Like the list of Ethnicity/Race options, language list options were inspired by historical settlement data specific to the region, and recent immigration and tourism data {% cite pm_slu_citizenship_2015 imi_team_2021 slu_cip_2020 %}. Options were included for survey participants that may have encountered various forms of sign language, languages that were not represented within the scope of the survey, and languages that they could not readily identify ('unrecognised languages').
 
 Additionally, linguistic questions focused on gathering details on one's first language, and if they spoke additional languages. There was also a focus on the frequency with which one encountered various languages; this was an attempt to see if the current language environment truly reflected historical settlement, immigration, and tourism data. It is hoped that the information gathered from these questions may better enable the resource allocation to the language needs of works and the people they serve.
 
@@ -109,6 +109,8 @@ Ultimately, the survey may not be perfect and may have room for improvement in t
 {% bibliography --cited %}
 
 ### Appendix:
+
+[Online Survey of Royal Saint Lucia Police Force](https://form.jotform.com/212612630219143)
 
 *Questions:*
 
@@ -287,7 +289,7 @@ Laborie Police Station
 
 Vieux Fort Police Station 
 
-Specialized Unit
+Specialised Unit
 
 *3b. Please indicate the option(s) that best describes your tasks at your current base station/ department/ unit; please check all that apply.*
 
@@ -470,7 +472,7 @@ Any form of sign language
 
 Another language not represented 
 
-Unrecognized language(s)
+Unrecognised language(s)
 
 
 *8a. Please indicate the language you use most often to communicate and your proficiency. Note: Selecting only "listen (understand)" encompasses scenarios where one can comprehend but not converse in a language. (Very well, Well, Not well, Not at all, Not applicable)*
@@ -537,58 +539,58 @@ First Language [Formal education (requirement/elective);  Informal education (ho
 [Third Language (3rd most often used at home & elsewhere)]
 
 I do not speak additional languages
+
+I do not speak a third language
 	 
-  I do not speak a third language
+English
+
+Saint Lucian Creole (Kwéyòl, Patois, Patwa)
+
+French
+
+Guadeloupean Creole
+ 
+Haitian Creole
 	 
-  English
+Spanish 
 	 
-  Saint Lucian Creole (Kwéyòl, Patois, Patwa)
+Portuguese (or any Romance language not mentioned)
 	 
-  French
+Papiamento
 	 
-  Guadeloupean Creole
+Amerindian (including Arawakan, Cariban, etc.) 
 	 
-  Haitian Creole
+Arabic (or any Afro-Asiatic language not mentioned) 
 	 
-  Spanish 
+Dutch (including Afrikaans)
 	 
-  Portuguese (or any Romance language not mentioned)
+Hindi (or any Indo-Iranian/ Dravidian language not mentioned)
 	 
-  Papiamento
+German (or any West Germanic language not mentioned)
+
+Greek (or any Hellenic/ Armenian/ Albanian language not mentioned)
+
+Indonesian (or any Austronesian/ Austroasiatic/ Kra-Dai language not mentioned)
+
+Irish (or any Celtic language not mentioned)
 	 
-  Amerindian (including Arawakan, Cariban, etc.) 
+Japanese
 	 
-  Arabic (or any Afro-Asiatic language not mentioned) 
+Korean
 	 
-  Dutch (including Afrikaans)
+Mandarin Chinese (or any Sino-Tibetan language not mentioned)
 	 
-  Hindi (or any Indo-Iranian/ Dravidian language not mentioned)
+Russian (Armenian or any Balto-Slavic language not mentioned)
 	 
-  German (or any West Germanic language not mentioned)
+Swahili (or any Niger-Congo/ African language not mentioned)
 	 
-  Greek (or any Hellenic/ Armenian/ Albanian language not mentioned)
+Swedish (or any North Germanic/ Uralic language not mentioned)
 	 
-  Indonesian (or any Austronesian/ Austroasiatic/ Kra-Dai language not mentioned)
+Turkish (or any Turkic/ Altaic language not mentioned)
 	 
-  Irish (or any Celtic language not mentioned)
-	 
-  Japanese
-	 
-  Korean
-	 
-  Mandarin Chinese (or any Sino-Tibetan language not mentioned)
-	 
-  Russian (Armenian or any Balto-Slavic language not mentioned)
-	 
-  Swahili (or any Niger-Congo/ African language not mentioned)
-	 
-  Swedish (or any North Germanic/ Uralic language not mentioned)
-	 
-  Turkish (or any Turkic/ Altaic language not mentioned)
-	 
-  Any form of sign language
-	 
-  Another language not represented 
+Any form of sign language
+
+Another language not represented 
 	 
  
 *9b. Please indicate which technique best describes how you came to learn each of the aforementioned languages; please select all that apply.*
@@ -611,59 +613,58 @@ No
 
 *10. Please indicate how often you encounter each of the following languages during typical civilian interactions. This question requires one response per row.*
 
-  	 
-  English
-	 
-  Saint Lucian Creole (Kwéyòl, Patois, Patwa)
-	 
-  French
-	 
-  Guadeloupean Creole
-	 
-  Haitian Creole
-	 
-  Spanish 
-	 
-  Portuguese (or any Romance language not mentioned)
-	 
-  Papiamento
-	 
-  Amerindian (including Arawakan, Cariban, etc.) 
-	 
-  Arabic (or any Afro-Asiatic language not mentioned) 
-	 
-  Dutch (including Afrikaans)
-	 
-  Hindi (or any Indo-Iranian/ Dravidian language not mentioned)
-	 
+English
+
+Saint Lucian Creole (Kwéyòl, Patois, Patwa)
+
+French
+
+Guadeloupean Creole
  
+Haitian Creole
+	 
+Spanish 
+	 
+Portuguese (or any Romance language not mentioned)
+	 
+Papiamento
+	 
+Amerindian (including Arawakan, Cariban, etc.) 
+	 
+Arabic (or any Afro-Asiatic language not mentioned) 
+	 
+Dutch (including Afrikaans)
+	 
+Hindi (or any Indo-Iranian/ Dravidian language not mentioned)
+	 
 *(Continued)10. Please indicate how often you encounter each of the following languages during typical civilian interactions. This question requires one response per row.*
 
-  German (or any West Germanic language not mentioned)
+
+German (or any West Germanic language not mentioned)
+
+Greek (or any Hellenic/ Armenian/ Albanian language not mentioned)
+
+Indonesian (or any Austronesian/ Austroasiatic/ Kra-Dai language not mentioned)
+
+Irish (or any Celtic language not mentioned)
 	 
-  Greek (or any Hellenic/ Armenian/ Albanian language not mentioned)
+Japanese
 	 
-  Indonesian (or any Austronesian/ Austroasiatic/ Kra-Dai language not mentioned)
+Korean
 	 
-  Irish (or any Celtic language not mentioned)
+Mandarin Chinese (or any Sino-Tibetan language not mentioned)
 	 
-  Japanese
+Russian (Armenian or any Balto-Slavic language not mentioned)
 	 
-  Korean
+Swahili (or any Niger-Congo/ African language not mentioned)
 	 
-  Mandarin Chinese (or any Sino-Tibetan language not mentioned)
+Swedish (or any North Germanic/ Uralic language not mentioned)
 	 
-  Russian (Armenian or any Balto-Slavic language not mentioned)
+Turkish (or any Turkic/ Altaic language not mentioned)
 	 
-  Swahili (or any Niger-Congo/ African language not mentioned)
+Any form of sign language
 	 
-  Swedish (or any North Germanic/ Uralic language not mentioned)
-	 
-  Turkish (or any Turkic/ Altaic language not mentioned)
-	 
-  Any form of sign language
-	 
-  Unrecognized language(s)
+Unrecognised language(s)
 	 
 
 {% include JB/setup %}

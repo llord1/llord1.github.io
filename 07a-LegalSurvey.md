@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "7.a Linguistic Legal Representation"
-description: "7.a Linguistic Legal Representation Survey"
+title: "7.a  Legal Representation and Language Diversity:"
+description: "7.a A Demographic and Linguistic Survey of Saint Lucian Lawyers"
 tags: [Assets]
 ---
 {% include JB/setup %}
@@ -17,15 +17,14 @@ It is hoped that the results of this survey will assist with the dedication of r
 
 *The importance of labor demographic and linguistic data monitoring:*
 
-Thoughtful deliberation of linguistics, particularly consideration of language barriers, is increasing in the medical field. As recently as 2019, Sweden conducted a national study on health care professionals' communications through interpreters; this study occurred after noting that many parents utilizing neonatal care were foreign-born and unable to effectively communicate with the healthcare professionals in the local language {% cite patriksson2019health %}. In 2013, an investigation highlighted communications issues between physicians and Spanish-speaking Latin American women with pelvic floor disorders {% cite sevilla2013communication %}. That study highlighted that apart from a patient's lack of disease understanding, there was a lack of Spanish proficiency among the participating physicians. Another 2013 qualitative study (conducted on linguistics) centered around the perceptions of patient-provider communication in breast and cervical cancer-related care when dealing with low-income English and Spanish-speaking women {% cite simon2013perceptions %}. In 2009, there was similar work done on a competent peer support intervention for Spanish-speaking Latinas with breast cancer {% cite napoles2009developing %}. 
-
-Questioning the possible ties of linguistics to various professions is not necessarily new, yet few resources are dedicated to detecting communication issues and improving communication within multilingual countries. An interesting pivot would be an investigation of multilingual professionals should their primary language not be the dominant language of the country in which they practice, and note if they have sufficient access to language resources. One study did investigate Spanish–English bilingual psychotherapists and their personal and professional language development and use {% cite verdinelli2009spanish %}. Another study observed instances where nurses double as interpreters (a study of Spanish-speaking patients in an American primary care setting) {% cite elderkin2001nurses %}. 
+Thoughtful deliberation of linguistics, particularly consideration of language barriers, is increasing in various fields. For example, studies of medical professionals and the need for translation services in their field have been increasing {% cite patriksson2019health sevilla2013communication simon2013perceptions napoles2009developing verdinelli2009spanish elderkin2001nurses %}. Miscommunications in medicine can mean the difference between life and death for their patients. The work of lawyers can also mean the difference between life and death; effective legal representation can mean the difference between an innocent client spending the rest of their life in prison, or a dangerous client being released into the unsuspecting public. However, there does not appear to be many studies into the linguistic setting of the Saint Lucian legal system; there does not appear to be a current effort towards data collection and analysis of the linguistic skills of Saint Lucian lawyers in an increasingly multilingual environment.
 
 Data collection of various professions can be conducted by private companies, however, it is typically completed by government labor agencies. This undertaking ensures that the results on labor force statistics are freely available to the public. In America, the Bureau of Labor Statistics collects such data and hosts it on a public website {% cite BLS2020 %}. Not all developing nations have been able to dedicate resources to the close monitoring of this data, but its value is increasingly recognized.
 
 While the U.S. Bureau of Labor Statistics provides general information on the demographics of the lawyers in the country, the American Bar Association (ABA) gathers more detailed information on Legal Profession Statistics {% cite aba_2020 BLS2020 %}. Their current statistical data assisted with research on lawyers and the legal profession. Their website notes data on lawyer demographics (including disability, women, and minority/people of color topics). It also encompasses justice system statistics (including public perception of justice system/lawyers and the justice system matters), court statistics (including cases filed and criminal justice statistics). This association also notes the topics of law student education and legal salaries (and related attrition/retention data).
 
 Moreover, the U.S. Department of Justice (DOJ) has made statements that support the importance of language Assistance Services {% cite doj_2016 %}. One of its documents suggested that court systems should exist to deliver justice, therefore, the law requires Language Assistance Services and the DOJ enforces this standard {% cite doj_2016 %}. This enforcement is conducted through the processing of complaints when court systems have failed to provide interpreter or other language assistance services in state court operations or proceedings (in possible violation of Title VI) {% cite doj_2016 %}. The DOJ also emphasized the importance of no-cost language services to preventing miscarriages of justice. It also highlighted, based on demographic trends, that the provision of Language Assistance Services is an important standard to ensure a thriving justice system in societies that are increasingly becoming multicultural and multilingual{% cite doj_2016 %}.
+
 
 *Lack of labor demographic and linguistic data in Saint Lucia:*
 
@@ -68,19 +67,32 @@ There is no anticipated risk to the participant in this research. All informatio
 
 Any questions may be directed to Laurel Lord at lalord@my.harrisburgu.edu. Questions or concerns regarding your rights as a subject in this study may be directed to HU IRB via 717-901-5100 or their website at harrisburgu.edu/irb.
 
-[See draft online form](https://form.jotform.com/203134599286160).
+*Question Design:*
+
+Demographic questions included questions on Age, Gender (with the option to self-describe), Ethnicity/Race (with the option to self-describe), and Highest Level of Education as those may add additional context to one's linguistic background; the list of Ethnicity/Race options was inspired by historical settlement data specific to the region, as well as recent immigration data {% cite pm_slu_citizenship_2015 imi_team_2021 slu_cip_2020 %}. An enquiry is also made about one's Citizenship, as this may give additional details as to whether locals or foreign nationals are more likely to be exposed to diverse linguistic backgrounds that benefit the legal field. 
+
+Questions into the number of years one has been a practicing professional, areas of practice, and current working environment may reflect one's experiences and one's likelihood of exposure to multilingual situations; annual income questions may speak to possible future incentives for utilising or acquiring additional language skills. Inquiring into the locations of one's operations may not be suitable here as persons of this profession may operate island-wide.
+
+Linguistic questions enquired into participant awareness of non-English language assistance programmes in their work environment, if multilinguals' skills were ever a useful asset, and if they perceived language barriers while executing their required tasks; it is hoped that such data could lead to improved training on currently available resources, or inspire improved resource allocation towards language needs.
+
+Like the list of Ethnicity/Race options, language list options were inspired by historical settlement data specific to the region, and recent immigration and tourism data {% cite pm_slu_citizenship_2015 imi_team_2021 slu_cip_2020 %}. Options were included for survey participants that may have encountered various forms of sign language, languages that were not represented within the scope of the survey, and languages that they could not readily identify ('unrecognised languages').
+
+Additionally, linguistic questions focused on gathering details on one's first language, and if they spoke additional languages. There was also a focus on the frequency with which one encountered various languages; this was an attempt to see if the current language environment truly reflected historical settlement, immigration, and tourism data. It is hoped that the information gathered from these questions may better enable the resource allocation to the language needs of works and the clients they serve.
 
 May attempt using the Chi-square test of independence for the following survey questions.
 
+
 *Survey question design*
 
-1) Please indicate which of the following best describe (s) you. 
+[Online Survey of Saint Lucian Lawyers](https://form.jotform.com/203134599286160).
+
+*1. Please indicate which of the following best describe (s) you.*
  
 
-a) Age:
+*Age:*
 
 Less than 18
-    
+
 18-24
 
 25-29
@@ -96,12 +108,12 @@ Less than 18
 50-54
 
 55-59
- 
+
 60-64
 
-65-69 
+65-69
 
-70 -74
+70-74
 
 75 or older
 
@@ -112,21 +124,22 @@ All of the items of this four part-question are mandatory as they serve as the b
 Noting age may highlight multilingualism trends among age groups. For example, if multilingualism is more prominent in the younger lawyers, then multilingual representation may have a positive projection. However, if multilingual tendencies cluster among older lawyers, this study may highlight the need to improve the legal system in an increasingly multilingual society. 
 
 
-b) Gender:
- 
+*Gender:*
+
 Man
- 
+
 Woman
 
-Prefer to self-describe
- 
 Prefer not to respond
+
+Prefer to self-describe (1. Self-describe gender:)
+
  
 Gender identification is another standard (multiple choice) demographic question; to be more inclusive, 'Prefer to self-describe' was added. This question is valuable to gather this data to check whether the August 2020 American trend of men outnumbering women (especially in leadership), is replicated in and persistent in the Caribbean country of Saint Lucia {%cite ABA2020Profile clio_2020 AttorneyAtWork_2019 %}. There may also be a need to highlight if there are any differences in linguistics interests among the lawyers. Females are often believed to be more capable of and interested in linguistic acquisition and practice. Data gathered could confirm or dispute this assumption.
  
 
-c) Citizenship:
- 
+*Citizenship:*
+
 By birth (birthplace of Saint Lucia)
 
 By birth (parents)
@@ -137,7 +150,8 @@ By naturalisation (ordinary)
 
 By registration (citizenship by investment)
 
-By registration (adoption, marriage, parental legacy, residency status, administrative discretion)
+By registration (adoption, marriage, parental legacy, residency status, 
+administrative discretion)
 
 Non-citizen (OECS national)
 
@@ -148,33 +162,38 @@ Prefer not to respond
 Citizenship status might indicate a history or lineage of commitment to, and familiarity with, the culture, language, people, and overall development of the country {% cite belton2020comparative hansen1999politics %}. At the very least it may indicate a legal tie to a lawyer's practice environment. OECS agreements grant all OECS nationals the right to move, find employment, and access services (including education and healthcare) in the same way nationals of the relevant country do;  this allows for ease of employment of regional professionals {% cite oecs_faq_2020 refugees_refworld_2017 iom_free_2020 james_brathwaite_2021 %}. This, therefore, increases the likelihood of increased language diversity at legal firms, and an increased likelihood of different first languages.
 
 
-d) Ethnicity/ Race:
- 
-American Indian/ Alaska Native (Aztec, Mayan, Navajo Nation, etc.)
-
-Amerindian (Arawak/ Taino, Carib, etc.)
+*Ethnicity/Race*
 
 Black (African, Afro-Caribbean, etc.)
 
-East Asian (Chinese, Japanese, Korean, Okinawan, Taiwanese, Tibetan, etc.)
+White/ North European (English, French, German, Irish, Polish, etc.)
 
-Hispanic/ Latino/ Spanish Origin (Cuban, Puerto Rican, Mexican, Central/ South American, etc.)
+Amerindian (Arawak/ Taino, Carib, etc.)
 
-Indian Subcontinent/ South Asia (Afghan, Bangladeshi, Indian, Nepali, Pakistani, Sri Lankan, etc.)
+American Indian/ Alaska Native (Aztec, Mayan, Navajo Nation, etc.)
 
-Middle Eastern/ North African (Algerian, Bahraini, Lebanese, Arab, Moroccan, Syrian, Yemeni, etc.)
+East Asian (Chinese, Japanese, Korean, Taiwanese, Tibetan, etc.)
 
-Native Hawaiian/ Other Pacific Islander (Native Hawaiian, Samoan, Chamorro, Fijian, Tongan, Marshallese, etc.)
+Hispanic/ Latino/ Spanish Origin (Cuban, Puerto Rican, Mexican, Central/ 
+South American, etc.)
 
-Southeast Asian (Burmese, Cambodian, Filipino, Hmong, Indonesian, Laotian, Malaysian, Mien, Singaporean, Timorese, Thai, Vietnamese, etc.)
+Indian Subcontinent/ South Asia (Afghan, Bangladeshi, Indian, Jordanian, 
+Pakistani, Sri Lankan, etc.)
 
-White/ North European (Irish, English, German, Polish, French, etc.)
+Middle Eastern/ North African (Algerian, Bahraini, Lebanese, Arab, 
+Moroccan, Syrian, Yemeni, etc.)
+
+Native Hawaiian/ Other Pacific Islander (Native Hawaiian, Samoan, 
+Chamorro, Fijian, Tongan, Marshallese, etc.)
+
+Southeast Asian (Burmese, Filipino, Indonesian, Laotian, Malaysian, 
+Singaporean, Thai, Vietnamese, etc.)
 
 Mixed Parentage (two or more races)
 
 Not known
 
-Some other race, ethnicity, or origin (self-describe)
+Some other race, ethnicity, or origin (self-describe) (1. Self-describe ethnicity/race:)
 
 Prefer not to respond
 
@@ -183,7 +202,7 @@ Prefer not to respond
 Additionally, household settings and upbringing may shape or influence individual interests. Multiculturalism is quite prevalent in the Caribbean, and that upbringing might impact multilingual abilities. While formal education may be a primary factor in language acquisition, various states of immigration over generations, or other forms of diversity in their household, might influence their linguistic capacities. Identifying participant ethnicity/race is another standard demographic inquiry; nevertheless, it explores whether or not there are any differences in linguistics interests among the lawyers based on their backgrounds. 
  
 
-2) Please indicate the number of years you have been in practice (number of years since your first call to the bar in the Common-Wealth etc.)
+*2. Please indicate the number of years you have been in practise (number of years since your first call to the bar in the Common-Wealth etc.)*
  
 Less than 1
     
@@ -204,7 +223,7 @@ Less than 1
 This question item confirms standard demographic information collected from ABA. It may also have language implications, as details could one's career length align with their exposure to varied languages. The longer one practices in this field, the more opportunities one may have to interact with a diverse clientele.
 
 
- 3) Please indicate your area(s) of practice; please check all that apply. 
+*3. Please indicate your area(s) of practise; please check all that apply.*
  
 Administrative Law
  
@@ -271,7 +290,7 @@ Other
 An additional means of narrowing down the underlying multilinguistic tendencies in this field involves inquiring into the specialization areas of lawyers. This focus will highlight which practices may be associated with a need to speak multiple languages; more specifically, which law topics are likely to require an understanding of the Saint Lucian Kwéyòl language. Saint Lucia is a sovereign island nation in the Commonwealth of Nations but, because Saint Lucia was both a French and English colony before it gained independence on the 22nd of February, 1979, the legal system has been a mix of civil and English common law {% cite specialitysmith_2020 %}. Options for this list were developed from course offerings at Caribbean law schools {% cite uwi2020 stetson_university %}.
 
 
- 4) Please indicate the option(s) that best describes your current working environment; please check all that apply. 
+*4. Please indicate the option(s) that best describes your current working environment; please check all that apply.*
  
 In private practice, in a firm with less than 5 lawyers
  
@@ -296,7 +315,7 @@ Other
 Lawyers may choose different working environments. Such a choice would influence the type of clientele typically encountered. Inquiring into Saint Lucian lawyer work environments can provide additional insight into the language needs within the legal system. 
 
 
- 5) Please indicate your average annual income.
+*5. Please indicate your average annual income.*
  
 Below 36,000 XCD
  
@@ -319,7 +338,7 @@ Above 106,001 XCD
  There could be an argument for the economic reinforcement of certain linguistic standards based on what a lawyer earns. It may be interesting to note if a multilingual can request and acquire more money due to their linguistic abilities. The Average Attorney Salary of a lawyer located in the sister island country of Dominica is around 2,950 XCD per month {% cite DOMsalary %}. Salaries there range from 1,360 XCD (lowest) to 4,680 XCD (highest). Yet, according to salaryexplorer.com, a Saint Lucian  Attorney typically earns around 5,500 XCD per month;  this is with salaries ranging from 2,530 XCD (lowest) to 8,750 XCD (highest). The minimum wage rate in Saint Lucia last changed at the beginning of 2013, yet it currently stands at XCD 300 a month for office clerks, XCD 200 for shop assistants, and XCD 160 for messengers, according to minimum-wage.org {% cite SLU2020wages %}.
  
 
- 6) Please indicate if your workplace offers any foreign or heritage language assistance programmes to clients. For example, your workplace has dedicated in-house resources for languages other than English.
+*6. Please indicate if your workplace directly offers clients any formal non-English language assistance programmes.*
  
 Yes, an internal service is available to clients.
  
@@ -329,134 +348,126 @@ Prefer not to respond.
  
 This question would confirm the presence of legal aid in Saint Lucia. It would simultaneously note general lawyer awareness of the availability of such services.
 
+*7. Please indicate if a perceived language barrier has ever limited any of your attorney-client interactions.*
 
- 7) Please indicate if a perceived language barrier has ever limited any of your attorney-client interactions; please select all that apply.
- 
-No 
-Yes, they used a form of sign language
+Yes
 
-Yes, they used English
+No
 
-Yes, they used Saint Lucian Kwéyòl (Antillean Creole/ Patois)
-
-Yes, they used Haitian Creole
-
-Yes, they used Guadeloupean Creole
-
-Yes, they used French
-
-Yes, they used Spanish
-
-Yes, they used Japanese
-
-Yes, they used Korean
-
-Yes, they used Papiamento
-
-Yes, they used Dutch (including Afrikaans)
-
-Yes, they used Indigenous (including Arawakan, Cariban, of the Americas, & Australia)
-
-Yes, they used Portuguese (or any Romance language not mentioned)
-
-Yes, they used Irish (or any Celtic language not mentioned)
-
-Yes, they used Arabic (or any Afro-Asiatic language not mentioned)
-
-Yes, they used Swahili (or any Niger-Congo/ African language not mentioned)
-
-Yes, they used Hindi (or any Indo-Iranian/ Dravidian language not mentioned)
-
-Yes, they used Swedish (or any North Germanic/ Uralic language not mentioned)
-
-Yes, they used German (or any West Germanic language not mentioned)
-
-Yes, they used Russian (Armenian or any Balto-Slavic language not mentioned)
-
-Yes, they used Turkish (or any Turkic/ Altaic language not mentioned)
-
-Yes, they used Greek (or any Hellenic/ Armenian/ Albanian language not mentioned)
-
-Yes, they used Mandarin (or any Sino-Tibetan language not mentioned)
-
-Yes, they used Indonesian (or any Austronesian/ Austroasiatic/ Kra-Dai language not mentioned)
-
-
-This question seeks to explore the personal linguistic limitations of lawyers in a multilingual environment. It may reinforce the perceived need for lawyers to acquire additional languages. 
-
-
- 8a) Please indicate the language you use most often to communicate and your proficiency. Note: Selecting only "listen (understand)" encompasses scenarios where one can comprehend but not converse in a language.
- 
-*Row categories: First Language (most often used at home).*
- 
-Language dropdowns:
- 
-Any form of sign language
+*7b. If 'yes', please indicate the language they used; please select all that apply.*
 
 English
 
-Saint Lucian Kwéyòl (Antillean Creole/ Patois)
-
-Haitian Creole
-
-Guadeloupean Creole
+Saint Lucian Creole (Kwéyòl, Patois, Patwa)
 
 French
 
-Spanish
+Guadeloupean Creole
+
+Haitian Creole
+
+Spanish 
+
+Portuguese (or any Romance language not mentioned)
+
+Papiamento
+
+Amerindian (including Arawakan, Cariban, etc.) 
+
+Arabic (or any Afro-Asiatic language not mentioned) 
+
+Dutch (including Afrikaans)
+
+Hindi (or any Indo-Iranian/ Dravidian language not mentioned)
+
+German (or any West Germanic language not mentioned)
+
+Greek (or any Hellenic/ Armenian/ Albanian language not mentioned)
+
+Indonesian (or any Austronesian/ Austroasiatic/ Kra-Dai language not 
+mentioned)
+
+Irish (or any Celtic language not mentioned)
 
 Japanese
 
 Korean
 
-Papiamento
-
-Dutch (including Afrikaans)
-
-Indigenous (including Arawakan, Cariban, of the Americas, & Australia)
-
-Portuguese (or any Romance language not mentioned)
-
-Irish (or any Celtic language not mentioned)
-
-Arabic (or any Afro-Asiatic language not mentioned)
-
-Swahili (or any Niger-Congo/ African language not mentioned)
-
-Hindi (or any Indo-Iranian/ Dravidian language not mentioned)
-
-Swedish (or any North Germanic/ Uralic language not mentioned)
-
-German (or any West Germanic language not mentioned)
+Mandarin Chinese (or any Sino-Tibetan language not mentioned)
 
 Russian (Armenian or any Balto-Slavic language not mentioned)
 
+Swahili (or any Niger-Congo/ African language not mentioned)
+
+Swedish (or any North Germanic/ Uralic language not mentioned)
+
 Turkish (or any Turkic/ Altaic language not mentioned)
+
+Any form of sign language
+
+Another language not represented 
+
+Unrecognised language(s)
+
+This question seeks to explore the personal linguistic limitations of lawyers in a multilingual environment. It may reinforce the perceived need for lawyers to acquire additional languages. 
+
+
+*8a. Please indicate the language you use most often to communicate and your proficiency. Note: Selecting only "listen (understand)" encompasses scenarios where one can comprehend but not converse in a language. (Very well, Well, Not well, Not at all, Not applicable)*
+
+English
+
+Saint Lucian Creole (Kwéyòl, Patois, Patwa)
+
+French
+
+Guadeloupean Creole
+
+Haitian Creole
+
+Spanish 
+
+Portuguese (or any Romance language not mentioned)
+
+Papiamento
+
+Amerindian (including Arawakan, Cariban, etc.) 
+
+Arabic (or any Afro-Asiatic language not mentioned) 
+
+Dutch (including Afrikaans)
+
+Hindi (or any Indo-Iranian/ Dravidian language not mentioned)
+
+German (or any West Germanic language not mentioned)
 
 Greek (or any Hellenic/ Armenian/ Albanian language not mentioned)
 
-Mandarin (or any Sino-Tibetan language not mentioned)
+Indonesian (or any Austronesian/ Austroasiatic/ Kra-Dai language not 
+mentioned)
 
-Indonesian (or any Austronesian/ Austroasiatic/ Kra-Dai language not mentioned)
+Irish (or any Celtic language not mentioned)
 
-Another language not represented
+Japanese
 
- 
-Other column categories "Language; Speak/Sign; Read; Write; Listen/Understand", offered the same dropdown options:
- 
-Very well
- 
-Well
- 
-Not well
- 
-Not at all 
+Korean
 
- b) Please indicate which technique best describes how you came to learn the aforementioned language; please select all that apply. 
+Mandarin Chinese (or any Sino-Tibetan language not mentioned)
+
+Russian (Armenian or any Balto-Slavic language not mentioned)
+
+Swahili (or any Niger-Congo/ African language not mentioned)
+
+Swedish (or any North Germanic/ Uralic language not mentioned)
+
+Turkish (or any Turkic/ Altaic language not mentioned)
+
+Any form of sign language
+
+Another language not represented (Please manually list language(s):)
  
-Column categories:
-Formal education (requirement/ elective); Informal education
-(hobby); Informal education (from family & friends); Not applicable
+*8b. Please indicate which technique best describes how you came to learn the aforementioned language; please select all that apply.*
+
+First Language [Formal education (requirement/elective);  Informal education (hobby); Informal education (family & friends)]
  
 The first half of this question is one of the most crucial to this study. Saint Lucia is an actively changing multilingual environment. The setting is dynamically developing due to evolving political and legal policies (such as Citizenship by Investment (CIP) {% cite bayat_2020 gis_CIP_2017 slu_cip_2020 capital_CIP_2020 harvey_2020 investvisa_2016 %}. English is listed as it is the official language spoken (a prestige language) in Saint Lucia. Apart from modern English, legal (and medical) professionals can claim to be multilingual based on their foundational Latin studies; noting this detail acknowledges this inherent field facet. Saint Lucian Kwéyòl (Antillean Creole/ Patois) is inquired about, as it is the heritage language of the island. French and Spanish are listed as they are typical language offerings at all high schools on the island. Dutch, and Portuguese, and to a lesser extent Arabic, Hindi, and Gaelige/Irish are other common languages to the rest of the Caribbean due to colonialization, indentured labor, and the ease of immigration among Caribbean islands. Japanese has been taught in Saint Lucia by humanitarian volunteers as part of their Japan International Cooperation Agency (JICA) work {% cite kobayashi_2020 %}. There also appears to be a rapidly growing Mandarin-speaking population in the Caribbean. It is important to ensure that the legal system can support the increasing numbers of Mandarin-speaking immigrants of various backgrounds (including investors, tourists, CIP purchasers, and foreign officials (for various joint government projects).
 
@@ -465,152 +476,145 @@ Selecting only 'listen (understand)' encompasses scenarios where one can compreh
 The second half of this question is related to exploring where and how one engages in language learning and might highlight environments that foster multilingualism in lawyers. The learning of languages may take place in formal and informal settings. In Saint Lucia, most language education is likely to be done in a school setting. Overall, Saint Lucian Kwéyòl, a national heritage language, would typically be learned informally. Formal education of this language only recently began with young children (between the ages of 6-12) in less than a handful of schools and adult learners; however, since the major fire at the National Folk Resource Center, most classes have reverted to more private sessions. Renewed attention to the national language policy has redirected efforts to formal education of the language. However, enforcement of this policy appears to be challenging.
 
 
- 9) Please indicate any secondary languages you use to communicate and your proficiency. Note: Selecting only "listen (understand)" encompasses scenarios where one can comprehend but not converse in a language.
- 
- I do not speak additional languages
+*9. Please indicate any additional languages you use to communicate and your proficiency. Note: Selecting only "listen (understand)" encompasses scenarios where one can comprehend but not converse in a language. (Very well, Well, Not well, Not at all, Not applicable)*
+
+[Second Language (2nd most often used at home & elsewhere)]
+
+[Third Language (3rd most often used at home & elsewhere)]
+
+I do not speak additional languages
 
 I do not speak a third language
-
-Any form of sign language
-
+	 
 English
 
-Saint Lucian Kwéyòl (Antillean Creole/ Patois)
-
-Haitian Creole
-
-Guadeloupean Creole
+Saint Lucian Creole (Kwéyòl, Patois, Patwa)
 
 French
 
-Spanish
-
-Japanese
-
-Korean
-
-Papiamento
-
-Dutch (including Afrikaans)
-
-Indigenous (including Arawakan, Cariban, of the Americas, & Australia)
-
+Guadeloupean Creole
+ 
+Haitian Creole
+	 
+Spanish 
+	 
 Portuguese (or any Romance language not mentioned)
-
-Irish (or any Celtic language not mentioned)
-
-Arabic (or any Afro-Asiatic language not mentioned)
-
-Swahili (or any Niger-Congo/ African language not mentioned)
-
+	 
+Papiamento
+	 
+Amerindian (including Arawakan, Cariban, etc.) 
+	 
+Arabic (or any Afro-Asiatic language not mentioned) 
+	 
+Dutch (including Afrikaans)
+	 
 Hindi (or any Indo-Iranian/ Dravidian language not mentioned)
-
-Swedish (or any North Germanic/ Uralic language not mentioned)
-
+	 
 German (or any West Germanic language not mentioned)
-
-Russian (Armenian or any Balto-Slavic language not mentioned)
-
-Turkish (or any Turkic/ Altaic language not mentioned)
 
 Greek (or any Hellenic/ Armenian/ Albanian language not mentioned)
 
-Mandarin (or any Sino-Tibetan language not mentioned)
-
 Indonesian (or any Austronesian/ Austroasiatic/ Kra-Dai language not mentioned)
 
-Another language not represented
+Irish (or any Celtic language not mentioned)
+	 
+Japanese
+	 
+Korean
+	 
+Mandarin Chinese (or any Sino-Tibetan language not mentioned)
+	 
+Russian (Armenian or any Balto-Slavic language not mentioned)
+	 
+Swahili (or any Niger-Congo/ African language not mentioned)
+	 
+Swedish (or any North Germanic/ Uralic language not mentioned)
+	 
+Turkish (or any Turkic/ Altaic language not mentioned)
+	 
+Any form of sign language
 
+Another language not represented 
+	 
+ 
+*9b. Please indicate which technique best describes how you came to learn each of the aforementioned languages; please select all that apply.*
 
-*Row categories: Second Language (2nd most often used at home & elsewhere); Third Language (3rd most often used at home & elsewhere).*
- 
-Other column categories "Language; Speak/Sign; Read; Write; Listen/Understand", offered the same dropdown options:
- 
-Very well
- 
-Well
- 
-Not well
- 
-Not at all 
- 
-Not applicable
+Second Language 
 
- b) Please indicate which technique best describes how you came to learn each of the aforementioned languages; please select all that apply.
- 
-Column categories:
-Formal education (requirement/ elective); Informal education
-(hobby); Informal education (from family & friends); Not applicable
- 
-Row categories: Second Language, Third Language
+[Formal education (requirement/elective);  Informal education (hobby); Informal education (family & friends)]
+
+Third Language 
+
+[Formal education (requirement/elective);  Informal education (hobby); Informal education (family & friends)]
+
 
 The first and second parts of this question are related to the previous question on language acquisition environments. However, these questions delve deeper into the presence of multilinguals in this profession, rather than the prior question's focus on identifying the details of one's primary language. The parameters of the prior question are used here, yet answering is optional. Only two additional options were made available as a means confirming or disproving whether Saint Lucian creole is indeed the second most dominant language in the country. Note, using conditional logic question 11b is hidden until options are selected in 11. If "I do not speak a second language" is selected, 11b becomes hidden. Additionally, if "Another language not represented" is selected, an option to manually enter a value for the unrepresented language will be revealed ('Please manually list language(s):").
 
- c) If you do speak more than one language, please indicate if your 
-multilingual skill was ever a useful asset to representing a client.
- 
- I do not speak additional languages
- 
+*9c. If you do speak more than one language, please indicate if your multilingual skill was ever a useful asset to representing a client.*
+
 Yes
- 
+
 No
+
 
 This question seeks to understand the current and future demand for multilingualism in lawyering, based on past lawyering experiences. These details may reveal sufficiencies as well as insufficiencies concerning the adequate legal representation of  Saint Lucian clients. Saint Lucia is a multilingual country, and a lawyer with multiple languages may stand a better chance of not only attracting a diverse and numerous clientele base; reduced language barriers would allow lawyers to better relay facts, arguments, and sentiments of clients with diverse backgrounds.
 
 
- 10) Please indicate which language frequency category best reflects your typical client interactions. This question only requires one response per row.
- 
-Column categories: Very Frequently; Frequently; Occasionally; Rarely; Very Rarely; Never.
- 
-*Row categories:*
- 
-Any form of sign language
+*10. Please indicate how often you encounter each of the following languages during typical client interactions. This question requires one response per row.*
+  	 
 
 English
 
-Saint Lucian Kwéyòl (Antillean Creole/ Patois)
-
-Haitian Creole
-
-Guadeloupean Creole
+Saint Lucian Creole (Kwéyòl, Patois, Patwa)
 
 French
 
-Spanish
-
-Japanese
-
-Korean
-
-Papiamento
-
-Dutch (including Afrikaans)
-
-Indigenous (including Arawakan, Cariban, of the Americas, & Australia)
-
+Guadeloupean Creole
+ 
+Haitian Creole
+	 
+Spanish 
+	 
 Portuguese (or any Romance language not mentioned)
-
-Irish (or any Celtic language not mentioned)
-
-Arabic (or any Afro-Asiatic language not mentioned)
-
-Swahili (or any Niger-Congo/ African language not mentioned)
-
+	 
+Papiamento
+	 
+Amerindian (including Arawakan, Cariban, etc.) 
+	 
+Arabic (or any Afro-Asiatic language not mentioned) 
+	 
+Dutch (including Afrikaans)
+	 
 Hindi (or any Indo-Iranian/ Dravidian language not mentioned)
-
-Swedish (or any North Germanic/ Uralic language not mentioned)
+	 
+ 
+*(Continued)10. Please indicate how often you encounter each of the following languages during typical client interactions. This question requires one response per row.*
 
 German (or any West Germanic language not mentioned)
 
-Russian (Armenian or any Balto-Slavic language not mentioned)
-
-Turkish (or any Turkic/ Altaic language not mentioned)
-
 Greek (or any Hellenic/ Armenian/ Albanian language not mentioned)
 
-Mandarin (or any Sino-Tibetan language not mentioned)
+Indonesian (or any Austronesian/ Austroasiatic/ Kra-Dai language not mentioned)
 
-Indonesian (or any Austronesian/ Austroasiatic/ Kra-Dai language not mentioned) 
+Irish (or any Celtic language not mentioned)
+	 
+Japanese
+	 
+Korean
+	 
+Mandarin Chinese (or any Sino-Tibetan language not mentioned)
+	 
+Russian (Armenian or any Balto-Slavic language not mentioned)
+	 
+Swahili (or any Niger-Congo/ African language not mentioned)
+	 
+Swedish (or any North Germanic/ Uralic language not mentioned)
+	 
+Turkish (or any Turkic/ Altaic language not mentioned)
+	 
+Any form of sign language
+	 
+Unrecognised language(s)
  
 One's first language is not guaranteed to be what one will encounter when interacting with clients. It will be interesting to note where the client and lawyer languages overlap and where they do not. Answering is not optional as this information is crucial to the survey.
 

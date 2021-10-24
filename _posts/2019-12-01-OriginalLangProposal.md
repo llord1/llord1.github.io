@@ -8,7 +8,7 @@ tags: [Assets]
 
 1.  Online presence means future presence: Using language processing tools to look at Saint Lucian tweets, and so find out how much patois is being used online. 
 
-    * An analysis of 1,500 patios tweets would assist with determining if there is noticeable activity present, and if so, is the online usage is leading to new linguistic trends emerging.
+    * An analysis of 1,500 patois tweets would assist with determining if there is noticeable activity present, and if so, is the online usage is leading to new linguistic trends emerging.
     * There is a base for such a study using [indigenoustweets.com/](http://indigenoustweets.com/).
 
 Inspiration: [Source1](https://www.swarthmore.edu/SocSci/langhotspots/features.html), [Source2](https://youtu.be/LM3ISST2eg8), [Source3](https://www.computing.dcu.ie/~tlynn/;)
