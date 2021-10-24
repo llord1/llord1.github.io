@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "7.d Medical Care and Language Diversity:"
+title: "7.d Medical Care and Language Diversity"
 description: "7.d A Demographic and Linguistic Survey of Saint Lucian Medical Professionals"
 tags: [Assets]
 ---

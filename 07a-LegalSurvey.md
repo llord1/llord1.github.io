@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "7.a  Legal Representation and Language Diversity:"
+title: "7.a  Legal Representation and Language Diversity"
 description: "7.a A Demographic and Linguistic Survey of Saint Lucian Lawyers"
 tags: [Assets]
 ---
