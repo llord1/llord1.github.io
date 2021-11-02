@@ -1,0 +1,215 @@
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7 ie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8 ie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9 ie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<title>4. Theoretical or Conceptual Model</title>
+	<meta name="author" content="Laurel Lord">
+	<link href='/assets/themes/the-program/css/style.css' rel="stylesheet" media="all">
+	<link href="http://feeds.feedburner.com/" rel="alternate" title="4. Theoretical or Conceptual Model" type="application/atom+xml">
+	<script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.0.6/modernizr.min.js"></script>
+</head>
+<body>
+
+<div id="page" class="hentry">
+	<header class="the-header">
+		<div class="unit-head">
+			<div class="unit-inner unit-head-inner">
+				<nav class="nav-global">
+					<ul>
+						<li class="logo"><a href="/">Laurel's Works in Progress</a></li>
+						<li class="archive"><a href="/archive.html">archive</a></li>
+						<li class="page"><a href="/pages.html">pages</a></li>
+						<li class="category"><a href="/categories.html">categories</a></li>
+						<li class="tag"><a href="/tags.html">tags</a></li>
+						<li class="forkme"><div><iframe src="http://markdotto.github.com/github-buttons/github-btn.html?user=plusjade&repo=jekyll-bootstrap&type=fork&count=true"
+									allowtransparency="true" frameborder="0" scrolling="0" width="95px" height="20px"></iframe></div></li>
+					</ul>
+				</nav>
+			</div><!-- unit-inner -->
+		</div><!-- unit-head -->
+	</header>
+	<div class="body" role="main">
+		<div class="unit-body">
+			<div class="unit-inner unit-body-inner">
+				<div class="entry-content">
+					
+
+<article class="unit-article layout-page">
+	<div class="unit-inner unit-article-inner">
+		<div class="content">
+			<header>
+				<div class="unit-head">
+					<div class="unit-inner unit-head-inner">
+						<h1 class="h2 entry-title">4. Theoretical or Conceptual Model</h1>
+					</div><!-- unit-inner -->
+				</div><!-- unit-head -->
+			</header>
+
+			<div class="bd">
+				<div class="entry-content">
+					<h4 id="theoretical-or-conceptual-model"><strong>Theoretical or Conceptual Model:</strong></h4>
+
+<p><strong>Low-resource Cross-lingual Framework</strong></p>
+
+<p>In summary, David Frank’s paper on Sources of St. Lucian Creole Vocabulary piqued my interest, particularly the section on Vocabulary of Unknown Origin. Creole is complex as it is an amalgamation of different languages adapted for survival and solidified through generations of oral and written communication. I became intrigued by the complexity and mysteries within Saint Lucian creole “Kwéyòl” and hoped to explore it through data science tools and techniques.</p>
+
+<p>Currently, I am leaning towards using multilingual natural language processing to create a language detection and translation model capable of tracing the origin of Saint Lucian creole “Kwéyòl” by exploring supervised and unsupervised Statistical Machine Translation. However, in order to do so, I must also explore and understand the underlying language structures; such as dependency parsing, treebanks, sentiment semantic indexing on multilingual data.</p>
+
+<p>I am also intrigued by topics on word sense disambiguation in creole; particularly the problems polysemy poses to sentiment analysis and how that impacts machine translation in low-resource languages. I want to explore phrase-based parsing techniques to see how they will impact the accuracy of my machine translation models.</p>
+
+<p>Ultimately, outcomes of this endeavor will include, contributions of new and/ or improved Saint Lucian “Kwéyòl corpora for future analysis, and new techniques and tools for exploring sentiment, and low resource languages.  In order to properly explore this topic, I will need to search for and prepare the sample Saint Lucian “Kwéyòl corpora; locating as much parallel data as I can find.</p>
+
+<p>I want to use cross-lingual machine translation to find the unknown origins of vocabulary words</p>
+
+<h5 id="assumptions"><strong>Assumptions:</strong></h5>
+<ul>
+  <li>Saint Lucian Kwéyòl is a low resource language</li>
+  <li>Lexifiers can be assigning ranks based on an established assumed similarity to the target language.</li>
+  <li>The official Saint Lucian Kwéyòl dictionary is a work in progress; not fully comprehensive.</li>
+  <li>French (fr) is the main lexifier language of “Kwéyòl.</li>
+  <li>The official French dictionary is adequately comprehensive.</li>
+  <li>English (en) is the current prestige language of Saint Lucia.</li>
+  <li>The official English dictionary is adequately comprehensive.</li>
+  <li>Additional known contributing languages: Guadeloupean Creole French (gcf), Haitian Creole (hat), Spanish/Portuguese (sp/pt), Amerindian (Carib -car, Arawak -arw,), Indian (Hindi-hi, Tamil-ta), African (Yoruba-yor, Fulani-ful, Bantu-bnt, Igbo-ibo, Kikongo-kon, Mende-men).</li>
+  <li>These other contributing languages are low in resources.</li>
+  <li>Exploring and categorizing the vocabulary of unknown origin may assist with understanding semantic domains.</li>
+  <li>An understanding and focus on cognates is essential to the cross-lingual or multilingual NLP techniques used for language translation and detection.</li>
+  <li>The LIWC does not currently factor in all recent Unicode emojis, thus may be a flawed system in detecting the full context of modern social media discussions.</li>
+</ul>
+
+<h5 id="draft-hypotheses"><strong>Draft Hypotheses:</strong></h5>
+
+<ul>
+  <li>
+    <p><em>Hypothesis:</em> In exploring semantic similarity corpus from related yet better-documented languages (such as Haitian Creole and Guadeloupean Creole French) may assist with unsupervised Statistical Machine Translation testing.</p>
+  </li>
+  <li>
+    <p><em>Hypothesis:</em> While English is the current prestige language of Saint Lucia, and French is the main lexifier language of “Kwéyòl, the origins of the unknown vocabulary are mostly composed of roots from the lesser linked languages (arw, car, sp, Indian, and African) are most likely to hold the remaining details due to their continual depletion.</p>
+  </li>
+  <li>
+    <p><em>Hypothesis:</em> A novel CNN-based sentiment semantic indexing method can be applied to multilingual data; this should ease/improve sentiment analysis outcomes on Kwéyòl data.</p>
+  </li>
+  <li>
+    <p><em>Hypothesis:</em> Alpha and beta phrase parsers can reduce issues of polysemy and word sense disambiguation, thus improving sentiment analysis.</p>
+  </li>
+  <li>
+    <p><em>Hypothesis:</em> the natural annotation of crowdsourced online dictionaries can be useful for building the corpus of a low-resource language, and reducing issues of polysemy and word sense disambiguation, thus improving sentiment analysis.</p>
+  </li>
+  <li>
+    <p><em>Hypothesis:</em> careful use of social media text can aid in building the corpus of a low-resource language, and reducing issues of polysemy and word sense disambiguation, thus improving sentiment analysis; looking at the intent of discussions/texts of social media.</p>
+  </li>
+  <li>
+    <p><em>Hypothesis:</em> There is an arguable existence of a connection between ethical data science pursuits, Maslow’s hierarchy, biocultural diversity, and the importance of language preservation in light of covid.</p>
+  </li>
+  <li>
+    <p><em>Hypothesis:</em> There may be a biocultural diversity link to most creole words as they were created for survival; words are mostly related to nature, food, and relationships.</p>
+  </li>
+</ul>
+
+<h5 id="draft-modeling-for-complex-unsupervised-statistical-machine-translation-for-saint-lucian-creole-kwéyòl"><strong>Draft modeling for Complex Unsupervised Statistical Machine Translation for Saint Lucian Creole/ Kwéyòl:</strong></h5>
+
+<p><img src="https://drive.google.com/file/d/1W-mAHPpY6jPkV5E5tYnOBElNwyIdY7kS/uc?usp=sharing" alt="creoleorgins" /></p>
+
+<p>Using back translation to augment or to create pseudo-parallel data from Source language to target language, and then back from the target language to the source language. The source language would be our main lexifier languages, and would, therefore, be more dominant/strong than the other lexifiers being used. For now, I will list dominant first, and will also be looking for language clusters (like French, Guadeloupean Creole French, Haitian Creole, and English).</p>
+
+<p>Dominant/stronger lexifier/source language clusters:</p>
+<ul>
+  <li>French: fr → acf    acf →fr</li>
+  <li>Guadeloupean Creole French: gcf →  acf    acf →gcf</li>
+  <li>Haitian, Haitian Creole: hat → acf    acf →</li>
+  <li>English: en → acf    acf → en  en →  acf    acf → en</li>
+</ul>
+
+<p>Non-dominant/Weaker clusters lexifier/source language clusters:</p>
+<ul>
+  <li>Spanish: sp → acf    acf → sp</li>
+  <li>Portuguese: pt → acf    acf → pt</li>
+  <li>Amerindian:</li>
+  <li>Arawak language (Lokono) arw → acf    acf → arw</li>
+  <li>Carib language (Kali’na):  car → acf    acf → car</li>
+  <li>Indian-</li>
+  <li>Hindi: hi → acf    acf → hi</li>
+  <li>Tamil: ta → acf    acf → ta</li>
+  <li>African-</li>
+  <li>Yoruba: yor → acf    acf → yor</li>
+  <li>Fulani: ful → acf    acf → ful</li>
+  <li>Bantu: bnt → acf    acf → bnt</li>
+  <li>Igbo: ibo → acf    acf →ibo</li>
+  <li>Kikongo: kon → acf    acf → kon</li>
+  <li>Mende: men  → acf    acf → men</li>
+</ul>
+
+<p>Once a phrase machine translation model is trained in both directions (back and forth), do back translation to augment or to create pseudo-parallel data from those languages (using the phrase-based model that
+was just built) in an attempt to create iterative refinement on the validation set.</p>
+
+
+				</div><!-- entry-content -->
+			</div><!-- bd -->
+
+			<footer class="unit-foot">
+				<div class="unit-inner unit-foot-inner">
+					<p class="gotop">
+						<a href="#page">Back to Top</a>
+					</p>
+				</div>
+			</footer>
+
+		</div><!-- content -->
+	</div><!-- unit-inner -->
+</article>
+
+
+				</div>
+			</div><!-- unit-inner -->
+		</div><!-- unit-body -->
+	</div><!-- body -->
+	<footer class="the-footer">
+		<div class="unit-foot">
+			<div class="unit-inner unit-foot-inner">
+				<div class="misc vcard">
+					<h4>about</h4>
+					<ul>
+						<li class="contact"><address><span class="author fn n">Laurel Lord</span> - <span class="fn email">lalord@my.harrisburgu.edu</span></address></li>
+						<li class="github"><a href="http://github.com/llord1/" rel="me">github.com/llord1</a></li>
+						<li class="twitter"><a href="http://twitter.com//" rel="me">twitter.com/</a></li>
+						<li class="rss"><a href="http://feeds.feedburner.com/">Subscribe to RSS Feed</a></li>
+					</ul>
+				</div><!-- misc -->
+				<p class="licence">
+					Theme: <a href="http://layouts-the.me">the_minimum</a> based on <a href="http://jekyllbootstrap.com/">Jekyll-bootstrap</a>.<br>
+					Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a>.
+				</p>
+			</div><!-- unit-foot-inner -->
+		</div><!-- unit-foot -->
+	</footer>
+</div><!-- page -->
+<script>
+	(function(d, s) {
+		var js, fjs = d.getElementsByTagName(s)[0], load = function(url, id) {
+		if (d.getElementById(id)) {return;}
+		js = d.createElement(s); js.src = url; js.id = id;
+		fjs.parentNode.insertBefore(js, fjs);
+		};
+	load('//platform.twitter.com/widgets.js', 'tweetjs');
+	// load('https://apis.google.com/js/plusone.js', 'gplus1js'); // Checkout http://j.mp/ApDgMr for usage html for this is <div class="g-plusone" data-size="medium"></div>
+	// load('//connect.facebook.net/en_US/all.js#xfbml=1', 'fbjssdk'); // Checkout http://j.mp/wZw2xR for using open graph protorol html for this is <div class="fb-like" data-href="/04-TheoreticalConceptualModel" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false" data-font="verdana"></div>
+	}(document, 'script'));
+</script>
+<script>
+/*! A fix for the iOS orientationchange zoom bug.Script by @scottjehl, rebound by @wilto. MIT License.*/
+(function(j){var i=j.document;if(!i.querySelectorAll){return}var l=i.querySelectorAll("meta[name=viewport]")[0],a=l&&l.getAttribute("content"),h=a+", maximum-scale=1.0",d=a+", maximum-scale=10.0",g=true,c=j.orientation,k=0;if(!l){return}function f(){l.setAttribute("content",d);g=true}function b(){l.setAttribute("content",h);g=false}function e(m){c=Math.abs(j.orientation);k=Math.abs(m.gamma);if(k>8&&c===0){if(g){b()}}else{if(!g){f()}}}j.addEventListener("orientationchange",f,false);j.addEventListener("deviceorientation",e,false)})(this);
+</script>
+  
+  
+
+
+
+</body>
+</html>
+
