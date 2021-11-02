@@ -104,6 +104,29 @@ Additionally, linguistic questions focused on gathering details on one's first l
 Ultimately, the survey may not be perfect and may have room for improvement in the future. It is hoped that these works will serve as a template for annual assessments moving forward. With the current iteration, the window for describing linguistic experiences was deliberately not rigid; it allowed participants to consider and comment on relevant linguistic experiences encountered throughout the entirety of their professional life. To avoid overlapping data points in the future, the next survey interval will need to be about a year from the last launch; this would allow better annual trend tracking of these professionals' experiences. Future studies may include the surveying of employees of other critical safety institutions and businesses; workers of the Saint Lucia Fire Service, the local prison, and local security firms may be considered.
 
 
+### Preliminary Written Report :
+
+Below is a short summary and brief preliminary written report with a special focus on the linguistic data responses thus far.
+
+Summary:
+
+So far, the results appear to confirm the assumption that Saint Lucian Creole (Kwéyòl) is the second most spoken language among police officers and civilians; however, there is room for improvement in literacy levels as most are unable to read and write the language.
+
+Brief details:
+
+English is the only first language reported. The majority of all languages (including Second and Third) were mainly acquired through formal education. Most do speak a second language; Saint Lucian Creole (Kwéyòl) has been the only second language indicated. Spanish and French were the most common third languages.  Most indicate that they are able to speak Kwéyòl 'well' or 'very well', and understand it at those same levels. However, very few noted the ability to read and write the language 'very well'; yet, most are better able to read it than write it. 
+
+It should also be noted that there was indeed a significant number that does not speak it at all; however, there is at least an ability to either read, write or listen, with skills ranging from 'not well' to 'well'. 
+
+Most (more than half) of the force have encountered language barriers, and Spanish, French, German, Haitian Creole, Mandarin, and sign languages are the most common instances.
+
+Civilian interactions in English occur 'Frequently', but mostly 'Very Frequently'. Saint Lucian Creole (Kwéyòl) is the next highest frequency; this ranges from 'Occasionally' to 'Very Frequently', but mostly 'Very Frequently'. French is most often encountered as 'Occasionally"; Guadeloupean and Haitian Creole seem to mirror responses; the frequency ranged from 'Never' to 'Rarely', however, Haitian encounters are more frequent than Guadeloupean. 
+
+Portuguese (or any Romance language not mentioned) had a significant number of  'Occasionally' occurring encounters, but was most noted as 'Rarely'. 'Any form of sign language' also had a significant number of 'Occasionally' occurring encounters, but was most noted as 'Never'. Japanese had a notable number of 'Very Rarely' occurring encounters, but was most noted as 'Never'; Mandarin Chinese mirrors this pattern.
+
+Most other languages have encounters that are less frequent than indicated above. For example, Amerindian languages were only noted once as "Rarely", and Arabic was noted once "Occasionally". Greek was mostly 'Never' encountered, with only one 'Rarely' response. Most 'never' encounter 'Unrecognised language(s)'; only two responses noted that this would occur either 'Rarely' and 'Occasionally'. 
+
+
 ### References:
 
 {% bibliography --cited %}
@@ -376,7 +399,7 @@ WRIT Unit (South)
 
 *4. Please indicate the option(s) that best describes your current rank.*
 
-[Below Constable (Special Police Constable, Apprentice, etc.) ;Constable; Above Constable (Corporal, Sergeant, etc.)]
+[Below Constable (Special Police Constable, Apprentice, etc.); Constable; Above Constable (Corporal, Sergeant, etc.)]
 
 *5. Please indicate your average annual income.*
 
@@ -419,7 +442,7 @@ Yes
 
 No
 
-*7b. If 'yes', please indicate the language they used; please select all that apply.*
+*7b. If 'yes', please indicate the language you encountered; please select all that apply.*
 
 English
 
