@@ -1,1 +1,0 @@
-http://caribbeanelections.com/knowledge/speeches/lc_speeches/lc_throne_speeches.asp
