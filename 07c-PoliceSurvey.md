@@ -106,25 +106,29 @@ Ultimately, the survey may not be perfect and may have room for improvement in t
 
 ### Preliminary Written Report :
 
-Below is a short summary and brief preliminary written report with a special focus on the linguistic data responses thus far.
+Demographics:
 
-Summary:
+The youngest participants' ages range between 25-29 and the oldest was 50-54; the most common age range was 30-34. Thus far, mostly male-identified persons have responded; only eight female-identified responses were recorded. Additionally, all participants indicated that 'By birth (birthplace of Saint Lucia)' they were citizens. All but one person identified as Black (African, Afro-Caribbean, etc.); they identified as having 'Mixed Parentage (two or more races)'. Most persons had Secondary School/ Middle & High School educations. This was followed by those with Masters Degrees and Community College/ Associate's Degree (tied). Persons with Bachelors and Some College Courses also tied; Vocational/ Tertiary Education and Post-secondary non-university education were rare but present; the latter being most rare.
+
+Most had 11-15 years at their institution. The Specialized Unit provided the most responses; Drug Unit (South), Force Academy (North), and Information Technology & Communications Unit (North) tied in the task that noted the highest number of respondents. Most participants were constables, and the most common income was range was between 32,001 XCD - 36, 000 XCD.
+
+Linguistics:
 
 So far, the results appear to confirm the assumption that Saint Lucian Creole (Kwéyòl) is the second most spoken language among police officers and civilians; however, there is room for improvement in literacy levels as most are unable to read and write the language.
 
-Brief details:
-
-English is the only first language reported. The majority of all languages (including Second and Third) were mainly acquired through formal education. Most do speak a second language; Saint Lucian Creole (Kwéyòl) has been the only second language indicated. Spanish and French were the most common third languages.  Most indicate that they are able to speak Kwéyòl 'well' or 'very well', and understand it at those same levels. However, very few noted the ability to read and write the language 'very well'; yet, most are better able to read it than write it. 
-
-It should also be noted that there was indeed a significant number that does not speak it at all; however, there is at least an ability to either read, write or listen, with skills ranging from 'not well' to 'well'. 
+Most indicated that their workplace did not directly offer civilians any formal non-English language assistance programmes; that external interpreter services would be recommended.
 
 Most (more than half) of the force have encountered language barriers, and Spanish, French, German, Haitian Creole, Mandarin, and sign languages are the most common instances.
 
-Civilian interactions in English occur 'Frequently', but mostly 'Very Frequently'. Saint Lucian Creole (Kwéyòl) is the next highest frequency; this ranges from 'Occasionally' to 'Very Frequently', but mostly 'Very Frequently'. French is most often encountered as 'Occasionally"; Guadeloupean and Haitian Creole seem to mirror responses; the frequency ranged from 'Never' to 'Rarely', however, Haitian encounters are more frequent than Guadeloupean. 
+English is the only first language reported. The majority of all languages (including Second and Third) were mainly acquired through formal education. Most do speak a second language; Saint Lucian Creole (Kwéyòl) has been the only second language indicated. Spanish and French were the most common third languages. Most indicate that they are able to speak Kwéyòl 'well' or 'very well' and understand it at those same levels. However, very few noted the ability to read and write the language 'very well'; yet most are better able to read it than write it.
 
-Portuguese (or any Romance language not mentioned) had a significant number of  'Occasionally' occurring encounters, but was most noted as 'Rarely'. 'Any form of sign language' also had a significant number of 'Occasionally' occurring encounters, but was most noted as 'Never'. Japanese had a notable number of 'Very Rarely' occurring encounters, but was most noted as 'Never'; Mandarin Chinese mirrors this pattern.
+It should also be noted that there was indeed a significant number that does not speak it at all; however, there is at least an ability to either read, write or listen, with skills ranging from 'not well' to 'well'. 
 
-Most other languages have encounters that are less frequent than indicated above. For example, Amerindian languages were only noted once as "Rarely", and Arabic was noted once "Occasionally". Greek was mostly 'Never' encountered, with only one 'Rarely' response. Most 'never' encounter 'Unrecognised language(s)'; only two responses noted that this would occur either 'Rarely' and 'Occasionally'. 
+Civilian interactions in English occur 'Frequently', but mostly 'Very Frequently'. Saint Lucian Creole (Kwéyòl) is the next highest frequency; this ranges from 'Occasionally' to 'Very Frequently', but mostly 'Very Frequently'. French is most often encountered as 'Occasionally"; Guadeloupean and Haitian Creole seem to mirror responses; the frequency ranged from 'Never' to 'Rarely', however, Haitian encounters are more frequent than Guadeloupean.
+
+Portuguese (or any Romance language not mentioned) had a significant number of 'Occasionally' occurring encounters but was most noted as 'Rarely'. 'Any form of sign language' also had a significant number of 'Occasionally' occurring encounters but was most noted as 'Never'. Japanese had a notable number of 'Very Rarely' occurring encounters but was most noted as 'Never'; Mandarin Chinese mirrors this pattern.
+
+Most other languages have encounters that are less frequent than indicated above. For example, Greek and Amerindian languages only noted one instance where their highest rating occurred "Rarely"; Arabic was noted once 'Occasionally'. Most 'Never' encounter 'Unrecognised language(s)'; only two responses noted that this would occur either 'Rarely' and 'Occasionally'.
 
 
 ### References:
