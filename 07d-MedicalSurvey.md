@@ -14,17 +14,24 @@ The ease of communication in health care situations is crucial as it is an essen
 
 *The importance of labor demographic and linguistic data monitoring:*
 
-The Saint Lucia Medical and Dental Association's mission statement indicates the desire to 'sustain human development in St. Lucia by continually placing the individual and collective health care expertise of our members at the service of the people of St. Lucia'; its vision entails achieving and promoting 'excellence in medical care for the betterment of all St. Lucians' {% cite SLMDAvisions %}. In contemplating these statements, one can infer that excellence can take the form of effective patient communications/ interactions. Practical language resource allotment in this industry can ensure that the association members are operating effectively in an increasingly multilingual environment.
+The Saint Lucia Medical and Dental Association has existed for over 35 years and is recognized as a is a 'locally registered non-government, non-profit organization' {% cite SLMDAhistory %}. Members consist of 'locally registered medical practitioners' such as non-residents', yet, also 'includes any medical association or similar body established outside of St. Lucia, locally registered medical students and honorary members who are determined by the executive of the SLMDA' {% cite SLMDAhistory %}. This includes individuals that are regulated by the local Ministry of Health, and provide Primary, Secondary, and Tertiary Healthcare Services within the bounds of the public sector {% cite min_health_2016 %} osiya2017patients %}.
 
-Saint Lucia Citizenship by Investment Program (CIP) data {% cite pm_slu_citizenship_2015 imi_team_2021 slu_cip_2020 %} and tourism statistics {% cite gaillard_Finland_2021 cso_2021 %}, can imply that the Saint Lucian public is increasingly being exposed to persons of different nationalities and backgrounds.Tourism increases language diversity within the destination's environment, and popular attractions tend to facilitate this occurrence. This may give rise to increased language diversity with these language hotspots. Even a Ministry of Health report acknowledged that 'the majority of tourists visit Saint Lucia as part of a cruise. Most of their time is likely to be spent in Castries, although Soufriere, Marigot Bay, and Gros Islet are popular locations to visit' {% cite min_health_2016 %}. 
+ private, and 
+ from 
+
+Its mission statement indicates the desire to 'sustain human development in St. Lucia by continually placing the individual and collective health care expertise of our members at the service of the people of St. Lucia'. Its vision entails achieving and promoting 'excellence in medical care for the betterment of all St. Lucians', and includes an objective of co-operating with 'Governments, Universities, Foundations and any organization in any endeavour designed to improve the health standards of St. Lucia' {% cite SLMDAvisions SLMDAhistory %}. Its Guiding Principles include Respect (in the form of Physicians paying 'full respect at all times and in all circumstances to persons they are attending', and 'Relevance' (in the form of Patients having the 'right to receive relevant information about their own medical condition and its management') {% cite SLMDAguidingprin %}. In contemplating these statements, one can infer that excellence and improvement of the health standard can involve effective patient communications/ interactions. Practical language resource allotment in this industry can ensure that the association's members are operating effectively in an increasingly multilingual environment.
 
 Notably, the recent establishment of medical schools has also contributed to its increased language diversity on the island. These medical institutions appear to have global appeal and boast of their diverse student body. For example, individuals of Indic backgrounds do appear to be more prominent; the American International Medical University (AIM-U)'s Curriculum 'is prepared and monitored by experts including the Medical Council of India and Medical School Accreditation" and the student body observes Deepavali/Diwali celebrations {% cite govt_lc_2015  aimu_2016 aimu_2018 morgan2017location %}. In order to serve the medical demands of the country's inhabitants, both foreign and domestic in origin, medical professionals need to be able to effectively communicate in emergencies. However, information on the medical field's capacity to effectively navigate the multilingual environment is unavailable; data on workers' linguistic capabilities are not readily available. 
+
+The country's medical system's duties involve monitoring the population's health status, including navigating potential risks presented by the tourism industry and other forms of immigration. Saint Lucia's Ministry of Health has been highly effective in mitigating the spread of dangerous and volatile health care situations, including the recent pandemic. In fact, as of August 2020, the US Centers for Disease Control and Prevention (CDC) reduced Saint Lucia’s COVID-19 rating to the lowest, Level 1; the country was one of only eight countries at the time to receive such a rating. This is partially due to its history of non-hesitation in preemptively interacting with, and halting, potentially hazardous incoming vessels from various origins {% corneille_ministry_2014 deabler_st_2020 ship_banned2020 %}, and publicly providing timely information and protocols {% cite slu_covid_dashboard protocols_2021 %}. It should be noted that the system is not perfect, especially in terms of infrastructure; facility renovations and constructions can take multiple years (bordering on solid decades) {% cite sharefil_slmda_StJude_2021 sharefil_StJude_2021%}. However, the presence of crippling bureaucracy should not diminish the efforts and intentions of the healthcare workers to serve and protect the nation from foreign and domestic hazards. 
+
+Saint Lucia Citizenship by Investment Program (CIP) data {% cite pm_slu_citizenship_2015 imi_team_2021 slu_cip_2020 %} and tourism statistics {% cite gaillard_Finland_2021 cso_2021 %}, can also imply that the Saint Lucian public is increasingly being exposed to persons of different nationalities and backgrounds.Tourism increases language  diversity within the destination's environment, and popular attractions tend to facilitate this occurrence. In addition to This may give rise to increased language diversity with these language hotspots. Even a Ministry of Health report acknowledged that 'the majority of tourists visit Saint Lucia as part of a cruise. Most of their time is likely to be spent in Castries, although Soufriere, Marigot Bay, and Gros Islet are popular locations to visit' {% cite min_health_2016 %}. 
 
 Thoughtful deliberation of linguistics, particularly consideration of language barriers, is increasing in the medical field. As recently as 2019, Sweden conducted a national study on health care professionals' communications through interpreters; this study occurred after noting that many parents utilizing neonatal care were foreign-born and unable to effectively communicate with the healthcare professionals in the local language {% cite patriksson2019health %}. In 2013, an investigation highlighted communications issues between physicians and Spanish-speaking Latin American women with pelvic floor disorders {% cite sevilla2013communication %}. That study highlighted that apart from a patient's lack of disease understanding, there was a lack of Spanish proficiency among the participating physicians. Another 2013 qualitative study (conducted on linguistics) centered around the perceptions of patient-provider communication in breast and cervical cancer-related care when dealing with low-income English and Spanish-speaking women {% cite simon2013perceptions %}. In 2009, there was similar work done on a competent peer support intervention for Spanish-speaking Latinas with breast cancer {% cite napoles2009developing %}. 
 
 Questioning the possible ties of linguistics to various professions is not necessarily new, yet few resources are dedicated to detecting communication issues and improving communication within multilingual countries. One study did investigate Spanish–English bilingual psychotherapists and their personal and professional language development and use {% cite verdinelli2009spanish %}. Another study observed instances where nurses double as interpreters (a study of Spanish-speaking patients in an American primary care setting) {% cite elderkin2001nurses %}. An interesting pivot would be an investigation of multilingual professionals should their primary language not be the dominant language of the country in which they practice, and note if they have sufficient access to language resources. 
 
-It should be noted that  Dr. Didacus Jules and Dame Pearlette Louisy are important linguistic contributors in Saint Lucia, and have made strides in considering the link between linguistics and effective medical care. Over the years they have continuously worked towards improving Kwéyòl literacy and the language's status on the island. During a Kwéyòl language event, Dame Pearlette Louisy acknowledged the efforts of Dr. Edward Cooper, an English pediatrician, that embraced the creole language as part of his medical care on the island  {% cite louisy_2019 %}.  
+It should be noted that Dr. Didacus Jules and Dame Pearlette Louisy are important linguistic contributors in Saint Lucia, and have made strides in considering the link between linguistics and effective medical care. Over the years they have continuously worked towards improving Kwéyòl literacy and the language's status on the island. During a Kwéyòl language event, Dame Pearlette Louisy acknowledged the efforts of Dr. Edward Cooper, an English pediatrician, that embraced the creole language as part of his medical care on the island {% cite louisy_2019 %}.  
 
 She also mentioned that a creole discourse and development project was formed to tackle the creation of new Kwéyòl lexical items (in the form of a glossary/vocabulary list), capable of expressing emerging societal concepts {% cite louisy_2019 %}. Medical professionals attempted to collaborate on an understanding of health care vocabulary as it relates to the Kwéyòl language. Jude-Marie Alexis led the effort to create a list of medical words to assist communications among medical professionals. It was said that this project was inspired by their many encounters with elderly persons that needed immediate attention and they were likely to be the highest creole speaking demographic of the population {% cite louisy_2019 %}. Unfortunately, this vocabulary list has been difficult to locate over time; it does not appear that it was able to get to the stage of being widely shared and fully cemented into the teaching materials of local medical professionals.
 
@@ -82,7 +89,7 @@ Any questions may be directed to Laurel Lord at lalord@my.harrisburgu.edu. Quest
 
 Demographic questions included questions on Age, Gender (with the option to self-describe), Ethnicity/Race (with the option to self-describe), and Highest Level of Education as those may add additional context to one's linguistic background; the list of Ethnicity/Race options was inspired by historical settlement data specific to the region, as well as recent immigration data {% cite pm_slu_citizenship_2015 imi_team_2021 slu_cip_2020 %}. An enquiry is also made about one's Citizenship, as this may give additional details as to whether locals or foreign nationals are more likely to be exposed to diverse linguistic backgrounds that benefit the medical field. 
 
-Questions into the number of years one has been a practicing professional, areas of practice, and current working environment may reflect one's experiences and one's likelihood of exposure to multilingual situations; annual income questions may speak to possible future incentives for utilising or acquiring additional language skills. Inquiring into the locations of one's operations may not be suitable here as persons of this profession may operate island-wide.
+Questions into the number of years one has been a practicing professional, areas of practice, and current working environment may reflect one's experiences and one's likelihood of exposure to multilingual situations; annual income questions may speak to possible future incentives for utilising or acquiring additional language skills  {% salaries_doctor_2021 %}. Inquiring into the locations of one's operations may not be suitable here as persons of this profession may operate island-wide.
 
 Linguistic questions enquired into participant awareness of non-English language assistance programmes in their work environment, if multilinguals' skills were ever a useful asset, and if they perceived language barriers while executing their required tasks; it is hoped that such data could lead to improved training on currently available resources, or inspire improved resource allocation towards language needs.
 
@@ -242,49 +249,71 @@ Less than 1
 
 31 or more
 
-*3. Please indicate your area(s) of practice; please check all that apply.*
+*3. Please indicate the option(s) that best describes the district that you work from (base hospital, center, office location, etc); please check all that apply.*
 
-General physician
+Anse la Raye
 
-Specialist 
+Canaries
 
-Dentist
+Castries
 
-Nurse
+Choiseul
 
-*4. Please indicate the option(s) that best describes your current working environment; please check all that apply.*
+Dennery
 
-Private Practice 
+Gros Islet
 
-Group Practice
+Laborie
 
-Large Health Maintenance Organization (HMOs )
+Micoud
 
-Hospital-Based
+Soufrière
 
-Locum Tenens
+Vieux Fort
+
+Island-wide
+
+
+*4. Please indicate your area(s) of practice; please check all that apply.*
+
+Primary Healthcare Services
+
+Secondary Healthcare Services
+
+Tertiary Healthcare Services
+
+Ministry of Health (Administration, Environmental Health, Health 
+Information Management Unit, etc.)
+
+*4b. Please indicate the option(s) that best describes your current working environment; please check all that apply.*
+
+Public Sector
+
+Private Sector
+
+Non-Governmental Organization (NGO)
 
 *5. Please indicate your annual income.*
 
 Below 30,000 XCD
 
-30,001 XCD - 35,000 XCD
+30,001 XCD - 40,000 XCD
 
-35,001 XCD - 45,000 XCD
+40,001 XCD - 50,000 XCD
 
-45,001 XCD - 55,000 XCD
+50,001 XCD - 60,000 XCD
 
-55,001 XCD - 65,000 XCD
+60,001 XCD - 70,000 XCD
 
-65,001 XCD - 75,000 XCD
+70,001 XCD - 80,000 XCD
 
-75,001 XCD - 85, 000 XCD
+80,001 XCD - 90, 000 XCD
 
-85,001 XCD - 95, 000 XCD
+100,001 XCD - 110, 000 XCD
 
-95,001 XCD - 105, 000 XCD
+110,001 XCD - 120, 000 XCD
 
-Above 105,001 XCD
+Above 120,001 XCD
 
 *6. Please indicate if your workplace directly offers patients any formal non-English language assistance programmes.*
 
