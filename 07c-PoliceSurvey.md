@@ -91,7 +91,7 @@ Any questions may be directed to Laurel Lord at lalord@my.harrisburgu.edu. Quest
 
 Demographic questions included questions on Age, Gender (with the option to self-describe), Ethnicity/Race (with the option to self-describe), and Highest Level of Education as those may add additional context to one's linguistic background; the list of Ethnicity/Race options was inspired by historical settlement data specific to the region, as well as recent immigration data {% cite pm_slu_citizenship_2015 imi_team_2021 slu_cip_2020 %}. An enquiry is also made about one's Citizenship, as this may give additional details as to whether locals or foreign nationals are more likely to be exposed to diverse linguistic backgrounds that benefit the force. 
 
-Questions into the number of years as a member of the RSLPF and one's rank may reflect one's experiences and one's likelihood of exposure to multilingual situations; salary questions may speak to possible future incentives for utilising or acquiring additional language skills. Location details on the current base station/ department/ unit of participants may also reveal details about language hotspots on the island; which locations might have high numbers of certain languages, as well as reflect the number of RSLPF capable of addressing those needs.
+Questions into the number of years as a member of the RSLPF and one's rank may reflect one's experiences and one's likelihood of exposure to multilingual situations; salary questions may speak to possible future incentives for utilising or acquiring additional language skills. Location details on the current base station/ department/ unit of participants may also reveal details about language hotspots on the island; which locations might have high numbers of certain languages, as well as reflect the number of RSLPF capable of addressing those needs. According to reports, 'the majority of tourists visit Saint Lucia as part of a cruise. Most of their time is likely to be spent in Castries, although Soufriere, Marigot Bay, and Gros Islet are popular locations to visit' {% cite min_health_2016 %}.
 
 Linguistic questions enquired into participant awareness of non-English language assistance programmes in their work environment, if multilinguals' skills were ever a useful asset, and if they perceived language barriers while executing their required tasks; it is hoped that such data could lead to improved training on currently available resources, or inspire improved resource allocation towards language needs.
 
@@ -104,7 +104,7 @@ Additionally, linguistic questions focused on gathering details on one's first l
 Ultimately, the survey may not be perfect and may have room for improvement in the future. It is hoped that these works will serve as a template for annual assessments moving forward. With the current iteration, the window for describing linguistic experiences was deliberately not rigid; it allowed participants to consider and comment on relevant linguistic experiences encountered throughout the entirety of their professional life. To avoid overlapping data points in the future, the next survey interval will need to be about a year from the last launch; this would allow better annual trend tracking of these professionals' experiences. Future studies may include the surveying of employees of other critical safety institutions and businesses; workers of the Saint Lucia Fire Service, the local prison, and local security firms may be considered.
 
 
-### Preliminary Written Report :
+### Preliminary Written Report: 26 responses
 
 Demographics:
 
@@ -446,7 +446,7 @@ Yes
 
 No
 
-*7b. If 'yes', please indicate the language you encountered; please select all that apply.*
+*7b. If 'yes', please indicate the language(s) you encountered; please select all that apply.*
 
 English
 
@@ -502,7 +502,7 @@ Another language not represented
 Unrecognised language(s)
 
 
-*8a. Please indicate the language you use most often to communicate and your proficiency. Note: Selecting only "listen (understand)" encompasses scenarios where one can comprehend but not converse in a language. (Very well, Well, Not well, Not at all, Not applicable)*
+*8a. Please indicate the language you use most often to communicate and your proficiency. Note: "Listen/ Understand" can include scenarios where you can comprehend but not converse in a language. (Very well, Well, Not well, Not at all, Not applicable)*
 
 English
 
@@ -559,7 +559,7 @@ Another language not represented (Please manually list language(s):)
 
 First Language [Formal education (requirement/elective);  Informal education (hobby); Informal education (family & friends)]
 
-*9. Please indicate any additional languages you use to communicate and your proficiency. Note: Selecting only "listen (understand)" encompasses scenarios where one can comprehend but not converse in a language. (Very well, Well, Not well, Not at all, Not applicable)*
+*9. Please indicate any secondary languages you use to communicate and your proficiency. Note: "Listen/ Understand" can include scenarios where you can comprehend but not converse in a language. (Very well, Well, Not well, Not at all, Not applicable)*
 
 [Second Language (2nd most often used at home & elsewhere)]
 
