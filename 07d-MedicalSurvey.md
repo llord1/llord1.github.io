@@ -23,7 +23,7 @@ Its mission statement indicates the desire to 'sustain human development in St. 
 
 Notably, the recent establishment of medical schools has also contributed to its increased language diversity on the island. These medical institutions appear to have global appeal and boast of their diverse student body. For example, individuals of Indic backgrounds do appear to be more prominent; the American International Medical University (AIM-U)'s Curriculum 'is prepared and monitored by experts including the Medical Council of India and Medical School Accreditation" and the student body observes Deepavali/Diwali celebrations {% cite govt_lc_2015  aimu_2016 aimu_2018 morgan2017location %}. In order to serve the medical demands of the country's inhabitants, both foreign and domestic in origin, medical professionals need to be able to effectively communicate in emergencies. However, information on the medical field's capacity to effectively navigate the multilingual environment is unavailable; data on workers' linguistic capabilities are not readily available. 
 
-The country's medical system's duties involve monitoring the population's health status, including navigating potential risks presented by the tourism industry and other forms of immigration. Saint Lucia's Ministry of Health has been highly effective in mitigating the spread of dangerous and volatile health care situations, including the recent pandemic. In fact, as of August 2020, the US Centers for Disease Control and Prevention (CDC) reduced Saint Lucia’s COVID-19 rating to the lowest, Level 1; the country was one of only eight countries at the time to receive such a rating. This is partially due to its history of non-hesitation in preemptively interacting with, and halting, potentially hazardous incoming vessels from various origins {% corneille_ministry_2014 deabler_st_2020 ship_banned2020 %}, and publicly providing timely information and protocols {% cite slu_covid_dashboard protocols_2021 %}. It should be noted that the system is not perfect, especially in terms of infrastructure; facility renovations and constructions can take multiple years (bordering on solid decades) {% cite sharefil_slmda_StJude_2021 sharefil_StJude_2021%}. However, the presence of crippling bureaucracy should not diminish the efforts and intentions of the healthcare workers to serve and protect the nation from foreign and domestic hazards. 
+The country's medical system's duties involve monitoring the population's health status, including navigating potential risks presented by the tourism industry and other forms of immigration. Saint Lucia's Ministry of Health has been highly effective in mitigating the spread of dangerous and volatile health care situations, including the recent pandemic. In fact, as of August 2020, the US Centers for Disease Control and Prevention (CDC) reduced Saint Lucia’s COVID-19 rating to the lowest, Level 1; the country was one of only eight countries at the time to receive such a rating. This is partially due to its history of non-hesitation in preemptively interacting with, and halting, potentially hazardous incoming vessels from various origins {% cite corneille_ministry_2014 deabler_st_2020 ship_banned2020 %}, and publicly providing timely information and protocols {% cite slu_covid_dashboard protocols_2021 %}. It should be noted that the system is not perfect, especially in terms of infrastructure; facility renovations and constructions can take multiple years (bordering on solid decades) {% cite sharefil_slmda_StJude_2021 sharefil_StJude_2021%}. However, the presence of crippling bureaucracy should not diminish the efforts and intentions of the healthcare workers to serve and protect the nation from foreign and domestic hazards. 
 
 Saint Lucia Citizenship by Investment Program (CIP) data {% cite pm_slu_citizenship_2015 imi_team_2021 slu_cip_2020 %} and tourism statistics {% cite gaillard_Finland_2021 cso_2021 %}, can also imply that the Saint Lucian public is increasingly being exposed to persons of different nationalities and backgrounds.Tourism increases language  diversity within the destination's environment, and popular attractions tend to facilitate this occurrence. In addition to This may give rise to increased language diversity with these language hotspots. Even a Ministry of Health report acknowledged that 'the majority of tourists visit Saint Lucia as part of a cruise. Most of their time is likely to be spent in Castries, although Soufriere, Marigot Bay, and Gros Islet are popular locations to visit' {% cite min_health_2016 %}. 
 
@@ -89,7 +89,7 @@ Any questions may be directed to Laurel Lord at lalord@my.harrisburgu.edu. Quest
 
 Demographic questions included questions on Age, Gender (with the option to self-describe), and Ethnicity/Race (with the option to self-describe), as those may add additional context to one's linguistic background; the list of Ethnicity/Race options was inspired by historical settlement data specific to the region, as well as recent immigration data {% cite pm_slu_citizenship_2015 imi_team_2021 slu_cip_2020 %}. An enquiry is also made about one's Citizenship, as this may give additional details as to whether locals or foreign nationals are more likely to be exposed to diverse linguistic backgrounds that benefit the medical field. 
 
-Questions into the number of years one has been a practicing professional, areas of practice, and current working environment may reflect one's experiences and one's likelihood of exposure to multilingual situations; annual income questions may speak to possible future incentives for utilising or acquiring additional language skills  {% salaries_doctor_2021 %}. Inquiring into the locations of one's operations may not be suitable here as persons of this profession may operate island-wide.
+Questions into the number of years one has been a practicing professional, areas of practice, and current working environment may reflect one's experiences and one's likelihood of exposure to multilingual situations; annual income questions may speak to possible future incentives for utilising or acquiring additional language skills  {% cite salaries_doctor_2021 %}. Inquiring into the locations of one's operations may not be suitable here as persons of this profession may operate island-wide.
 
 Linguistic questions enquired into participant awareness of non-English language assistance programmes in their work environment, if multilinguals' skills were ever a useful asset, and if they perceived language barriers while executing their required tasks; it is hoped that such data could lead to improved training on currently available resources, or inspire improved resource allocation towards language needs.
 
@@ -105,3 +105,451 @@ Ultimately, the survey may not be perfect and may have room for improvement in t
 ### References:
 
 {% bibliography --cited %}
+
+### Appendix:
+
+[Online Survey of Saint Lucian Medical Professionals](https://form.jotform.com/212614185695158)
+
+*Questions:*
+
+*1. Please indicate which of the following best describe (s) you.*
+
+*Age:*
+
+Less than 18
+
+18-24
+
+25-29
+
+30-34
+
+35-39
+
+40-44
+
+45-49
+
+50-54
+
+55-59
+
+60-64
+
+65-69
+
+70-74
+
+75 or older
+
+Prefer not to respond
+
+
+*Gender:*
+
+Man
+
+Woman
+
+Prefer not to respond
+
+Prefer to self-describe (1. Self-describe gender:)
+
+
+*Citizenship:*
+
+By birth (birthplace of Saint Lucia)
+
+By birth (parents)
+
+By birth (other)
+
+By naturalisation (ordinary)
+
+By registration (citizenship by investment)
+
+By registration (adoption, marriage, parental legacy, residency status, 
+administrative discretion)
+
+Non-citizen (OECS national)
+
+Non-citizen (other)
+
+Prefer not to respond
+
+
+*Ethnicity/Race*
+
+Black (African, Afro-Caribbean, etc.)
+
+White/ North European (English, French, German, Irish, Polish, etc.)
+
+Amerindian (Arawak/ Taino, Carib, etc.)
+
+American Indian/ Alaska Native (Aztec, Mayan, Navajo Nation, etc.)
+
+East Asian (Chinese, Japanese, Korean, Taiwanese, Tibetan, etc.)
+
+Hispanic/ Latino/ Spanish Origin (Cuban, Puerto Rican, Mexican, Central/ 
+South American, etc.)
+
+Indian Subcontinent/ South Asia (Afghan, Bangladeshi, Indian, Jordanian, 
+Pakistani, Sri Lankan, etc.)
+
+Middle Eastern/ North African (Algerian, Bahraini, Lebanese, Arab, 
+Moroccan, Syrian, Yemeni, etc.)
+
+Native Hawaiian/ Other Pacific Islander (Native Hawaiian, Samoan, 
+Chamorro, Fijian, Tongan, Marshallese, etc.)
+
+Southeast Asian (Burmese, Filipino, Indonesian, Laotian, Malaysian, 
+Singaporean, Thai, Vietnamese, etc.)
+
+Mixed Parentage (two or more races)
+
+Not known
+
+Some other race, ethnicity, or origin (self-describe) (1. Self-describe ethnicity/race:)
+
+Prefer not to respond
+
+*2. Please indicate the number of years you have been a practicing professional in your field.*
+
+Less than 1
+
+1-5
+
+6-10
+
+11-15
+
+16-20
+
+21-25
+
+26-30
+
+31 or more
+
+*3. Please indicate the option(s) that best describes the district that you work from (base hospital, wellness-center, office location, etc); please check all that apply.*
+
+Anse la Raye
+
+Canaries
+
+Castries
+
+Choiseul
+
+Dennery
+
+Gros Islet
+
+Laborie
+
+Micoud
+
+Soufrière
+
+Vieux Fort
+
+Island-wide
+
+
+*4. Please indicate your area(s) of practice; please check all that apply.*
+
+Primary Healthcare Services
+
+Secondary Healthcare Services
+
+Tertiary Healthcare Services
+
+Ministry of Health (Administration, Environmental Health, Health 
+Information Management Unit, etc.)
+
+*4b. Please indicate the option(s) that best describes your current working environment; please check all that apply.*
+
+Public Sector
+
+Private Sector
+
+Non-Governmental Organization (NGO)
+
+Other (Describe)
+
+*5. Please indicate your annual income.*
+
+Below 30,000 XCD
+
+30,001 XCD - 40,000 XCD
+
+40,001 XCD - 50,000 XCD
+
+50,001 XCD - 60,000 XCD
+
+60,001 XCD - 70,000 XCD
+
+70,001 XCD - 80,000 XCD
+
+80,001 XCD - 90, 000 XCD
+
+100,001 XCD - 110, 000 XCD
+
+110,001 XCD - 120, 000 XCD
+
+Above 120,001 XCD
+
+*6. Please indicate if your workplace directly offers patients any formal non-English language assistance programmes.*
+
+*7. Please indicate if a perceived language barrier has ever limited any of your law enforcement interactions.*
+
+Yes
+
+No
+
+*7b. If 'yes', please indicate the language they used; please select all that apply.*
+
+English
+
+Saint Lucian Creole (Kwéyòl, Patois, Patwa)
+
+French
+
+Guadeloupean Creole
+
+Haitian Creole
+
+Spanish 
+
+Portuguese (or any Romance language not mentioned)
+
+Papiamento
+
+Amerindian (including Arawakan, Cariban, etc.) 
+
+Arabic (or any Afro-Asiatic language not mentioned) 
+
+Dutch (including Afrikaans)
+
+Hindi (or any Indo-Iranian/ Dravidian language not mentioned)
+
+German (or any West Germanic language not mentioned)
+
+Greek (or any Hellenic/ Armenian/ Albanian language not mentioned)
+
+Indonesian (or any Austronesian/ Austroasiatic/ Kra-Dai language not 
+mentioned)
+
+Irish (or any Celtic language not mentioned)
+
+Japanese
+
+Korean
+
+Mandarin Chinese (or any Sino-Tibetan language not mentioned)
+
+Russian (Armenian or any Balto-Slavic language not mentioned)
+
+Swahili (or any Niger-Congo/ African language not mentioned)
+
+Swedish (or any North Germanic/ Uralic language not mentioned)
+
+Turkish (or any Turkic/ Altaic language not mentioned)
+
+Any form of sign language
+
+Another language not represented 
+
+Unrecognised language(s)
+
+*8a. Please indicate the language you use most often to communicate and your proficiency. Note: "Listen/ Understand" can include scenarios where you can comprehend but not converse in a language. (Very well, Well, Not well, Not at all, Not applicable)*
+
+English
+
+Saint Lucian Creole (Kwéyòl, Patois, Patwa)
+
+French
+
+Guadeloupean Creole
+
+Haitian Creole
+
+Spanish 
+
+Portuguese (or any Romance language not mentioned)
+
+Papiamento
+
+Amerindian (including Arawakan, Cariban, etc.) 
+
+Arabic (or any Afro-Asiatic language not mentioned) 
+
+Dutch (including Afrikaans)
+
+Hindi (or any Indo-Iranian/ Dravidian language not mentioned)
+
+German (or any West Germanic language not mentioned)
+
+Greek (or any Hellenic/ Armenian/ Albanian language not mentioned)
+
+Indonesian (or any Austronesian/ Austroasiatic/ Kra-Dai language not 
+mentioned)
+
+Irish (or any Celtic language not mentioned)
+
+Japanese
+
+Korean
+
+Mandarin Chinese (or any Sino-Tibetan language not mentioned)
+
+Russian (Armenian or any Balto-Slavic language not mentioned)
+
+Swahili (or any Niger-Congo/ African language not mentioned)
+
+Swedish (or any North Germanic/ Uralic language not mentioned)
+
+Turkish (or any Turkic/ Altaic language not mentioned)
+
+Any form of sign language
+
+Another language not represented (Please manually list language(s):)
+
+*8b. Please indicate which technique best describes how you came to learn the aforementioned language; please select all that apply.*
+
+First Language [Formal education (requirement/elective);  Informal education (hobby); Informal education (family & friends)]
+
+*9. Please indicate any secondary languages you use to communicate and your proficiency. Note: "Listen/ Understand" can include scenarios where you can comprehend but not converse in a language. (Very well, Well, Not well, Not at all, Not applicable)*
+
+[Second Language (2nd most often used at home & elsewhere)]
+
+[Third Language (3rd most often used at home & elsewhere)]
+
+I do not speak additional languages
+
+I do not speak a third language
+	 
+English
+
+Saint Lucian Creole (Kwéyòl, Patois, Patwa)
+
+French
+
+Guadeloupean Creole
+ 
+Haitian Creole
+	 
+Spanish 
+	 
+Portuguese (or any Romance language not mentioned)
+	 
+Papiamento
+	 
+Amerindian (including Arawakan, Cariban, etc.) 
+	 
+Arabic (or any Afro-Asiatic language not mentioned) 
+	 
+Dutch (including Afrikaans)
+	 
+Hindi (or any Indo-Iranian/ Dravidian language not mentioned)
+	 
+German (or any West Germanic language not mentioned)
+
+Greek (or any Hellenic/ Armenian/ Albanian language not mentioned)
+
+Indonesian (or any Austronesian/ Austroasiatic/ Kra-Dai language not mentioned)
+
+Irish (or any Celtic language not mentioned)
+	 
+Japanese
+	 
+Korean
+	 
+Mandarin Chinese (or any Sino-Tibetan language not mentioned)
+	 
+Russian (Armenian or any Balto-Slavic language not mentioned)
+	 
+Swahili (or any Niger-Congo/ African language not mentioned)
+	 
+Swedish (or any North Germanic/ Uralic language not mentioned)
+	 
+Turkish (or any Turkic/ Altaic language not mentioned)
+	 
+Any form of sign language
+
+Another language not represented 
+
+
+*9b. Please indicate which technique best describes how you came to learn each of the aforementioned languages; please select all that apply.*
+
+Second Language 
+
+[Formal education (requirement/elective);  Informal education (hobby); Informal education (family & friends)]
+
+Third Language 
+
+[Formal education (requirement/elective);  Informal education (hobby); Informal education (family & friends)]
+
+*9c. If you do speak more than one language, please indicate if your multilingual skill was ever a useful asset to interacting with patients.*
+
+Yes
+
+No
+
+*10. Please indicate how often you encounter each of the following languages during typical student interactions. This question requires one response per row.*
+
+English
+
+Saint Lucian Creole (Kwéyòl, Patois, Patwa)
+
+French
+
+Guadeloupean Creole
+ 
+Haitian Creole
+	 
+Spanish 
+	 
+Portuguese (or any Romance language not mentioned)
+	 
+Papiamento
+	 
+Amerindian (including Arawakan, Cariban, etc.) 
+	 
+Arabic (or any Afro-Asiatic language not mentioned) 
+	 
+Dutch (including Afrikaans)
+	 
+Hindi (or any Indo-Iranian/ Dravidian language not mentioned)
+	 
+ 
+*(Continued)10. Please indicate how often you encounter each of the following languages during typical student interactions. This question requires one response per row.*
+
+German (or any West Germanic language not mentioned)
+
+Greek (or any Hellenic/ Armenian/ Albanian language not mentioned)
+
+Indonesian (or any Austronesian/ Austroasiatic/ Kra-Dai language not mentioned)
+
+Irish (or any Celtic language not mentioned)
+	 
+Japanese
+	 
+Korean
+	 
+Mandarin Chinese (or any Sino-Tibetan language not mentioned)
+	 
+Russian (Armenian or any Balto-Slavic language not mentioned)
+	 
+Swahili (or any Niger-Congo/ African language not mentioned)
+	 
+Swedish (or any North Germanic/ Uralic language not mentioned)
+	 
+Turkish (or any Turkic/ Altaic language not mentioned)
+	 
+Any form of sign language
+	 
+Unrecognised language(s)
+
+
+{% include JB/setup %}
