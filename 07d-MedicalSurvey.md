@@ -298,6 +298,10 @@ Above 120,001 XCD
 
 *6. Please indicate if your workplace directly offers patients any formal non-English language assistance programmes.*
 
+Yes, internal interpreter services are available to patients.
+
+No, external interpreter services would be recommended. 
+
 *7. Please indicate if a perceived language barrier has ever limited any of your law enforcement interactions.*
 
 Yes
