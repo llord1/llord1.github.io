@@ -175,7 +175,7 @@ Non-citizen (other)
 Prefer not to respond
 
 
-*Ethnicity/Race*
+*Ethnicity/Race:*
 
 Black (African, Afro-Caribbean, etc.)
 
