@@ -15,7 +15,7 @@ Therefore, I am currently attempting to utilize surveys and data science tools t
 
 ### Goals:
 
-This undertaking will finally enact Carrington's wishes from 1999 {% cite Carrington1999 %} - the creation of quantifiable data on the current status of the language, by investigating its usage among some of the most crucial members of Saint Lucia's labor force. The work of teachers, medical workers, lawyers, and law enforcement, are valuable to this study as they are respected pillars of society whose tasks typically require frequent interaction with the Saint Lucian public. It is hoped that this quantifiable data will aid in allocating teaching and learning language resources to these crucial members of society; perhaps the subsequent association of Kwéyòl with these respected professions will assist in its recognition and elevation{% cite hutchinson_1998 %}. I am inclined to believe that connecting Kwéyòl with elite members of society may be yet another necessary step towards recognizing it as an official language of Saint Lucia. 
+Some academics have suggested that despite the ongoing social change in attitude towards the creole culture and language in local communities 'formal school instruction in Creole-speaking communities has seen comparatively little change' {% cite migge2010creoles %}. This undertaking will finally enact Carrington's wishes from 1999 {% cite Carrington1999 %} - the creation of quantifiable data on the current status of the language, by investigating its usage among some of the most crucial members of Saint Lucia's labor force. The work of teachers, medical workers, lawyers, and law enforcement, are valuable to this study as they are respected pillars of society whose tasks typically require frequent interaction with the Saint Lucian public.  It is hoped that this quantifiable data will aid in allocating teaching and learning language resources to these crucial members of society; perhaps the subsequent association of Kwéyòl with these respected professions will assist in its recognition and elevation {% cite hutchinson_1998 %}. I am inclined to believe that connecting Kwéyòl with elite members of society may be yet another necessary step towards recognizing it as an official language of Saint Lucia. 
 
 As of September 2021, the Ministry of Education, Sustainable Development, Innovation, Science, Technology and Vocational Training hosted an online National Language Policy Implementation Planning Conference through the Curriculum and Materials Development Unit (CAMDU) {% cite satney_2021 camdu_st_lucia_national_2021 %}. The updated policy was stated to have four main goals for Kwéyòl; to recognize it as an official language, to utilize it as a language of instruction, that all students should become bilingual upon primary school completion, and that students will become bi-literate upon secondary school completion {% cite joseph_2021 %}.
 
@@ -73,7 +73,7 @@ Any questions may be directed to Laurel Lord at lalord@my.harrisburgu.edu. Quest
 
 *Question Design:*
 
-Demographic questions included questions on Age, Gender (with the option to self-describe), Ethnicity/Race (with the option to self-describe), and Highest Level of Education as those may add additional context to one's linguistic background; the list of Ethnicity/Race options was inspired by historical settlement data specific to the region, as well as recent immigration data {% cite pm_slu_citizenship_2015 imi_team_2021 slu_cip_2020 %}. An enquiry is also made about one's Citizenship, as this may give additional details as to whether locals or foreign nationals are more likely to be exposed to diverse linguistic backgrounds that benefit the teaching field. 
+Survey questions were designed based on various past surveys and investigations of educators {% cite dockrell2017review martins2019views vivash2018re dockrell2017children knudsen2021multilingual NCES_2016 dolcy2019preservation edu_2008_ALE knudsen2021multilingual migge2010creoles %}. Demographic questions included questions on Age, Gender (with the option to self-describe), Ethnicity/Race (with the option to self-describe), and Highest Level of Education as those may add additional context to one's linguistic background; the list of Ethnicity/Race options was inspired by historical settlement data specific to the region, as well as recent immigration data {% cite pm_slu_citizenship_2015 imi_team_2021 slu_cip_2020 %}. An enquiry is also made about one's Citizenship, as this may give additional details as to whether locals or foreign nationals are more likely to be exposed to diverse linguistic backgrounds that benefit the teaching field. 
 
 Questions into the number of years one has been employed by the Saint Lucian Government as a teacher, level(s) of education taught, and courses taught may reflect one's experiences and one's likelihood of exposure to multilingual situations; salary questions may speak to possible future incentives for utilising or acquiring additional language skills. Location details on the current teaching districts of participants may also reveal details about language hotspots on the island {% cite edu_districts_2021 %}; which locations might have high numbers of certain languages, as well as reflect the number of teachers capable of addressing those needs. One report indicated that 'the majority of tourists visit Saint Lucia as part of a cruise. Most of their time is likely to be spent in Castries, although Soufriere, Marigot Bay, and Gros Islet are popular locations to visit' {% cite min_health_2016 %}. Language hotspots may be determined by gathering such details.
 
@@ -91,8 +91,6 @@ Ultimately, the survey may not be perfect and may have room for improvement in t
 
 
 ### Preliminary Written Report: 37 Responses
-
-[Online Survey of Saint Lucian Teachers](https://form.jotform.com/212176418882158)
 
 'Kwéyòl Focus' Summary: 
 
@@ -119,3 +117,517 @@ Student interactions in English occur 'Frequently', but mostly 'Very Frequently'
 Spanish had a significant number of 'Very Rarely', 'Frequently', and 'Occasionally' occurring encounters (but was most noted as 'Never'). Portuguese (or any Romance language not mentioned) somewhat mirrored the type of encounters but had a lower frequency, levels. A significant number of participants encountered Arabic 'Very Rarely' (but was mostly 'Never' encountered). 'Any form of sign language' also had a significant number of 'Rarely' and 'Very Rarely' occurring encounters (but was mostly 'Never' encountered). While Dutch was also mostly noted as 'Never', yet it had a significant number of 'Very Rarely' occurring encounters. Japanese had a notable number of 'Very Rarely' and 'Occasionally' occurring encounters but was most noted as 'Never'; Mandarin Chinese somewhat mirrors this pattern, with notable numbers of 'Rarely' and 'Very Rarely' occurring encounters but was most noted as 'Never'.
 
 Most of the remaining languages have encounters that are less frequent than the aforementioned ones above. For example, the Korean language was only noted twice where their highest rating occurred 'Occasionally'. Most 'Never' encounter 'Unrecognised language(s)'; only two responses noted that this would occur either 'Rarely' and 'Occasionally'. Amerindian languages were only encountered by one participant, where it occurred 'Very Rarely'. Russian (Armenian or any Balto-Slavic language not mentioned) and Swedish (or any North Germanic/ Uralic language not mentioned) were not encountered by any participant.
+
+
+### References:
+
+{% bibliography --cited %}
+
+### Appendix:
+
+*Questions:*
+
+[Online Survey of Saint Lucian Teachers](https://form.jotform.com/212176418882158)
+
+*1. Please indicate which of the following best describe (s) you.*
+
+*Age:*
+
+Less than 18
+
+18-24
+
+25-29
+
+30-34
+
+35-39
+
+40-44
+
+45-49
+
+50-54
+
+55-59
+
+60-64
+
+65-69
+
+70-74
+
+75 or older
+
+Prefer not to respond
+
+
+*Gender:*
+
+Man
+
+Woman
+
+Prefer not to respond
+
+Prefer to self-describe (1. Self-describe gender:)
+
+
+*Citizenship:*
+
+By birth (birthplace of Saint Lucia)
+
+By birth (parents)
+
+By birth (other)
+
+By naturalisation (ordinary)
+
+By registration (citizenship by investment)
+
+By registration (adoption, marriage, parental legacy, residency status, 
+administrative discretion)
+
+Non-citizen (OECS national)
+
+Non-citizen (other)
+
+Prefer not to respond
+
+
+*Ethnicity/Race*
+
+Black (African, Afro-Caribbean, etc.)
+
+White/ North European (English, French, German, Irish, Polish, etc.)
+
+Amerindian (Arawak/ Taino, Carib, etc.)
+
+American Indian/ Alaska Native (Aztec, Mayan, Navajo Nation, etc.)
+
+East Asian (Chinese, Japanese, Korean, Taiwanese, Tibetan, etc.)
+
+Hispanic/ Latino/ Spanish Origin (Cuban, Puerto Rican, Mexican, Central/ 
+South American, etc.)
+
+Indian Subcontinent/ South Asia (Afghan, Bangladeshi, Indian, Jordanian, 
+Pakistani, Sri Lankan, etc.)
+
+Middle Eastern/ North African (Algerian, Bahraini, Lebanese, Arab, 
+Moroccan, Syrian, Yemeni, etc.)
+
+Native Hawaiian/ Other Pacific Islander (Native Hawaiian, Samoan, 
+Chamorro, Fijian, Tongan, Marshallese, etc.)
+
+Southeast Asian (Burmese, Filipino, Indonesian, Laotian, Malaysian, 
+Singaporean, Thai, Vietnamese, etc.)
+
+Mixed Parentage (two or more races)
+
+Not known
+
+Some other race, ethnicity, or origin (self-describe) (1. Self-describe ethnicity/race:)
+
+Prefer not to respond
+
+
+*Highest Level of Education:*
+
+Secondary School/ Middle & High School
+
+Vocational/ Tertiary Education
+
+Post-secondary Non-University Education
+
+Some College Courses
+
+Community College/ Associate's Degree
+
+Bachelor's Degree
+
+Master's Degree
+
+Doctoral or Professional Courses (e.g., PhD, M.D., J.D.)
+
+Prefer not to respond
+
+*2. Please indicate the number of years you have been employed by the Saint Lucian Government as a teacher. Round up to whole years regardless of part-time, full-time, or certification status.*
+
+Less than 1
+
+1-5
+
+6-10
+
+11-15
+
+16-20
+
+21-25
+
+26-30
+
+31 or more
+
+*3. Please indicate the option(s) that best describes your current teaching district; please check all that apply.*
+
+District One
+
+District Two
+
+District Three
+
+District Four
+
+District Five
+
+District Six
+
+District Seven
+
+District Eight
+
+Island-wide
+
+*4. Please indicate the level(s) of education that you teach. Check all that apply.*
+
+Early Childhood Development
+
+Multi-grade Education (students from different grades in the same 
+classroom)
+
+Special Education
+
+Primary School/ Elementary School
+
+Secondary School/ Middle & High School
+
+Vocational/ Tertiary Education
+
+Post-secondary Non-University Education
+
+Community College/ Associate's Degree Courses
+
+Bachelor's Courses
+
+Master's Courses
+
+Doctoral or Professional Courses (e.g., PhD, M.D., J.D.)
+
+*4b. If you teach courses beyond primary school, what courses do you teach? Check all that apply.*
+
+Business (Accounting, Consumer education, Marketing, etc.)
+
+Computer Science/Information Technology (Computer programming, 
+Graphic design, Music production, etc.)
+
+Culture and Heritage Language Education (Saint Lucian Kwéyòl Studies)
+English (Creative Writing, Humanities, Literary Analysis, etc.)
+
+Family and Consumer Science (CPR Training, Home Economics, Nutrition, 
+etc.)
+
+Foreign Language (French, Japanese, Spanish, etc.)
+
+Mathematics (Algebra, Quantitative Literacy, Statistics, etc.)
+
+Performing Arts (Choir, Drama, Theatre Technology, etc.)
+
+Physical Education (Dance, Football, Lifeguard Training, etc.)
+
+Science (Agriculture, Biology, Chemistry, etc.)
+
+Social Studies (Geography, History, Religious Studies, etc.)
+
+Visual Arts (Digital Media, Drawing, Photography, etc.)
+
+Vocational Education (Cosmetology, Plumbing, Hospitality and Tourism 
+etc.)
+
+*5. Please indicate your current student debt level.*
+
+None
+
+Prefer not to respond
+
+.01 XCD - 5,000 XCD
+
+5,001 XCD - 15,000 XCD
+
+15,0001 XCD - 25,000 XCD
+
+25,001 XCD - 35,000 XCD
+
+35,001 XCD - 45,000 XCD
+
+45,001 XCD - 55,000 XCD
+
+55,001 XCD - 65,000 XCD
+
+65,001 XCD - 75,000 XCD
+
+75,001 XCD - 85,000 XCD
+
+85,001 XCD - 95,000 XCD
+
+95,001 XCD - 100,000 XCD
+
+Above 100,000 XCD
+
+*6. Please indicate if your workplace directly offers students any formal non-English language assistance programmes.*
+
+Yes, internal interpreter services are available to students.
+
+No, external interpreter services would be recommended.
+
+*7. Please indicate if a perceived language barrier has ever limited any of your teacher-student interactions.*
+
+Yes
+
+No
+
+*7b. If 'yes', please indicate the language(s) you encountered; please select all that apply.*
+
+English
+
+Saint Lucian Creole (Kwéyòl, Patois, Patwa)
+
+French
+
+Guadeloupean Creole
+
+Haitian Creole
+
+Spanish 
+
+Portuguese (or any Romance language not mentioned)
+
+Papiamento
+
+Amerindian (including Arawakan, Cariban, etc.) 
+
+Arabic (or any Afro-Asiatic language not mentioned) 
+
+Dutch (including Afrikaans)
+
+Hindi (or any Indo-Iranian/ Dravidian language not mentioned)
+
+German (or any West Germanic language not mentioned)
+
+Greek (or any Hellenic/ Armenian/ Albanian language not mentioned)
+
+Indonesian (or any Austronesian/ Austroasiatic/ Kra-Dai language not 
+mentioned)
+
+Irish (or any Celtic language not mentioned)
+
+Japanese
+
+Korean
+
+Mandarin Chinese (or any Sino-Tibetan language not mentioned)
+
+Russian (Armenian or any Balto-Slavic language not mentioned)
+
+Swahili (or any Niger-Congo/ African language not mentioned)
+
+Swedish (or any North Germanic/ Uralic language not mentioned)
+
+Turkish (or any Turkic/ Altaic language not mentioned)
+
+Any form of sign language
+
+Another language not represented 
+
+Unrecognised language(s)
+
+*8a. Please indicate the language you use most often to communicate and your proficiency. Note: "Listen/ Understand" can include scenarios where you can comprehend but not converse in a language. (Very well, Well, Not well, Not at all, Not applicable)*
+
+English
+
+Saint Lucian Creole (Kwéyòl, Patois, Patwa)
+
+French
+
+Guadeloupean Creole
+
+Haitian Creole
+
+Spanish 
+
+Portuguese (or any Romance language not mentioned)
+
+Papiamento
+
+Amerindian (including Arawakan, Cariban, etc.) 
+
+Arabic (or any Afro-Asiatic language not mentioned) 
+
+Dutch (including Afrikaans)
+
+Hindi (or any Indo-Iranian/ Dravidian language not mentioned)
+
+German (or any West Germanic language not mentioned)
+
+Greek (or any Hellenic/ Armenian/ Albanian language not mentioned)
+
+Indonesian (or any Austronesian/ Austroasiatic/ Kra-Dai language not 
+mentioned)
+
+Irish (or any Celtic language not mentioned)
+
+Japanese
+
+Korean
+
+Mandarin Chinese (or any Sino-Tibetan language not mentioned)
+
+Russian (Armenian or any Balto-Slavic language not mentioned)
+
+Swahili (or any Niger-Congo/ African language not mentioned)
+
+Swedish (or any North Germanic/ Uralic language not mentioned)
+
+Turkish (or any Turkic/ Altaic language not mentioned)
+
+Any form of sign language
+
+Another language not represented (Please manually list language(s):)
+
+*8b. Please indicate which technique best describes how you came to learn the aforementioned language; please select all that apply.*
+
+First Language [Formal education (requirement/elective);  Informal education (hobby); Informal education (family & friends)]
+
+*9. Please indicate any secondary languages you use to communicate and your proficiency. Note: "Listen/ Understand" can include scenarios where you can comprehend but not converse in a language. (Very well, Well, Not well, Not at all, Not applicable)*
+
+[Second Language (2nd most often used at home & elsewhere)]
+
+[Third Language (3rd most often used at home & elsewhere)]
+
+I do not speak additional languages
+
+I do not speak a third language
+
+English
+
+Saint Lucian Creole (Kwéyòl, Patois, Patwa)
+
+French
+
+Guadeloupean Creole
+ 
+Haitian Creole
+	 
+Spanish 
+	 
+Portuguese (or any Romance language not mentioned)
+	 
+Papiamento
+	 
+Amerindian (including Arawakan, Cariban, etc.) 
+	 
+Arabic (or any Afro-Asiatic language not mentioned) 
+	 
+Dutch (including Afrikaans)
+	 
+Hindi (or any Indo-Iranian/ Dravidian language not mentioned)
+	 
+German (or any West Germanic language not mentioned)
+
+Greek (or any Hellenic/ Armenian/ Albanian language not mentioned)
+
+Indonesian (or any Austronesian/ Austroasiatic/ Kra-Dai language not mentioned)
+
+Irish (or any Celtic language not mentioned)
+	 
+Japanese
+	 
+Korean
+	 
+Mandarin Chinese (or any Sino-Tibetan language not mentioned)
+	 
+Russian (Armenian or any Balto-Slavic language not mentioned)
+	 
+Swahili (or any Niger-Congo/ African language not mentioned)
+	 
+Swedish (or any North Germanic/ Uralic language not mentioned)
+	 
+Turkish (or any Turkic/ Altaic language not mentioned)
+	 
+Any form of sign language
+	 
+Another language not represented 
+
+*9b. Please indicate which technique best describes how you came to learn each of the aforementioned languages; please select all that apply.*
+
+Second Language 
+
+[Formal education (requirement/elective);  Informal education (hobby); Informal education (family & friends)]
+
+Third Language 
+
+[Formal education (requirement/elective);  Informal education (hobby); Informal education (family & friends)]
+
+*9c. If you do speak more than one language, please indicate if your multilingual skill was ever a useful asset to educating a student.*
+
+Yes
+
+No
+
+*10. Please indicate how often you encounter each of the following languages during typical student interactions. This question requires one response per row.*
+	 
+English
+
+Saint Lucian Creole (Kwéyòl, Patois, Patwa)
+
+French
+
+Guadeloupean Creole
+ 
+Haitian Creole
+	 
+Spanish 
+	 
+Portuguese (or any Romance language not mentioned)
+	 
+Papiamento
+	 
+Amerindian (including Arawakan, Cariban, etc.) 
+	 
+Arabic (or any Afro-Asiatic language not mentioned) 
+	 
+Dutch (including Afrikaans)
+	 
+Hindi (or any Indo-Iranian/ Dravidian language not mentioned)
+	 
+ 
+*(Continued)10. Please indicate how often you encounter each of the following languages during typical student interactions. This question requires one response per row.*
+
+German (or any West Germanic language not mentioned)
+
+Greek (or any Hellenic/ Armenian/ Albanian language not mentioned)
+
+Indonesian (or any Austronesian/ Austroasiatic/ Kra-Dai language not mentioned)
+
+Irish (or any Celtic language not mentioned)
+	 
+Japanese
+	 
+Korean
+	 
+Mandarin Chinese (or any Sino-Tibetan language not mentioned)
+	 
+Russian (Armenian or any Balto-Slavic language not mentioned)
+	 
+Swahili (or any Niger-Congo/ African language not mentioned)
+	 
+Swedish (or any North Germanic/ Uralic language not mentioned)
+	 
+Turkish (or any Turkic/ Altaic language not mentioned)
+	 
+Any form of sign language
+	 
+Unrecognised language(s)
+
+
+{% include JB/setup %}
