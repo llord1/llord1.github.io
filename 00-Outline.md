@@ -34,21 +34,27 @@ To investigate the current state of a language assumed to be low-resource and co
  
 Research Questions: 
  
--Are professions that inherently have high levels of critical interactions with the public, and simultaneously bear the greatest likelihood of technology usage ideal subjects for online language surveys? 
- 
--Of the professionals tested, what percentage consider themselves fluent in a low-resource hereditary language, and is it crucial to their professional interactions? 
- 
+-What percentage of key professionals in creole societies (teachers, lawyers, law enforcement, and medical professionals) consider themselves fluent in the local low-resource hereditary language, and how crucial is an understanding of that language to their professional interactions?
 
+-What percentage of professionals view this heritage language as their first language (thus confirming the language's vitality)?
+
+-Do the details revealed in past linguistic investigations endure; is creole indeed the second most widely utilized for communication on the island, or has another language taken this place?
+
+-Ultimately, is the language definitively vital enough to garner investment of resources into active monitoring and preservation technologies?
  
 Data: 
  
 1. Survey of Saint Lucian lawyers (IRB approved and distributed). 
-2. Survey of Saint Lucian teachers (IRB approved and distributed;  attended the August 31st  Saint Lucia National Language Policy Implementation Conference, and the project's efforts were mentioned [here](https://youtu.be/L3T9MMHqq0Y?t=12097) {% cite language_survey_mention_2021 %} )
+
+2. Survey of Saint Lucian teachers (IRB approved and distributed). Attended the August 31st  Saint Lucia National Language Policy Implementation Conference, and the project's efforts were mentioned [here](https://youtu.be/L3T9MMHqq0Y?t=12097) {% cite language_survey_mention_2021 %} .
+
 3. Survey of Saint Lucian law enforcement (IRB approved and distributed). 
-4. Survey of Saint Lucian healthcare workers and emergency services (IRB approved; distribution scheduled for 8th November 2021. 
+
+4. Survey of Saint Lucian healthcare workers and emergency services (IRB approved and distributed). 
+
 5. Survey of Saint Lucian public (vitality survey) (drafted, yet paused for possible grant approval; in discussions with the Saint Lucia Folk Research Center, Ministry of Education, The Central Statistical Office of Saint Lucia, and the Ministry of Tourism Information, Broadcasting, Culture & Creative Industries). 
  
-*Note: Not all surveys may be completed by the estimated December 2021 dissertation completion, as one may be used as a grant project. Distribution for all is expected by November 8th. All approved surveys by this time are expected to have a report produced by December 2021. 
+*Note: Not all surveys may be completed by the estimated December 2021, as one may be used as a grant project. All approved surveys will be expected to have a report produced by December 2021. 
  
  
 ### Initiative 2: Data modeling and tool creation 
