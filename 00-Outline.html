@@ -56,15 +56,19 @@
 					
 <h3 id="working-title">Working title:</h3>
 
-<p>‘Novel natural language processing (NLP) model approaches for the exploration and preservation of low-resource creole languages’.</p>
+<p>‘Novel natural language processing (NLP) dictionary building approaches for the exploration and preservation of low-resource languages’.</p>
 
 <h3 id="brief">Brief:</h3>
 
 <p>Natural language processing (NLP) is an area of data science capable of undertaking a plethora of language challenges; however, researchers often overlook opportunities to tackle low-resource languages, such as most of the world’s creoles. NLP research is often pursued in select popular languages, and models tend to depend on supervised machine learning and demand substantial quantities of annotated data for the subsequent resources to be widely distributed and used. Creole languages can typically encompass contending with multilingual code-switching, and plentiful word-sense disambiguation issues due to high levels of polysemy and inconsistent adherence to writing systems (especially in instances where the language is mostly orally passed on and diacritic utilization is inconsistent). Analysis issues are exacerbated by the lack of text samples across varied semantic domains/topics. There are somewhat contradictory public assumptions about the language; that while most do not have definitive facts, they believe its status to be ‘actively thriving’ while acknowledging it as ‘low-resource language’. These declarations are accepted without any comprehensive data analysis on the availability of text resources or the vitality of the language among the current population.</p>
 
-<p>This thesis aims to examine information extraction and natural language understanding methods for handling low-resource situations, particularly for creoles. There will be a three-pronged approach to this dissertation; it entails data collection, data modeling, and data distribution. Here I conduct surveys on a low-resource language (to confirm its vitality), create models and tools to address needs unique to the language, and attempt to distribute the sample language text files (of various domains) to facilitate the future analysis of the creoles. I focus on the use of Saint Lucian Kwéyòl (also known as ACF) as a base language for testing. Ultimately, I hope to prove that the investigation of creoles may advance the area of NLP while simultaneously disproving the assumption that Kwéyòl is a low-resource language.</p>
+<p>This thesis aims to examine information extraction and natural language understanding methods for handling low-resource situations, particularly for creoles. Therefore, there will be a three-pronged approach to this dissertation; it entails data collection, data building, and data distribution. Here I conduct surveys on a low-resource language (to confirm its vitality), create tools to address needs unique to the language, and attempt to distribute the sample language text files (of various domains) to facilitate the future analysis of the creoles. I focus on the use of Saint Lucian Kwéyòl (also known as ACF) as a base language for testing.</p>
 
-<p>At the end of this endeavor, I should provide a unique creole text data compilation to the field for future study. It is believed that the expansion of corpora for low-resource languages would be an overall valuable undertaking for increasing sources of language datasets for analysis. Additionally, I should create novel tools where none existed for a low-resource language. This would also include the foundations of a machine translation engine for a particular example creole language. I will also attempt to utilize word frequencies and contexts, with semantic similarity techniques to contribute an updated vocabulary list/dictionary for this previously neglected language. I would also have used cross-lingual transfer learning to explore the boundaries of modern language detection tools and address some lingering linguistic mysteries of a low-resource language (Saint Lucian Kwéyòl). Finally, I should leverage creole languages in cross-lingual models to explore the similarities and differences among Caribbean creoles and their resource-rich lexifier languages.</p>
+<p>I am currently preoccupied with three interlinked concerns about this language. Dictionary building to address missing Kwéyòl dictionary entries, Kwéyòl dictionary entries of unknown origin, and exploring mutually intelligible languages’ dictionary entries. Exploring these details can indeed lead to various possible projects or independent papers.</p>
+
+<p>For example, in dictionary building, I intend to review sample texts of varied semantic domains, and also peruse other mutually intelligible languages’ dictionary entries; I will hopefully encounter various entries not present in the current Kwéyòl dictionary. Additionally, questions concerning the etymology of the list of vocabulary items of ‘unknown origin’ could then be addressed by comparing the Kwéyòl dictionary’s entries list against that of the dictionaries of mutually intelligible languages. Exact matches may provide useful information concerning possible missing Kwéyòl dictionary etymologies. Any results from the analysis concerning new possible Kwéyòl dictionary entries can also have this comparative check performed. Ultimately, I hope to prove that the investigation of low-resource such as creoles is not as arduous or fruitless as some in data science or may perceive it to be, to increase the low-resource language data available NLP researchers, and simultaneously elevating Kwéyòl’s status as a low-resource language.</p>
+
+<p>At the end of this endeavor, I should provide a unique creole text data compilation to the field for future study. It is believed that the expansion of corpora for low-resource languages would be an overall valuable undertaking for increasing sources of language datasets for analysis. Additionally, I should create novel tools where none existed for this low-resource language. This would also include the foundations of a machine translation engine for a particular example creole language. I will also attempt to utilize word frequencies and contexts, with semantic similarity techniques to contribute an updated vocabulary list/dictionary for this previously neglected language. I would also have used cross-lingual transfer learning to explore the boundaries of modern language detection tools and address some lingering linguistic mysteries of a low-resource language (Saint Lucian Kwéyòl). Finally, I should leverage creole languages in cross-lingual models to explore the similarities and differences among Caribbean creoles and their resource-rich lexifier languages.</p>
 
 <h3 id="initiative-1-data-collection">Initiative 1: Data collection</h3>
 
@@ -82,9 +86,9 @@
 
 <p>-What percentage of professionals view this heritage language as their first language (thus confirming the language’s vitality)?</p>
 
-<p>-Do the details revealed in past linguistic investigations endure; is creole indeed the second most widely utilized for communication on the island, or has another language taken this place?</p>
+<p>-Do the details revealed in past linguistic investigations endure; can creole continue to be regarded as the second most widely language utilized for communication on the island, or has another language taken this place?</p>
 
-<p>-Ultimately, is the language definitively vital enough to garner investment of resources into active monitoring and preservation technologies?</p>
+<p>-Ultimately, is the language definitively vital enough to garner further investment of resources into active monitoring and preservation technologies?</p>
 
 <p>Data:</p>
 
@@ -93,7 +97,7 @@
     <p>Survey of Saint Lucian lawyers (IRB approved and distributed).</p>
   </li>
   <li>
-    <p>Survey of Saint Lucian teachers (IRB approved and distributed). Attended the August 31st  Saint Lucia National Language Policy Implementation Conference, and the project’s efforts were mentioned <a href="https://youtu.be/L3T9MMHqq0Y?t=12097">here</a> <a class="citation" href="#language_survey_mention_2021">(Edu Saint Lucia Plus, 2021)</a> .</p>
+    <p>Survey of Saint Lucian teachers (IRB approved and distributed). Attended the August 31st  Saint Lucia National Language Policy Implementation Conference, and the project’s efforts were mentioned <a href="https://youtu.be/L3T9MMHqq0Y?t=12097">here</a> <a class="citation" href="#language_survey_mention_2021">(Edu Saint Lucia Plus, 2021)</a>.</p>
   </li>
   <li>
     <p>Survey of Saint Lucian law enforcement (IRB approved and distributed).</p>
@@ -102,13 +106,13 @@
     <p>Survey of Saint Lucian healthcare workers and emergency services (IRB approved and distributed).</p>
   </li>
   <li>
-    <p>Survey of Saint Lucian public (vitality survey) (drafted, yet paused for possible grant approval; in discussions with the Saint Lucia Folk Research Center, Ministry of Education, The Central Statistical Office of Saint Lucia, and the Ministry of Tourism Information, Broadcasting, Culture &amp; Creative Industries).</p>
+    <p>Survey of Saint Lucian public (vitality survey) (drafted, yet paused pending for possible <a href="http://www.ogmios.org/grants/index.php">grant approval</a>); also in discussions with the local Saint Lucia Folk Research Center, Ministry of Education, The Central Statistical Office of Saint Lucia, and the Ministry of Tourism Information, Broadcasting, Culture &amp; Creative Industries for alternative grants.</p>
   </li>
 </ol>
 
-<p>*Note: Not all surveys may be completed by the estimated December 2021, as one may be used as a grant project. All approved surveys will be expected to have a report produced by December 2021.</p>
+<p>*Note: Not all surveys may be completed by the estimated December 2021, as one may be used for the aforementioned grant project. All approved surveys will be expected to have a preliminary report produced by December 31st 2021.</p>
 
-<h3 id="initiative-2-data-modeling-and-tool-creation">Initiative 2: Data modeling and tool creation</h3>
+<h3 id="initiative-2-data-building-and-tool-creation">Initiative 2: Data building and tool creation</h3>
 
 <p>Project 1: (partially completed)</p>
 
@@ -116,13 +120,11 @@
 
 <p>Goal:</p>
 
-<p>To create novel NLP approaches for increasing vocabulary lists of low-resource languages (modeling and expanding the Saint Lucian Kwéyòl vocabulary texts).</p>
+<p>To create novel NLP approaches for increasing vocabulary lists of low-resource languages (expanding the Saint Lucian Kwéyòl dictionary entries).</p>
 
 <p>Research Questions:</p>
 
-<p>-How can a novel application of Zipf’s law and word frequencies (associated with class prior probability/bias) be used to update the vocabulary lists of low-resource languages? This is where the class prior probability may be considered.</p>
-
-<p>Typically, this is essentially used as a bias that suggests how likely it is to have a particular class show up in a corpus. Here it is used to contribute to the confidence with which we feel that a (word) aligns with its equivalent in the parallel text, based on its place in the sentence as well as how many times we have encountered this (word) in the corpus.</p>
+<p>-How can a novel application of Zipf’s law and word frequencies be used to update the vocabulary lists of low-resource languages?</p>
 
 <p>-How can a lexifier language (such as French) be leveraged to create a unique NLTK package tuned to a related low-resource language creole? Exploration would include preprocessing, POS tagging, word tokenization, phrase partitioning, etc.</p>
 
@@ -132,7 +134,9 @@
 
 <p>Data:</p>
 
-<p>All collected Kwéyòl text samples including formal text samples and informal text samples</p>
+<p>All collected Kwéyòl text samples including formal text samples and informal text samples. Current progress is as follows:</p>
+
+<p>The dictionary currently states that it bears 3969 entries in Saint Lucian Creole French, and 4470 in English. Therefore the goal would be about 400 new Saint Lucian Creole French entries. Currently, with only preliminary testing, I have identified about 44 vocabulary items currently excluded from the Kwéyòl dictionary’s entries (this excludes other found phrases like 2018, job titles, etc.) from just two documents. This is only about a one percent increase for now. However, I was also able to identify instances of alternative spellings of current entries. These can be regarded as spelling errors, yet can serve as useful data for future spelling correction programs. I have also completed a simple demonstration of this possibility using simplistic Python coding. This may be expanded further in future works.</p>
 
 <p>Project 2: (partially completed)</p>
 
@@ -163,6 +167,10 @@
   </li>
 </ol>
 
+<p>Current progress is as follows:</p>
+
+<p>Language detection tool comparison is underway, as well as cross-lingual analysis; these should directly feed into addressing concerns about the list of ‘vocabulary of unknown origin’ and semantic similarity investigations.</p>
+
 <p>Project 3: (partially completed)</p>
 
 <p>Goal:</p>
@@ -172,8 +180,6 @@
 <p>Research Questions:</p>
 
 <p>-Is the assumed ‘90% mutual intelligibility among the Antillean creoles’ still an accurate figure in light of the increased text samples for analysis?</p>
-
-<p>-Is there any creole more mutual intelligibility to Saint Lucian Kwéyòl than that of Dominica?</p>
 
 <p>-Is Haitian creole more mutual intelligibility to Saint Lucian Kwéyòl than Dominican?</p>
 
@@ -188,6 +194,10 @@
   </li>
 </ol>
 
+<p>Current progress is as follows:</p>
+
+<p>The cross-lingual analysis is underway; this should directly feed into addressing concerns about mutual intelligibility.</p>
+
 <h3 id="initiative-3-data-distribution">Initiative 3: Data distribution</h3>
 
 <p>Project 1: (partially completed)</p>
@@ -200,11 +210,15 @@
 
 <p>Research Questions:</p>
 
-<p>-How can the publication of a Kwéyòl text data collection occur without copyright issues?</p>
+<p>-How can local governmental bodies support the publication of a Kwéyòl text data collection (without copyright issues)?</p>
 
 <p>Data:</p>
 
 <p>Compilation of all Kwéyòl data I have encountered in my studies.</p>
+
+<p>Current progress is as follows:</p>
+
+<p>I have spoken to representatives at the Saint Lucia Folk Research Center, and the Ministry of Education about hosting the data.</p>
 
 <ol class="bibliography"><li><span id="language_survey_mention_2021">Edu Saint Lucia Plus. (2021). <i>Saint Lucia National Language Policy Implementation Conference: Future Surveys</i>. https://youtu.be/L3T9MMHqq0Y?t=12097</span></li></ol>
 
