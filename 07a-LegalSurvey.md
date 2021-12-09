@@ -1,0 +1,627 @@
+---
+layout: page
+title: "7.a  Legal Representation and Language Diversity"
+description: "7.a A Demographic and Linguistic Survey of Saint Lucian Lawyers"
+tags: [Assets]
+---
+{% include JB/setup %}
+
+
+### Introduction:
+
+Effective communication can mean the difference between life and death in fields of practice such as medicine and law. These include police forces, judges, and lawyers, among others. Several careers in society can contribute to the general sense of safety and security that Maslow has referred to in his well-known hierarchy of needs. Therefore, thoughtful data collection and monitoring of these critical services can enhance and optimize their performance. 
+
+It is hoped that the results of this survey will assist with the dedication of resources to language services in the legal sector. Furthermore, it is hoped that this inspires the BarAssociation to have a centralized language service available to lawyers; that having ready access to a list of Bar Association-approved interpreters, may assist with the ease and speed of legal representation.
+
+### Literature Review:
+
+*The importance of labor demographic and linguistic data monitoring:*
+
+Thoughtful deliberation of linguistics, particularly consideration of language barriers, is increasing in various fields. For example, studies of medical professionals and the need for translation services in their field have been increasing {% cite patriksson2019health sevilla2013communication simon2013perceptions napoles2009developing verdinelli2009spanish elderkin2001nurses %}. Miscommunications in medicine can mean the difference between life and death for their patients. The work of lawyers can also mean the difference between life and death; effective legal representation can mean the difference between an innocent client spending the rest of their life in prison, or a dangerous client being released into the unsuspecting public. However, there does not appear to be many studies into the linguistic setting of the Saint Lucian legal system; there does not appear to be a current effort towards data collection and analysis of the linguistic skills of Saint Lucian lawyers in an increasingly multilingual environment.
+
+Data collection of various professions can be conducted by private companies, however, it is typically completed by government labor agencies. This undertaking ensures that the results on labor force statistics are freely available to the public. In America, the Bureau of Labor Statistics collects such data and hosts it on a public website {% cite BLS2020 %}. Not all developing nations have been able to dedicate resources to the close monitoring of this data, but its value is increasingly recognized.
+
+While the U.S. Bureau of Labor Statistics provides general information on the demographics of the lawyers in the country, the American Bar Association (ABA) gathers more detailed information on Legal Profession Statistics {% cite aba_2020 BLS2020 %}. Their current statistical data assisted with research on lawyers and the legal profession. Their website notes data on lawyer demographics (including disability, women, and minority/people of color topics). It also encompasses justice system statistics (including public perception of justice system/lawyers and the justice system matters), court statistics (including cases filed and criminal justice statistics). This association also notes the topics of law student education and legal salaries (and related attrition/retention data).
+
+Moreover, the U.S. Department of Justice (DOJ) has made statements that support the importance of language Assistance Services {% cite doj_2016 %}. One of its documents suggested that court systems should exist to deliver justice, therefore, the law requires Language Assistance Services and the DOJ enforces this standard {% cite doj_2016 %}. This enforcement is conducted through the processing of complaints when court systems have failed to provide interpreter or other language assistance services in state court operations or proceedings (in possible violation of Title VI) {% cite doj_2016 %}. The DOJ also emphasized the importance of no-cost language services to preventing miscarriages of justice. It also highlighted, based on demographic trends, that the provision of Language Assistance Services is an important standard to ensure a thriving justice system in societies that are increasingly becoming multicultural and multilingual{% cite doj_2016 %}.
+
+
+*Lack of labor demographic and linguistic data in Saint Lucia:*
+
+Currently, the collection of lawyer demographics in Saint Lucia (SLU) are not centralized. The 2016 Labour Force Survey, made publicly available by The Central Statistical Office of SLU, did inquire into a participant's industry - 'What is the name of the business where you/....... work? What type of activity is carried on there?' {% cite  govtSLU_Labour_2017 %}. However, the dataset ultimately appears to have been simplified to the point where details on individual professions were rendered indiscernible. The closest response, related to lawyers, would be one that highlighted 'professional, scientific and technical activities'; this made up 1.0%  (51 participants) of the survey. A representative of The Central Statistical Office of SLU stated that the data of the 2016 Labour Force Survey was 'not disaggregated in such a way to get a count of all lawyers' {% cite govtSLU_Labour_2017 %}. The survey also stated that since the 2016 Labour Force Survey 'utilizes a sample if it were to give a figure it would not be representative' {% cite govtSLU_Labour_2017 %}. Ultimately, even the president of the Bar Association of SLU, also confirmed that she was unaware of the departments of government bearing statistical data specific to lawyers.
+
+Saint Lucia's National Environmental Information System (NEIS)  has been one of the latest governmental attempts at collecting and organizing national data {% cite govtSLU_NEIS_2019 %}, {% cite govtSLU_NEIS %}, {% cite govtSLUdata %}. The 'Project Reporting System for Multilateral Environmental Agreement (MEA) Implementation and Environmental Information Management' has been regarded as a 'legal instrument with binding effects on countries that have agreed to become parties' {% cite govtSLU_NEIS %}. Saint Lucia's participation in this international agreement enhances global agreements and sustainable development projects moving forward. However, one current category that highlights the 'employed labor force by industry', is classified as having a low priority level.
+
+In terms of linguistics, the official language of Saint Lucia is British English {% cite unesco_2017 %}, and all public legal documents (including the constitution {% cite slu_1978 %} ) are in that language. Saint Lucia is a sovereign island nation in the Commonwealth of Nations, with a legal system that is a mix of civil and English common law, and Code Napoleon; its highest judicial body is the Privy Council of the United Kingdom {% cite oasSLU_LegalSys specialitysmith_2020 %}. 
+
+Saint Lucian lawyers are highly trained professionals that have a base requirement of English proficiency, however, the same is not required of Saint Lucian Kwéyòl (the heritage language of the island). In fact, as part of the admissions process, Caribbean law schools, such as the popular 'University of the West Indies Cave Hill' Barbados campus, require confirmation of English proficiency {% cite uwi_proficiency2021 %}. Proficiency in English is a fundamental base to legal studies at several institutions as the majority of classes are held in English {% cite uwi_ProficiencyTest2021 uwi2020 stetson_university %}.
+
+Ultimately, a need for additional data regarding lawyer demographics in Saint Lucia has been identified. Additionally, it is indeed this very lack of multilingual resources, for an increasingly multilingual public, that raises concerns about the current state of the legal representation in Saint Lucia. To address this need, while following social distancing protocols, online surveying was selected as the tool of data collection. Ultimately, such a survey can be applied to lawyers, teachers, nurses, or police officers - any profession that requires direct extended interaction with a citizen to provide a sense of safety and security.
+
+*The Saint Lucian digital environment and survey instruments:*
+
+Data collection via surveys is virtually challenging to conduct anywhere. However, in developing nations, limited access to various forms of infrastructure provides additional obstructions. One paper cited at least three major challenges to conducting surveys in the Caribbean {% cite tindigarukayo2001challenges %}. Firstly, it stated there were issues with meager sampling frames from which to select representative samples (especially when sampling noninstitutionalized populations). Secondly, administering various survey instruments was difficult; mailers were challenging due to unreliable postal systems, telephone interviews would be inherently biased due to limited access to telecommunication infrastructure and devices, and local pockets of crime made in-person interviews problematic. Thirdly, effectively surveying these areas of much inherent cultural and linguistic diversity would be challenging.
+
+However, difficulties in surveying the population may vary based on occupation, education level, and income level. Due to the nature of their jobs, lawyers are likely to have access to modern communication technologies. While many tasks may involve interacting with archives and records that may not be fully digitized, timely communication is crucial to their work. The recent implementation and utilization of the e-litigation system demonstrate their access and willingness to adapt to new forms of technology. Via online platforms and databases, lawyers can complete online filing of cases and document uploads from any internet-accessible device; the value of this system was highlighted during the pandemic. 
+
+Membership in the Saint Lucia Bar Association provides a central point of communication and information distribution to potential participants. Moreover, the current president of the association, Renee St. Rose, is said to have set a "transformative agenda"; one that welcomes the growth of the country's justice system, and the utilization of various available tools, including technology, to facilitate her goals {% cite morris_2019 %}.
+
+Overall, this work aims to gather general demographic data of lawyers and identify patterns of multilingual legal representation on the multilingual island of Saint Lucia. There will be a specific focus on the second most prevalent language - “Saint Lucian Kwéyòl”. Participant responses will be processed using textual analytical tools to provide insight into the legal environment that Saint Lucians, particularly Kwéyòl speakers, experience. 
+
+
+### Methodology: 
+
+The legal profession currently heavily uses internet-accessible communication devices provides an apt setting for digital surveys. Jotform.com was chosen to host this online survey as other generic online forms, such as Google Forms or Surveymonkey, had fewer customization offerings. 
+
+This demographic and linguistic research study has been approved by the Institutional Review Board (IRB) of Harrisburg University of Science and Technology (HU). This research study is led by Laurel Lord, a Ph. D. candidate in Data Science Department at HU. The faculty advisors for this study are Dr. Kayla Jordan, Assistant Professor of Social Analytics, and Mark Newman, Corporate Faculty of Analytics.
+
+This study is conducted in compliance with the standards and guidelines given by the HU IRB. The Collaborative Institution Training Initiative (CITI) Program has certified the researcher, Laurel Lord, for human-subject research.
+
+Each participant is asked to fill out an anonymous online survey to provide their basic demographic details, statements on their multilingual capacities, and statements on the current linguistic legal environment. The form contains twelve questions that each participant should be able to complete in less than twenty minutes.
+
+There is no compensation for participation as the president of the Saint Lucia Bar Association will facilitate its distribution within the organization. Moreover, since this is an internal survey, there will be no need for promotion via local news and radio station advertisements.
+
+Survey participation is voluntary, and individuals may choose not to participate if uncomfortable with answering any of the questions after signing the consent form; this can be done by withdrawing from the survey at any time without penalty. To withdraw, close the form window without hitting the "Submit" button.
+
+There is no anticipated risk to the participant in this research. All information will be protected, and the confidentiality of the data will be maintained throughout this research. All data collected will be saved in a standard hard drive for three years before deletion; non-identifiable data, and a report, will be submitted to the Bar Association of Saint Lucia and The Central Statistical Office of Saint Lucia. The data collected will be saved in a standard hard drive for three years; non-identifiable data, and a report, will be submitted to the Bar Association of Saint Lucia and The Central Statistical Office of Saint Lucia.
+
+Any questions may be directed to Laurel Lord at lalord@my.harrisburgu.edu. Questions or concerns regarding your rights as a subject in this study may be directed to HU IRB via 717-901-5100 or their website at harrisburgu.edu/irb.
+
+*Question Design:*
+
+Demographic questions included questions on Age, Gender (with the option to self-describe), Ethnicity/Race (with the option to self-describe), and Highest Level of Education as those may add additional context to one's linguistic background; the list of Ethnicity/Race options was inspired by historical settlement data specific to the region, as well as recent immigration data {% cite pm_slu_citizenship_2015 imi_team_2021 slu_cip_2020 %}. An enquiry is also made about one's Citizenship, as this may give additional details as to whether locals or foreign nationals are more likely to be exposed to diverse linguistic backgrounds that benefit the legal field. 
+
+Questions into the number of years one has been a practicing professional, areas of practice, and current working environment may reflect one's experiences and one's likelihood of exposure to multilingual situations; annual income questions may speak to possible future incentives for utilising or acquiring additional language skills. Inquiring into the locations of one's operations may not be suitable here as persons of this profession may operate island-wide.
+
+Linguistic questions enquired into participant awareness of non-English language assistance programmes in their work environment, if multilinguals' skills were ever a useful asset, and if they perceived language barriers while executing their required tasks; it is hoped that such data could lead to improved training on currently available resources, or inspire improved resource allocation towards language needs.
+
+Like the list of Ethnicity/Race options, language list options were inspired by historical settlement data specific to the region, and recent immigration and tourism data {% cite pm_slu_citizenship_2015 imi_team_2021 slu_cip_2020 %}. Options were included for survey participants that may have encountered various forms of sign language, languages that were not represented within the scope of the survey, and languages that they could not readily identify ('unrecognised languages').
+
+Additionally, linguistic questions focused on gathering details on one's first language, and if they spoke additional languages. There was also a focus on the frequency with which one encountered various languages; this was an attempt to see if the current language environment truly reflected historical settlement, immigration, and tourism data. It is hoped that the information gathered from these questions may better enable the resource allocation to the language needs of works and the clients they serve.
+
+May attempt using the Chi-square test of independence for the following survey questions.
+
+
+*Survey question design*
+
+[Online Survey of Saint Lucian Lawyers](https://form.jotform.com/203134599286160).
+
+*1. Please indicate which of the following best describe (s) you.*
+ 
+
+*Age:*
+
+Less than 18
+
+18-24
+
+25-29
+
+30-34
+
+35-39
+
+40-44
+
+45-49
+
+50-54
+
+55-59
+
+60-64
+
+65-69
+
+70-74
+
+75 or older
+
+Prefer not to respond
+
+All of the items of this four part-question are mandatory as they serve as the base of demographic details. The age range (multiple choice) was based on the ABA data that indicates lawyers typically obtain higher education levels beyond high school and remain in practice past the age of 65 {% cite gaille_2017 %}; the median age of all U.S. workers was 42.3 years old, yet very few lawyers are younger than 25 and the median age for U.S. lawyers in 2019 was 47.5 years old. This question is a standard demographic question; it speaks to the current and future state of the legal linguistic environment. The generalizing effect of age range use is intentional. Requiring one's date of birth and other precise personal details may cause hesitation in a culture that is still aware of and practices {% cite haines_1972 %}.
+
+Noting age may highlight multilingualism trends among age groups. For example, if multilingualism is more prominent in the younger lawyers, then multilingual representation may have a positive projection. However, if multilingual tendencies cluster among older lawyers, this study may highlight the need to improve the legal system in an increasingly multilingual society. 
+
+
+*Gender:*
+
+Man
+
+Woman
+
+Prefer not to respond
+
+Prefer to self-describe (1. Self-describe gender:)
+
+ 
+Gender identification is another standard (multiple choice) demographic question; to be more inclusive, 'Prefer to self-describe' was added. This question is valuable to gather this data to check whether the August 2020 American trend of men outnumbering women (especially in leadership), is replicated in and persistent in the Caribbean country of Saint Lucia {%cite ABA2020Profile clio_2020 AttorneyAtWork_2019 %}. There may also be a need to highlight if there are any differences in linguistics interests among the lawyers. Females are often believed to be more capable of and interested in linguistic acquisition and practice. Data gathered could confirm or dispute this assumption.
+ 
+
+*Citizenship:*
+
+By birth (birthplace of Saint Lucia)
+
+By birth (parents)
+
+By birth (other)
+
+By naturalisation (ordinary)
+
+By registration (citizenship by investment)
+
+By registration (adoption, marriage, parental legacy, residency status, 
+administrative discretion)
+
+Non-citizen (OECS national)
+
+Non-citizen (other)
+
+Prefer not to respond
+ 
+Citizenship status might indicate a history or lineage of commitment to, and familiarity with, the culture, language, people, and overall development of the country {% cite belton2020comparative hansen1999politics %}. At the very least it may indicate a legal tie to a lawyer's practice environment. OECS agreements grant all OECS nationals the right to move, find employment, and access services (including education and healthcare) in the same way nationals of the relevant country do;  this allows for ease of employment of regional professionals {% cite oecs_faq_2020 refugees_refworld_2017 iom_free_2020 james_brathwaite_2021 %}. This, therefore, increases the likelihood of increased language diversity at legal firms, and an increased likelihood of different first languages.
+
+
+*Ethnicity/Race*
+
+Black (African, Afro-Caribbean, etc.)
+
+White/ North European (English, French, German, Irish, Polish, etc.)
+
+Amerindian (Arawak/ Taino, Carib, etc.)
+
+American Indian/ Alaska Native (Aztec, Mayan, Navajo Nation, etc.)
+
+East Asian (Chinese, Japanese, Korean, Taiwanese, Tibetan, etc.)
+
+Hispanic/ Latino/ Spanish Origin (Cuban, Puerto Rican, Mexican, Central/ 
+South American, etc.)
+
+Indian Subcontinent/ South Asia (Afghan, Bangladeshi, Indian, Jordanian, 
+Pakistani, Sri Lankan, etc.)
+
+Middle Eastern/ North African (Algerian, Bahraini, Lebanese, Arab, 
+Moroccan, Syrian, Yemeni, etc.)
+
+Native Hawaiian/ Other Pacific Islander (Native Hawaiian, Samoan, 
+Chamorro, Fijian, Tongan, Marshallese, etc.)
+
+Southeast Asian (Burmese, Filipino, Indonesian, Laotian, Malaysian, 
+Singaporean, Thai, Vietnamese, etc.)
+
+Mixed Parentage (two or more races)
+
+Not known
+
+Some other race, ethnicity, or origin (self-describe) (1. Self-describe ethnicity/race:)
+
+Prefer not to respond
+
+ While the ABA noted that "most state bars and state licensing agencies do not track race and ethnicity in the profession", in 2020, this type of data collection increased {%cite ABA2020Profile %}, {% cite clio_2020 %}, {% cite AttorneyAtWork_2019 %}. The 2010 data was able to reveal that 11.4% of all American lawyers were men and women of color, and this only rose to 14.1% in 2020 {%cite ABA2020Profile %}, {% cite clio_2020 %}, {% cite AttorneyAtWork_2019 %}. In developed countries, like America, it is said that minorities remain underrepresented in the legal profession; however, there is limited information on the legal environment of the Caribbean-an environment where the majority of the population would historically be non-white. As of the 2010 Saint Lucian census, the "ethnic group" of "African Descents" represented about 85.28 percent of the population (the highest); this was distantly followed by the "Mixed" category with 10.85 percent, and the "East Indian" at 2.16 percent {% cite CSO_SLU2010 %}.
+
+Additionally, household settings and upbringing may shape or influence individual interests. Multiculturalism is quite prevalent in the Caribbean, and that upbringing might impact multilingual abilities. While formal education may be a primary factor in language acquisition, various states of immigration over generations, or other forms of diversity in their household, might influence their linguistic capacities. Identifying participant ethnicity/race is another standard demographic inquiry; nevertheless, it explores whether or not there are any differences in linguistics interests among the lawyers based on their backgrounds. 
+ 
+
+*2. Please indicate the number of years you have been in practise (number of years since your first call to the bar in the Common-Wealth etc.)*
+ 
+Less than 1
+    
+1-5
+ 
+6-10
+ 
+11-15
+ 
+16-20
+ 
+21-25
+ 
+26-30
+ 
+31 or more
+ 
+This question item confirms standard demographic information collected from ABA. It may also have language implications, as details could one's career length align with their exposure to varied languages. The longer one practices in this field, the more opportunities one may have to interact with a diverse clientele.
+
+
+*3. Please indicate your area(s) of practise; please check all that apply.*
+ 
+Administrative Law
+ 
+Alternative Dispute Resolution (ADR)
+ 
+Banking and Finance Law
+ 
+Citizenship by Investment
+ 
+Commercial Law
+ 
+Constitutional Law
+ 
+Construction Law
+ 
+Contract Law
+ 
+Corporate Law (including Corporate Finance and Insolvency Law)
+ 
+Criminal Law
+ 
+Employment Law
+ 
+Environmental Law
+ 
+Equity and Trusts/ Equitable Remedies 
+ 
+EU Law
+ 
+Family Law
+ 
+Human Rights Law/ Commonwealth Caribbean Human Rights Law
+ 
+Industrial Relations/Trade Unions
+ 
+Insurance Law
+ 
+Intellectual Property (IP) Law
+ 
+Land Law
+ 
+Litigation
+ 
+Media Law
+ 
+Private Client Law
+ 
+Property Law/ Law of Real Property 
+ 
+Public/ International Law
+ 
+Shipping Law
+ 
+Sports Law
+ 
+Tax/ Revenue Law
+ 
+Teaching Law (including Jurisprudence, International Mooting, etc.)
+ 
+Tort Law
+ 
+Other
+
+An additional means of narrowing down the underlying multilinguistic tendencies in this field involves inquiring into the specialization areas of lawyers. This focus will highlight which practices may be associated with a need to speak multiple languages; more specifically, which law topics are likely to require an understanding of the Saint Lucian Kwéyòl language. Saint Lucia is a sovereign island nation in the Commonwealth of Nations but, because Saint Lucia was both a French and English colony before it gained independence on the 22nd of February, 1979, the legal system has been a mix of civil and English common law {% cite specialitysmith_2020 %}. Options for this list were developed from course offerings at Caribbean law schools {% cite uwi2020 stetson_university %}.
+
+
+*4. Please indicate the option(s) that best describes your current working environment; please check all that apply.*
+ 
+In private practice, in a firm with less than 5 lawyers
+ 
+In private practice, in a firm with 5-15 lawyers
+ 
+In private practice, in a firm with 16-25 lawyers
+ 
+In private practice, in a firm with 26-50 lawyers
+ 
+In private practice, in a firm with 51 or more lawyers
+ 
+Public service (work with government agencies and officials, etc.)
+ 
+Public interest (legal aid, legal services, public defender, etc.)
+ 
+ In a not-for-profit organisation
+ 
+In an academic institution
+
+Other
+
+Lawyers may choose different working environments. Such a choice would influence the type of clientele typically encountered. Inquiring into Saint Lucian lawyer work environments can provide additional insight into the language needs within the legal system. 
+
+
+*5. Please indicate your average annual income.*
+ 
+Below 36,000 XCD
+ 
+36,001 XCD - 46,000 XCD
+ 
+46,001 XCD - 56,000 XCD
+ 
+56,001 XCD - 66,000 XCD
+ 
+66,001 XCD - 76,000 XCD
+ 
+76,001 XCD - 86, 000 XCD
+ 
+86,001 XCD - 96, 000 XCD
+ 
+96,001 XCD - 106, 000 XCD
+ 
+Above 106,001 XCD
+ 
+ There could be an argument for the economic reinforcement of certain linguistic standards based on what a lawyer earns. It may be interesting to note if a multilingual can request and acquire more money due to their linguistic abilities. The Average Attorney Salary of a lawyer located in the sister island country of Dominica is around 2,950 XCD per month {% cite DOMsalary %}. Salaries there range from 1,360 XCD (lowest) to 4,680 XCD (highest). Yet, according to salaryexplorer.com, a Saint Lucian  Attorney typically earns around 5,500 XCD per month;  this is with salaries ranging from 2,530 XCD (lowest) to 8,750 XCD (highest). The minimum wage rate in Saint Lucia last changed at the beginning of 2013, yet it currently stands at XCD 300 a month for office clerks, XCD 200 for shop assistants, and XCD 160 for messengers, according to minimum-wage.org {% cite SLU2020wages %}.
+ 
+
+*6. Please indicate if your workplace directly offers clients any formal non-English language assistance programmes.*
+ 
+Yes, an internal service is available to clients.
+ 
+No, an external service would be recommended (for example, a court-appointed interpreter).
+ 
+Prefer not to respond.
+ 
+This question would confirm the presence of legal aid in Saint Lucia. It would simultaneously note general lawyer awareness of the availability of such services.
+
+*7. Please indicate if a perceived language barrier has ever limited any of your attorney-client interactions.*
+
+Yes
+
+No
+
+*7b. If 'yes', please indicate the language they used; please select all that apply.*
+
+English
+
+Saint Lucian Creole (Kwéyòl, Patois, Patwa)
+
+French
+
+Guadeloupean Creole
+
+Haitian Creole
+
+Spanish 
+
+Portuguese (or any Romance language not mentioned)
+
+Papiamento
+
+Amerindian (including Arawakan, Cariban, etc.) 
+
+Arabic (or any Afro-Asiatic language not mentioned) 
+
+Dutch (including Afrikaans)
+
+Hindi (or any Indo-Iranian/ Dravidian language not mentioned)
+
+German (or any West Germanic language not mentioned)
+
+Greek (or any Hellenic/ Armenian/ Albanian language not mentioned)
+
+Indonesian (or any Austronesian/ Austroasiatic/ Kra-Dai language not 
+mentioned)
+
+Irish (or any Celtic language not mentioned)
+
+Japanese
+
+Korean
+
+Mandarin Chinese (or any Sino-Tibetan language not mentioned)
+
+Russian (Armenian or any Balto-Slavic language not mentioned)
+
+Swahili (or any Niger-Congo/ African language not mentioned)
+
+Swedish (or any North Germanic/ Uralic language not mentioned)
+
+Turkish (or any Turkic/ Altaic language not mentioned)
+
+Any form of sign language
+
+Another language not represented 
+
+Unrecognised language(s)
+
+This question seeks to explore the personal linguistic limitations of lawyers in a multilingual environment. It may reinforce the perceived need for lawyers to acquire additional languages. 
+
+
+*8a. Please indicate the language you use most often to communicate and your proficiency. Note: Selecting only "listen (understand)" encompasses scenarios where one can comprehend but not converse in a language. (Very well, Well, Not well, Not at all, Not applicable)*
+
+English
+
+Saint Lucian Creole (Kwéyòl, Patois, Patwa)
+
+French
+
+Guadeloupean Creole
+
+Haitian Creole
+
+Spanish 
+
+Portuguese (or any Romance language not mentioned)
+
+Papiamento
+
+Amerindian (including Arawakan, Cariban, etc.) 
+
+Arabic (or any Afro-Asiatic language not mentioned) 
+
+Dutch (including Afrikaans)
+
+Hindi (or any Indo-Iranian/ Dravidian language not mentioned)
+
+German (or any West Germanic language not mentioned)
+
+Greek (or any Hellenic/ Armenian/ Albanian language not mentioned)
+
+Indonesian (or any Austronesian/ Austroasiatic/ Kra-Dai language not 
+mentioned)
+
+Irish (or any Celtic language not mentioned)
+
+Japanese
+
+Korean
+
+Mandarin Chinese (or any Sino-Tibetan language not mentioned)
+
+Russian (Armenian or any Balto-Slavic language not mentioned)
+
+Swahili (or any Niger-Congo/ African language not mentioned)
+
+Swedish (or any North Germanic/ Uralic language not mentioned)
+
+Turkish (or any Turkic/ Altaic language not mentioned)
+
+Any form of sign language
+
+Another language not represented (Please manually list language(s):)
+ 
+*8b. Please indicate which technique best describes how you came to learn the aforementioned language; please select all that apply.*
+
+First Language [Formal education (requirement/elective);  Informal education (hobby); Informal education (family & friends)]
+ 
+The first half of this question is one of the most crucial to this study. Saint Lucia is an actively changing multilingual environment. The setting is dynamically developing due to evolving political and legal policies (such as Citizenship by Investment (CIP) {% cite bayat_2020 gis_CIP_2017 slu_cip_2020 capital_CIP_2020 harvey_2020 investvisa_2016 %}. English is listed as it is the official language spoken (a prestige language) in Saint Lucia. Apart from modern English, legal (and medical) professionals can claim to be multilingual based on their foundational Latin studies; noting this detail acknowledges this inherent field facet. Saint Lucian Kwéyòl (Antillean Creole/ Patois) is inquired about, as it is the heritage language of the island. French and Spanish are listed as they are typical language offerings at all high schools on the island. Dutch, and Portuguese, and to a lesser extent Arabic, Hindi, and Gaelige/Irish are other common languages to the rest of the Caribbean due to colonialization, indentured labor, and the ease of immigration among Caribbean islands. Japanese has been taught in Saint Lucia by humanitarian volunteers as part of their Japan International Cooperation Agency (JICA) work {% cite kobayashi_2020 %}. There also appears to be a rapidly growing Mandarin-speaking population in the Caribbean. It is important to ensure that the legal system can support the increasing numbers of Mandarin-speaking immigrants of various backgrounds (including investors, tourists, CIP purchasers, and foreign officials (for various joint government projects).
+
+Selecting only 'listen (understand)' encompasses scenarios where one can comprehend but not converse in a language. The column category "understand" was added to account for the possible occurrence of receptive bilingualism among lawyers in the Caribbean [% cite sherkina2020classification %}. This consideration is valid as multilingualism is prevalent in this region. Persons here may encounter various languages yet be unable to respond effectively. The presence of a "prestige" language, such as English, may draw speakers away from heritage languages. These heritage languages can suffer from dropping numbers of speakers when receptive bilingualism is left undeveloped. 
+
+The second half of this question is related to exploring where and how one engages in language learning and might highlight environments that foster multilingualism in lawyers. The learning of languages may take place in formal and informal settings. In Saint Lucia, most language education is likely to be done in a school setting. Overall, Saint Lucian Kwéyòl, a national heritage language, would typically be learned informally. Formal education of this language only recently began with young children (between the ages of 6-12) in less than a handful of schools and adult learners; however, since the major fire at the National Folk Resource Center, most classes have reverted to more private sessions. Renewed attention to the national language policy has redirected efforts to formal education of the language. However, enforcement of this policy appears to be challenging.
+
+
+*9. Please indicate any additional languages you use to communicate and your proficiency. Note: Selecting only "listen (understand)" encompasses scenarios where one can comprehend but not converse in a language. (Very well, Well, Not well, Not at all, Not applicable)*
+
+[Second Language (2nd most often used at home & elsewhere)]
+
+[Third Language (3rd most often used at home & elsewhere)]
+
+I do not speak additional languages
+
+I do not speak a third language
+	 
+English
+
+Saint Lucian Creole (Kwéyòl, Patois, Patwa)
+
+French
+
+Guadeloupean Creole
+ 
+Haitian Creole
+	 
+Spanish 
+	 
+Portuguese (or any Romance language not mentioned)
+	 
+Papiamento
+	 
+Amerindian (including Arawakan, Cariban, etc.) 
+	 
+Arabic (or any Afro-Asiatic language not mentioned) 
+	 
+Dutch (including Afrikaans)
+	 
+Hindi (or any Indo-Iranian/ Dravidian language not mentioned)
+	 
+German (or any West Germanic language not mentioned)
+
+Greek (or any Hellenic/ Armenian/ Albanian language not mentioned)
+
+Indonesian (or any Austronesian/ Austroasiatic/ Kra-Dai language not mentioned)
+
+Irish (or any Celtic language not mentioned)
+	 
+Japanese
+	 
+Korean
+	 
+Mandarin Chinese (or any Sino-Tibetan language not mentioned)
+	 
+Russian (Armenian or any Balto-Slavic language not mentioned)
+	 
+Swahili (or any Niger-Congo/ African language not mentioned)
+	 
+Swedish (or any North Germanic/ Uralic language not mentioned)
+	 
+Turkish (or any Turkic/ Altaic language not mentioned)
+	 
+Any form of sign language
+
+Another language not represented 
+	 
+ 
+*9b. Please indicate which technique best describes how you came to learn each of the aforementioned languages; please select all that apply.*
+
+Second Language 
+
+[Formal education (requirement/elective);  Informal education (hobby); Informal education (family & friends)]
+
+Third Language 
+
+[Formal education (requirement/elective);  Informal education (hobby); Informal education (family & friends)]
+
+
+The first and second parts of this question are related to the previous question on language acquisition environments. However, these questions delve deeper into the presence of multilinguals in this profession, rather than the prior question's focus on identifying the details of one's primary language. The parameters of the prior question are used here, yet answering is optional. Only two additional options were made available as a means confirming or disproving whether Saint Lucian creole is indeed the second most dominant language in the country. Note, using conditional logic question 11b is hidden until options are selected in 11. If "I do not speak a second language" is selected, 11b becomes hidden. Additionally, if "Another language not represented" is selected, an option to manually enter a value for the unrepresented language will be revealed ('Please manually list language(s):").
+
+*9c. If you do speak more than one language, please indicate if your multilingual skill was ever a useful asset to representing a client.*
+
+Yes
+
+No
+
+
+This question seeks to understand the current and future demand for multilingualism in lawyering, based on past lawyering experiences. These details may reveal sufficiencies as well as insufficiencies concerning the adequate legal representation of  Saint Lucian clients. Saint Lucia is a multilingual country, and a lawyer with multiple languages may stand a better chance of not only attracting a diverse and numerous clientele base; reduced language barriers would allow lawyers to better relay facts, arguments, and sentiments of clients with diverse backgrounds.
+
+
+*10. Please indicate how often you encounter each of the following languages during typical client interactions. This question requires one response per row.*
+  	 
+
+English
+
+Saint Lucian Creole (Kwéyòl, Patois, Patwa)
+
+French
+
+Guadeloupean Creole
+ 
+Haitian Creole
+	 
+Spanish 
+	 
+Portuguese (or any Romance language not mentioned)
+	 
+Papiamento
+	 
+Amerindian (including Arawakan, Cariban, etc.) 
+	 
+Arabic (or any Afro-Asiatic language not mentioned) 
+	 
+Dutch (including Afrikaans)
+	 
+Hindi (or any Indo-Iranian/ Dravidian language not mentioned)
+	 
+ 
+*(Continued)10. Please indicate how often you encounter each of the following languages during typical client interactions. This question requires one response per row.*
+
+German (or any West Germanic language not mentioned)
+
+Greek (or any Hellenic/ Armenian/ Albanian language not mentioned)
+
+Indonesian (or any Austronesian/ Austroasiatic/ Kra-Dai language not mentioned)
+
+Irish (or any Celtic language not mentioned)
+	 
+Japanese
+	 
+Korean
+	 
+Mandarin Chinese (or any Sino-Tibetan language not mentioned)
+	 
+Russian (Armenian or any Balto-Slavic language not mentioned)
+	 
+Swahili (or any Niger-Congo/ African language not mentioned)
+	 
+Swedish (or any North Germanic/ Uralic language not mentioned)
+	 
+Turkish (or any Turkic/ Altaic language not mentioned)
+	 
+Any form of sign language
+	 
+Unrecognised language(s)
+ 
+One's first language is not guaranteed to be what one will encounter when interacting with clients. It will be interesting to note where the client and lawyer languages overlap and where they do not. Answering is not optional as this information is crucial to the survey.
+
+
+### References:
+
+
+{% bibliography --cited %}
+
+{% include JB/setup %}
