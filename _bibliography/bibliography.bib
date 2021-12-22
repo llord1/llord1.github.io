@@ -2,6 +2,189 @@
 ---
 References
 ==========
+@inproceedings{list_open_2013,
+	address = {Sofia, Bulgaria},
+	title = {An {Open} {Source} {Toolkit} for {Quantitative} {Historical} {Linguistics}},
+	url = {https://aclanthology.org/P13-4003},
+	booktitle = {Proceedings of the 51st {Annual} {Meeting} of the {Association} for {Computational} {Linguistics}: {System} {Demonstrations}},
+	publisher = {Association for Computational Linguistics},
+	author = {List, Johann-Mattis and Moran, Steven},
+	month = {Aug},
+	year = {2013},
+	pages = {13--18}
+}
+
+@article{list_open_2019,
+	title = {Open problems in computational diversity linguistics},
+	url = {https://hcommons.org/deposits/item/hc:25097/},
+	abstract = {Despite a period of almost two decades in which quantitative approaches in historical linguistics have been increasingly used, gaining constantly more popularity even among predominantly qualitatively oriented linguists, we find many problems in the field of computational historical linguistics, which have only sporadically been addressed. In the talk, I will present a previously published list of 10 problems I personally deem important for historical linguistics, quickly explaining why I think that these problems are not solved yet, why they are hard to solve, but why I have confidence that they might be solved in the nearer or farer future.  I will then present a computer-assisted framework for the development of problem-solving strategies in computational historical linguistics. The core of the framework is its interdisciplinary perspective, which helps to adapt existing solutions to similar problems in other disciplines to the problems in historical linguistics, while at the same time relying on a rigorous formalization and inspection of existing strategies in the "classical", qualitative approaches to historical language comparison. In contrast to the now very popular machine-learning approaches, which are widely applied to many problems in general and comparative linguistics, the framework is furthermore open with respect to the strategies which are used to solve a given problem, and it generally prefers explicit solutions (if they are available) over black-box strategies, as they are preferred in standard machine-learning frameworks.  I will then pick four specific problems (automated morpheme detection, automated borrowing detection, automated induction of sound laws, and automated phonological reconstruction), and present initial strategies for their computer-assisted solution.},
+	language = {en-US},
+	author = {List, Johann-Mattis},
+	month = {Jul},
+	year = {2019}
+}
+
+
+@article{jager_model_2019,
+	title = {Model evaluation in computational historical linguistics},
+	volume = {45},
+	issn = {1613-4060},
+	url = {https://www.degruyter.com/document/doi/10.1515/tl-2019-0020/html},
+	doi = {10.1515/tl-2019-0020},
+	abstract = {This is a reply to the comments by Hammarström et al. (This volume) and List (This volume) on the target article Computational Historical Linguistics (This volume). There I proposed several methodological principles for research in Computational Historical Linguistics pertaining to suitable techniques for model fitting and model evaluation. Hammarström et al. debate the usefulness of these principles, and List proposes a novel evaluation measure specifically aimed at the task of proto-form reconstruction. This reply will focus on the role of model evaluation in our field.},
+	language = {en},
+	number = {3-4},
+	journal = {Theoretical Linguistics},
+	author = {Jäger, Gerhard},
+	month = {Oct},
+	year = {2019},
+	pages = {299--307}
+}
+
+@article{list_sequence_2018,
+	title = {Sequence comparison in computational historical linguistics},
+	volume = {3},
+	issn = {2058-458X},
+	url = {https://doi.org/10.1093/jole/lzy006},
+	doi = {10.1093/jole/lzy006},
+	abstract = {With increasing amounts of digitally available data from all over the world, manual annotation of cognates in multi-lingual word lists becomes more and more time-consuming in historical linguistics. Using available software packages to pre-process the data prior to manual analysis can drastically speed-up the process of cognate detection. Furthermore, it allows us to get a quick overview on data which have not yet been intensively studied by experts. LingPy is a Python library which provides a large arsenal of routines for sequence comparison in historical linguistics. With LingPy, linguists can not only automatically search for cognates in lexical data, but they can also align the automatically identified words, and output them in various forms, which aim at facilitating manual inspection. In this tutorial, we will briefly introduce the basic concepts behind the algorithms employed by LingPy and then illustrate in concrete workflows how automatic sequence comparison can be applied to multi-lingual word lists. The goal is to provide the readers with all information they need to (1) carry out cognate detection and alignment analyses in LingPy, (2) select the appropriate algorithms for the appropriate task, (3) evaluate how well automatic cognate detection algorithms perform compared to experts, and (4) export their data into various formats useful for additional analyses or data sharing. While basic knowledge of the Python language is useful for all analyses, our tutorial is structured in such a way that scholars with basic knowledge of computing can follow through all steps as well.},
+	number = {2},
+	journal = {Journal of Language Evolution},
+	author = {List, Johann-Mattis and Walworth, Mary and Greenhill, Simon J and Tresoldi, Tiago and Forkel, Robert},
+	month = {Jul},
+	year = {2018},
+	pages = {130--144}
+}
+
+@article{jager_computational_2019,
+	title = {Computational historical linguistics},
+	volume = {45},
+	issn = {1613-4060},
+	url = {https://www.degruyter.com/document/doi/10.1515/tl-2019-0011/html},
+	doi = {10.1515/tl-2019-0011},
+	abstract = {Computational approaches to historical linguistics have been proposed for half a century. Within the last decade, this line of research has received a major boost, owing both to the transfer of ideas and software from computational biology and to the release of several large electronic data resources suitable for systematic comparative work. In this article, some of the central research topics of this new wave of computational historical linguistics are introduced and discussed. These are automatic assessment of genetic relatedness , automatic cognate detection , phylogenetic inference and ancestral state reconstruction . They will be demonstrated by means of a case study of automatically reconstructing a Proto-Romance word list from lexical data of 50 modern Romance languages and dialects. The results illustrate both the strengths and the weaknesses of the current state of the art of automating the comparative method.},
+	language = {en},
+	number = {3-4},
+	journal = {Theoretical Linguistics},
+	author = {Jäger, Gerhard},
+	month = {Oct},
+	year = {2019},
+	keywords = {comparative method, historical linguistics, phylogenetic inference},
+	pages = {151--182}
+}
+
+@article{steiner_pipeline_2011,
+	title = {A {Pipeline} for {Computational} {Historical} {Linguistics}},
+	volume = {1},
+	issn = {2210-5832, 2210-5824},
+	url = {https://brill.com/view/journals/ldc/1/1/article-p89_4.xml},
+	doi = {10.1163/221058211X570358},
+	abstract = {Abstract There are many parallels between historical linguistics and molecular phylogenetics. In this paper we describe an algorithmic pipeline that mimics, as closely as possible, the traditional workflow of language reconstruction known as the comparative method. The pipeline consists of suitably modified algorithms based on recent research in bioinformatics, which are adapted to the specifics of linguistic data. This approach can alleviate much of the laborious research needed to establish proof of historical relationships between languages. Equally important to our proposal is that each step in the workflow of the comparative method is implemented independently, so language specialists have the possibility to scrutinize intermediate results. We have used our pipeline to investigate two groups of languages, the Tsezic languages of the Caucasus and the Mataco-Guaicuruan languages of South America, based on the lexical data from the Intercontinental Dictionary Series (IDS). The results of these tests show that the current approach is a viable and useful extension to historical linguistic research.},
+	language = {en},
+	number = {1},
+	journal = {Language Dynamics and Change},
+	author = {Steiner, Lydia and Cysouw, Michael and Stadler, Peter},
+	month = {Jan},
+	year = {2011},
+	keywords = {COGNATES, COMPARATIVE METHOD, MATACO-GUAICURUAN LANGUAGES, RECONSTRUCTION, TSEZIC LANGUAGES},
+	pages = {89--127}
+}
+
+
+@article{muhlhausler_etymology_1982,
+	title = {Etymology and {Pidgin} and {Creole} {Languages}},
+	volume = {80},
+	issn = {1467-968X},
+	url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-968X.1982.tb01196.x},
+	doi = {10.1111/j.1467-968X.1982.tb01196.x},
+	language = {en},
+	number = {1},
+	journal = {Transactions of the Philological Society},
+	author = {Mühlhäusler, Peter},
+	year = {1982},
+	pages = {99--118}
+}
+
+@inproceedings{nastase_bridging_2013,
+	address = {Sofia, Bulgaria},
+	title = {Bridging {Languages} through {Etymology}: {The} case of cross language text categorization},
+	shorttitle = {Bridging {Languages} through {Etymology}},
+	url = {https://aclanthology.org/P13-1064},
+	booktitle = {Proceedings of the 51st {Annual} {Meeting} of the {Association} for {Computational} {Linguistics} ({Volume} 1: {Long} {Papers})},
+	publisher = {Association for Computational Linguistics},
+	author = {Nastase, Vivi and Strapparava, Carlo},
+	month = {Aug},
+	year = {2013},
+	pages = {651--659}
+}
+
+@inproceedings{nastase_word_2017,
+	address = {Copenhagen, Denmark},
+	title = {Word {Etymology} as {Native} {Language} {Interference}},
+	url = {https://aclanthology.org/D17-1286},
+	doi = {10.18653/v1/D17-1286},
+	abstract = {We present experiments that show the influence of native language on lexical choice when producing text in another language – in this particular case English. We start from the premise that non-native English speakers will choose lexical items that are close to words in their native language. This leads us to an etymology-based representation of documents written by people whose mother tongue is an Indo-European language. Based on this representation we grow a language family tree, that matches closely the Indo-European language tree.},
+	booktitle = {Proceedings of the 2017 {Conference} on {Empirical} {Methods} in {Natural} {Language} {Processing}},
+	publisher = {Association for Computational Linguistics},
+	author = {Nastase, Vivi and Strapparava, Carlo},
+	month = {Sep},
+	year = {2017},
+	pages = {2702--2707}
+}
+
+
+@article{klein_representation_2001,
+	title = {The {Representation} of {Polysemous} {Words}},
+	volume = {45},
+	issn = {0749-596X},
+	url = {https://www.sciencedirect.com/science/article/pii/S0749596X01927792},
+	doi = {10.1006/jmla.2001.2779},
+	abstract = {Words that have a number of related senses are polysemous. For example, paper refers to both a substance and a publication printed on that substance. Five experiments investigated whether different senses are represented distinctly in the lexicon or if there is a common, core meaning. In all experiments, a polysemous word was used twice, in phrases that selected the same or different senses. Experiment 1 showed that sense consistency aided memory for the polysemous word. Experiment 2 extended this result to a timed sensicality judgment task. Experiment 3 demonstrated that the effects for polysemous words were very similar to those for homonyms. Experiment 4 ruled out the possibility of modifier-modifier priming. Experiment 5 showed that sense consistency facilitates comprehension relative to a neutral baseline, while sense inconsistency inhibits comprehension. These experiments provide evidence that polysemous words have separate representations for each sense and that any core meaning is minimal.},
+	language = {en},
+	number = {2},
+	journal = {Journal of Memory and Language},
+	author = {Klein, Devorah E. and Murphy, Gregory L.},
+	month = {Aug},
+	year = {2001},
+	keywords = {ambiguity., lexical semantics, polysemy, psycholinguistics},
+	pages = {259--282}
+}
+
+
+@article{arawak_populations1977,
+	title={LES POPULATIONS AMERINDIENNES},
+	author={Grenand, Françoise and Grenand, Pierre},
+	url = {https://horizon.documentation.ird.fr/exl-doc/pleins_textes/divers17-01/42162.pdf},
+	year = {1977}
+}
+
+@article{valdman_creole_1978,
+	title = {Le créole : structure, statut et origine},
+	volume = {8},
+	copyright = {free},
+	shorttitle = {Le créole},
+	url = {https://www.persee.fr/doc/ierii_1764-8319_1978_mon_8_1},
+	language = {fre},
+	number = {1},
+	journal = {Collection IDERIC},
+	author = {Valdman, Albert},
+	year = {1978}
+}
+
+
+@article{valdman_creole_1969,
+	title = {Créole et français aux {Antilles}},
+	volume = {7},
+	copyright = {free},
+	url = {https://www.persee.fr/doc/oeide_0549-1533_1969_act_7_1_850},
+	language = {fre},
+	number = {1},
+	journal = {Collection IDERIC},
+	author = {Valdman, Albert},
+	year = {1969},
+	pages = {13--27}
+}
+
 @incollection{govain_haiti_2021,
 	title = {Haïti et les pratiques linguistiques dans la {Caraïbe} : vers l'établissement d'une créolophonie caribéenne intégrative},
 	isbn = {9789997059628},
